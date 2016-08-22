@@ -125,7 +125,7 @@ def process_dir(dir, output_file):
     """
     Processes all the xmls in dir and its sub-directories.
     """
-    eng = CHILDESCorpusReader(dir, '*.xml')
+    eng = CHILDESCorpusReader(dir, '.*.xml')
     f = open(output_file, 'w')
     for fileid in eng.fileids():
         for ind, morph_dep in enumerate(eng.morph_deps(fileid, speakers='is_adult')):
