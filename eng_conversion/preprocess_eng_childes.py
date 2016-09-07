@@ -104,7 +104,7 @@ def to_conll(morphdep, debug=False):
             output.append([index + offset, sub_words[0], sub_words[0], 'n', 'n', '_', \
                            word[3], word[4], '_', '_'])
             for c, w in enumerate(sub_words[1:]):
-                output.append([index + offset + c + 1, w, w, 'n', 'n', '_', index + offset, 'nmod', '_', '_'])
+                output.append([index + offset + c + 1, w, w, 'n', 'n', '_', index + offset, 'compound', '_', '_'])
             added_indices.append((index + offset, len(sub_words) - 1, 0))
             offset += len(sub_words) - 1
         elif '_' in word[0]:  # MWE
