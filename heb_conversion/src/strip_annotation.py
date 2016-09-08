@@ -5,12 +5,11 @@ if len(sys.argv) != 2:
     sys.exit(-1)
 
 f = open(sys.argv[1])
-for otype,sent in utils.read_sents_from_file(f):
+for t,sent in utils.read_sents_from_file(f):
     if otype == 'SENT':
         print(sent.str_strip()+'\n')
     else:
         print(sent)
-        
 f.close()
 
 

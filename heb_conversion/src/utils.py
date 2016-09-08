@@ -41,13 +41,15 @@ def read_sents_from_file(f):
     for line in f:
         line = line.strip()
         if line == "":
-            yield 'SENT', Sentence(sent)
-            sent = []
+            if sent != []:
+                yield 'SENT', Sentence(sent)
+                sent = []
         elif line.startswith('#'):
             yield 'COMMENT', line
         else:
             sent.append(line)
-    yield 'SENT', Sentence(sent)
+    if sent != []:
+        yield 'SENT', Sentence(sent)
     f.close()
 
         
@@ -119,6 +121,9 @@ class Sentence:
         s = [w.full_str() for w in self._words]
         return '\n'.join(s)
 
+    def str_strip(self):
+        s = [w.stripped_str() for w in self._words]
+        return '\n'.join(s)
    
 class DepWord:
     "A word in the dependency format."
@@ -126,7 +131,8 @@ class DepWord:
         fields = tab_regexp.split(line)
         self._fields = dict(zip(WORD_FORMAT, fields))
         for key in [x for x in self._fields if x in INT_FIELDS]:
-            self._fields[key] = int(self._fields[key])
+            if self._fields[key] != '_':
+                self._fields[key] = int(self._fields[key])
 
     def set_field(self, name, val):
         self._fields[name] = val
@@ -139,5 +145,8 @@ class DepWord:
     
     def full_str(self):
         return '\t'.join([str(self._fields[x]) for x in WORD_FORMAT])
+
+    def stripped_str(self,exclude_fields = ['head_index','deprel']):
+        return '\t'.join([(str(self._fields[x]) if x not in exclude_fields else '_') for x in WORD_FORMAT])
 
 
