@@ -1,7 +1,7 @@
 #eve01.xml,0
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	v	v	0v	0v	_	0	root	_	_
-3	more	more	DET	qn	_	4	amod	_	_
+3	more	more	ADJ	qn	_	4	amod	_	_
 4	cookie-PL	cookie-PL	NOUN	n	_	2	dobj	_	_
 5	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -44,7 +44,7 @@
 9	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve01.xml,6
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	juice	juice	NOUN	n	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -52,7 +52,7 @@
 1	will&COND	will&COND	AUX	mod	_	3	aux	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	like	like	VERB	v	_	0	root	_	_
-4	more	more	DET	qn	_	5	amod	_	_
+4	more	more	ADJ	qn	_	5	amod	_	_
 5	grape	grape	NOUN	n	_	6	compund	_	_
 6	juice	juice	NOUN	n	_	3	dobj	_	_
 7	?	?	PUNCT	?	_	3	punct	_	_
@@ -658,7 +658,7 @@
 
 #eve01.xml,91
 1	no	no	DET	qn	_	3	neg	_	_
-2	more	more	DET	qn	_	3	amod	_	_
+2	more	more	ADJ	qn	_	3	amod	_	_
 3	cookie-PL	cookie-PL	NOUN	n	_	0	root	_	_
 4	,	end	PUNCT	end	_	3	punct	_	_
 5	Eve	Eve	PROPN	n:prop	_	4	vocative	_	_
@@ -2153,12 +2153,12 @@
 4	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve01.xml,303
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	pudding	pudding	NOUN	n	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve01.xml,304
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	pudding	pudding	NOUN	n	_	7	nsubj	_	_
 3	be&3S	be&3S	VERB	cop	_	7	cop	_	_
 4	that	that	PRON	pro:dem	_	7	root	_	_
@@ -2168,12 +2168,12 @@
 8	?	?	PUNCT	?	_	7	punct	_	_
 
 #eve01.xml,305
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	pudding	pudding	NOUN	n	_	0	root	_	_
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve01.xml,306
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	pudding	pudding	NOUN	n	_	0	root	_	_
 3	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -2390,7 +2390,7 @@
 
 #eve01.xml,338
 1	no	no	DET	qn	_	2	neg	_	_
-2	more	more	DET	qn	_	3	amod	_	_
+2	more	more	ADJ	qn	_	3	amod	_	_
 3	celery	celery	NOUN	n	_	0	root	_	_
 4	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -2472,7 +2472,7 @@
 1	where	where	ADV	adv:wh	_	3	advmod	_	_
 2	~be&3S	~be&3S	VERB	cop	_	3	cop	_	_
 3	the	the	DET	art	_	2	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	3	dobj	_	_
 6	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -2480,7 +2480,7 @@
 1	where	where	ADV	adv:wh	_	3	advmod	_	_
 2	~be&3S	~be&3S	VERB	cop	_	3	cop	_	_
 3	the	the	DET	art	_	2	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	shoe	shoe	NOUN	n	_	3	dobj	_	_
 6	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -2497,8 +2497,8 @@
 1	oh	oh	INTJ	co	_	7	discourse	_	_
 2	,	beg	PUNCT	beg	_	7	punct	_	_
 3	doll-DIM	doll-DIM	NOUN	n	_	7	nsubj	_	_
-4	~be&3S	~be&3S	AUX	aux	_	7	aux	_	_
-5	other	other	DET	qn	_	6	det	_	_
+4	~be&3S	~be&3S	VERB	aux	_	7	aux	_	_
+5	other	other	ADJ	qn	_	6	amod	_	_
 6	shoe	shoe	NOUN	n	_	7	nsubj	_	_
 7	be&3S	be&3S	VERB	cop	_	0	root	_	_
 8	on	on	ADP	prep	_	10	case	_	_
@@ -2510,7 +2510,7 @@
 1	doll-DIM	doll-DIM	NOUN	n	_	3	nsubj	_	_
 2	have&3S	have&3S	AUX	aux	_	3	aux	_	_
 3	her	her	PRON	pro:obj	_	0	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	shoe	shoe	NOUN	n	_	3	dobj	_	_
 6	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -2898,7 +2898,7 @@
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	get	get	VERB	v	_	0	root	_	_
 4	the	the	DET	art	_	3	dobj	_	_
-5	other	other	DET	qn	_	6	det	_	_
+5	other	other	ADJ	qn	_	6	amod	_	_
 6	book-PL	book-PL	NOUN	n	_	4	dobj	_	_
 7	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -2906,7 +2906,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	get	get	VERB	v	_	0	root	_	_
 3	the	the	DET	art	_	2	dobj	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	book-PL	book-PL	NOUN	n	_	3	dobj	_	_
 6	and	and	CONJ	coord	_	9	cc	_	_
 7	we	we	PRON	pro:sub	_	9	nsubj	_	_
@@ -3256,7 +3256,7 @@
 #eve01.xml,458
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	want	want	VERB	v	_	0	root	_	_
-3	more	more	DET	qn	_	4	amod	_	_
+3	more	more	ADJ	qn	_	4	amod	_	_
 4	juice	juice	NOUN	n	_	2	dobj	_	_
 5	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -5002,7 +5002,7 @@
 1	where	where	ADV	adv:wh	_	3	advmod	_	_
 2	~be&3S	~be&3S	VERB	cop	_	3	cop	_	_
 3	the	the	DET	art	_	2	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	piece	piece	NOUN	n	_	3	dobj	_	_
 6	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -5503,7 +5503,7 @@
 1	will&COND	will&COND	AUX	mod	_	3	aux	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	like	like	VERB	v	_	0	root	_	_
-4	more	more	DET	qn	_	5	amod	_	_
+4	more	more	ADJ	qn	_	5	amod	_	_
 5	tapioca	tapioca	NOUN	n	_	3	dobj	_	_
 6	,	end	PUNCT	end	_	5	punct	_	_
 7	Eve	Eve	PROPN	n:prop	_	6	vocative	_	_
@@ -5916,7 +5916,7 @@
 10	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve02.xml,4
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	grape	grape	NOUN	n	_	3	compund	_	_
 3	juice	juice	NOUN	n	_	0	root	_	_
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -5999,7 +5999,7 @@
 #eve02.xml,16
 1	put&ZERO	put&ZERO	VERB	v	_	0	root	_	_
 2	the	the	DET	art	_	1	dobj	_	_
-3	other	other	DET	qn	_	5	det	_	_
+3	other	other	ADJ	qn	_	5	amod	_	_
 4	one	one	NOUN	pro:indef	_	5	MOD	_	_
 5	back	back	NOUN	n	_	2	dobj	_	_
 6	.	.	PUNCT	.	_	1	punct	_	_
@@ -6016,7 +6016,7 @@
 #eve02.xml,19
 1	put&ZERO	put&ZERO	VERB	v	_	0	root	_	_
 2	the	the	DET	art	_	1	dobj	_	_
-3	other	other	DET	qn	_	5	det	_	_
+3	other	other	ADJ	qn	_	5	amod	_	_
 4	one	one	NOUN	pro:indef	_	5	MOD	_	_
 5	back	back	NOUN	n	_	2	dobj	_	_
 6	.	.	PUNCT	.	_	1	punct	_	_
@@ -6974,7 +6974,7 @@
 
 #eve02.xml,153
 1	no	no	DET	qn	_	3	neg	_	_
-2	more	more	DET	qn	_	3	amod	_	_
+2	more	more	ADJ	qn	_	3	amod	_	_
 3	grape	grape	NOUN	n	_	4	compund	_	_
 4	juice	juice	NOUN	n	_	0	root	_	_
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -7188,7 +7188,7 @@
 
 #eve02.xml,186
 1	one	one	NUM	det:num	_	3	nummod	_	_
-2	more	more	DET	qn	_	3	amod	_	_
+2	more	more	ADJ	qn	_	3	amod	_	_
 3	minute	minute	NOUN	n	_	0	root	_	_
 4	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -7219,7 +7219,7 @@
 1	for	for	SCONJ	conj	_	3	?	_	_
 2	just	just	ADJ	adj	_	3	amod	_	_
 3	one	one	NOUN	pro:indef	_	0	root	_	_
-4	more	more	DET	qn	_	5	amod	_	_
+4	more	more	ADJ	qn	_	5	amod	_	_
 5	minute	minute	NOUN	n	_	3	dobj	_	_
 6	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -7882,7 +7882,7 @@
 #eve02.xml,282
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	want	want	VERB	v	_	0	root	_	_
-3	more	more	DET	qn	_	4	amod	_	_
+3	more	more	ADJ	qn	_	4	amod	_	_
 4	soup	soup	NOUN	n	_	2	dobj	_	_
 5	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -8485,7 +8485,7 @@
 1	this	this	PRON	pro:dem	_	3	nsubj	_	_
 2	be&3S	be&3S	VERB	cop	_	3	cop	_	_
 3	the	the	DET	art	_	2	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	3	dobj	_	_
 6	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -8584,14 +8584,14 @@
 7	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve02.xml,385
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	water	water	NOUN	n	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve02.xml,386
 1	oh	oh	INTJ	co	_	5	discourse	_	_
 2	,	beg	PUNCT	beg	_	5	punct	_	_
-3	more	more	DET	qn	_	4	amod	_	_
+3	more	more	ADJ	qn	_	4	amod	_	_
 4	grape	grape	NOUN	n	_	5	compund	_	_
 5	juice	juice	NOUN	n	_	0	root	_	_
 6	.	.	PUNCT	.	_	5	punct	_	_
@@ -9483,7 +9483,7 @@
 
 #eve02.xml,507
 1	no	no	DET	qn	_	3	neg	_	_
-2	more	more	DET	qn	_	3	amod	_	_
+2	more	more	ADJ	qn	_	3	amod	_	_
 3	grape	grape	NOUN	n	_	4	compund	_	_
 4	juice	juice	NOUN	n	_	0	root	_	_
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -9730,7 +9730,7 @@
 5	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve02.xml,539
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	cracker	cracker	NOUN	n	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -11046,7 +11046,7 @@
 3	~not	~not	PART	neg	_	4	neg	_	_
 4	want	want	VERB	v	_	0	root	_	_
 5	any	any	DET	qn	_	7	det	_	_
-6	more	more	DET	qn	_	7	amod	_	_
+6	more	more	ADJ	qn	_	7	amod	_	_
 7	sandwich	sandwich	NOUN	n	_	4	dobj	_	_
 8	?	?	PUNCT	?	_	4	punct	_	_
 
@@ -11359,7 +11359,7 @@
 5	that	that	PRON	pro:dem	_	4	conj	_	_
 6	and	and	CONJ	coord	_	5	cc	_	_
 7	the	the	DET	art	_	6	conj	_	_
-8	other	other	DET	qn	_	9	det	_	_
+8	other	other	ADJ	qn	_	9	amod	_	_
 9	thing	thing	NOUN	n	_	7	dobj	_	_
 10	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -11791,7 +11791,7 @@
 7	.	.	PUNCT	.	_	5	punct	_	_
 
 #eve03.xml,0
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	coffee	coffee	NOUN	n	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -12576,7 +12576,7 @@
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	eat	eat	VERB	v	_	1	ccomp	_	_
 4	the	the	DET	art	_	3	dobj	_	_
-5	other	other	DET	qn	_	6	det	_	_
+5	other	other	ADJ	qn	_	6	amod	_	_
 6	one	one	NOUN	pro:indef	_	4	dobj	_	_
 7	?	?	PUNCT	?	_	1	punct	_	_
 
@@ -16306,7 +16306,7 @@
 3	~not	~not	PART	neg	_	4	neg	_	_
 4	need	need	VERB	v	_	0	root	_	_
 5	any	any	DET	qn	_	7	det	_	_
-6	more	more	DET	qn	_	7	amod	_	_
+6	more	more	ADJ	qn	_	7	amod	_	_
 7	letter-PL	letter-PL	NOUN	n	_	4	dobj	_	_
 8	,	end	PUNCT	end	_	9	punct	_	_
 9	do	do	VERB	v	_	4	ccomp	_	_
@@ -16390,7 +16390,7 @@
 10	big-CP	big-CP	ADJ	adj	_	8	root	_	_
 11	than	than	ADP	prep	_	12	case	_	_
 12	the	the	DET	art	_	8	nmod	_	_
-13	other	other	DET	qn	_	14	det	_	_
+13	other	other	ADJ	qn	_	14	amod	_	_
 14	one	one	NOUN	pro:indef	_	12	dobj	_	_
 15	.	.	PUNCT	.	_	10	punct	_	_
 
@@ -19565,7 +19565,7 @@
 1	hold	hold	NOUN	n	_	0	root	_	_
 2	still	still	ADJ	adj	_	3	amod	_	_
 3	one	one	NOUN	pro:indef	_	1	?	_	_
-4	more	more	DET	qn	_	5	amod	_	_
+4	more	more	ADJ	qn	_	5	amod	_	_
 5	minute	minute	NOUN	n	_	3	dobj	_	_
 6	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -20066,7 +20066,7 @@
 2	here	here	PRON	pro:exist	_	4	nsubj	_	_
 3	~be&3S	~be&3S	VERB	cop	_	4	cop	_	_
 4	the	the	DET	art	_	3	root	_	_
-5	other	other	DET	qn	_	6	det	_	_
+5	other	other	ADJ	qn	_	6	amod	_	_
 6	one	one	NOUN	pro:indef	_	4	dobj	_	_
 7	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -20078,7 +20078,7 @@
 1	here	here	PRON	pro:exist	_	3	nsubj	_	_
 2	~be&3S	~be&3S	VERB	cop	_	3	cop	_	_
 3	the	the	DET	art	_	2	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	3	dobj	_	_
 6	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -20383,7 +20383,7 @@
 1	what	what	X	X	_	3	?	_	_
 2	about	about	X	X	_	1	mwe	_	_
 3	the	the	DET	art	_	0	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	3	dobj	_	_
 6	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -20391,7 +20391,7 @@
 1	what	what	X	X	_	3	?	_	_
 2	about	about	X	X	_	1	mwe	_	_
 3	the	the	DET	art	_	0	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	3	dobj	_	_
 6	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -21167,14 +21167,14 @@
 3	one	one	NOUN	pro:indef	_	2	nsubj	_	_
 4	under	under	ADP	prep	_	5	case	_	_
 5	the	the	DET	art	_	2	nmod	_	_
-6	other	other	DET	qn	_	7	det	_	_
+6	other	other	ADJ	qn	_	7	amod	_	_
 7	chair	chair	NOUN	n	_	5	dobj	_	_
 8	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve05.xml,92
 1	under	under	ADP	prep	_	0	root	_	_
 2	the	the	DET	art	_	1	case	_	_
-3	other	other	DET	qn	_	4	det	_	_
+3	other	other	ADJ	qn	_	4	amod	_	_
 4	chair	chair	NOUN	n	_	2	dobj	_	_
 5	by	by	ADP	prep	_	7	case	_	_
 6	the	the	DET	art	_	7	det	_	_
@@ -21516,7 +21516,7 @@
 1	here	here	PRON	pro:exist	_	3	nsubj	_	_
 2	~be&3S	~be&3S	VERB	cop	_	3	cop	_	_
 3	the	the	DET	art	_	2	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	top	top	NOUN	n	_	3	dobj	_	_
 6	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -21529,7 +21529,7 @@
 1	that	that	PRON	pro:dem	_	3	nsubj	_	_
 2	~be&3S	~be&3S	VERB	cop	_	3	cop	_	_
 3	the	the	DET	art	_	2	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	3	dobj	_	_
 6	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -21599,7 +21599,7 @@
 7	me	me	PRON	pro:obj	_	3	nmod	_	_
 8	on	on	ADP	prep	_	9	case	_	_
 9	the	the	DET	art	_	3	nmod	_	_
-10	other	other	DET	qn	_	11	det	_	_
+10	other	other	ADJ	qn	_	11	amod	_	_
 11	stool	stool	NOUN	n	_	9	dobj	_	_
 12	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -21663,7 +21663,7 @@
 3	you	you	PRON	pro	_	4	nsubj	_	_
 4	get	get	VERB	v	_	0	root	_	_
 5	the	the	DET	art	_	4	dobj	_	_
-6	other	other	DET	qn	_	8	det	_	_
+6	other	other	ADJ	qn	_	8	amod	_	_
 7	big	big	ADJ	adj	_	8	amod	_	_
 8	stool	stool	NOUN	n	_	5	dobj	_	_
 9	.	.	PUNCT	.	_	4	punct	_	_
@@ -21817,7 +21817,7 @@
 2	sit	sit	VERB	v	_	0	root	_	_
 3	on	on	ADP	prep	_	4	case	_	_
 4	the	the	DET	art	_	2	nmod	_	_
-5	other	other	DET	qn	_	6	det	_	_
+5	other	other	ADJ	qn	_	6	amod	_	_
 6	side	side	NOUN	n	_	4	dobj	_	_
 7	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -22500,14 +22500,14 @@
 8	~genmod	~genmod	AUX	mod	_	9	aux	_	_
 9	like	like	VERB	v	_	4	advcl	_	_
 10	some	some	DET	qn	_	12	det	_	_
-11	more	more	DET	qn	_	12	amod	_	_
+11	more	more	ADJ	qn	_	12	amod	_	_
 12	coffee	coffee	NOUN	n	_	9	dobj	_	_
 13	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve05.xml,276
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
 2	there	there	ADV	adv	_	4	advmod	_	_
-3	more	more	DET	qn	_	4	amod	_	_
+3	more	more	ADJ	qn	_	4	amod	_	_
 4	coffee	coffee	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
 
@@ -22604,7 +22604,7 @@
 10	give	give	VERB	v	_	6	?	_	_
 11	him	him	PRON	pro:obj	_	10	dobj	_	_
 12	some	some	DET	qn	_	14	det	_	_
-13	more	more	DET	qn	_	14	amod	_	_
+13	more	more	ADJ	qn	_	14	amod	_	_
 14	coffee	coffee	NOUN	n	_	10	dobj	_	_
 15	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -22897,7 +22897,7 @@
 2	~will	~will	AUX	mod	_	3	aux	_	_
 3	give	give	VERB	v	_	0	root	_	_
 4	you	you	PRON	pro	_	3	dobj	_	_
-5	more	more	DET	qn	_	6	amod	_	_
+5	more	more	ADJ	qn	_	6	amod	_	_
 6	tapioca	tapioca	NOUN	n	_	3	dobj	_	_
 7	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -26850,7 +26850,7 @@
 1	Eve	Eve	PROPN	n:prop	_	6	?	_	_
 2	,	beg	PUNCT	beg	_	6	punct	_	_
 3	the	the	DET	art	_	6	advmod	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	6	nsubj	_	_
 6	be&3S	be&3S	VERB	cop	_	0	root	_	_
 7	under	under	ADP	prep	_	9	case	_	_
@@ -26959,7 +26959,7 @@
 3	I	I	PRON	pro:sub	_	5	nsubj	_	_
 4	~will	~will	AUX	mod	_	5	aux	_	_
 5	get	get	VERB	v	_	0	root	_	_
-6	more	more	DET	qn	_	7	amod	_	_
+6	more	more	ADJ	qn	_	7	amod	_	_
 7	sugar	sugar	NOUN	n	_	5	dobj	_	_
 8	.	.	PUNCT	.	_	5	punct	_	_
 
@@ -29113,7 +29113,7 @@
 12	box	box	NOUN	n	_	11	dobj	_	_
 13	on	on	ADP	prep	_	14	case	_	_
 14	the	the	DET	art	_	12	nmod	_	_
-15	other	other	DET	qn	_	16	det	_	_
+15	other	other	ADJ	qn	_	16	amod	_	_
 16	stool	stool	NOUN	n	_	14	dobj	_	_
 17	and	and	CONJ	coord	_	16	cc	_	_
 18	then	then	ADV	adv:tem	_	21	advmod	_	_
@@ -29784,7 +29784,7 @@
 3	~not	~not	PART	neg	_	4	neg	_	_
 4	need	need	VERB	v	_	0	root	_	_
 5	any	any	DET	qn	_	7	det	_	_
-6	more	more	DET	qn	_	7	amod	_	_
+6	more	more	ADJ	qn	_	7	amod	_	_
 7	sugar	sugar	NOUN	n	_	4	dobj	_	_
 8	,	end	PUNCT	end	_	4	punct	_	_
 9	Eve	Eve	PROPN	n:prop	_	8	vocative	_	_
@@ -31484,7 +31484,7 @@
 4	?	?	PUNCT	?	_	3	punct	_	_
 
 #eve07.xml,263
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	than	than	ADP	prep	_	0	root	_	_
 3	two	two	NUM	det:num	_	2	case	_	_
 4	.	.	PUNCT	.	_	2	punct	_	_
@@ -32922,7 +32922,7 @@
 1	we	we	PRON	pro:sub	_	3	nsubj	_	_
 2	~will	~will	AUX	mod	_	3	aux	_	_
 3	get	get	VERB	v	_	0	root	_	_
-4	more	more	DET	qn	_	5	amod	_	_
+4	more	more	ADJ	qn	_	5	amod	_	_
 5	coffee	coffee	NOUN	n	_	3	dobj	_	_
 6	in	in	ADP	prep	_	8	case	_	_
 7	a	a	DET	art	_	8	det	_	_
@@ -33574,7 +33574,7 @@
 3	tomato	tomato	NOUN	n	_	4	compund	_	_
 4	juice	juice	NOUN	n	_	2	root	_	_
 5	the	the	DET	art	_	4	?	_	_
-6	other	other	DET	qn	_	7	det	_	_
+6	other	other	ADJ	qn	_	7	amod	_	_
 7	night	night	NOUN	n	_	5	dobj	_	_
 8	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -34184,7 +34184,7 @@
 5	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve07.xml,647
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	cheese	cheese	NOUN	n	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -34200,7 +34200,7 @@
 9	~will	~will	AUX	mod	_	10	aux	_	_
 10	give	give	VERB	v	_	2	ccomp	_	_
 11	you	you	PRON	pro	_	13	nsubj	_	_
-12	more	more	DET	qn	_	13	amod	_	_
+12	more	more	ADJ	qn	_	13	amod	_	_
 13	cheese	cheese	NOUN	n	_	10	dobj	_	_
 14	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -34208,7 +34208,7 @@
 1	no	no	INTJ	co	_	2	discourse	_	_
 2	,	beg	PUNCT	beg	_	0	punct	_	_
 3	no	no	INTJ	co	_	2	discourse	_	_
-4	more	more	DET	qn	_	5	amod	_	_
+4	more	more	ADJ	qn	_	5	amod	_	_
 5	cheese	cheese	NOUN	n	_	2	dobj	_	_
 6	at	at	ADP	prep	_	8	case	_	_
 7	the	the	DET	art	_	8	det	_	_
@@ -34399,7 +34399,7 @@
 5	go	go	VERB	v	_	3	xcomp	_	_
 6	in	in	ADP	prep	_	7	case	_	_
 7	the	the	DET	art	_	5	nmod	_	_
-8	other	other	DET	qn	_	9	det	_	_
+8	other	other	ADJ	qn	_	9	amod	_	_
 9	room	room	NOUN	n	_	7	dobj	_	_
 10	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -35393,7 +35393,7 @@
 5	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve08.xml,67
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	grape	grape	NOUN	n	_	3	compund	_	_
 3	juice	juice	NOUN	n	_	0	root	_	_
 4	?	?	PUNCT	?	_	3	punct	_	_
@@ -35772,7 +35772,7 @@
 4	he	he	PRON	pro:sub	_	6	nsubj	_	_
 5	~genmod	~genmod	AUX	mod	_	6	aux	_	_
 6	like	like	VERB	v	_	1	advcl	_	_
-7	more	more	DET	qn	_	8	amod	_	_
+7	more	more	ADJ	qn	_	8	amod	_	_
 8	coffee	coffee	NOUN	n	_	6	dobj	_	_
 9	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -35801,7 +35801,7 @@
 1	do&3S	do&3S	AUX	mod	_	3	aux	_	_
 2	he	he	PRON	pro:sub	_	3	nsubj	_	_
 3	want	want	VERB	v	_	0	root	_	_
-4	more	more	DET	qn	_	5	amod	_	_
+4	more	more	ADJ	qn	_	5	amod	_	_
 5	coffee	coffee	NOUN	n	_	3	dobj	_	_
 6	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -38280,7 +38280,7 @@
 1	where	where	ADV	adv:wh	_	3	advmod	_	_
 2	~be&3S	~be&3S	VERB	cop	_	3	cop	_	_
 3	the	the	DET	art	_	2	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	3	dobj	_	_
 6	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -38302,7 +38302,7 @@
 1	where	where	ADV	adv:wh	_	3	advmod	_	_
 2	~be&3S	~be&3S	VERB	cop	_	3	cop	_	_
 3	the	the	DET	art	_	2	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	3	dobj	_	_
 6	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -38803,7 +38803,7 @@
 2	the	the	DET	art	_	1	dobj	_	_
 3	cup	cup	NOUN	n	_	2	dobj	_	_
 4	the	the	DET	art	_	3	?	_	_
-5	other	other	DET	qn	_	6	det	_	_
+5	other	other	ADJ	qn	_	6	amod	_	_
 6	way	way	NOUN	n	_	4	dobj	_	_
 7	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -38842,7 +38842,7 @@
 2	that	that	SCONJ	rel	_	4	?	_	_
 3	back	back	ADV	adv	_	4	advmod	_	_
 4	the	the	DET	art	_	1	?	_	_
-5	other	other	DET	qn	_	6	det	_	_
+5	other	other	ADJ	qn	_	6	amod	_	_
 6	way	way	NOUN	n	_	4	dobj	_	_
 7	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -38869,7 +38869,7 @@
 1	turn	turn	VERB	v	_	0	root	_	_
 2	it	it	PRON	pro	_	1	dobj	_	_
 3	the	the	DET	art	_	1	ccomp	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	way	way	NOUN	n	_	3	dobj	_	_
 6	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -38892,7 +38892,7 @@
 2	it	it	PRON	pro	_	1	dobj	_	_
 3	around	around	ADP	prep	_	4	case	_	_
 4	the	the	DET	art	_	1	nmod	_	_
-5	other	other	DET	qn	_	6	det	_	_
+5	other	other	ADJ	qn	_	6	amod	_	_
 6	way	way	NOUN	n	_	4	dobj	_	_
 7	and	and	CONJ	coord	_	10	cc	_	_
 8	it	it	PRON	pro	_	10	nsubj	_	_
@@ -39736,7 +39736,7 @@
 3	you	you	PRON	pro	_	4	nsubj	_	_
 4	get	get	VERB	v	_	0	root	_	_
 5	the	the	DET	art	_	4	dobj	_	_
-6	other	other	DET	qn	_	7	det	_	_
+6	other	other	ADJ	qn	_	7	amod	_	_
 7	pencil	pencil	NOUN	n	_	5	dobj	_	_
 8	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -40440,7 +40440,7 @@
 
 #eve08.xml,768
 1	the	the	DET	art	_	0	root	_	_
-2	other	other	DET	qn	_	3	det	_	_
+2	other	other	ADJ	qn	_	3	amod	_	_
 3	car	car	NOUN	n	_	1	dobj	_	_
 4	?	?	PUNCT	?	_	1	punct	_	_
 
@@ -41563,7 +41563,7 @@
 2	~have	~have	AUX	aux	_	3	aux	_	_
 3	get&PASTP	get&PASTP	VERB	part	_	0	root	_	_
 4	some	some	DET	qn	_	5	det	_	_
-5	more	more	DET	qn	_	7	amod	_	_
+5	more	more	ADJ	qn	_	7	amod	_	_
 6	to	to	PART	inf	_	7	mark	_	_
 7	play	play	VERB	v	_	3	advcl	_	_
 8	with	with	ADP	prep	_	7	advmod	_	_
@@ -41605,7 +41605,7 @@
 7	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve08.xml,936
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	milk	milk	NOUN	n	_	0	root	_	_
 3	on	on	ADP	prep	_	5	case	_	_
 4	the	the	DET	art	_	5	det	_	_
@@ -41632,7 +41632,7 @@
 2	me	me	PRON	pro:obj	_	1	dobj	_	_
 3	put&ZERO	put&ZERO	VERB	v	_	1	ccomp	_	_
 4	some	some	DET	qn	_	6	det	_	_
-5	more	more	DET	qn	_	6	amod	_	_
+5	more	more	ADJ	qn	_	6	amod	_	_
 6	water	water	NOUN	n	_	3	dobj	_	_
 7	in	in	ADV	adv	_	8	advmod	_	_
 8	there	there	ADV	adv	_	3	advmod	_	_
@@ -42792,7 +42792,7 @@
 3	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve08.xml,1097
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	cheese	cheese	NOUN	n	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -44775,14 +44775,14 @@
 #eve09.xml,273
 1	we	we	PRON	pro:sub	_	2	nsubj	_	_
 2	have	have	VERB	v	_	0	root	_	_
-3	more	more	DET	qn	_	4	amod	_	_
+3	more	more	ADJ	qn	_	4	amod	_	_
 4	milk	milk	NOUN	n	_	2	dobj	_	_
 5	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve09.xml,274
 1	we	we	PRON	pro:sub	_	2	nsubj	_	_
 2	have	have	VERB	v	_	0	root	_	_
-3	more	more	DET	qn	_	4	amod	_	_
+3	more	more	ADJ	qn	_	4	amod	_	_
 4	milk	milk	NOUN	n	_	2	dobj	_	_
 5	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -45704,7 +45704,7 @@
 2	,	beg	PUNCT	beg	_	0	punct	_	_
 3	we	we	PRON	pro:sub	_	4	nsubj	_	_
 4	have	have	VERB	v	_	2	ccomp	_	_
-5	other	other	DET	qn	_	6	det	_	_
+5	other	other	ADJ	qn	_	6	amod	_	_
 6	thing-PL	thing-PL	NOUN	n	_	4	dobj	_	_
 7	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -47750,7 +47750,7 @@
 5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve10.xml,192
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	grape	grape	NOUN	n	_	3	compund	_	_
 3	juice	juice	NOUN	n	_	0	root	_	_
 4	?	?	PUNCT	?	_	3	punct	_	_
@@ -48111,7 +48111,7 @@
 5	~will	~will	AUX	mod	_	6	aux	_	_
 6	get	get	VERB	v	_	0	root	_	_
 7	some	some	DET	qn	_	8	det	_	_
-8	more	more	DET	qn	_	9	amod	_	_
+8	more	more	ADJ	qn	_	9	amod	_	_
 9	next	next	ADJ	adj	_	6	dobj	_	_
 10	Christmas	Christmas	PROPN	n:prop	_	11	nmod	_	_
 11	eh	eh	INTJ	co	_	9	discourse	_	_
@@ -49384,7 +49384,7 @@
 1	there	there	ADV	adv	_	3	advmod	_	_
 2	certain&dadj-LY	certain&dadj-LY	ADV	adv	_	3	advmod	_	_
 3	be&3S	be&3S	VERB	cop	_	0	root	_	_
-4	more	more	DET	qn	_	5	amod	_	_
+4	more	more	ADJ	qn	_	5	amod	_	_
 5	than	than	ADP	prep	_	6	case	_	_
 6	two	two	NUM	det:num	_	3	nmod	_	_
 7	.	.	PUNCT	.	_	3	punct	_	_
@@ -50142,7 +50142,7 @@
 3	~not	~not	PART	neg	_	4	neg	_	_
 4	un#tie	un#tie	VERB	v	_	0	root	_	_
 5	the	the	DET	art	_	4	dobj	_	_
-6	other	other	DET	qn	_	7	det	_	_
+6	other	other	ADJ	qn	_	7	amod	_	_
 7	one	one	NOUN	pro:indef	_	5	dobj	_	_
 8	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -51045,7 +51045,7 @@
 
 #eve11.xml,150
 1	no	no	DET	qn	_	2	neg	_	_
-2	more	more	DET	qn	_	3	amod	_	_
+2	more	more	ADJ	qn	_	3	amod	_	_
 3	peanut	peanut	NOUN	n	_	0	root	_	_
 4	butter	butter	NOUN	n	_	3	compound	_	_
 5	on	on	ADP	prep	_	7	case	_	_
@@ -52344,7 +52344,7 @@
 1	let&ZERO	let&ZERO	VERB	v	_	0	root	_	_
 2	me	me	PRON	pro:obj	_	1	dobj	_	_
 3	put&ZERO	put&ZERO	VERB	v	_	1	ccomp	_	_
-4	more	more	DET	qn	_	5	amod	_	_
+4	more	more	ADJ	qn	_	5	amod	_	_
 5	water	water	NOUN	n	_	3	dobj	_	_
 6	in	in	ADP	prep	_	8	case	_	_
 7	the	the	DET	art	_	8	det	_	_
@@ -54140,7 +54140,7 @@
 4	~not	~not	PART	neg	_	5	neg	_	_
 5	have	have	VERB	v	_	0	root	_	_
 6	that	that	SCONJ	rel	_	8	?	_	_
-7	other	other	DET	qn	_	8	det	_	_
+7	other	other	ADJ	qn	_	8	amod	_	_
 8	part	part	NOUN	n	_	5	dobj	_	_
 9	.	.	PUNCT	.	_	5	punct	_	_
 
@@ -54548,7 +54548,7 @@
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	get	get	VERB	v	_	1	ccomp	_	_
 4	some	some	DET	qn	_	6	det	_	_
-5	more	more	DET	qn	_	6	amod	_	_
+5	more	more	ADJ	qn	_	6	amod	_	_
 6	card-PL	card-PL	NOUN	n	_	3	dobj	_	_
 7	this	this	DET	det	_	8	det	_	_
 8	morning	morning	NOUN	n	_	6	dobj	_	_
@@ -54686,7 +54686,7 @@
 1	where	where	ADV	adv:wh	_	3	advmod	_	_
 2	~be&3S	~be&3S	VERB	cop	_	3	cop	_	_
 3	the	the	DET	art	_	2	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	3	dobj	_	_
 6	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -54912,7 +54912,7 @@
 2	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve12.xml,183
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	peanut	peanut	NOUN	n	_	0	root	_	_
 3	butter	butter	NOUN	n	_	2	compound	_	_
 4	?	?	PUNCT	?	_	2	punct	_	_
@@ -55086,7 +55086,7 @@
 5	milk	milk	NOUN	n	_	3	dobj	_	_
 6	in	in	ADP	prep	_	7	case	_	_
 7	the	the	DET	art	_	3	nmod	_	_
-8	other	other	DET	qn	_	9	det	_	_
+8	other	other	ADJ	qn	_	9	amod	_	_
 9	cup	cup	NOUN	n	_	7	?	_	_
 10	too	too	ADV	adv	_	9	advmod	_	_
 11	.	.	PUNCT	.	_	3	punct	_	_
@@ -56203,7 +56203,7 @@
 #eve12.xml,360
 1	on	on	ADP	prep	_	0	root	_	_
 2	the	the	DET	art	_	1	case	_	_
-3	other	other	DET	qn	_	4	det	_	_
+3	other	other	ADJ	qn	_	4	amod	_	_
 4	hat	hat	NOUN	n	_	2	dobj	_	_
 5	?	?	PUNCT	?	_	1	punct	_	_
 
@@ -56241,7 +56241,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	get	get	VERB	v	_	0	root	_	_
 3	the	the	DET	art	_	2	dobj	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	3	dobj	_	_
 6	and	and	CONJ	coord	_	9	cc	_	_
 7	Mom	Mom	PROPN	n:prop	_	9	nsubj	_	_
@@ -57002,7 +57002,7 @@
 1	where	where	ADV	adv:wh	_	3	advmod	_	_
 2	be&PRES	be&PRES	VERB	cop	_	3	cop	_	_
 3	the	the	DET	art	_	2	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one-PL	one-PL	NOUN	pro:indef	_	3	dobj	_	_
 6	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -57024,7 +57024,7 @@
 1	where	where	ADV	adv:wh	_	3	advmod	_	_
 2	~be&3S	~be&3S	VERB	cop	_	3	cop	_	_
 3	the	the	DET	art	_	2	root	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	3	dobj	_	_
 6	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -57531,7 +57531,7 @@
 #eve12.xml,531
 1	just	just	ADV	adv	_	2	advmod	_	_
 2	the	the	DET	art	_	5	?	_	_
-3	other	other	DET	qn	_	4	det	_	_
+3	other	other	ADJ	qn	_	4	amod	_	_
 4	cheese	cheese	NOUN	n	_	5	nsubj	_	_
 5	have&3S	have&3S	VERB	v	_	0	root	_	_
 6	a	a	DET	art	_	5	dobj	_	_
@@ -59037,7 +59037,7 @@
 
 #eve13.xml,45
 1	no	no	DET	qn	_	2	neg	_	_
-2	more	more	DET	qn	_	3	amod	_	_
+2	more	more	ADJ	qn	_	3	amod	_	_
 3	book-PL	book-PL	NOUN	n	_	0	root	_	_
 4	Eve	Eve	PROPN	n:prop	_	3	vocative	_	_
 5	.	.	PUNCT	.	_	3	punct	_	_
@@ -59180,7 +59180,7 @@
 
 #eve13.xml,61
 1	the	the	DET	art	_	0	root	_	_
-2	other	other	DET	qn	_	3	det	_	_
+2	other	other	ADJ	qn	_	3	amod	_	_
 3	side	side	NOUN	n	_	1	dobj	_	_
 4	~s	~s	PART	poss	_	3	case	_	_
 5	clean	clean	ADJ	adj	_	3	?	_	_
@@ -59190,7 +59190,7 @@
 1	draw	draw	VERB	v	_	0	root	_	_
 2	on	on	ADP	prep	_	3	case	_	_
 3	the	the	DET	art	_	1	nmod	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	side	side	NOUN	n	_	3	dobj	_	_
 6	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -59455,7 +59455,7 @@
 #eve13.xml,103
 1	on	on	ADP	prep	_	0	root	_	_
 2	the	the	DET	art	_	1	case	_	_
-3	other	other	DET	qn	_	4	det	_	_
+3	other	other	ADJ	qn	_	4	amod	_	_
 4	side	side	NOUN	n	_	2	dobj	_	_
 5	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -61095,7 +61095,7 @@
 4	to	to	PART	inf	_	5	mark	_	_
 5	come	come	VERB	v	_	3	xcomp	_	_
 6	some	some	DET	qn	_	8	det	_	_
-7	other	other	DET	qn	_	8	det	_	_
+7	other	other	ADJ	qn	_	8	amod	_	_
 8	time	time	NOUN	n	_	5	dobj	_	_
 9	as	as	X	X	_	5	advmod	_	_
 10	well	well	X	X	_	9	mwe	_	_
@@ -67847,7 +67847,7 @@
 6	know	know	VERB	v	_	0	root	_	_
 7	where	where	ADV	adv:wh	_	11	advmod	_	_
 8	the	the	DET	art	_	11	nsubj	_	_
-9	other	other	DET	qn	_	10	det	_	_
+9	other	other	ADJ	qn	_	10	amod	_	_
 10	one-PL	one-PL	NUM	det:num	_	11	nummod	_	_
 11	be&PRES	be&PRES	VERB	cop	_	6	ccomp	_	_
 12	.	.	PUNCT	.	_	6	punct	_	_
@@ -69589,7 +69589,7 @@
 1	we	we	PRON	pro:sub	_	2	nsubj	_	_
 2	need	need	VERB	v	_	0	root	_	_
 3	some	some	DET	qn	_	5	det	_	_
-4	more	more	DET	qn	_	5	amod	_	_
+4	more	more	ADJ	qn	_	5	amod	_	_
 5	track	track	NOUN	n	_	2	dobj	_	_
 6	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -69698,7 +69698,7 @@
 4	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve15.xml,363
-1	more	more	DET	qn	_	2	amod	_	_
+1	more	more	ADJ	qn	_	2	amod	_	_
 2	track	track	NOUN	n	_	0	root	_	_
 3	,	end	PUNCT	end	_	2	punct	_	_
 4	yeah	yeah	INTJ	co	_	3	discourse	_	_
@@ -72772,7 +72772,7 @@
 #eve15.xml,776
 1	it	it	PRON	pro	_	2	nsubj	_	_
 2	look-3S	look-3S	VERB	v	_	0	root	_	_
-3	more	more	DET	qn	_	4	amod	_	_
+3	more	more	ADJ	qn	_	4	amod	_	_
 4	like	like	VERB	v	_	2	ccomp	_	_
 5	Cromer	Cromer	PROPN	n:prop	_	4	dobj	_	_
 6	,	end	PUNCT	end	_	4	punct	_	_
@@ -75062,7 +75062,7 @@
 
 #eve16.xml,167
 1	no	no	DET	qn	_	3	neg	_	_
-2	more	more	DET	qn	_	3	amod	_	_
+2	more	more	ADJ	qn	_	3	amod	_	_
 3	grape	grape	NOUN	n	_	4	compund	_	_
 4	juice	juice	NOUN	n	_	0	root	_	_
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -78300,7 +78300,7 @@
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	suck	suck	VERB	v	_	1	ccomp	_	_
 4	your	your	PRON	pro:poss:det	_	6	nmod:poss	_	_
-5	other	other	DET	qn	_	6	det	_	_
+5	other	other	ADJ	qn	_	6	amod	_	_
 6	thumb	thumb	NOUN	n	_	8	compund	_	_
 7	last	last	ADV	adv	_	8	advmod	_	_
 8	night	night	NOUN	n	_	3	dobj	_	_
@@ -78623,7 +78623,7 @@
 4	and	and	CONJ	coord	_	3	cc	_	_
 5	not	not	PART	neg	_	6	neg	_	_
 6	the	the	DET	art	_	4	conj	_	_
-7	other	other	DET	qn	_	8	det	_	_
+7	other	other	ADJ	qn	_	8	amod	_	_
 8	side	side	NOUN	n	_	6	dobj	_	_
 9	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -78664,7 +78664,7 @@
 
 #eve16.xml,650
 1	the	the	DET	art	_	0	root	_	_
-2	other	other	DET	qn	_	3	det	_	_
+2	other	other	ADJ	qn	_	3	amod	_	_
 3	pillow	pillow	NOUN	n	_	1	dobj	_	_
 4	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -84540,7 +84540,7 @@
 5	tell	tell	VERB	v	_	3	xcomp	_	_
 6	him	him	PRON	pro:obj	_	5	dobj	_	_
 7	the	the	DET	art	_	5	dobj	_	_
-8	other	other	DET	qn	_	9	det	_	_
+8	other	other	ADJ	qn	_	9	amod	_	_
 9	day	day	NOUN	n	_	7	dobj	_	_
 10	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -87446,7 +87446,7 @@
 1	there	there	PRON	pro:exist	_	2	expl	_	_
 2	~be&3S	~be&3S	VERB	cop	_	0	root	_	_
 3	your	your	PRON	pro:poss:det	_	5	nmod:poss	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	bus	bus	NOUN	n	_	2	nsubj	_	_
 6	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -87701,7 +87701,7 @@
 
 #eve17.xml,981
 1	no	no	DET	qn	_	3	neg	_	_
-2	more	more	DET	qn	_	3	amod	_	_
+2	more	more	ADJ	qn	_	3	amod	_	_
 3	grape	grape	NOUN	n	_	4	compund	_	_
 4	juice	juice	NOUN	n	_	0	root	_	_
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -87815,7 +87815,7 @@
 4	be	be	VERB	cop	_	8	cop	_	_
 5	back	back	ADV	adv	_	4	advmod	_	_
 6	some	some	DET	qn	_	8	det	_	_
-7	other	other	DET	qn	_	8	det	_	_
+7	other	other	ADJ	qn	_	8	amod	_	_
 8	day	day	NOUN	n	_	4	root	_	_
 9	.	.	PUNCT	.	_	8	punct	_	_
 
@@ -88282,7 +88282,7 @@
 13	give	give	VERB	v	_	5	advcl	_	_
 14	Pop	Pop	PROPN	n:prop	_	13	dobj	_	_
 15	some	some	DET	qn	_	17	det	_	_
-16	more	more	DET	qn	_	17	amod	_	_
+16	more	more	ADJ	qn	_	17	amod	_	_
 17	coffee	coffee	NOUN	n	_	14	dobj	_	_
 18	.	.	PUNCT	.	_	5	punct	_	_
 
@@ -88343,7 +88343,7 @@
 12	you	you	PRON	pro	_	14	nsubj	_	_
 13	can	can	AUX	mod	_	14	aux	_	_
 14	have	have	VERB	v	_	10	conj	_	_
-15	more	more	DET	qn	_	16	amod	_	_
+15	more	more	ADJ	qn	_	16	amod	_	_
 16	tapioca	tapioca	NOUN	n	_	14	dobj	_	_
 17	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -90288,7 +90288,7 @@
 #eve18.xml,86
 1	there	there	PRON	pro:exist	_	2	expl	_	_
 2	~be&3S	~be&3S	VERB	cop	_	0	root	_	_
-3	more	more	DET	qn	_	4	amod	_	_
+3	more	more	ADJ	qn	_	4	amod	_	_
 4	butter	butter	NOUN	n	_	2	nsubj	_	_
 5	,	end	PUNCT	end	_	4	punct	_	_
 6	uhhuh	uhhuh	INTJ	co	_	5	discourse	_	_
@@ -92130,7 +92130,7 @@
 5	round	round	ADV	adv	_	4	advmod	_	_
 6	on	on	ADP	prep	_	7	case	_	_
 7	the	the	DET	art	_	4	nmod	_	_
-8	other	other	DET	qn	_	9	det	_	_
+8	other	other	ADJ	qn	_	9	amod	_	_
 9	side	side	NOUN	n	_	7	dobj	_	_
 10	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -92138,7 +92138,7 @@
 1	where	where	ADV	adv:wh	_	5	advmod	_	_
 2	~be&3S	~be&3S	VERB	cop	_	5	cop	_	_
 3	hi-PL	hi-PL	INTJ	co	_	5	discourse	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	ear	ear	NOUN	n	_	2	root	_	_
 6	?	?	PUNCT	?	_	5	punct	_	_
 
@@ -95817,7 +95817,7 @@
 3	draw	draw	VERB	v	_	1	ccomp	_	_
 4	you	you	PRON	pro	_	7	nsubj	_	_
 5	some	some	DET	qn	_	7	det	_	_
-6	other	other	DET	qn	_	7	det	_	_
+6	other	other	ADJ	qn	_	7	amod	_	_
 7	thing-PL	thing-PL	NOUN	n	_	3	dobj	_	_
 8	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -97361,14 +97361,14 @@
 1	there	there	PRON	pro:exist	_	2	expl	_	_
 2	~be&3S	~be&3S	VERB	cop	_	0	root	_	_
 3	the	the	DET	art	_	2	nsubj	_	_
-4	other	other	DET	qn	_	5	det	_	_
+4	other	other	ADJ	qn	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	3	dobj	_	_
 6	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve19.xml,110
 1	oh	oh	INTJ	co	_	5	discourse	_	_
 2	the	the	DET	art	_	5	nsubj	_	_
-3	other	other	DET	qn	_	5	det	_	_
+3	other	other	ADJ	qn	_	5	amod	_	_
 4	one	one	NOUN	pro:indef	_	5	nsubj	_	_
 5	~be&3S	~be&3S	VERB	cop	_	0	root	_	_
 6	here	here	ADV	adv	_	5	advmod	_	_
@@ -97432,7 +97432,7 @@
 5	off	off	ADV	adv	_	3	advmod	_	_
 6	from	from	ADP	prep	_	7	case	_	_
 7	the	the	DET	art	_	3	nmod	_	_
-8	other	other	DET	qn	_	9	det	_	_
+8	other	other	ADJ	qn	_	9	amod	_	_
 9	,	end	NOUN	n	_	7	punct	_	_
 10	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -97441,7 +97441,7 @@
 2	that	that	DET	det	_	3	det	_	_
 3	,	end	VERB	v	_	0	punct	_	_
 4	the	the	DET	art	_	3	dobj	_	_
-5	other	other	DET	qn	_	6	det	_	_
+5	other	other	ADJ	qn	_	6	amod	_	_
 6	,	end	NOUN	n	_	4	punct	_	_
 7	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -101188,7 +101188,7 @@
 6	~genmod	~genmod	AUX	mod	_	7	aux	_	_
 7	have	have	VERB	v	_	4	ccomp	_	_
 8	some	some	DET	qn	_	10	det	_	_
-9	more	more	DET	qn	_	10	amod	_	_
+9	more	more	ADJ	qn	_	10	amod	_	_
 10	coffee	coffee	NOUN	n	_	7	dobj	_	_
 11	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -102480,7 +102480,7 @@
 
 #eve20.xml,37
 1	the	the	DET	art	_	0	root	_	_
-2	other	other	DET	qn	_	3	det	_	_
+2	other	other	ADJ	qn	_	3	amod	_	_
 3	way	way	NOUN	n	_	1	dobj	_	_
 4	?	?	PUNCT	?	_	1	punct	_	_
 
@@ -102909,7 +102909,7 @@
 3	top-PL	top-PL	NOUN	n	_	2	dobj	_	_
 4	on	on	ADP	prep	_	5	case	_	_
 5	the	the	DET	art	_	2	nmod	_	_
-6	other	other	DET	qn	_	7	det	_	_
+6	other	other	ADJ	qn	_	7	amod	_	_
 7	side	side	NOUN	n	_	5	dobj	_	_
 8	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -102922,7 +102922,7 @@
 6	yours	yours	PRON	pro:poss	_	4	nmod	_	_
 7	on	on	ADP	prep	_	8	case	_	_
 8	the	the	DET	art	_	6	nmod	_	_
-9	other	other	DET	qn	_	10	det	_	_
+9	other	other	ADJ	qn	_	10	amod	_	_
 10	side	side	NOUN	n	_	8	dobj	_	_
 11	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -103690,7 +103690,7 @@
 6	Fizzie	Fizzie	PROPN	n:prop	_	4	dobj	_	_
 7	in	in	ADP	prep	_	8	case	_	_
 8	the	the	DET	art	_	4	nmod	_	_
-9	other	other	DET	qn	_	10	det	_	_
+9	other	other	ADJ	qn	_	10	amod	_	_
 10	cup	cup	NOUN	n	_	8	dobj	_	_
 11	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -104524,7 +104524,7 @@
 4	kid-PL	kid-PL	NOUN	n	_	2	root	_	_
 5	on	on	ADP	prep	_	6	case	_	_
 6	the	the	DET	art	_	2	nmod	_	_
-7	other	other	DET	qn	_	8	det	_	_
+7	other	other	ADJ	qn	_	8	amod	_	_
 8	walk	walk	NOUN	n	_	6	dobj	_	_
 9	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -106453,7 +106453,7 @@
 2	we	we	PRON	pro:sub	_	3	nsubj	_	_
 3	put&ZERO	put&ZERO	VERB	v	_	0	root	_	_
 4	some	some	DET	qn	_	6	det	_	_
-5	more	more	DET	qn	_	6	amod	_	_
+5	more	more	ADJ	qn	_	6	amod	_	_
 6	milk	milk	NOUN	n	_	3	dobj	_	_
 7	in	in	ADV	adv	_	3	advmod	_	_
 8	?	?	PUNCT	?	_	3	punct	_	_
@@ -106855,7 +106855,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	want	want	VERB	v	_	0	root	_	_
 3	some	some	DET	qn	_	5	det	_	_
-4	more	more	DET	qn	_	5	amod	_	_
+4	more	more	ADJ	qn	_	5	amod	_	_
 5	eggnog	eggnog	NOUN	n	_	2	dobj	_	_
 6	?	?	PUNCT	?	_	2	punct	_	_
 
