@@ -227,7 +227,7 @@
 #eve01.xml,30
 1	what	what	PRON	pro:wh	_	6	dobj	_	_
 2	~be&3S	~be&3S	AUX	aux	_	6	aux	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	you	you	PRON	pro	_	6	nsubj	_	_
 5	~be&PRES	~be&PRES	AUX	aux	_	6	aux	_	_
 6	do-PRESP	do-PRESP	VERB	part	_	0	root	_	_
@@ -1545,7 +1545,7 @@
 
 #eve01.xml,215
 1	be&3S	be&3S	VERB	cop	_	3	cop	_	_
-2	that	that	SCONJ	rel	_	3	?	_	_
+2	that	that	SCONJ	rel	_	3	mark	_	_
 3	Racketyboom	Racketyboom	PROPN	n:prop	_	1	root	_	_
 4	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -3034,7 +3034,7 @@
 #eve01.xml,422
 1	what	what	PRON	pro:wh	_	6	dobj	_	_
 2	~be&3S	~be&3S	AUX	aux	_	6	aux	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	you	you	PRON	pro	_	6	nsubj	_	_
 5	~be&PRES	~be&PRES	AUX	aux	_	6	aux	_	_
 6	write-PRESP	write-PRESP	VERB	part	_	0	root	_	_
@@ -3198,7 +3198,7 @@
 
 #eve01.xml,448
 1	will&COND	will&COND	AUX	mod	_	4	aux	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	be	be	VERB	aux	_	4	aux	_	_
 4	good&CP	good&CP	ADJ	adj	_	0	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -4910,7 +4910,7 @@
 3	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve01.xml,706
-1	which	which	SCONJ	rel	_	2	?	_	_
+1	which	which	SCONJ	rel	_	2	mark	_	_
 2	one	one	NOUN	pro:indef	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -5313,7 +5313,7 @@
 #eve01.xml,767
 1	will&COND	will&COND	AUX	mod	_	0	root	_	_
 2	you	you	PRON	pro	_	1	dobj	_	_
-3	like	like	SCONJ	conj	_	5	?	_	_
+3	like	like	SCONJ	conj	_	5	mark	_	_
 4	a	a	DET	art	_	5	det	_	_
 5	cracker	cracker	NOUN	n	_	1	advcl	_	_
 6	?	?	PUNCT	?	_	1	punct	_	_
@@ -5923,7 +5923,7 @@
 
 #eve02.xml,5
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	one	one	NUM	det:num	_	4	nummod	_	_
 4	all	all	X	X	_	1	root	_	_
 5	gone	gone	X	X	_	4	mwe	_	_
@@ -6254,7 +6254,7 @@
 #eve02.xml,47
 1	will&COND	will&COND	AUX	mod	_	0	root	_	_
 2	you	you	PRON	pro	_	1	dobj	_	_
-3	like	like	SCONJ	conj	_	5	?	_	_
+3	like	like	SCONJ	conj	_	5	mark	_	_
 4	a	a	DET	art	_	5	det	_	_
 5	graham	graham	NOUN	n	_	1	advcl	_	_
 6	cracker	cracker	NOUN	n	_	5	compound	_	_
@@ -6586,7 +6586,7 @@
 7	?	?	PUNCT	?	_	3	punct	_	_
 
 #eve02.xml,97
-1	after	after	SCONJ	conj	_	3	?	_	_
+1	after	after	SCONJ	conj	_	3	mark	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	read&ZERO	read&ZERO	VERB	v	_	0	root	_	_
 4	,	end	PUNCT	end	_	3	punct	_	_
@@ -6993,7 +6993,7 @@
 
 #eve02.xml,156
 1	be&3S	be&3S	VERB	cop	_	3	cop	_	_
-2	that	that	SCONJ	rel	_	3	?	_	_
+2	that	that	SCONJ	rel	_	3	mark	_	_
 3	Racketyboom	Racketyboom	PROPN	n:prop	_	1	root	_	_
 4	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -7067,7 +7067,7 @@
 3	onto	onto	ADP	prep	_	5	case	_	_
 4	the	the	DET	art	_	5	det	_	_
 5	ball	ball	NOUN	n	_	2	nmod	_	_
-6	while	while	SCONJ	conj	_	8	?	_	_
+6	while	while	SCONJ	conj	_	8	mark	_	_
 7	Mommy	Mommy	PROPN	n:prop	_	8	nsubj	_	_
 8	change-3S	change-3S	VERB	v	_	2	ccomp	_	_
 9	your	your	PRON	pro:poss:det	_	10	nmod:poss	_	_
@@ -7208,7 +7208,7 @@
 2	look	look	VERB	v	_	0	root	_	_
 3	at	at	ADP	prep	_	4	case	_	_
 4	Racketyboom	Racketyboom	PROPN	n:prop	_	2	nmod	_	_
-5	while	while	SCONJ	conj	_	7	?	_	_
+5	while	while	SCONJ	conj	_	7	mark	_	_
 6	Mommy	Mommy	PROPN	n:prop	_	7	nsubj	_	_
 7	change-3S	change-3S	VERB	v	_	2	ccomp	_	_
 8	your	your	PRON	pro:poss:det	_	9	nmod:poss	_	_
@@ -7216,7 +7216,7 @@
 10	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve02.xml,190
-1	for	for	SCONJ	conj	_	3	?	_	_
+1	for	for	SCONJ	conj	_	3	mark	_	_
 2	just	just	ADJ	adj	_	3	amod	_	_
 3	one	one	NOUN	pro:indef	_	0	root	_	_
 4	more	more	ADJ	qn	_	5	amod	_	_
@@ -7367,7 +7367,7 @@
 2	hold	hold	VERB	v	_	0	root	_	_
 3	very	very	ADV	adv	_	4	advmod	_	_
 4	still	still	ADV	adv	_	2	advmod	_	_
-5	while	while	SCONJ	conj	_	7	?	_	_
+5	while	while	SCONJ	conj	_	7	mark	_	_
 6	I	I	PRON	pro:sub	_	7	nsubj	_	_
 7	put&ZERO	put&ZERO	VERB	v	_	2	advcl	_	_
 8	your	your	PRON	pro:poss:det	_	9	nmod:poss	_	_
@@ -7509,7 +7509,7 @@
 
 #eve02.xml,225
 1	be&3S	be&3S	VERB	cop	_	3	cop	_	_
-2	that	that	SCONJ	rel	_	3	?	_	_
+2	that	that	SCONJ	rel	_	3	mark	_	_
 3	Papa	Papa	PROPN	n:prop	_	1	root	_	_
 4	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -9666,7 +9666,7 @@
 5	read&ZERO	read&ZERO	VERB	v	_	2	conj	_	_
 6	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	book	book	NOUN	n	_	5	dobj	_	_
-8	while	while	SCONJ	conj	_	10	?	_	_
+8	while	while	SCONJ	conj	_	10	mark	_	_
 9	Mommy	Mommy	PROPN	n:prop	_	10	nsubj	_	_
 10	fix-3S	fix-3S	VERB	v	_	2	ccomp	_	_
 11	your	your	PRON	pro:poss:det	_	12	nmod:poss	_	_
@@ -9913,7 +9913,7 @@
 #eve02.xml,565
 1	what	what	PRON	pro:wh	_	6	dobj	_	_
 2	~be&3S	~be&3S	AUX	aux	_	6	aux	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	you	you	PRON	pro	_	6	nsubj	_	_
 5	~be&PRES	~be&PRES	AUX	aux	_	6	aux	_	_
 6	do-PRESP	do-PRESP	VERB	part	_	0	root	_	_
@@ -10553,7 +10553,7 @@
 2	~not	~not	PART	neg	_	3	neg	_	_
 3	do	do	VERB	v	_	0	root	_	_
 4	it	it	PRON	pro	_	3	dobj	_	_
-5	while	while	SCONJ	conj	_	7	?	_	_
+5	while	while	SCONJ	conj	_	7	mark	_	_
 6	you	you	PRON	pro	_	7	nsubj	_	_
 7	eat	eat	VERB	v	_	3	advcl	_	_
 8	.	.	PUNCT	.	_	3	punct	_	_
@@ -11210,7 +11210,7 @@
 
 #eve02.xml,737
 1	wait	wait	VERB	v	_	0	root	_	_
-2	until	until	SCONJ	conj	_	4	?	_	_
+2	until	until	SCONJ	conj	_	4	mark	_	_
 3	I	I	PRON	pro:sub	_	4	nsubj	_	_
 4	wipe	wipe	VERB	v	_	1	advcl	_	_
 5	your	your	PRON	pro:poss:det	_	6	nmod:poss	_	_
@@ -11516,7 +11516,7 @@
 
 #eve02.xml,779
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	the	the	DET	art	_	4	det	_	_
 4	waste	waste	NOUN	n	_	1	root	_	_
 5	basket	basket	NOUN	n	_	4	compound	_	_
@@ -11647,7 +11647,7 @@
 2	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve02.xml,797
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	make	make	VERB	v	_	0	root	_	_
 3	you	you	PRON	pro	_	2	dobj	_	_
 4	happy	happy	ADJ	adj	_	2	advmod	_	_
@@ -12609,7 +12609,7 @@
 #eve03.xml,115
 1	what	what	PRON	pro:wh	_	6	dobj	_	_
 2	~be&3S	~be&3S	AUX	aux	_	6	aux	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	you	you	PRON	pro	_	6	nsubj	_	_
 5	~be&PRES	~be&PRES	AUX	aux	_	6	aux	_	_
 6	get-PRESP	get-PRESP	VERB	part	_	0	root	_	_
@@ -13470,7 +13470,7 @@
 3	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve03.xml,231
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	mean-3S	mean-3S	VERB	v	_	0	root	_	_
 3	no	no	INTJ	co	_	2	discourse	_	_
 4	.	.	PUNCT	.	_	2	punct	_	_
@@ -13904,7 +13904,7 @@
 #eve03.xml,295
 1	what	what	PRON	pro:wh	_	2	nsubj	_	_
 2	~be&3S	~be&3S	VERB	cop	_	0	root	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	he	he	PRON	pro:sub	_	6	nsubj	_	_
 5	~be&3S	~be&3S	AUX	aux	_	6	aux	_	_
 6	get&PAST	get&PAST	VERB	v	_	2	ccomp	_	_
@@ -14843,7 +14843,7 @@
 7	.	.	PUNCT	.	_	6	punct	_	_
 
 #eve04.xml,63
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	improve-3S	improve-3S	VERB	v	_	0	root	_	_
 3	the	the	DET	art	_	2	dobj	_	_
 4	page	page	NOUN	n	_	3	?	_	_
@@ -15304,7 +15304,7 @@
 6	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve04.xml,134
-1	like	like	SCONJ	conj	_	2	?	_	_
+1	like	like	SCONJ	conj	_	2	mark	_	_
 2	Eve	Eve	PROPN	n:prop	_	0	root	_	_
 3	when	when	SCONJ	conj	_	5	advmod	_	_
 4	we	we	PRON	pro:sub	_	5	nsubj	_	_
@@ -15344,7 +15344,7 @@
 4	round	round	ADJ	adj	_	5	amod	_	_
 5	tinker	tinker	NOUN	n	_	2	nsubj	_	_
 6	toy	toy	NOUN	n	_	5	compound	_	_
-7	that	that	SCONJ	rel	_	9	?	_	_
+7	that	that	SCONJ	rel	_	9	mark	_	_
 8	we	we	PRON	pro:sub	_	9	nsubj	_	_
 9	build	build	VERB	v	_	5	?	_	_
 10	with	with	ADP	prep	_	9	advmod	_	_
@@ -16069,7 +16069,7 @@
 #eve04.xml,246
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	look	look	VERB	v	_	0	root	_	_
-3	like	like	SCONJ	conj	_	7	?	_	_
+3	like	like	SCONJ	conj	_	7	mark	_	_
 4	you	you	PRON	pro	_	7	nsubj	_	_
 5	~have	~have	AUX	aux	_	7	aux	_	_
 6	be&PASTP	be&PASTP	AUX	aux	_	7	aux	_	_
@@ -17483,7 +17483,7 @@
 4	~be&3S	~be&3S	VERB	cop	_	0	root	_	_
 5	nothing	nothing	NOUN	pro:indef	_	4	nsubj	_	_
 6	else	else	ADV	post	_	5	advmod	_	_
-7	that	that	SCONJ	rel	_	9	?	_	_
+7	that	that	SCONJ	rel	_	9	mark	_	_
 8	~be&3S	~be&3S	AUX	aux	_	9	aux	_	_
 9	interest-PRESP	interest-PRESP	VERB	part	_	5	?	_	_
 10	there	there	ADV	adv	_	9	advmod	_	_
@@ -18345,7 +18345,7 @@
 2	do	do	AUX	mod	_	4	aux	_	_
 3	~not	~not	PART	neg	_	4	neg	_	_
 4	want	want	VERB	v	_	0	root	_	_
-5	that	that	SCONJ	rel	_	6	?	_	_
+5	that	that	SCONJ	rel	_	6	mark	_	_
 6	one	one	NOUN	pro:indef	_	4	dobj	_	_
 7	?	?	PUNCT	?	_	4	punct	_	_
 
@@ -18937,7 +18937,7 @@
 5	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve04.xml,646
-1	whose	whose	SCONJ	rel	_	2	?	_	_
+1	whose	whose	SCONJ	rel	_	2	mark	_	_
 2	coffee	coffee	NOUN	n	_	4	nsubj	_	_
 3	~be&3S	~be&3S	AUX	aux	_	4	aux	_	_
 4	all	all	X	X	_	0	root	_	_
@@ -19166,7 +19166,7 @@
 8	.	.	PUNCT	.	_	7	punct	_	_
 
 #eve04.xml,679
-1	whose	whose	SCONJ	rel	_	4	?	_	_
+1	whose	whose	SCONJ	rel	_	4	mark	_	_
 2	hat	hat	NOUN	n	_	4	nsubj	_	_
 3	be&3S	be&3S	VERB	cop	_	4	cop	_	_
 4	that	that	PRON	pro:dem	_	3	root	_	_
@@ -19479,7 +19479,7 @@
 2	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve04.xml,723
-1	for	for	SCONJ	conj	_	2	?	_	_
+1	for	for	SCONJ	conj	_	2	mark	_	_
 2	Eve	Eve	PROPN	n:prop	_	0	root	_	_
 3	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -20719,7 +20719,7 @@
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve05.xml,32
-1	for	for	SCONJ	conj	_	3	?	_	_
+1	for	for	SCONJ	conj	_	3	mark	_	_
 2	your	your	PRON	pro:poss:det	_	3	nmod:poss	_	_
 3	lunch	lunch	NOUN	n	_	0	root	_	_
 4	,	end	PUNCT	end	_	3	punct	_	_
@@ -21644,7 +21644,7 @@
 1	the	the	DET	art	_	3	det	_	_
 2	big	big	ADJ	adj	_	3	amod	_	_
 3	one	one	NOUN	pro:indef	_	0	root	_	_
-4	like	like	SCONJ	conj	_	7	?	_	_
+4	like	like	SCONJ	conj	_	7	mark	_	_
 5	I	I	PRON	pro:sub	_	7	nsubj	_	_
 6	~be&1S	~be&1S	AUX	aux	_	7	aux	_	_
 7	sit-PRESP	sit-PRESP	VERB	part	_	3	advcl	_	_
@@ -21748,7 +21748,7 @@
 1	the	the	DET	art	_	3	det	_	_
 2	big	big	ADJ	adj	_	3	amod	_	_
 3	stool	stool	NOUN	n	_	0	root	_	_
-4	like	like	SCONJ	conj	_	7	?	_	_
+4	like	like	SCONJ	conj	_	7	mark	_	_
 5	I	I	PRON	pro:sub	_	7	nsubj	_	_
 6	~be&1S	~be&1S	AUX	aux	_	7	aux	_	_
 7	sit-PRESP	sit-PRESP	VERB	part	_	3	advcl	_	_
@@ -22049,7 +22049,7 @@
 3	my	my	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	stool	stool	NOUN	n	_	2	root	_	_
 5	and	and	CONJ	coord	_	4	cc	_	_
-6	that	that	SCONJ	rel	_	7	?	_	_
+6	that	that	SCONJ	rel	_	7	mark	_	_
 7	belong-3S	belong-3S	VERB	v	_	4	conj	_	_
 8	to	to	ADP	prep	_	9	case	_	_
 9	you	you	PRON	pro	_	7	nmod	_	_
@@ -22859,7 +22859,7 @@
 
 #eve05.xml,323
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	my	my	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	lunch	lunch	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -23474,7 +23474,7 @@
 #eve05.xml,411
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	eat	eat	VERB	v	_	0	root	_	_
-3	that	that	SCONJ	rel	_	4	?	_	_
+3	that	that	SCONJ	rel	_	4	mark	_	_
 4	one	one	NOUN	pro:indef	_	2	ccomp	_	_
 5	first	first	ADJ	adj	_	4	?	_	_
 6	.	.	PUNCT	.	_	2	punct	_	_
@@ -23661,7 +23661,7 @@
 
 #eve05.xml,438
 1	be&3S	be&3S	VERB	cop	_	5	cop	_	_
-2	that	that	SCONJ	rel	_	5	?	_	_
+2	that	that	SCONJ	rel	_	5	mark	_	_
 3	a	a	DET	art	_	5	det	_	_
 4	sing-PRESP	sing-PRESP	VERB	part	_	5	MOD	_	_
 5	hamster	hamster	NOUN	n	_	1	root	_	_
@@ -23760,7 +23760,7 @@
 1	and	and	CONJ	coord	_	7	cc	_	_
 2	what	what	PRON	pro:wh	_	7	nsubj	_	_
 3	~be&3S	~be&3S	AUX	aux	_	7	aux	_	_
-4	that	that	SCONJ	rel	_	7	?	_	_
+4	that	that	SCONJ	rel	_	7	mark	_	_
 5	he	he	PRON	pro:sub	_	7	nsubj	_	_
 6	~be&3S	~be&3S	AUX	aux	_	7	aux	_	_
 7	eat-PRESP	eat-PRESP	VERB	part	_	0	root	_	_
@@ -24500,7 +24500,7 @@
 
 #eve05.xml,568
 1	look-3S	look-3S	VERB	v	_	0	root	_	_
-2	like	like	SCONJ	conj	_	4	?	_	_
+2	like	like	SCONJ	conj	_	4	mark	_	_
 3	somebody	somebody	NOUN	pro:indef	_	4	nsubj	_	_
 4	tear&PAST	tear&PAST	VERB	v	_	1	ccomp	_	_
 5	it	it	PRON	pro	_	4	dobj	_	_
@@ -26240,7 +26240,7 @@
 2	~be&3S	~be&3S	AUX	aux	_	3	aux	_	_
 3	tell-PRESP	tell-PRESP	VERB	part	_	0	root	_	_
 4	me	me	PRON	pro:obj	_	3	dobj	_	_
-5	that	that	SCONJ	rel	_	8	?	_	_
+5	that	that	SCONJ	rel	_	8	mark	_	_
 6	she	she	PRON	pro:sub	_	8	nsubj	_	_
 7	~be&3S	~be&3S	VERB	cop	_	8	cop	_	_
 8	hungry	hungry	ADJ	adj	_	3	ccomp	_	_
@@ -26348,7 +26348,7 @@
 10	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve06.xml,87
-1	whose	whose	SCONJ	rel	_	2	?	_	_
+1	whose	whose	SCONJ	rel	_	2	mark	_	_
 2	pencil	pencil	NOUN	n	_	4	nsubj	_	_
 3	be&3S	be&3S	AUX	aux	_	4	aux	_	_
 4	this	this	DET	det	_	0	root	_	_
@@ -26369,7 +26369,7 @@
 5	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve06.xml,90
-1	whose	whose	SCONJ	rel	_	4	?	_	_
+1	whose	whose	SCONJ	rel	_	4	mark	_	_
 2	pencil	pencil	NOUN	n	_	4	nsubj	_	_
 3	be&3S	be&3S	VERB	cop	_	4	cop	_	_
 4	that	that	PRON	pro:dem	_	3	root	_	_
@@ -26400,7 +26400,7 @@
 
 #eve06.xml,95
 1	be&3S	be&3S	VERB	cop	_	5	cop	_	_
-2	that	that	SCONJ	rel	_	5	?	_	_
+2	that	that	SCONJ	rel	_	5	mark	_	_
 3	a	a	DET	art	_	5	det	_	_
 4	nice	nice	ADJ	adj	_	5	amod	_	_
 5	bed	bed	NOUN	n	_	1	root	_	_
@@ -26913,7 +26913,7 @@
 4	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve06.xml,169
-1	whose	whose	SCONJ	rel	_	3	?	_	_
+1	whose	whose	SCONJ	rel	_	3	mark	_	_
 2	boot-PL	boot-PL	NOUN	n	_	3	nsubj	_	_
 3	be&PRES	be&PRES	VERB	cop	_	0	root	_	_
 4	in	in	ADP	prep	_	6	case	_	_
@@ -27188,7 +27188,7 @@
 3	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve06.xml,210
-1	for	for	SCONJ	conj	_	4	?	_	_
+1	for	for	SCONJ	conj	_	4	mark	_	_
 2	a	a	DET	art	_	4	det	_	_
 3	whole	whole	ADJ	adj	_	4	amod	_	_
 4	week	week	NOUN	n	_	0	root	_	_
@@ -27248,7 +27248,7 @@
 2	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve06.xml,218
-1	for	for	SCONJ	conj	_	4	?	_	_
+1	for	for	SCONJ	conj	_	4	mark	_	_
 2	a	a	DET	art	_	4	det	_	_
 3	whole	whole	ADJ	adj	_	4	amod	_	_
 4	week	week	NOUN	n	_	0	root	_	_
@@ -27522,7 +27522,7 @@
 #eve06.xml,254
 1	will&COND	will&COND	AUX	mod	_	0	root	_	_
 2	you	you	PRON	pro	_	1	dobj	_	_
-3	like	like	SCONJ	conj	_	5	?	_	_
+3	like	like	SCONJ	conj	_	5	mark	_	_
 4	a	a	DET	art	_	5	det	_	_
 5	carrot	carrot	NOUN	n	_	1	advcl	_	_
 6	?	?	PUNCT	?	_	1	punct	_	_
@@ -27607,7 +27607,7 @@
 1	what	what	PRON	pro:wh	_	5	nsubj	_	_
 2	color	color	NOUN	n	_	5	nsubj	_	_
 3	be&3S	be&3S	VERB	cop	_	5	cop	_	_
-4	that	that	SCONJ	rel	_	5	?	_	_
+4	that	that	SCONJ	rel	_	5	mark	_	_
 5	one	one	NOUN	pro:indef	_	3	root	_	_
 6	?	?	PUNCT	?	_	5	punct	_	_
 
@@ -27628,7 +27628,7 @@
 
 #eve06.xml,274
 1	be&3S	be&3S	VERB	cop	_	5	cop	_	_
-2	that	that	SCONJ	rel	_	5	?	_	_
+2	that	that	SCONJ	rel	_	5	mark	_	_
 3	a	a	DET	art	_	5	det	_	_
 4	purple	purple	NOUN	n	_	5	compund	_	_
 5	one	one	NOUN	pro:indef	_	1	root	_	_
@@ -28346,7 +28346,7 @@
 5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve06.xml,373
-1	whose	whose	SCONJ	rel	_	4	?	_	_
+1	whose	whose	SCONJ	rel	_	4	mark	_	_
 2	pencil	pencil	NOUN	n	_	4	nsubj	_	_
 3	be&3S	be&3S	VERB	cop	_	4	cop	_	_
 4	that	that	PRON	pro:dem	_	3	root	_	_
@@ -28825,7 +28825,7 @@
 8	with	with	ADP	prep	_	10	case	_	_
 9	this	this	DET	det	_	10	det	_	_
 10	one	one	NOUN	pro:indef	_	7	nmod	_	_
-11	or	or	SCONJ	conj	_	14	?	_	_
+11	or	or	SCONJ	conj	_	14	mark	_	_
 12	she	she	PRON	pro:sub	_	14	nsubj	_	_
 13	~will	~will	AUX	mod	_	14	aux	_	_
 14	fall	fall	VERB	v	_	7	advcl	_	_
@@ -29105,7 +29105,7 @@
 4	to	to	PART	inf	_	5	mark	_	_
 5	sit	sit	VERB	v	_	3	xcomp	_	_
 6	on	on	ADV	adv	_	5	advmod	_	_
-7	that	that	SCONJ	rel	_	10	?	_	_
+7	that	that	SCONJ	rel	_	10	mark	_	_
 8	you	you	PRON	pro	_	10	nsubj	_	_
 9	can	can	AUX	mod	_	10	aux	_	_
 10	put&ZERO	put&ZERO	VERB	v	_	5	ccomp	_	_
@@ -29311,7 +29311,7 @@
 7	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve06.xml,505
-1	for	for	SCONJ	conj	_	5	?	_	_
+1	for	for	SCONJ	conj	_	5	mark	_	_
 2	lunch	lunch	NOUN	n	_	5	advmod	_	_
 3	we	we	PRON	pro:sub	_	5	nsubj	_	_
 4	~be&PRES	~be&PRES	AUX	aux	_	5	aux	_	_
@@ -29385,7 +29385,7 @@
 #eve06.xml,513
 1	what	what	PRON	pro:wh	_	5	nsubj	_	_
 2	be&PAST&13S	be&PAST&13S	VERB	cop	_	5	cop	_	_
-3	that	that	SCONJ	rel	_	5	?	_	_
+3	that	that	SCONJ	rel	_	5	mark	_	_
 4	she	she	PRON	pro:sub	_	5	nsubj	_	_
 5	say&PAST	say&PAST	VERB	v	_	2	root	_	_
 6	?	?	PUNCT	?	_	5	punct	_	_
@@ -30555,7 +30555,7 @@
 3	have	have	VERB	v	_	0	root	_	_
 4	your	your	PRON	pro:poss:det	_	5	nmod:poss	_	_
 5	lunch	lunch	NOUN	n	_	3	dobj	_	_
-6	while	while	SCONJ	conj	_	8	?	_	_
+6	while	while	SCONJ	conj	_	8	mark	_	_
 7	Sarah	Sarah	PROPN	n:prop	_	8	nsubj	_	_
 8	have&3S	have&3S	VERB	v	_	3	advcl	_	_
 9	her	her	PRON	pro:poss:det	_	10	nmod:poss	_	_
@@ -31579,7 +31579,7 @@
 7	.	.	PUNCT	.	_	6	punct	_	_
 
 #eve07.xml,278
-1	whose	whose	SCONJ	rel	_	3	?	_	_
+1	whose	whose	SCONJ	rel	_	3	mark	_	_
 2	be&3S	be&3S	VERB	cop	_	3	cop	_	_
 3	that	that	PRON	pro:dem	_	2	root	_	_
 4	?	?	PUNCT	?	_	3	punct	_	_
@@ -31693,7 +31693,7 @@
 5	bottle	bottle	NOUN	n	_	3	dobj	_	_
 6	to	to	ADP	prep	_	7	case	_	_
 7	Papa	Papa	PROPN	n:prop	_	3	nmod	_	_
-8	so	so	SCONJ	conj	_	11	?	_	_
+8	so	so	SCONJ	conj	_	11	mark	_	_
 9	he	he	PRON	pro:sub	_	11	nsubj	_	_
 10	can	can	AUX	mod	_	11	aux	_	_
 11	rinse	rinse	VERB	v	_	3	advcl	_	_
@@ -31708,7 +31708,7 @@
 2	it	it	PRON	pro	_	1	dobj	_	_
 3	to	to	ADP	prep	_	4	case	_	_
 4	Papa	Papa	PROPN	n:prop	_	1	nmod	_	_
-5	so	so	SCONJ	conj	_	8	?	_	_
+5	so	so	SCONJ	conj	_	8	mark	_	_
 6	he	he	PRON	pro:sub	_	8	nsubj	_	_
 7	can	can	AUX	mod	_	8	aux	_	_
 8	rinse	rinse	VERB	v	_	1	advcl	_	_
@@ -31737,7 +31737,7 @@
 8	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve07.xml,300
-1	after	after	SCONJ	conj	_	3	?	_	_
+1	after	after	SCONJ	conj	_	3	mark	_	_
 2	Sarah	Sarah	PROPN	n:prop	_	3	nsubj	_	_
 3	have&3S	have&3S	VERB	v	_	0	root	_	_
 4	a	a	DET	art	_	3	dobj	_	_
@@ -31885,7 +31885,7 @@
 4	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve07.xml,325
-1	after	after	SCONJ	conj	_	3	?	_	_
+1	after	after	SCONJ	conj	_	3	mark	_	_
 2	Sarah	Sarah	PROPN	n:prop	_	3	nsubj	_	_
 3	have&3S	have&3S	VERB	v	_	0	root	_	_
 4	a	a	DET	art	_	3	dobj	_	_
@@ -32075,7 +32075,7 @@
 3	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve07.xml,348
-1	whose	whose	SCONJ	rel	_	4	?	_	_
+1	whose	whose	SCONJ	rel	_	4	mark	_	_
 2	cup	cup	NOUN	n	_	4	nsubj	_	_
 3	be&3S	be&3S	VERB	cop	_	4	cop	_	_
 4	that	that	PRON	pro:dem	_	3	root	_	_
@@ -32958,7 +32958,7 @@
 4	on	on	ADP	prep	_	6	case	_	_
 5	the	the	DET	art	_	6	det	_	_
 6	sugar	sugar	NOUN	n	_	3	nmod	_	_
-7	or	or	SCONJ	conj	_	10	?	_	_
+7	or	or	SCONJ	conj	_	10	mark	_	_
 8	I	I	PRON	pro:sub	_	10	nsubj	_	_
 9	will	will	AUX	mod	_	10	aux	_	_
 10	smack	smack	VERB	v	_	3	advcl	_	_
@@ -33166,7 +33166,7 @@
 2	do	do	AUX	mod	_	4	aux	_	_
 3	~not	~not	PART	neg	_	4	neg	_	_
 4	know	know	VERB	v	_	0	root	_	_
-5	whether	whether	SCONJ	conj	_	7	?	_	_
+5	whether	whether	SCONJ	conj	_	7	mark	_	_
 6	it	it	PRON	pro	_	7	nsubj	_	_
 7	do&PAST	do&PAST	VERB	v	_	4	advcl	_	_
 8	.	.	PUNCT	.	_	4	punct	_	_
@@ -33591,7 +33591,7 @@
 10	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve07.xml,561
-1	whose	whose	SCONJ	rel	_	2	?	_	_
+1	whose	whose	SCONJ	rel	_	2	mark	_	_
 2	coffee	coffee	NOUN	n	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -33903,7 +33903,7 @@
 #eve07.xml,609
 1	Rick	Rick	PROPN	n:prop	_	0	root	_	_
 2	,	beg	PUNCT	beg	_	1	punct	_	_
-3	whose	whose	SCONJ	rel	_	6	?	_	_
+3	whose	whose	SCONJ	rel	_	6	mark	_	_
 4	spoon	spoon	NOUN	n	_	6	nsubj	_	_
 5	be&3S	be&3S	AUX	aux	_	6	aux	_	_
 6	this	this	DET	det	_	7	det	_	_
@@ -33916,7 +33916,7 @@
 
 #eve07.xml,611
 1	and	and	CONJ	coord	_	5	cc	_	_
-2	whose	whose	SCONJ	rel	_	5	?	_	_
+2	whose	whose	SCONJ	rel	_	5	mark	_	_
 3	spoon	spoon	NOUN	n	_	5	nsubj	_	_
 4	be&3S	be&3S	VERB	cop	_	5	cop	_	_
 5	that	that	PRON	pro:dem	_	4	root	_	_
@@ -33953,7 +33953,7 @@
 #eve07.xml,617
 1	Eve	Eve	PROPN	n:prop	_	0	root	_	_
 2	,	beg	PUNCT	beg	_	1	punct	_	_
-3	whose	whose	SCONJ	rel	_	6	?	_	_
+3	whose	whose	SCONJ	rel	_	6	mark	_	_
 4	spoon	spoon	NOUN	n	_	6	nsubj	_	_
 5	be&3S	be&3S	AUX	aux	_	6	aux	_	_
 6	this	this	DET	det	_	7	det	_	_
@@ -33962,7 +33962,7 @@
 #eve07.xml,618
 1	Rick	Rick	PROPN	n:prop	_	0	root	_	_
 2	,	beg	PUNCT	beg	_	1	punct	_	_
-3	whose	whose	SCONJ	rel	_	6	?	_	_
+3	whose	whose	SCONJ	rel	_	6	mark	_	_
 4	spoon	spoon	NOUN	n	_	6	nsubj	_	_
 5	be&3S	be&3S	AUX	aux	_	6	aux	_	_
 6	this	this	DET	det	_	7	det	_	_
@@ -33976,7 +33976,7 @@
 #eve07.xml,620
 1	Eve	Eve	PROPN	n:prop	_	0	root	_	_
 2	,	beg	PUNCT	beg	_	1	punct	_	_
-3	whose	whose	SCONJ	rel	_	6	?	_	_
+3	whose	whose	SCONJ	rel	_	6	mark	_	_
 4	spoon	spoon	NOUN	n	_	6	nsubj	_	_
 5	be&3S	be&3S	AUX	aux	_	6	aux	_	_
 6	this	this	DET	det	_	7	det	_	_
@@ -33985,7 +33985,7 @@
 #eve07.xml,621
 1	no	no	INTJ	co	_	2	discourse	_	_
 2	,	beg	PUNCT	beg	_	0	punct	_	_
-3	whose	whose	SCONJ	rel	_	5	?	_	_
+3	whose	whose	SCONJ	rel	_	5	mark	_	_
 4	be&3S	be&3S	AUX	aux	_	5	aux	_	_
 5	this	this	DET	det	_	6	det	_	_
 6	?	?	PUNCT	?	_	2	punct	_	_
@@ -34566,7 +34566,7 @@
 1	well	well	INTJ	co	_	3	discourse	_	_
 2	,	beg	PUNCT	beg	_	3	punct	_	_
 3	wait	wait	VERB	v	_	0	root	_	_
-4	until	until	SCONJ	conj	_	6	?	_	_
+4	until	until	SCONJ	conj	_	6	mark	_	_
 5	I	I	PRON	pro:sub	_	6	nsubj	_	_
 6	fix	fix	VERB	v	_	3	advcl	_	_
 7	your	your	PRON	pro:poss:det	_	8	nmod:poss	_	_
@@ -34770,7 +34770,7 @@
 7	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve07.xml,734
-1	whose	whose	SCONJ	rel	_	2	?	_	_
+1	whose	whose	SCONJ	rel	_	2	mark	_	_
 2	ice	ice	NOUN	n	_	5	nsubj	_	_
 3	cream	cream	NOUN	n	_	2	compound	_	_
 4	be&3S	be&3S	AUX	aux	_	5	aux	_	_
@@ -34786,7 +34786,7 @@
 6	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve07.xml,736
-1	whose	whose	SCONJ	rel	_	5	?	_	_
+1	whose	whose	SCONJ	rel	_	5	mark	_	_
 2	ice	ice	NOUN	n	_	5	nsubj	_	_
 3	cream	cream	NOUN	n	_	2	compound	_	_
 4	be&3S	be&3S	AUX	aux	_	5	aux	_	_
@@ -34796,7 +34796,7 @@
 8	?	?	PUNCT	?	_	6	punct	_	_
 
 #eve07.xml,737
-1	whose	whose	SCONJ	rel	_	2	?	_	_
+1	whose	whose	SCONJ	rel	_	2	mark	_	_
 2	ice	ice	NOUN	n	_	0	root	_	_
 3	cream	cream	NOUN	n	_	2	compound	_	_
 4	?	?	PUNCT	?	_	2	punct	_	_
@@ -34806,7 +34806,7 @@
 2	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve07.xml,739
-1	whose	whose	SCONJ	rel	_	2	?	_	_
+1	whose	whose	SCONJ	rel	_	2	mark	_	_
 2	ice	ice	NOUN	n	_	5	nsubj	_	_
 3	cream	cream	NOUN	n	_	2	compound	_	_
 4	be&3S	be&3S	AUX	aux	_	5	aux	_	_
@@ -35655,7 +35655,7 @@
 
 #eve08.xml,107
 1	be&3S	be&3S	VERB	cop	_	3	cop	_	_
-2	that	that	SCONJ	rel	_	3	?	_	_
+2	that	that	SCONJ	rel	_	3	mark	_	_
 3	Fraser	Fraser	PROPN	n:prop	_	1	root	_	_
 4	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -35819,7 +35819,7 @@
 
 #eve08.xml,128
 1	be&3S	be&3S	VERB	cop	_	3	cop	_	_
-2	that	that	SCONJ	rel	_	3	?	_	_
+2	that	that	SCONJ	rel	_	3	mark	_	_
 3	Snoopy	Snoopy	PROPN	n:prop	_	1	root	_	_
 4	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -36070,7 +36070,7 @@
 4	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve08.xml,159
-1	while	while	SCONJ	conj	_	4	?	_	_
+1	while	while	SCONJ	conj	_	4	mark	_	_
 2	it	it	PRON	pro	_	4	nsubj	_	_
 3	~be&3S	~be&3S	VERB	cop	_	4	cop	_	_
 4	still	still	ADV	adv	_	3	root	_	_
@@ -37369,7 +37369,7 @@
 
 #eve08.xml,332
 1	be&3S	be&3S	VERB	cop	_	5	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	my	my	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	grape	grape	NOUN	n	_	5	compund	_	_
 5	juice	juice	NOUN	n	_	1	root	_	_
@@ -37377,7 +37377,7 @@
 
 #eve08.xml,333
 1	be&3S	be&3S	VERB	cop	_	5	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	my	my	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	grape	grape	NOUN	n	_	5	compund	_	_
 5	juice	juice	NOUN	n	_	1	root	_	_
@@ -37600,7 +37600,7 @@
 
 #eve08.xml,365
 1	be&3S	be&3S	VERB	cop	_	3	cop	_	_
-2	that	that	SCONJ	rel	_	3	?	_	_
+2	that	that	SCONJ	rel	_	3	mark	_	_
 3	Fraser	Fraser	PROPN	n:prop	_	1	root	_	_
 4	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -37874,7 +37874,7 @@
 #eve08.xml,401
 1	I	I	PRON	pro:sub	_	2	nsubj	_	_
 2	think	think	VERB	v	_	0	root	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	it	it	PRON	pro	_	6	nsubj	_	_
 5	~be&3S	~be&3S	VERB	cop	_	6	cop	_	_
 6	alright	alright	ADJ	adj	_	2	ccomp	_	_
@@ -38420,7 +38420,7 @@
 3	on	on	ADP	prep	_	5	case	_	_
 4	the	the	DET	art	_	5	det	_	_
 5	napkin	napkin	NOUN	n	_	1	nmod	_	_
-6	until	until	SCONJ	conj	_	9	?	_	_
+6	until	until	SCONJ	conj	_	9	mark	_	_
 7	it	it	PRON	pro	_	9	nsubj	_	_
 8	~be&3S	~be&3S	VERB	cop	_	9	cop	_	_
 9	dry	dry	ADJ	adj	_	1	advcl	_	_
@@ -38556,7 +38556,7 @@
 
 #eve08.xml,499
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	a	a	DET	art	_	4	det	_	_
 4	man	man	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -38839,7 +38839,7 @@
 
 #eve08.xml,539
 1	turn	turn	NOUN	n	_	0	root	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	back	back	ADV	adv	_	4	advmod	_	_
 4	the	the	DET	art	_	1	?	_	_
 5	other	other	ADJ	qn	_	6	amod	_	_
@@ -40091,14 +40091,14 @@
 
 #eve08.xml,719
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	my	my	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	pipe	pipe	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve08.xml,720
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	my	my	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	pipe	pipe	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -40342,7 +40342,7 @@
 2	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve08.xml,754
-1	for	for	SCONJ	conj	_	2	?	_	_
+1	for	for	SCONJ	conj	_	2	mark	_	_
 2	breakfast	breakfast	NOUN	n	_	0	root	_	_
 3	,	end	PUNCT	end	_	2	punct	_	_
 4	yes	yes	INTJ	co	_	3	discourse	_	_
@@ -40378,7 +40378,7 @@
 7	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve08.xml,759
-1	either	either	SCONJ	conj	_	2	?	_	_
+1	either	either	SCONJ	conj	_	2	mark	_	_
 2	sit	sit	VERB	v	_	0	root	_	_
 3	right	right	ADV	adv	_	2	advmod	_	_
 4	on	on	ADP	prep	_	6	case	_	_
@@ -40918,28 +40918,28 @@
 
 #eve08.xml,840
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	two	two	NUM	det:num	_	4	nummod	_	_
 4	car	car	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve08.xml,841
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	two	two	NUM	det:num	_	4	nummod	_	_
 4	car	car	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve08.xml,842
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	two	two	NUM	det:num	_	4	nummod	_	_
 4	car-PL	car-PL	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve08.xml,843
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	two	two	NUM	det:num	_	4	nummod	_	_
 4	crayon-PL	crayon-PL	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -41258,7 +41258,7 @@
 9	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve08.xml,890
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	go-3S	go-3S	VERB	v	_	0	root	_	_
 3	in	in	ADP	prep	_	6	case	_	_
 4	the	the	DET	art	_	6	det	_	_
@@ -41513,7 +41513,7 @@
 
 #eve08.xml,924
 1	be&3S	be&3S	VERB	cop	_	3	cop	_	_
-2	that	that	SCONJ	rel	_	3	?	_	_
+2	that	that	SCONJ	rel	_	3	mark	_	_
 3	Eve	Eve	PROPN	n:prop	_	1	root	_	_
 4	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -41791,7 +41791,7 @@
 
 #eve08.xml,970
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	a	a	DET	art	_	4	det	_	_
 4	dog	dog	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -42622,7 +42622,7 @@
 5	in	in	ADP	prep	_	7	case	_	_
 6	her	her	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	chair	chair	NOUN	n	_	4	nmod	_	_
-8	while	while	SCONJ	conj	_	10	?	_	_
+8	while	while	SCONJ	conj	_	10	mark	_	_
 9	she	she	PRON	pro:sub	_	10	nsubj	_	_
 10	~be&3S	~be&3S	VERB	cop	_	4	advcl	_	_
 11	there	there	ADV	adv	_	10	advmod	_	_
@@ -42800,7 +42800,7 @@
 1	well	well	INTJ	co	_	2	discourse	_	_
 2	,	beg	PUNCT	beg	_	0	punct	_	_
 3	wait	wait	INTJ	co	_	2	discourse	_	_
-4	until	until	SCONJ	conj	_	7	?	_	_
+4	until	until	SCONJ	conj	_	7	mark	_	_
 5	you	you	PRON	pro	_	7	nsubj	_	_
 6	~have	~have	AUX	aux	_	7	aux	_	_
 7	eat&PASTP	eat&PASTP	VERB	part	_	2	advcl	_	_
@@ -43467,7 +43467,7 @@
 4	nothing	nothing	NOUN	pro:indef	_	3	nsubj	_	_
 5	in	in	ADP	prep	_	6	case	_	_
 6	it	it	PRON	pro	_	3	nmod	_	_
-7	that	that	SCONJ	rel	_	9	?	_	_
+7	that	that	SCONJ	rel	_	9	mark	_	_
 8	~be&3S	~be&3S	AUX	aux	_	9	aux	_	_
 9	interest-PRESP	interest-PRESP	VERB	part	_	6	?	_	_
 10	.	.	PUNCT	.	_	3	punct	_	_
@@ -43742,7 +43742,7 @@
 
 #eve09.xml,126
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	Eve	Eve	PROPN	n:prop	_	4	nmod	_	_
 4	pencil	pencil	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -46178,7 +46178,7 @@
 7	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve09.xml,470
-1	for	for	SCONJ	conj	_	2	?	_	_
+1	for	for	SCONJ	conj	_	2	mark	_	_
 2	desert	desert	NOUN	n	_	0	root	_	_
 3	,	end	PUNCT	end	_	2	punct	_	_
 4	yes	yes	INTJ	co	_	3	discourse	_	_
@@ -46350,7 +46350,7 @@
 2	do	do	AUX	mod	_	4	aux	_	_
 3	you	you	PRON	pro	_	4	nsubj	_	_
 4	want	want	VERB	v	_	0	root	_	_
-5	that	that	SCONJ	rel	_	7	?	_	_
+5	that	that	SCONJ	rel	_	7	mark	_	_
 6	I	I	PRON	pro:sub	_	7	nsubj	_	_
 7	do	do	VERB	v	_	4	ccomp	_	_
 8	with	with	ADP	prep	_	9	case	_	_
@@ -46796,7 +46796,7 @@
 9	in	in	ADP	prep	_	11	case	_	_
 10	the	the	DET	art	_	11	det	_	_
 11	closet	closet	NOUN	n	_	5	nmod	_	_
-12	while	while	SCONJ	conj	_	14	?	_	_
+12	while	while	SCONJ	conj	_	14	mark	_	_
 13	I	I	PRON	pro:sub	_	14	nsubj	_	_
 14	fix	fix	VERB	v	_	5	advcl	_	_
 15	the	the	DET	art	_	16	det	_	_
@@ -47733,7 +47733,7 @@
 2	let	let	VERB	v	_	0	root	_	_
 3	~us	~us	PRON	pro:obj	_	2	dobj	_	_
 4	wait	wait	VERB	v	_	2	ccomp	_	_
-5	until	until	SCONJ	conj	_	7	?	_	_
+5	until	until	SCONJ	conj	_	7	mark	_	_
 6	he	he	PRON	pro:sub	_	7	nsubj	_	_
 7	come-3S	come-3S	VERB	v	_	4	advcl	_	_
 8	home	home	NOUN	n	_	7	advmod	_	_
@@ -48714,7 +48714,7 @@
 
 #eve10.xml,332
 1	be&3S	be&3S	VERB	cop	_	6	cop	_	_
-2	that	that	SCONJ	rel	_	6	?	_	_
+2	that	that	SCONJ	rel	_	6	mark	_	_
 3	the	the	DET	art	_	6	det	_	_
 4	doll	doll	NOUN	n	_	6	nmod	_	_
 5	~s	~s	PART	poss	_	4	case	_	_
@@ -48723,7 +48723,7 @@
 
 #eve10.xml,333
 1	be&3S	be&3S	VERB	cop	_	6	cop	_	_
-2	that	that	SCONJ	rel	_	6	?	_	_
+2	that	that	SCONJ	rel	_	6	mark	_	_
 3	the	the	DET	art	_	6	det	_	_
 4	box	box	NOUN	n	_	6	nmod	_	_
 5	~s	~s	PART	poss	_	4	case	_	_
@@ -49124,7 +49124,7 @@
 #eve10.xml,390
 1	will&COND	will&COND	AUX	mod	_	0	root	_	_
 2	you	you	PRON	pro	_	1	dobj	_	_
-3	like	like	SCONJ	conj	_	5	?	_	_
+3	like	like	SCONJ	conj	_	5	mark	_	_
 4	a	a	DET	art	_	5	det	_	_
 5	piece	piece	NOUN	n	_	1	advcl	_	_
 6	?	?	PUNCT	?	_	1	punct	_	_
@@ -49354,21 +49354,21 @@
 
 #eve10.xml,426
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	two	two	NUM	det:num	_	4	nummod	_	_
 4	pencil	pencil	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve10.xml,427
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	two	two	NUM	det:num	_	4	nummod	_	_
 4	pencil	pencil	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve10.xml,428
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	two	two	NUM	det:num	_	4	nummod	_	_
 4	pencil-PL	pencil-PL	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -49473,7 +49473,7 @@
 
 #eve10.xml,442
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	two	two	NUM	det:num	_	4	nummod	_	_
 4	book	book	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -50458,7 +50458,7 @@
 
 #eve11.xml,68
 1	be&3S	be&3S	VERB	cop	_	5	cop	_	_
-2	that	that	SCONJ	rel	_	5	?	_	_
+2	that	that	SCONJ	rel	_	5	mark	_	_
 3	a	a	DET	art	_	5	det	_	_
 4	little	little	ADJ	adj	_	5	amod	_	_
 5	one	one	NOUN	pro:indef	_	1	root	_	_
@@ -50473,7 +50473,7 @@
 2	do&3S	do&3S	AUX	mod	_	4	aux	_	_
 3	~not	~not	PART	neg	_	4	neg	_	_
 4	look	look	VERB	v	_	0	root	_	_
-5	like	like	SCONJ	conj	_	8	?	_	_
+5	like	like	SCONJ	conj	_	8	mark	_	_
 6	a	a	DET	art	_	8	det	_	_
 7	little	little	ADJ	adj	_	8	amod	_	_
 8	one	one	NOUN	pro:indef	_	4	advmod	_	_
@@ -50734,7 +50734,7 @@
 2	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve11.xml,105
-1	for	for	SCONJ	conj	_	2	?	_	_
+1	for	for	SCONJ	conj	_	2	mark	_	_
 2	what	what	PRON	pro:wh	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -51226,7 +51226,7 @@
 2	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve11.xml,174
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	be&3S	be&3S	VERB	cop	_	0	root	_	_
 3	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -51439,7 +51439,7 @@
 #eve11.xml,201
 1	Mom	Mom	PROPN	n:prop	_	2	nsubj	_	_
 2	do&PAST	do&PAST	VERB	v	_	0	root	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	a	a	DET	art	_	6	advmod	_	_
 5	long	long	ADJ	adj	_	6	nsubj	_	_
 6	time	time	NOUN	n	_	2	ccomp	_	_
@@ -51869,7 +51869,7 @@
 5	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve11.xml,270
-1	for	for	SCONJ	conj	_	3	?	_	_
+1	for	for	SCONJ	conj	_	3	mark	_	_
 2	just	just	ADV	adv	_	3	advmod	_	_
 3	a	a	DET	art	_	0	root	_	_
 4	minute	minute	NOUN	n	_	3	dobj	_	_
@@ -51955,7 +51955,7 @@
 
 #eve11.xml,279
 1	oh	oh	INTJ	co	_	4	discourse	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	one	one	NOUN	pro:indef	_	4	nsubj	_	_
 4	write-3S	write-3S	VERB	v	_	0	root	_	_
 5	fine	fine	ADV	adv	_	6	advmod	_	_
@@ -53145,7 +53145,7 @@
 
 #eve11.xml,446
 1	be&3S	be&3S	VERB	cop	_	6	cop	_	_
-2	that	that	SCONJ	rel	_	6	?	_	_
+2	that	that	SCONJ	rel	_	6	mark	_	_
 3	the	the	DET	art	_	6	det	_	_
 4	box	box	NOUN	n	_	6	nmod	_	_
 5	~s	~s	PART	poss	_	4	case	_	_
@@ -53569,7 +53569,7 @@
 #eve12.xml,2
 1	what	what	PRON	pro:wh	_	6	dobj	_	_
 2	~be&3S	~be&3S	AUX	aux	_	6	aux	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	you	you	PRON	pro	_	6	nsubj	_	_
 5	~be&PRES	~be&PRES	AUX	aux	_	6	aux	_	_
 6	write-PRESP	write-PRESP	VERB	part	_	0	root	_	_
@@ -53700,7 +53700,7 @@
 #eve12.xml,21
 1	what	what	PRON	pro:wh	_	4	dobj	_	_
 2	~be&3S	~be&3S	AUX	aux	_	4	aux	_	_
-3	that	that	SCONJ	rel	_	4	?	_	_
+3	that	that	SCONJ	rel	_	4	mark	_	_
 4	Eve	Eve	PROPN	n:prop	_	0	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
 
@@ -54139,7 +54139,7 @@
 3	can	can	AUX	mod	_	5	aux	_	_
 4	~not	~not	PART	neg	_	5	neg	_	_
 5	have	have	VERB	v	_	0	root	_	_
-6	that	that	SCONJ	rel	_	8	?	_	_
+6	that	that	SCONJ	rel	_	8	mark	_	_
 7	other	other	ADJ	qn	_	8	amod	_	_
 8	part	part	NOUN	n	_	5	dobj	_	_
 9	.	.	PUNCT	.	_	5	punct	_	_
@@ -54590,7 +54590,7 @@
 1	oh	oh	INTJ	co	_	3	discourse	_	_
 2	,	beg	PUNCT	beg	_	7	punct	_	_
 3	be&3S	be&3S	VERB	cop	_	7	cop	_	_
-4	that	that	SCONJ	rel	_	7	?	_	_
+4	that	that	SCONJ	rel	_	7	mark	_	_
 5	girl	girl	NOUN	n	_	7	compund	_	_
 6	make-PRESP	make-PRESP	VERB	part	_	7	MOD	_	_
 7	tapioca	tapioca	NOUN	n	_	3	root	_	_
@@ -54747,7 +54747,7 @@
 4	to	to	PART	inf	_	5	mark	_	_
 5	go	go	VERB	v	_	3	xcomp	_	_
 6	upstairs	upstairs	ADV	adv	_	5	advmod	_	_
-7	before	before	SCONJ	conj	_	9	?	_	_
+7	before	before	SCONJ	conj	_	9	mark	_	_
 8	there	there	PRON	pro:exist	_	9	expl	_	_
 9	~be&3S	~be&3S	VERB	cop	_	5	advcl	_	_
 10	trouble	trouble	NOUN	n	_	9	nsubj	_	_
@@ -55408,7 +55408,7 @@
 3	not	not	PART	neg	_	9	neg	_	_
 4	a	a	DET	art	_	9	det	_	_
 5	pear	pear	NOUN	n	_	9	compund	_	_
-6	that	that	SCONJ	rel	_	9	?	_	_
+6	that	that	SCONJ	rel	_	9	mark	_	_
 7	~be&3S	~be&3S	AUX	aux	_	9	aux	_	_
 8	a	a	DET	art	_	9	det	_	_
 9	apple	apple	NOUN	n	_	2	root	_	_
@@ -55982,7 +55982,7 @@
 
 #eve12.xml,334
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	one	one	NUM	det:num	_	4	nummod	_	_
 4	mine	mine	PRON	pro:poss	_	1	root	_	_
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -56059,7 +56059,7 @@
 5	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve12.xml,344
-1	whose	whose	SCONJ	rel	_	2	?	_	_
+1	whose	whose	SCONJ	rel	_	2	mark	_	_
 2	briefcase	briefcase	NOUN	n	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -56948,7 +56948,7 @@
 
 #eve12.xml,466
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	a	a	DET	art	_	4	det	_	_
 4	i	i	NOUN	n:let	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -57136,7 +57136,7 @@
 3	can	can	AUX	mod	_	5	aux	_	_
 4	~not	~not	PART	neg	_	5	neg	_	_
 5	eat	eat	VERB	v	_	0	root	_	_
-6	that	that	SCONJ	rel	_	8	?	_	_
+6	that	that	SCONJ	rel	_	8	mark	_	_
 7	one	one	NUM	det:num	_	8	nummod	_	_
 8	either	either	ADV	adv	_	5	advmod	_	_
 9	.	.	PUNCT	.	_	5	punct	_	_
@@ -57725,7 +57725,7 @@
 1	just	just	ADV	adv	_	2	advmod	_	_
 2	the	the	DET	art	_	0	root	_	_
 3	thing-PL	thing-PL	NOUN	n	_	2	dobj	_	_
-4	that	that	SCONJ	rel	_	5	?	_	_
+4	that	that	SCONJ	rel	_	5	mark	_	_
 5	be&PRES	be&PRES	VERB	cop	_	3	?	_	_
 6	always	always	ADV	adv	_	5	advmod	_	_
 7	there	there	ADV	adv	_	5	advmod	_	_
@@ -57921,7 +57921,7 @@
 
 #eve12.xml,585
 1	be&3S	be&3S	VERB	cop	_	6	cop	_	_
-2	that	that	SCONJ	rel	_	6	?	_	_
+2	that	that	SCONJ	rel	_	6	mark	_	_
 3	the	the	DET	art	_	6	det	_	_
 4	cup	cup	NOUN	n	_	6	nmod	_	_
 5	~s	~s	PART	poss	_	4	case	_	_
@@ -58410,7 +58410,7 @@
 1	I	I	PRON	pro:sub	_	3	nsubj	_	_
 2	~will	~will	AUX	mod	_	3	aux	_	_
 3	wait	wait	VERB	v	_	0	root	_	_
-4	until	until	SCONJ	conj	_	6	?	_	_
+4	until	until	SCONJ	conj	_	6	mark	_	_
 5	they	they	PRON	pro:sub	_	6	nsubj	_	_
 6	go	go	VERB	v	_	3	advcl	_	_
 7	and	and	CONJ	coord	_	6	cc	_	_
@@ -58865,7 +58865,7 @@
 8	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve13.xml,18
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	belong-3S	belong-3S	VERB	v	_	0	root	_	_
 3	to	to	ADP	prep	_	4	case	_	_
 4	the	the	DET	art	_	2	nmod	_	_
@@ -59152,7 +59152,7 @@
 4	piece	piece	NOUN	n	_	3	dobj	_	_
 5	of	of	ADP	prep	_	6	case	_	_
 6	paper	paper	NOUN	n	_	4	nmod	_	_
-7	that	that	SCONJ	rel	_	11	?	_	_
+7	that	that	SCONJ	rel	_	11	mark	_	_
 8	someone	someone	NOUN	pro:indef	_	11	nsubj	_	_
 9	~be&3S	~be&3S	VERB	cop	_	11	aux	_	_
 10	be&PASTP	be&PASTP	AUX	aux	_	11	aux	_	_
@@ -59275,7 +59275,7 @@
 #eve13.xml,74
 1	what	what	PRON	pro:wh	_	4	nsubj	_	_
 2	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-3	that	that	SCONJ	rel	_	4	?	_	_
+3	that	that	SCONJ	rel	_	4	mark	_	_
 4	Eve	Eve	PROPN	n:prop	_	2	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
 
@@ -59429,7 +59429,7 @@
 4	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve13.xml,100
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	go-3S	go-3S	VERB	v	_	0	root	_	_
 3	by	by	ADP	prep	_	5	case	_	_
 4	the	the	DET	art	_	5	det	_	_
@@ -60175,7 +60175,7 @@
 10	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve13.xml,210
-1	for	for	SCONJ	conj	_	2	?	_	_
+1	for	for	SCONJ	conj	_	2	mark	_	_
 2	Pop	Pop	PROPN	n:prop	_	0	root	_	_
 3	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -61159,7 +61159,7 @@
 9	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve13.xml,335
-1	after	after	SCONJ	conj	_	3	?	_	_
+1	after	after	SCONJ	conj	_	3	mark	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	take	take	VERB	v	_	0	root	_	_
 4	your	your	PRON	pro:poss:det	_	5	nmod:poss	_	_
@@ -61748,7 +61748,7 @@
 #eve13.xml,410
 1	why	why	ADV	adv:wh	_	4	advmod	_	_
 2	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-3	that	that	SCONJ	rel	_	4	?	_	_
+3	that	that	SCONJ	rel	_	4	mark	_	_
 4	Mom	Mom	PROPN	n:prop	_	2	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
 
@@ -62225,7 +62225,7 @@
 1	and	and	CONJ	coord	_	7	cc	_	_
 2	what	what	PRON	pro:wh	_	7	nsubj	_	_
 3	~be&3S	~be&3S	AUX	aux	_	7	aux	_	_
-4	that	that	SCONJ	rel	_	7	?	_	_
+4	that	that	SCONJ	rel	_	7	mark	_	_
 5	you	you	PRON	pro	_	7	nsubj	_	_
 6	~be&PRES	~be&PRES	VERB	aux	_	7	aux	_	_
 7	drawing	drawing	NOUN	n	_	0	root	_	_
@@ -62559,7 +62559,7 @@
 3	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve14.xml,30
-1	which	which	SCONJ	rel	_	2	?	_	_
+1	which	which	SCONJ	rel	_	2	mark	_	_
 2	class	class	NOUN	n	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -62598,7 +62598,7 @@
 2	have&PAST	have&PAST	VERB	v	_	0	root	_	_
 3	your	your	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	cracker	cracker	NOUN	n	_	2	dobj	_	_
-5	before	before	SCONJ	conj	_	7	?	_	_
+5	before	before	SCONJ	conj	_	7	mark	_	_
 6	you	you	PRON	pro	_	7	nsubj	_	_
 7	have&PAST	have&PAST	VERB	v	_	2	advcl	_	_
 8	your	your	PRON	pro:poss:det	_	10	nmod:poss	_	_
@@ -63329,7 +63329,7 @@
 8	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve14.xml,131
-1	after	after	SCONJ	conj	_	3	?	_	_
+1	after	after	SCONJ	conj	_	3	mark	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	take	take	VERB	v	_	0	root	_	_
 4	a	a	DET	art	_	5	det	_	_
@@ -64143,7 +64143,7 @@
 5	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve14.xml,244
-1	after	after	SCONJ	conj	_	3	?	_	_
+1	after	after	SCONJ	conj	_	3	mark	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	have	have	VERB	v	_	0	root	_	_
 4	your	your	PRON	pro:poss:det	_	5	nmod:poss	_	_
@@ -64364,7 +64364,7 @@
 12	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve14.xml,269
-1	after	after	SCONJ	conj	_	3	?	_	_
+1	after	after	SCONJ	conj	_	3	mark	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	have	have	VERB	v	_	0	root	_	_
 4	a	a	DET	art	_	3	dobj	_	_
@@ -64582,7 +64582,7 @@
 4	~s	~s	PART	poss	_	3	case	_	_
 5	new	new	ADJ	adj	_	6	amod	_	_
 6	toy	toy	NOUN	n	_	2	root	_	_
-7	that	that	SCONJ	rel	_	9	?	_	_
+7	that	that	SCONJ	rel	_	9	mark	_	_
 8	she	she	PRON	pro:sub	_	9	nsubj	_	_
 9	get&PAST	get&PAST	VERB	v	_	6	?	_	_
 10	in	in	ADP	prep	_	11	case	_	_
@@ -64698,13 +64698,13 @@
 7	.	.	PUNCT	.	_	6	punct	_	_
 
 #eve14.xml,309
-1	until	until	SCONJ	conj	_	3	?	_	_
+1	until	until	SCONJ	conj	_	3	mark	_	_
 2	next	next	ADV	adv	_	3	advmod	_	_
 3	Easter	Easter	PROPN	n:prop	_	0	root	_	_
 4	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve14.xml,310
-1	until	until	SCONJ	conj	_	3	?	_	_
+1	until	until	SCONJ	conj	_	3	mark	_	_
 2	next	next	ADV	adv	_	3	advmod	_	_
 3	Easter	Easter	PROPN	n:prop	_	0	root	_	_
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -64770,7 +64770,7 @@
 2	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve14.xml,319
-1	for	for	SCONJ	conj	_	2	?	_	_
+1	for	for	SCONJ	conj	_	2	mark	_	_
 2	what	what	PRON	pro:wh	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -64903,7 +64903,7 @@
 
 #eve14.xml,339
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	a	a	DET	art	_	4	det	_	_
 4	horse	horse	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -65412,7 +65412,7 @@
 
 #eve14.xml,401
 1	be&3S	be&3S	VERB	cop	_	5	cop	_	_
-2	that	that	SCONJ	rel	_	5	?	_	_
+2	that	that	SCONJ	rel	_	5	mark	_	_
 3	the	the	DET	art	_	5	det	_	_
 4	green	green	NOUN	n	_	5	compund	_	_
 5	one	one	NOUN	pro:indef	_	1	root	_	_
@@ -66133,7 +66133,7 @@
 7	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve14.xml,502
-1	which	which	SCONJ	rel	_	2	?	_	_
+1	which	which	SCONJ	rel	_	2	mark	_	_
 2	window	window	NOUN	n	_	0	root	_	_
 3	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -66470,7 +66470,7 @@
 4	the	the	DET	art	_	3	dobj	_	_
 5	high	high	NOUN	n	_	4	dobj	_	_
 6	chair	chair	NOUN	n	_	5	compound	_	_
-7	so	so	SCONJ	conj	_	10	?	_	_
+7	so	so	SCONJ	conj	_	10	mark	_	_
 8	you	you	PRON	pro	_	10	nsubj	_	_
 9	can	can	AUX	mod	_	10	aux	_	_
 10	see	see	VERB	v	_	5	advcl	_	_
@@ -66962,7 +66962,7 @@
 #eve14.xml,616
 1	will&COND	will&COND	AUX	mod	_	0	root	_	_
 2	you	you	PRON	pro	_	1	dobj	_	_
-3	like	like	SCONJ	conj	_	5	?	_	_
+3	like	like	SCONJ	conj	_	5	mark	_	_
 4	a	a	DET	art	_	5	det	_	_
 5	cracker	cracker	NOUN	n	_	1	advcl	_	_
 6	?	?	PUNCT	?	_	1	punct	_	_
@@ -66971,7 +66971,7 @@
 1	Eve	Eve	PROPN	n:prop	_	3	nsubj	_	_
 2	will&COND	will&COND	AUX	mod	_	3	aux	_	_
 3	you	you	PRON	pro	_	4	nsubj	_	_
-4	like	like	SCONJ	conj	_	6	?	_	_
+4	like	like	SCONJ	conj	_	6	mark	_	_
 5	a	a	DET	art	_	6	det	_	_
 6	cracker	cracker	NOUN	n	_	0	root	_	_
 7	?	?	PUNCT	?	_	6	punct	_	_
@@ -67429,7 +67429,7 @@
 5	in	in	ADP	prep	_	13	case	_	_
 6	the	the	DET	art	_	7	det	_	_
 7	balloon	balloon	NOUN	n	_	13	nsubj	_	_
-8	that	that	SCONJ	rel	_	13	?	_	_
+8	that	that	SCONJ	rel	_	13	mark	_	_
 9	I	I	PRON	pro:sub	_	13	nsubj	_	_
 10	can	can	AUX	mod	_	13	aux	_	_
 11	~not	~not	PART	neg	_	13	neg	_	_
@@ -67684,7 +67684,7 @@
 
 #eve15.xml,95
 1	be&3S	be&3S	VERB	cop	_	6	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	the	the	DET	art	_	4	det	_	_
 4	way	way	NOUN	n	_	6	advmod	_	_
 5	it	it	PRON	pro	_	6	nsubj	_	_
@@ -67910,7 +67910,7 @@
 6	something	something	NOUN	pro:indef	_	5	dobj	_	_
 7	in	in	ADP	prep	_	8	case	_	_
 8	there	there	ADV	adv	_	5	nmod	_	_
-9	that	that	SCONJ	rel	_	10	?	_	_
+9	that	that	SCONJ	rel	_	10	mark	_	_
 10	belong-3S	belong-3S	VERB	v	_	5	ccomp	_	_
 11	to	to	ADP	prep	_	12	case	_	_
 12	Fraser	Fraser	PROPN	n:prop	_	10	nmod	_	_
@@ -67934,7 +67934,7 @@
 
 #eve15.xml,124
 1	something	something	NOUN	pro:indef	_	0	root	_	_
-2	that	that	SCONJ	rel	_	3	?	_	_
+2	that	that	SCONJ	rel	_	3	mark	_	_
 3	belong-3S	belong-3S	VERB	v	_	1	?	_	_
 4	to	to	ADP	prep	_	5	case	_	_
 5	Fraser	Fraser	PROPN	n:prop	_	3	nmod	_	_
@@ -68422,13 +68422,13 @@
 2	know	know	VERB	v	_	0	root	_	_
 3	the	the	DET	art	_	2	dobj	_	_
 4	bed	bed	NOUN	n	_	3	dobj	_	_
-5	that	that	SCONJ	rel	_	7	?	_	_
+5	that	that	SCONJ	rel	_	7	mark	_	_
 6	Becky	Becky	PROPN	n:prop	_	7	nsubj	_	_
 7	have&3S	have&3S	VERB	v	_	4	?	_	_
 8	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve15.xml,190
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	Becky	Becky	PROPN	n:prop	_	3	nsubj	_	_
 3	sleep-3S	sleep-3S	VERB	v	_	0	root	_	_
 4	in	in	ADV	adv	_	3	advmod	_	_
@@ -68940,7 +68940,7 @@
 4	do	do	VERB	v	_	0	root	_	_
 5	this	this	DET	det	_	6	det	_	_
 6	morning	morning	NOUN	n	_	4	dobj	_	_
-7	while	while	SCONJ	conj	_	10	?	_	_
+7	while	while	SCONJ	conj	_	10	mark	_	_
 8	I	I	PRON	pro:sub	_	10	nsubj	_	_
 9	be&PAST&13S	be&PAST&13S	AUX	aux	_	10	aux	_	_
 10	go&PASTP	go&PASTP	VERB	part	_	4	advcl	_	_
@@ -69506,7 +69506,7 @@
 
 #eve15.xml,335
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	a	a	DET	art	_	4	det	_	_
 4	railroad	railroad	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -69514,7 +69514,7 @@
 #eve15.xml,336
 1	those	those	DET	det	_	2	det	_	_
 2	look	look	VERB	v	_	0	root	_	_
-3	like	like	SCONJ	conj	_	4	?	_	_
+3	like	like	SCONJ	conj	_	4	mark	_	_
 4	cup-3S	cup-3S	VERB	v	_	2	advcl	_	_
 5	to	to	ADP	prep	_	6	case	_	_
 6	me	me	PRON	pro:obj	_	4	nmod	_	_
@@ -69555,7 +69555,7 @@
 
 #eve15.xml,342
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	my	my	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	train	train	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -69576,7 +69576,7 @@
 
 #eve15.xml,345
 1	and	and	CONJ	coord	_	3	cc	_	_
-2	that	that	SCONJ	rel	_	3	?	_	_
+2	that	that	SCONJ	rel	_	3	mark	_	_
 3	move-3S	move-3S	VERB	v	_	0	root	_	_
 4	the	the	DET	art	_	3	dobj	_	_
 5	blue	blue	NOUN	n	_	6	compund	_	_
@@ -70855,7 +70855,7 @@
 6	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve15.xml,511
-1	for	for	SCONJ	conj	_	3	?	_	_
+1	for	for	SCONJ	conj	_	3	mark	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	lunch	lunch	VERB	v	_	0	root	_	_
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -71133,7 +71133,7 @@
 2	fold	fold	VERB	v	_	0	root	_	_
 3	that	that	DET	det	_	4	det	_	_
 4	one	one	NOUN	pro:indef	_	2	dobj	_	_
-5	that	that	SCONJ	rel	_	7	?	_	_
+5	that	that	SCONJ	rel	_	7	mark	_	_
 6	you	you	PRON	pro	_	7	nsubj	_	_
 7	have	have	VERB	v	_	4	?	_	_
 8	.	.	PUNCT	.	_	2	punct	_	_
@@ -71897,7 +71897,7 @@
 
 #eve15.xml,653
 1	then	then	ADV	adv:tem	_	4	advmod	_	_
-2	that	that	SCONJ	rel	_	5	?	_	_
+2	that	that	SCONJ	rel	_	5	mark	_	_
 3	one	one	NOUN	pro:indef	_	5	nsubj	_	_
 4	be&3S	be&3S	VERB	cop	_	5	cop	_	_
 5	what	what	PRON	pro:wh	_	4	root	_	_
@@ -71951,7 +71951,7 @@
 2	~be&3S	~be&3S	VERB	cop	_	3	cop	_	_
 3	a	a	DET	art	_	2	root	_	_
 4	six	six	NUM	det:num	_	7	nummod	_	_
-5	that	that	SCONJ	rel	_	7	?	_	_
+5	that	that	SCONJ	rel	_	7	mark	_	_
 6	just	just	ADV	adv	_	7	advmod	_	_
 7	go&PAST	go&PAST	VERB	v	_	3	ccomp	_	_
 8	by	by	ADV	adv	_	7	advmod	_	_
@@ -72235,7 +72235,7 @@
 #eve15.xml,704
 1	I	I	PRON	pro:sub	_	2	nsubj	_	_
 2	guess	guess	NOUN	n	_	0	root	_	_
-3	that	that	SCONJ	rel	_	4	?	_	_
+3	that	that	SCONJ	rel	_	4	mark	_	_
 4	~be&3S	~be&3S	AUX	aux	_	2	?	_	_
 5	enough	enough	ADV	adv	_	4	advmod	_	_
 6	.	.	PUNCT	.	_	4	punct	_	_
@@ -72403,12 +72403,12 @@
 1	Eve	Eve	PROPN	n:prop	_	6	nsubj	_	_
 2	,	beg	PUNCT	beg	_	6	punct	_	_
 3	be&3S	be&3S	VERB	cop	_	6	cop	_	_
-4	that	that	SCONJ	rel	_	6	?	_	_
+4	that	that	SCONJ	rel	_	6	mark	_	_
 5	he	he	PRON	pro:sub	_	6	nsubj	_	_
 6	pencil	pencil	NOUN	n	_	3	root	_	_
 7	or	or	CONJ	coord	_	6	cc	_	_
 8	be&3S	be&3S	VERB	cop	_	6	conj	_	_
-9	that	that	SCONJ	rel	_	11	?	_	_
+9	that	that	SCONJ	rel	_	11	mark	_	_
 10	his	his	PRON	pro:poss:det	_	11	nmod:poss	_	_
 11	pencil	pencil	NOUN	n	_	8	?	_	_
 12	?	?	PUNCT	?	_	6	punct	_	_
@@ -73830,7 +73830,7 @@
 
 #eve16.xml,9
 1	be&3S	be&3S	VERB	cop	_	3	cop	_	_
-2	that	that	SCONJ	rel	_	3	?	_	_
+2	that	that	SCONJ	rel	_	3	mark	_	_
 3	two	two	NUM	det:num	_	1	root	_	_
 4	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -74356,7 +74356,7 @@
 
 #eve16.xml,75
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	some	some	DET	qn	_	4	det	_	_
 4	pencil-PL	pencil-PL	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -74415,7 +74415,7 @@
 #eve16.xml,85
 1	what	what	PRON	pro:wh	_	6	nsubj	_	_
 2	~be&3S	~be&3S	AUX	aux	_	6	aux	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	I	I	PRON	pro:sub	_	6	nsubj	_	_
 5	~be&1S	~be&1S	VERB	aux	_	6	aux	_	_
 6	drawing	drawing	NOUN	n	_	0	root	_	_
@@ -74424,7 +74424,7 @@
 #eve16.xml,86
 1	what	what	PRON	pro:wh	_	6	nsubj	_	_
 2	~be&3S	~be&3S	AUX	aux	_	6	aux	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	I	I	PRON	pro:sub	_	6	nsubj	_	_
 5	~be&1S	~be&1S	VERB	aux	_	6	aux	_	_
 6	drawing	drawing	NOUN	n	_	0	root	_	_
@@ -74521,13 +74521,13 @@
 
 #eve16.xml,100
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	a	a	DET	art	_	4	det	_	_
 4	man	man	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve16.xml,101
-1	which	which	SCONJ	rel	_	5	?	_	_
+1	which	which	SCONJ	rel	_	5	mark	_	_
 2	be&3S	be&3S	VERB	cop	_	5	cop	_	_
 3	the	the	DET	art	_	5	det	_	_
 4	big	big	ADJ	adj	_	5	amod	_	_
@@ -74760,7 +74760,7 @@
 3	do	do	VERB	v	_	0	root	_	_
 4	that	that	PRON	pro:dem	_	3	dobj	_	_
 5	again	again	ADV	adv	_	4	advmod	_	_
-6	or	or	SCONJ	conj	_	9	?	_	_
+6	or	or	SCONJ	conj	_	9	mark	_	_
 7	I	I	PRON	pro:sub	_	9	nsubj	_	_
 8	~will	~will	AUX	mod	_	9	aux	_	_
 9	take	take	VERB	v	_	4	advcl	_	_
@@ -74797,7 +74797,7 @@
 6	in	in	ADV	adv	_	8	case	_	_
 7	the	the	DET	art	_	8	det	_	_
 8	couch	couch	NOUN	n	_	4	nmod	_	_
-9	or	or	SCONJ	conj	_	12	?	_	_
+9	or	or	SCONJ	conj	_	12	mark	_	_
 10	I	I	PRON	pro:sub	_	12	nsubj	_	_
 11	will	will	AUX	mod	_	12	aux	_	_
 12	take	take	VERB	v	_	4	advcl	_	_
@@ -76620,7 +76620,7 @@
 6	after	after	ADP	prep	_	7	case	_	_
 7	that	that	PRON	pro:dem	_	5	nmod	_	_
 8	and	and	CONJ	coord	_	7	cc	_	_
-9	that	that	SCONJ	rel	_	10	?	_	_
+9	that	that	SCONJ	rel	_	10	mark	_	_
 10	make-3S	make-3S	VERB	v	_	7	conj	_	_
 11	a	a	DET	art	_	12	det	_	_
 12	fortnight	fortnight	NOUN	n	_	10	dobj	_	_
@@ -76917,7 +76917,7 @@
 4	part	part	NOUN	n	_	2	root	_	_
 5	of	of	ADP	prep	_	6	case	_	_
 6	it	it	PRON	pro	_	4	nmod	_	_
-7	that	that	SCONJ	rel	_	8	?	_	_
+7	that	that	SCONJ	rel	_	8	mark	_	_
 8	fall&PAST	fall&PAST	VERB	v	_	4	?	_	_
 9	off	off	ADV	adv	_	8	advmod	_	_
 10	.	.	PUNCT	.	_	4	punct	_	_
@@ -76978,7 +76978,7 @@
 
 #eve16.xml,427
 1	be&3S	be&3S	VERB	cop	_	5	cop	_	_
-2	that	that	SCONJ	rel	_	5	?	_	_
+2	that	that	SCONJ	rel	_	5	mark	_	_
 3	a	a	DET	art	_	5	det	_	_
 4	different	different	ADJ	adj	_	5	amod	_	_
 5	kind	kind	NOUN	n	_	1	root	_	_
@@ -77070,7 +77070,7 @@
 3	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve16.xml,441
-1	whose	whose	SCONJ	rel	_	2	?	_	_
+1	whose	whose	SCONJ	rel	_	2	mark	_	_
 2	daughter-PL	daughter-PL	NOUN	n	_	0	root	_	_
 3	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -77804,7 +77804,7 @@
 2	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve16.xml,544
-1	after	after	SCONJ	conj	_	3	?	_	_
+1	after	after	SCONJ	conj	_	3	mark	_	_
 2	he	he	PRON	pro:sub	_	3	nsubj	_	_
 3	leave-3S	leave-3S	VERB	v	_	0	root	_	_
 4	tomorrow	tomorrow	ADV	adv:tem	_	7	advmod	_	_
@@ -77817,7 +77817,7 @@
 11	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve16.xml,545
-1	after	after	SCONJ	conj	_	3	?	_	_
+1	after	after	SCONJ	conj	_	3	mark	_	_
 2	he	he	PRON	pro:sub	_	3	nsubj	_	_
 3	leave-3S	leave-3S	VERB	v	_	0	root	_	_
 4	tomorrow	tomorrow	ADV	adv:tem	_	7	advmod	_	_
@@ -78157,7 +78157,7 @@
 7	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve16.xml,588
-1	for	for	SCONJ	conj	_	4	?	_	_
+1	for	for	SCONJ	conj	_	4	mark	_	_
 2	a	a	DET	art	_	4	det	_	_
 3	little	little	ADJ	adj	_	4	amod	_	_
 4	while	while	NOUN	n	_	0	root	_	_
@@ -78817,7 +78817,7 @@
 2	,	beg	PUNCT	beg	_	4	punct	_	_
 3	I	I	PRON	pro:sub	_	4	nsubj	_	_
 4	see	see	VERB	v	_	0	root	_	_
-5	that	that	SCONJ	rel	_	7	?	_	_
+5	that	that	SCONJ	rel	_	7	mark	_	_
 6	you	you	PRON	pro	_	7	nsubj	_	_
 7	be&PRES	be&PRES	VERB	cop	_	4	ccomp	_	_
 8	.	.	PUNCT	.	_	4	punct	_	_
@@ -78845,7 +78845,7 @@
 #eve16.xml,672
 1	will&COND	will&COND	AUX	mod	_	0	root	_	_
 2	you	you	PRON	pro	_	1	dobj	_	_
-3	like	like	SCONJ	conj	_	6	?	_	_
+3	like	like	SCONJ	conj	_	6	mark	_	_
 4	a	a	DET	art	_	6	det	_	_
 5	new	new	ADJ	adj	_	6	amod	_	_
 6	pad	pad	NOUN	n	_	1	advcl	_	_
@@ -78975,7 +78975,7 @@
 
 #eve16.xml,691
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	a	a	DET	art	_	4	det	_	_
 4	lady	lady	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -79418,7 +79418,7 @@
 4	drink	drink	VERB	v	_	0	root	_	_
 5	it	it	PRON	pro	_	4	dobj	_	_
 6	first	first	ADV	adv	_	4	advmod	_	_
-7	before	before	SCONJ	conj	_	10	?	_	_
+7	before	before	SCONJ	conj	_	10	mark	_	_
 8	she	she	PRON	pro:sub	_	10	nsubj	_	_
 9	can	can	AUX	mod	_	10	aux	_	_
 10	make	make	VERB	v	_	4	advcl	_	_
@@ -79931,7 +79931,7 @@
 4	want	want	VERB	v	_	0	root	_	_
 5	to	to	PART	inf	_	6	mark	_	_
 6	know	know	VERB	v	_	4	xcomp	_	_
-7	whether	whether	SCONJ	conj	_	10	?	_	_
+7	whether	whether	SCONJ	conj	_	10	mark	_	_
 8	he	he	PRON	pro:sub	_	10	nsubj	_	_
 9	have&3S	have&3S	VERB	aux	_	10	aux	_	_
 10	glass-PL	glass-PL	NOUN	n	_	6	advcl	_	_
@@ -80109,7 +80109,7 @@
 11	.	.	PUNCT	.	_	5	punct	_	_
 
 #eve16.xml,844
-1	like	like	SCONJ	conj	_	4	?	_	_
+1	like	like	SCONJ	conj	_	4	mark	_	_
 2	you	you	PRON	pro	_	4	nsubj	_	_
 3	~be&PRES	~be&PRES	AUX	aux	_	4	aux	_	_
 4	suppose-PASTP	suppose-PASTP	VERB	part	_	0	root	_	_
@@ -80185,7 +80185,7 @@
 11	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve16.xml,855
-1	after	after	SCONJ	conj	_	3	?	_	_
+1	after	after	SCONJ	conj	_	3	mark	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	have	have	VERB	v	_	0	root	_	_
 4	your	your	PRON	pro:poss:det	_	5	nmod:poss	_	_
@@ -80450,7 +80450,7 @@
 1	well	well	INTJ	co	_	6	discourse	_	_
 2	,	beg	PUNCT	beg	_	6	punct	_	_
 3	not	not	PART	neg	_	2	neg	_	_
-4	that	that	SCONJ	rel	_	6	?	_	_
+4	that	that	SCONJ	rel	_	6	mark	_	_
 5	little	little	ADJ	adj	_	6	amod	_	_
 6	glass	glass	NOUN	n	_	0	root	_	_
 7	.	.	PUNCT	.	_	6	punct	_	_
@@ -80816,7 +80816,7 @@
 1	well	well	INTJ	co	_	3	discourse	_	_
 2	,	beg	PUNCT	beg	_	3	punct	_	_
 3	be&3S	be&3S	VERB	cop	_	0	root	_	_
-4	that	that	SCONJ	rel	_	8	?	_	_
+4	that	that	SCONJ	rel	_	8	mark	_	_
 5	the	the	DET	art	_	8	nsubj	_	_
 6	way	way	NOUN	n	_	8	advmod	_	_
 7	you	you	PRON	pro	_	8	nsubj	_	_
@@ -80942,7 +80942,7 @@
 #eve17.xml,92
 1	do	do	AUX	mod	_	0	root	_	_
 2	you	you	PRON	pro	_	1	dobj	_	_
-3	like	like	SCONJ	conj	_	7	?	_	_
+3	like	like	SCONJ	conj	_	7	mark	_	_
 4	the	the	DET	art	_	7	det	_	_
 5	ginger	ginger	NOUN	n	_	7	compund	_	_
 6	bread	bread	NOUN	n	_	5	compound	_	_
@@ -81100,7 +81100,7 @@
 3	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve17.xml,112
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	look-3S	look-3S	VERB	v	_	0	root	_	_
 3	like	like	ADP	prep	_	7	case	_	_
 4	a	a	DET	art	_	7	det	_	_
@@ -81279,7 +81279,7 @@
 5	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve17.xml,135
-1	which	which	SCONJ	rel	_	2	?	_	_
+1	which	which	SCONJ	rel	_	2	mark	_	_
 2	story	story	NOUN	n	_	3	nsubj	_	_
 3	do	do	VERB	v	_	0	root	_	_
 4	you	you	PRON	pro	_	5	nsubj	_	_
@@ -81288,7 +81288,7 @@
 7	?	?	PUNCT	?	_	3	punct	_	_
 
 #eve17.xml,136
-1	which	which	SCONJ	rel	_	2	?	_	_
+1	which	which	SCONJ	rel	_	2	mark	_	_
 2	book	book	NOUN	n	_	3	nsubj	_	_
 3	do	do	VERB	v	_	0	root	_	_
 4	you	you	PRON	pro	_	3	dobj	_	_
@@ -81561,7 +81561,7 @@
 1	let&ZERO	let&ZERO	VERB	v	_	0	root	_	_
 2	me	me	PRON	pro:obj	_	1	dobj	_	_
 3	see	see	VERB	v	_	1	ccomp	_	_
-4	that	that	SCONJ	rel	_	5	?	_	_
+4	that	that	SCONJ	rel	_	5	mark	_	_
 5	one	one	NOUN	pro:indef	_	3	dobj	_	_
 6	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -82261,7 +82261,7 @@
 #eve17.xml,264
 1	who	who	PRON	pro:wh	_	5	nsubj	_	_
 2	could	could	AUX	mod	_	5	aux	_	_
-3	that	that	SCONJ	rel	_	5	?	_	_
+3	that	that	SCONJ	rel	_	5	mark	_	_
 4	be	be	AUX	aux	_	5	aux	_	_
 5	make-PRESP	make-PRESP	VERB	part	_	0	root	_	_
 6	all	all	DET	qn	_	8	det	_	_
@@ -83215,7 +83215,7 @@
 1	I	I	PRON	pro:sub	_	3	nsubj	_	_
 2	~be&1S	~be&1S	AUX	aux	_	3	aux	_	_
 3	use-PRESP	use-PRESP	VERB	part	_	0	root	_	_
-4	that	that	SCONJ	rel	_	6	?	_	_
+4	that	that	SCONJ	rel	_	6	mark	_	_
 5	to	to	PART	inf	_	6	mark	_	_
 6	knit&ZERO	knit&ZERO	VERB	v	_	3	?	_	_
 7	with	with	ADP	prep	_	6	advmod	_	_
@@ -83774,7 +83774,7 @@
 
 #eve17.xml,464
 1	just	just	ADV	adv	_	2	advmod	_	_
-2	so	so	SCONJ	conj	_	4	?	_	_
+2	so	so	SCONJ	conj	_	4	mark	_	_
 3	it	it	PRON	pro	_	4	nsubj	_	_
 4	thaw-3S	thaw-3S	VERB	v	_	0	root	_	_
 5	out	out	ADV	adv	_	4	advmod	_	_
@@ -83850,7 +83850,7 @@
 10	?	?	PUNCT	?	_	3	punct	_	_
 
 #eve17.xml,476
-1	since	since	SCONJ	conj	_	5	?	_	_
+1	since	since	SCONJ	conj	_	5	mark	_	_
 2	you	you	PRON	pro	_	5	nsubj	_	_
 3	~be&PRES	~be&PRES	VERB	cop	_	5	cop	_	_
 4	so	so	ADV	adv	_	5	advmod	_	_
@@ -83897,7 +83897,7 @@
 2	do	do	AUX	mod	_	4	aux	_	_
 3	~not	~not	PART	neg	_	4	neg	_	_
 4	know	know	VERB	v	_	0	root	_	_
-5	whether	whether	SCONJ	conj	_	7	?	_	_
+5	whether	whether	SCONJ	conj	_	7	mark	_	_
 6	she	she	PRON	pro:sub	_	7	nsubj	_	_
 7	like-3S	like-3S	VERB	v	_	4	advcl	_	_
 8	them	them	PRON	pro:obj	_	7	dobj	_	_
@@ -84228,7 +84228,7 @@
 4	be&PAST	be&PAST	AUX	aux	_	5	aux	_	_
 5	tell-PRESP	tell-PRESP	VERB	part	_	2	ccomp	_	_
 6	Fraser	Fraser	PROPN	n:prop	_	5	dobj	_	_
-7	that	that	SCONJ	rel	_	11	?	_	_
+7	that	that	SCONJ	rel	_	11	mark	_	_
 8	but	but	SCONJ	conj	_	11	cc	_	_
 9	Mom	Mom	PROPN	n:prop	_	11	nsubj	_	_
 10	be&PAST&13S	be&PAST&13S	AUX	aux	_	11	aux	_	_
@@ -84331,7 +84331,7 @@
 1	you	you	PRON	pro	_	3	nsubj	_	_
 2	can	can	AUX	mod	_	3	aux	_	_
 3	sing	sing	VERB	v	_	0	root	_	_
-4	that	that	SCONJ	rel	_	7	?	_	_
+4	that	that	SCONJ	rel	_	7	mark	_	_
 5	after	after	ADP	prep	_	7	advmod	_	_
 6	you	you	PRON	pro	_	7	nsubj	_	_
 7	finish	finish	VERB	v	_	3	ccomp	_	_
@@ -84607,7 +84607,7 @@
 3	wash	wash	VERB	v	_	0	root	_	_
 4	your	your	PRON	pro:poss:det	_	5	nmod:poss	_	_
 5	hand-PL	hand-PL	NOUN	n	_	3	dobj	_	_
-6	after	after	SCONJ	conj	_	9	?	_	_
+6	after	after	SCONJ	conj	_	9	mark	_	_
 7	you	you	PRON	pro	_	9	nsubj	_	_
 8	~be&PRES	~be&PRES	AUX	aux	_	9	aux	_	_
 9	finish-PASTP	finish-PASTP	VERB	part	_	3	advcl	_	_
@@ -85139,7 +85139,7 @@
 3	you	you	PRON	pro	_	5	nsubj	_	_
 4	real&dadj-LY	real&dadj-LY	ADV	adv	_	5	advmod	_	_
 5	know	know	VERB	v	_	0	root	_	_
-6	that	that	SCONJ	rel	_	11	?	_	_
+6	that	that	SCONJ	rel	_	11	mark	_	_
 7	one	one	NUM	det:num	_	11	nummod	_	_
 8	,	end	PUNCT	end	_	11	punct	_	_
 9	do	do	AUX	mod	_	11	aux	_	_
@@ -85369,7 +85369,7 @@
 3	call	call	VERB	v	_	0	root	_	_
 4	him	him	PRON	pro:obj	_	3	dobj	_	_
 5	Fraser	Fraser	PROPN	n:prop	_	3	dobj	_	_
-6	so	so	SCONJ	conj	_	10	?	_	_
+6	so	so	SCONJ	conj	_	10	mark	_	_
 7	he	he	PRON	pro:sub	_	10	nsubj	_	_
 8	ought	ought	X	X	_	10	aux	_	_
 9	to	to	X	X	_	10	mwe	_	_
@@ -85428,7 +85428,7 @@
 11	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve17.xml,681
-1	after	after	SCONJ	conj	_	3	?	_	_
+1	after	after	SCONJ	conj	_	3	mark	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	have	have	VERB	v	_	0	root	_	_
 4	your	your	PRON	pro:poss:det	_	5	nmod:poss	_	_
@@ -86465,7 +86465,7 @@
 #eve17.xml,818
 1	how	how	ADV	adv:wh	_	4	advmod	_	_
 2	~will	~will	AUX	mod	_	4	aux	_	_
-3	that	that	SCONJ	rel	_	4	?	_	_
+3	that	that	SCONJ	rel	_	4	mark	_	_
 4	be	be	VERB	cop	_	0	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
 
@@ -87835,7 +87835,7 @@
 3	read&ZERO	read&ZERO	VERB	v	_	0	root	_	_
 4	it	it	PRON	pro	_	3	dobj	_	_
 5	tonight	tonight	ADV	adv:tem	_	3	advmod	_	_
-6	before	before	SCONJ	conj	_	8	?	_	_
+6	before	before	SCONJ	conj	_	8	mark	_	_
 7	you	you	PRON	pro	_	8	nsubj	_	_
 8	go	go	VERB	v	_	5	advcl	_	_
 9	to	to	ADP	prep	_	10	case	_	_
@@ -87909,7 +87909,7 @@
 1	do	do	AUX	mod	_	3	aux	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	know	know	VERB	v	_	0	root	_	_
-4	that	that	SCONJ	rel	_	5	?	_	_
+4	that	that	SCONJ	rel	_	5	mark	_	_
 5	one	one	NOUN	pro:indef	_	3	root	_	_
 6	?	?	PUNCT	?	_	5	punct	_	_
 
@@ -88148,7 +88148,7 @@
 7	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve17.xml,1034
-1	for	for	SCONJ	conj	_	3	?	_	_
+1	for	for	SCONJ	conj	_	3	mark	_	_
 2	a	a	DET	art	_	3	det	_	_
 3	change	change	NOUN	n	_	0	root	_	_
 4	,	end	PUNCT	end	_	3	punct	_	_
@@ -88276,7 +88276,7 @@
 7	the	the	DET	art	_	8	det	_	_
 8	coffee	coffee	NOUN	n	_	5	nmod	_	_
 9	pot	pot	NOUN	n	_	8	compound	_	_
-10	so	so	SCONJ	conj	_	13	?	_	_
+10	so	so	SCONJ	conj	_	13	mark	_	_
 11	I	I	PRON	pro:sub	_	13	nsubj	_	_
 12	can	can	AUX	mod	_	13	aux	_	_
 13	give	give	VERB	v	_	5	advcl	_	_
@@ -89587,7 +89587,7 @@
 8	.	.	PUNCT	.	_	7	punct	_	_
 
 #eve17.xml,1245
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	one	one	NUM	det:num	_	3	nummod	_	_
 3	tie-PL	tie-PL	NOUN	n	_	0	root	_	_
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -89781,7 +89781,7 @@
 2	have	have	X	X	_	4	aux	_	_
 3	to	to	X	X	_	4	mwe	_	_
 4	wait	wait	VERB	v	_	0	root	_	_
-5	while	while	SCONJ	conj	_	8	?	_	_
+5	while	while	SCONJ	conj	_	8	mark	_	_
 6	the	the	DET	art	_	8	advmod	_	_
 7	noodle-PL	noodle-PL	NOUN	n	_	8	nsubj	_	_
 8	get	get	VERB	v	_	4	ccomp	_	_
@@ -89797,7 +89797,7 @@
 6	for	for	ADP	prep	_	8	case	_	_
 7	a	a	DET	art	_	8	det	_	_
 8	minute	minute	NOUN	n	_	5	nmod	_	_
-9	until	until	SCONJ	conj	_	12	?	_	_
+9	until	until	SCONJ	conj	_	12	mark	_	_
 10	the	the	DET	art	_	12	det	_	_
 11	noodle-PL	noodle-PL	NOUN	n	_	12	compund	_	_
 12	cook	cook	NOUN	n	_	5	advcl	_	_
@@ -89914,7 +89914,7 @@
 4	you	you	PRON	pro	_	6	nsubj	_	_
 5	must	must	AUX	mod	_	6	aux	_	_
 6	wait	wait	VERB	v	_	0	root	_	_
-7	until	until	SCONJ	conj	_	9	?	_	_
+7	until	until	SCONJ	conj	_	9	mark	_	_
 8	they	they	PRON	pro:sub	_	9	nsubj	_	_
 9	get	get	VERB	v	_	6	advcl	_	_
 10	cool	cool	ADJ	adj	_	9	advmod	_	_
@@ -90324,7 +90324,7 @@
 2	have	have	X	X	_	4	aux	_	_
 3	to	to	X	X	_	4	mwe	_	_
 4	wait	wait	VERB	v	_	0	root	_	_
-5	until	until	SCONJ	conj	_	7	?	_	_
+5	until	until	SCONJ	conj	_	7	mark	_	_
 6	they	they	PRON	pro:sub	_	7	nsubj	_	_
 7	cool	cool	VERB	v	_	4	advcl	_	_
 8	off	off	ADV	adv	_	7	advmod	_	_
@@ -90694,7 +90694,7 @@
 
 #eve18.xml,149
 1	be&3S	be&3S	VERB	cop	_	0	root	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	a	a	DET	art	_	4	det	_	_
 4	tiger	tiger	NOUN	n	_	1	?	_	_
 5	or	or	CONJ	coord	_	4	cc	_	_
@@ -91386,7 +91386,7 @@
 4	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve18.xml,250
-1	before	before	SCONJ	conj	_	3	?	_	_
+1	before	before	SCONJ	conj	_	3	mark	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	take	take	VERB	v	_	0	root	_	_
 4	a	a	DET	art	_	3	dobj	_	_
@@ -93166,7 +93166,7 @@
 6	.	.	PUNCT	.	_	5	punct	_	_
 
 #eve18.xml,515
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	make-3S	make-3S	VERB	v	_	0	root	_	_
 3	Sarah	Sarah	PROPN	n:prop	_	2	dobj	_	_
 4	happy	happy	ADJ	adj	_	3	?	_	_
@@ -93228,7 +93228,7 @@
 1	well	well	INTJ	co	_	2	discourse	_	_
 2	,	beg	PUNCT	beg	_	0	punct	_	_
 3	not	not	PART	neg	_	2	neg	_	_
-4	while	while	SCONJ	conj	_	7	?	_	_
+4	while	while	SCONJ	conj	_	7	mark	_	_
 5	she	she	PRON	pro:sub	_	7	nsubj	_	_
 6	~be&3S	~be&3S	AUX	aux	_	7	aux	_	_
 7	eat-PRESP	eat-PRESP	VERB	part	_	2	advcl	_	_
@@ -93236,7 +93236,7 @@
 
 #eve18.xml,526
 1	wait	wait	VERB	v	_	0	root	_	_
-2	until	until	SCONJ	conj	_	5	?	_	_
+2	until	until	SCONJ	conj	_	5	mark	_	_
 3	she	she	PRON	pro:sub	_	5	nsubj	_	_
 4	~be&3S	~be&3S	AUX	aux	_	5	aux	_	_
 5	finish-PASTP	finish-PASTP	VERB	part	_	1	ccomp	_	_
@@ -93354,7 +93354,7 @@
 3	Fraser	Fraser	PROPN	n:prop	_	2	dobj	_	_
 4	a	a	DET	art	_	5	det	_	_
 5	story	story	NOUN	n	_	3	?	_	_
-6	until	until	SCONJ	conj	_	9	?	_	_
+6	until	until	SCONJ	conj	_	9	mark	_	_
 7	we	we	PRON	pro:sub	_	9	nsubj	_	_
 8	~be&PRES	~be&PRES	VERB	cop	_	9	cop	_	_
 9	ready	ready	ADJ	adj	_	5	advcl	_	_
@@ -93957,7 +93957,7 @@
 #eve18.xml,626
 1	what	what	PRON	pro:wh	_	6	nsubj	_	_
 2	be&PAST&13S	be&PAST&13S	VERB	cop	_	6	cop	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	you	you	PRON	pro	_	6	nsubj	_	_
 5	be&PAST	be&PAST	AUX	aux	_	6	aux	_	_
 6	do-PRESP	do-PRESP	VERB	part	_	2	root	_	_
@@ -93965,7 +93965,7 @@
 
 #eve18.xml,627
 1	be&PAST&13S	be&PAST&13S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	a	a	DET	art	_	4	det	_	_
 4	song	song	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -94075,7 +94075,7 @@
 8	the	the	DET	art	_	10	det	_	_
 9	swim-PRESP	swim-PRESP	VERB	part	_	10	MOD	_	_
 10	pool	pool	NOUN	n	_	7	dobj	_	_
-11	while	while	SCONJ	conj	_	13	?	_	_
+11	while	while	SCONJ	conj	_	13	mark	_	_
 12	you	you	PRON	pro	_	13	nsubj	_	_
 13	take	take	VERB	v	_	7	advcl	_	_
 14	your	your	PRON	pro:poss:det	_	15	nmod:poss	_	_
@@ -94729,7 +94729,7 @@
 #eve18.xml,728
 1	I	I	PRON	pro:sub	_	2	nsubj	_	_
 2	think	think	VERB	v	_	0	root	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	one	one	NOUN	pro:indef	_	6	nsubj	_	_
 5	be&3S	be&3S	VERB	cop	_	6	cop	_	_
 6	lemon	lemon	NOUN	n	_	2	ccomp	_	_
@@ -95121,7 +95121,7 @@
 3	those	those	PRON	pro:dem	_	5	nsubj	_	_
 4	be&PRES	be&PRES	VERB	cop	_	5	cop	_	_
 5	picture-PL	picture-PL	NOUN	n	_	4	root	_	_
-6	that	that	SCONJ	rel	_	9	?	_	_
+6	that	that	SCONJ	rel	_	9	mark	_	_
 7	Papa	Papa	PROPN	n:prop	_	9	nsubj	_	_
 8	~be&3S	~be&3S	AUX	aux	_	9	aux	_	_
 9	take-PRESP	take-PRESP	VERB	part	_	5	?	_	_
@@ -95145,7 +95145,7 @@
 6	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve18.xml,781
-1	that	that	SCONJ	rel	_	3	?	_	_
+1	that	that	SCONJ	rel	_	3	mark	_	_
 2	be&3S	be&3S	VERB	cop	_	3	cop	_	_
 3	Fraser	Fraser	PROPN	n:prop	_	2	root	_	_
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -95609,7 +95609,7 @@
 9	on	on	ADP	prep	_	11	case	_	_
 10	the	the	DET	art	_	11	det	_	_
 11	wall	wall	NOUN	n	_	3	nmod	_	_
-12	so	so	SCONJ	conj	_	15	?	_	_
+12	so	so	SCONJ	conj	_	15	mark	_	_
 13	we	we	PRON	pro:sub	_	15	nsubj	_	_
 14	can	can	AUX	mod	_	15	aux	_	_
 15	look	look	VERB	v	_	3	advcl	_	_
@@ -95743,7 +95743,7 @@
 13	by	by	ADP	prep	_	15	case	_	_
 14	the	the	DET	art	_	15	det	_	_
 15	bed	bed	NOUN	n	_	11	nmod	_	_
-16	so	so	SCONJ	conj	_	21	?	_	_
+16	so	so	SCONJ	conj	_	21	mark	_	_
 17	you	you	PRON	pro	_	21	nsubj	_	_
 18	and	and	CONJ	coord	_	21	cc	_	_
 19	Sarah	Sarah	PROPN	n:prop	_	21	nsubj	_	_
@@ -95761,7 +95761,7 @@
 2	,	beg	PUNCT	beg	_	7	punct	_	_
 3	what	what	PRON	pro:wh	_	4	nsubj	_	_
 4	~be&3S	~be&3S	VERB	cop	_	0	root	_	_
-5	that	that	SCONJ	rel	_	7	?	_	_
+5	that	that	SCONJ	rel	_	7	mark	_	_
 6	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	Papa	Papa	PROPN	n:prop	_	4	root	_	_
 8	have&3S	have&3S	AUX	aux	_	7	advmod	_	_
@@ -95968,7 +95968,7 @@
 #eve18.xml,889
 1	will&COND	will&COND	AUX	mod	_	0	root	_	_
 2	you	you	PRON	pro	_	1	dobj	_	_
-3	like	like	SCONJ	conj	_	5	?	_	_
+3	like	like	SCONJ	conj	_	5	mark	_	_
 4	a	a	DET	art	_	5	det	_	_
 5	penny	penny	NOUN	n	_	1	advcl	_	_
 6	?	?	PUNCT	?	_	1	punct	_	_
@@ -96077,7 +96077,7 @@
 #eve18.xml,908
 1	what	what	PRON	pro:wh	_	2	nsubj	_	_
 2	be&3S	be&3S	VERB	cop	_	0	root	_	_
-3	that	that	SCONJ	rel	_	5	?	_	_
+3	that	that	SCONJ	rel	_	5	mark	_	_
 4	your	your	PRON	pro:poss:det	_	5	nmod:poss	_	_
 5	Mommy	Mommy	PROPN	n:prop	_	2	root	_	_
 6	have&3S	have&3S	AUX	aux	_	5	advmod	_	_
@@ -96138,7 +96138,7 @@
 2	do	do	AUX	mod	_	4	aux	_	_
 3	~not	~not	PART	neg	_	4	neg	_	_
 4	have	have	VERB	v	_	0	root	_	_
-5	that	that	SCONJ	rel	_	6	?	_	_
+5	that	that	SCONJ	rel	_	6	mark	_	_
 6	many	many	DET	qn	_	4	root	_	_
 7	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -96350,7 +96350,7 @@
 9	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve18.xml,952
-1	while	while	SCONJ	conj	_	3	?	_	_
+1	while	while	SCONJ	conj	_	3	mark	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	take	take	VERB	v	_	0	root	_	_
 4	a	a	DET	art	_	5	det	_	_
@@ -97026,7 +97026,7 @@
 3	shut&ZERO	shut&ZERO	VERB	v	_	0	root	_	_
 4	the	the	DET	art	_	3	dobj	_	_
 5	door	door	NOUN	n	_	4	dobj	_	_
-6	so	so	SCONJ	conj	_	10	?	_	_
+6	so	so	SCONJ	conj	_	10	mark	_	_
 7	we	we	PRON	pro:sub	_	10	nsubj	_	_
 8	will	will	AUX	mod	_	10	aux	_	_
 9	~not	~not	PART	neg	_	10	neg	_	_
@@ -97191,7 +97191,7 @@
 #eve19.xml,86
 1	be	be	VERB	cop	_	2	cop	_	_
 2	care&dn-FULL	care&dn-FULL	ADJ	adj	_	1	root	_	_
-3	or	or	SCONJ	conj	_	6	?	_	_
+3	or	or	SCONJ	conj	_	6	mark	_	_
 4	you	you	PRON	pro	_	6	nsubj	_	_
 5	~will	~will	AUX	mod	_	6	aux	_	_
 6	fall	fall	VERB	v	_	1	advcl	_	_
@@ -97282,7 +97282,7 @@
 5	paper	paper	NOUN	n	_	4	dobj	_	_
 6	with	with	ADP	prep	_	7	case	_	_
 7	you	you	PRON	pro	_	5	nmod	_	_
-8	while	while	SCONJ	conj	_	10	?	_	_
+8	while	while	SCONJ	conj	_	10	mark	_	_
 9	he	he	PRON	pro:sub	_	10	nsubj	_	_
 10	~be&3S	~be&3S	VERB	cop	_	3	advcl	_	_
 11	here	here	ADV	adv	_	10	advmod	_	_
@@ -97326,7 +97326,7 @@
 3	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve19.xml,105
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	help-3S	help-3S	VERB	v	_	0	root	_	_
 3	him	him	PRON	pro:obj	_	2	dobj	_	_
 4	draw	draw	VERB	v	_	2	ccomp	_	_
@@ -97336,7 +97336,7 @@
 1	there	there	ADV	adv	_	3	advmod	_	_
 2	,	beg	PUNCT	beg	_	7	punct	_	_
 3	be&3S	be&3S	VERB	cop	_	7	cop	_	_
-4	that	that	SCONJ	rel	_	7	?	_	_
+4	that	that	SCONJ	rel	_	7	mark	_	_
 5	a	a	DET	art	_	7	det	_	_
 6	good	good	ADJ	adj	_	7	amod	_	_
 7	lady	lady	NOUN	n	_	3	root	_	_
@@ -97375,7 +97375,7 @@
 7	.	.	PUNCT	.	_	5	punct	_	_
 
 #eve19.xml,111
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	help-3S	help-3S	VERB	v	_	0	root	_	_
 3	him	him	PRON	pro:obj	_	2	dobj	_	_
 4	to	to	PART	inf	_	5	mark	_	_
@@ -97971,7 +97971,7 @@
 
 #eve19.xml,179
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	Papa	Papa	PROPN	n:prop	_	4	nmod	_	_
 4	guitar	guitar	NOUN	n	_	1	root	_	_
 5	or	or	CONJ	coord	_	4	cc	_	_
@@ -98364,7 +98364,7 @@
 #eve19.xml,225
 1	just	just	ADV	adv	_	2	advmod	_	_
 2	wait	wait	VERB	v	_	0	root	_	_
-3	until	until	SCONJ	conj	_	5	?	_	_
+3	until	until	SCONJ	conj	_	5	mark	_	_
 4	I	I	PRON	pro:sub	_	5	nsubj	_	_
 5	make	make	VERB	v	_	2	advcl	_	_
 6	it	it	PRON	pro	_	5	dobj	_	_
@@ -98858,7 +98858,7 @@
 6	long	long	ADJ	adj	_	7	amod	_	_
 7	argument	argument	NOUN	n	_	3	dobj	_	_
 8	in	in	ADV	adv	_	7	advmod	_	_
-9	which	which	SCONJ	rel	_	12	?	_	_
+9	which	which	SCONJ	rel	_	12	mark	_	_
 10	Eve	Eve	PROPN	n:prop	_	12	nsubj	_	_
 11	be&PAST&13S	be&PAST&13S	AUX	aux	_	12	aux	_	_
 12	insist-PRESP	insist-PRESP	VERB	part	_	7	?	_	_
@@ -99069,7 +99069,7 @@
 6	give	give	VERB	v	_	0	root	_	_
 7	her	her	PRON	pro:poss:det	_	8	nmod:poss	_	_
 8	lunch	lunch	NOUN	n	_	6	dobj	_	_
-9	before	before	SCONJ	conj	_	11	?	_	_
+9	before	before	SCONJ	conj	_	11	mark	_	_
 10	he	he	PRON	pro:sub	_	11	nsubj	_	_
 11	go-3S	go-3S	VERB	v	_	6	advcl	_	_
 12	away	away	ADV	adv	_	11	advmod	_	_
@@ -99453,7 +99453,7 @@
 
 #eve19.xml,355
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	the	the	DET	art	_	4	det	_	_
 4	mail	mail	NOUN	n	_	1	root	_	_
 5	man	man	NOUN	n	_	4	compound	_	_
@@ -99990,7 +99990,7 @@
 #eve19.xml,422
 1	why	why	ADV	adv:wh	_	2	advmod	_	_
 2	wait	wait	VERB	v	_	0	root	_	_
-3	until	until	SCONJ	conj	_	5	?	_	_
+3	until	until	SCONJ	conj	_	5	mark	_	_
 4	he	he	PRON	pro:sub	_	5	nsubj	_	_
 5	come-3S	come-3S	VERB	v	_	2	advcl	_	_
 6	back	back	ADV	adv	_	5	advmod	_	_
@@ -100510,7 +100510,7 @@
 5	bread	bread	NOUN	n	_	3	dobj	_	_
 6	and	and	CONJ	coord	_	5	cc	_	_
 7	butter	butter	NOUN	n	_	5	conj	_	_
-8	while	while	SCONJ	conj	_	11	?	_	_
+8	while	while	SCONJ	conj	_	11	mark	_	_
 9	I	I	PRON	pro:sub	_	11	nsubj	_	_
 10	~be&1S	~be&1S	AUX	aux	_	11	aux	_	_
 11	wait-PRESP	wait-PRESP	VERB	part	_	7	advcl	_	_
@@ -100813,7 +100813,7 @@
 4	can	can	AUX	mod	_	6	aux	_	_
 5	~not	~not	PART	neg	_	6	neg	_	_
 6	wait	wait	VERB	v	_	0	root	_	_
-7	until	until	SCONJ	conj	_	9	?	_	_
+7	until	until	SCONJ	conj	_	9	mark	_	_
 8	you	you	PRON	pro	_	9	nsubj	_	_
 9	~be&PRES	~be&PRES	AUX	aux	_	6	advcl	_	_
 10	up	up	ADV	adv	_	9	advmod	_	_
@@ -101147,7 +101147,7 @@
 4	finish	finish	VERB	v	_	2	xcomp	_	_
 5	this	this	DET	det	_	6	det	_	_
 6	tapioca	tapioca	NOUN	n	_	4	dobj	_	_
-7	while	while	SCONJ	conj	_	9	?	_	_
+7	while	while	SCONJ	conj	_	9	mark	_	_
 8	I	I	PRON	pro:sub	_	9	nsubj	_	_
 9	go	go	VERB	v	_	4	advcl	_	_
 10	and	and	CONJ	coord	_	9	cc	_	_
@@ -102340,7 +102340,7 @@
 6	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve20.xml,21
-1	which	which	SCONJ	rel	_	2	?	_	_
+1	which	which	SCONJ	rel	_	2	mark	_	_
 2	do	do	VERB	v	_	0	root	_	_
 3	you	you	PRON	pro	_	4	nsubj	_	_
 4	like	like	VERB	v	_	2	ccomp	_	_
@@ -102349,7 +102349,7 @@
 
 #eve20.xml,22
 1	you	you	PRON	pro	_	4	nsubj	_	_
-2	like	like	SCONJ	conj	_	4	?	_	_
+2	like	like	SCONJ	conj	_	4	mark	_	_
 3	the	the	DET	art	_	4	det	_	_
 4	grape	grape	NOUN	n	_	0	root	_	_
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -102409,7 +102409,7 @@
 1	do&3S	do&3S	AUX	mod	_	3	aux	_	_
 2	she	she	PRON	pro:sub	_	3	nsubj	_	_
 3	know	know	VERB	v	_	0	root	_	_
-4	that	that	SCONJ	rel	_	7	?	_	_
+4	that	that	SCONJ	rel	_	7	mark	_	_
 5	she	she	PRON	pro:sub	_	7	nsubj	_	_
 6	~be&3S	~be&3S	AUX	aux	_	7	aux	_	_
 7	take-PRESP	take-PRESP	VERB	part	_	3	ccomp	_	_
@@ -102499,7 +102499,7 @@
 #eve20.xml,40
 1	what	what	PRON	pro:wh	_	6	nsubj	_	_
 2	~be&3S	~be&3S	AUX	aux	_	6	aux	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	she	she	PRON	pro:sub	_	6	nsubj	_	_
 5	~be&3S	~be&3S	AUX	aux	_	6	aux	_	_
 6	sit-PRESP	sit-PRESP	VERB	part	_	0	root	_	_
@@ -102776,7 +102776,7 @@
 
 #eve20.xml,86
 1	be&3S	be&3S	VERB	cop	_	3	cop	_	_
-2	that	that	SCONJ	rel	_	3	?	_	_
+2	that	that	SCONJ	rel	_	3	mark	_	_
 3	Sarah	Sarah	PROPN	n:prop	_	1	root	_	_
 4	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -102936,7 +102936,7 @@
 
 #eve20.xml,111
 1	be&3S	be&3S	VERB	cop	_	0	root	_	_
-2	that	that	SCONJ	rel	_	5	?	_	_
+2	that	that	SCONJ	rel	_	5	mark	_	_
 3	a	a	DET	art	_	5	det	_	_
 4	green	green	NOUN	n	_	5	compund	_	_
 5	baby	baby	NOUN	n	_	1	?	_	_
@@ -103045,7 +103045,7 @@
 
 #eve20.xml,124
 1	be&3S	be&3S	VERB	cop	_	0	root	_	_
-2	that	that	SCONJ	rel	_	5	?	_	_
+2	that	that	SCONJ	rel	_	5	mark	_	_
 3	a	a	DET	art	_	5	det	_	_
 4	smile-PRESP	smile-PRESP	VERB	part	_	5	MOD	_	_
 5	baby	baby	NOUN	n	_	1	?	_	_
@@ -103153,7 +103153,7 @@
 
 #eve20.xml,138
 1	be&PAST&13S	be&PAST&13S	VERB	cop	_	0	root	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	your	your	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	toy	toy	NOUN	n	_	1	?	_	_
 5	first	first	ADV	adv	_	4	advmod	_	_
@@ -104162,7 +104162,7 @@
 3	pastina	pastina	NOUN	n	_	2	dobj	_	_
 4	in	in	ADP	prep	_	5	case	_	_
 5	it	it	PRON	pro	_	2	nmod	_	_
-6	which	which	SCONJ	rel	_	8	?	_	_
+6	which	which	SCONJ	rel	_	8	mark	_	_
 7	be&3S	be&3S	VERB	cop	_	8	cop	_	_
 8	one	one	NOUN	pro:indef	_	2	ccomp	_	_
 9	of	of	ADP	prep	_	12	case	_	_
@@ -104333,7 +104333,7 @@
 8	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve20.xml,292
-1	which	which	SCONJ	rel	_	2	?	_	_
+1	which	which	SCONJ	rel	_	2	mark	_	_
 2	side	side	NOUN	n	_	5	nsubj	_	_
 3	will	will	AUX	mod	_	5	aux	_	_
 4	we	we	PRON	pro:sub	_	5	nsubj	_	_
@@ -105172,7 +105172,7 @@
 
 #eve20.xml,408
 1	be&3S	be&3S	VERB	cop	_	0	root	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	your	your	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	baby	baby	NOUN	n	_	1	?	_	_
 5	or	or	CONJ	coord	_	4	cc	_	_
@@ -105225,7 +105225,7 @@
 10	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve20.xml,416
-1	that	that	SCONJ	rel	_	3	?	_	_
+1	that	that	SCONJ	rel	_	3	mark	_	_
 2	be&3S	be&3S	AUX	aux	_	3	aux	_	_
 3	jump-PRESP	jump-PRESP	VERB	part	_	0	root	_	_
 4	.	.	PUNCT	.	_	3	punct	_	_
@@ -105248,7 +105248,7 @@
 1	do&PAST	do&PAST	VERB	v	_	3	?	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	see	see	VERB	v	_	0	root	_	_
-4	that	that	SCONJ	rel	_	5	?	_	_
+4	that	that	SCONJ	rel	_	5	mark	_	_
 5	Sarah	Sarah	PROPN	n:prop	_	3	dobj	_	_
 6	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -105842,7 +105842,7 @@
 
 #eve20.xml,506
 1	be&3S	be&3S	VERB	cop	_	4	cop	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	a	a	DET	art	_	4	det	_	_
 4	exercise	exercise	NOUN	n	_	1	root	_	_
 5	?	?	PUNCT	?	_	4	punct	_	_
@@ -105982,7 +105982,7 @@
 13	not	not	PART	neg	_	15	neg	_	_
 14	so	so	ADV	adv	_	15	advmod	_	_
 15	convince-PASTP	convince-PASTP	VERB	part	_	7	root	_	_
-16	that	that	SCONJ	rel	_	18	?	_	_
+16	that	that	SCONJ	rel	_	18	mark	_	_
 17	it	it	PRON	pro	_	18	nsubj	_	_
 18	be&3S	be&3S	VERB	cop	_	15	root	_	_
 19	.	.	PUNCT	.	_	18	punct	_	_
@@ -106475,7 +106475,7 @@
 4	?	?	PUNCT	?	_	3	punct	_	_
 
 #eve20.xml,588
-1	that	that	SCONJ	rel	_	2	?	_	_
+1	that	that	SCONJ	rel	_	2	mark	_	_
 2	look-3S	look-3S	VERB	v	_	0	root	_	_
 3	alright	alright	ADJ	adj	_	2	?	_	_
 4	.	.	PUNCT	.	_	2	punct	_	_
@@ -106598,7 +106598,7 @@
 #eve20.xml,607
 1	what	what	PRON	pro:wh	_	2	dobj	_	_
 2	~be&3S	~be&3S	AUX	aux	_	0	root	_	_
-3	that	that	SCONJ	rel	_	6	?	_	_
+3	that	that	SCONJ	rel	_	6	mark	_	_
 4	you	you	PRON	pro	_	6	nsubj	_	_
 5	~be&PRES	~be&PRES	AUX	aux	_	6	aux	_	_
 6	eat-PRESP	eat-PRESP	VERB	part	_	2	?	_	_
@@ -106827,7 +106827,7 @@
 
 #eve20.xml,646
 1	be&3S	be&3S	VERB	cop	_	0	root	_	_
-2	that	that	SCONJ	rel	_	4	?	_	_
+2	that	that	SCONJ	rel	_	4	mark	_	_
 3	a	a	DET	art	_	4	det	_	_
 4	cup	cup	NOUN	n	_	1	?	_	_
 5	on	on	ADP	prep	_	7	case	_	_
@@ -106897,7 +106897,7 @@
 
 #eve20.xml,655
 1	be&3S	be&3S	VERB	cop	_	5	cop	_	_
-2	that	that	SCONJ	rel	_	5	?	_	_
+2	that	that	SCONJ	rel	_	5	mark	_	_
 3	a	a	DET	art	_	5	det	_	_
 4	baby	baby	NOUN	n	_	5	compund	_	_
 5	noise	noise	NOUN	n	_	1	root	_	_
