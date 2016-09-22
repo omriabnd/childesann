@@ -6,12 +6,12 @@
 5	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve01.xml,1
-1	how	how	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	how	how	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	another	another	DET	qn	_	4	det	_	_
-4	graham	graham	NOUN	n	_	0	root	_	_
+4	graham	graham	NOUN	n	_	1	nmod	_	_
 5	cracker	cracker	NOUN	n	_	4	compound	_	_
-6	?	?	PUNCT	?	_	4	punct	_	_
+6	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve01.xml,2
 1	will&COND	will&COND	AUX	mod	_	3	aux	_	_
@@ -785,11 +785,11 @@
 12	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve01.xml,108
-1	what	what	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	what	what	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	the	the	DET	art	_	4	det	_	_
-4	hat	hat	NOUN	n	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+4	hat	hat	NOUN	n	_	1	nmod	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve01.xml,109
 1	oh	oh	INTJ	co	_	2	discourse	_	_
@@ -1112,11 +1112,11 @@
 6	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve01.xml,152
-1	what	what	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	what	what	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	the	the	DET	art	_	4	det	_	_
-4	pencil	pencil	NOUN	n	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+4	pencil	pencil	NOUN	n	_	1	nmod	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve01.xml,153
 1	okay	okay	INTJ	co	_	2	discourse	_	_
@@ -1160,11 +1160,11 @@
 8	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve01.xml,158
-1	what	what	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	what	what	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	the	the	DET	art	_	4	det	_	_
-4	man	man	NOUN	n	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+4	man	man	NOUN	n	_	1	nmod	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve01.xml,159
 1	he	he	PRON	pro:sub	_	2	nsubj	_	_
@@ -1852,11 +1852,11 @@
 4	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve01.xml,260
-1	how	how	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	how	how	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	your	your	PRON	pro:poss:det	_	4	nmod:poss	_	_
-4	diaper	diaper	NOUN	n	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+4	diaper	diaper	NOUN	n	_	1	nmod	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve01.xml,261
 1	do	do	AUX	mod	_	5	aux	_	_
@@ -4751,11 +4751,11 @@
 6	.	.	PUNCT	.	_	4	punct	_	_
 
 #eve01.xml,681
-1	what	what	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	what	what	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	the	the	DET	art	_	4	det	_	_
-4	horse-DIM	horse-DIM	NOUN	n	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+4	horse-DIM	horse-DIM	NOUN	n	_	1	nmod	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve01.xml,682
 1	I	I	PRON	pro:sub	_	2	nsubj	_	_
@@ -6904,7 +6904,7 @@
 
 #eve02.xml,141
 1	say	say	INTJ	co	_	0	root	_	_
-2	<quotation next line>	<quotation next line>	PUNCT	<quotation next line>	_	1	punct	_	_
+2	"	<quotation next line>	PUNCT	<quotation next line>	_	1	punct	_	_
 
 #eve02.xml,143
 1	you	you	PRON	pro	_	2	nsubj	_	_
@@ -10103,11 +10103,11 @@
 2	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve02.xml,595
-1	what	what	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	what	what	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	your	your	PRON	pro:poss:det	_	4	nmod:poss	_	_
-4	mouth	mouth	NOUN	n	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+4	mouth	mouth	NOUN	n	_	1	nmod	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve02.xml,596
 1	where	where	ADV	adv:wh	_	4	root	_	_
@@ -11152,11 +11152,11 @@
 5	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve02.xml,727
-1	what	what	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	what	what	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	the	the	DET	art	_	4	det	_	_
-4	lady	lady	NOUN	n	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+4	lady	lady	NOUN	n	_	1	nmod	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve02.xml,728
 1	the	the	DET	art	_	0	root	_	_
@@ -19429,10 +19429,10 @@
 2	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve04.xml,714
-1	what	what	X	X	_	3	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
-3	Papa	Papa	PROPN	n:prop	_	0	root	_	_
-4	?	?	PUNCT	?	_	3	punct	_	_
+1	what	what	X	X	_	3	root	_	_
+2	about	about	X	X	_	3	case	_	_
+3	Papa	Papa	PROPN	n:prop	_	1	nmod	_	_
+4	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve04.xml,715
 1	yes	yes	INTJ	co	_	2	discourse	_	_
@@ -19585,12 +19585,12 @@
 2	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve04.xml,742
-1	what	what	X	X	_	5	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	what	what	X	X	_	5	root	_	_
+2	about	about	X	X	_	5	case	_	_
 3	Eve	Eve	PROPN	n:prop	_	5	nmod	_	_
 4	~s	~s	PART	poss	_	3	case	_	_
-5	stool	stool	NOUN	n	_	0	root	_	_
-6	?	?	PUNCT	?	_	5	punct	_	_
+5	stool	stool	NOUN	n	_	1	nmod	_	_
+6	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve04.xml,743
 1	what	what	PRON	pro:wh	_	4	dobj	_	_
@@ -20308,12 +20308,12 @@
 3	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve04.xml,839
-1	what	what	X	X	_	5	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	what	what	X	X	_	5	root	_	_
+2	about	about	X	X	_	5	case	_	_
 3	Mommy	Mommy	PROPN	n:prop	_	5	nmod	_	_
 4	~s	~s	PART	poss	_	3	case	_	_
-5	shoe	shoe	NOUN	n	_	0	root	_	_
-6	?	?	PUNCT	?	_	5	punct	_	_
+5	shoe	shoe	NOUN	n	_	1	nmod	_	_
+6	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve04.xml,840
 1	oh	oh	INTJ	co	_	5	discourse	_	_
@@ -25962,11 +25962,11 @@
 7	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve06.xml,19
-1	what	what	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	what	what	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	the	the	DET	art	_	4	det	_	_
-4	heat	heat	NOUN	n	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+4	heat	heat	NOUN	n	_	1	nmod	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve06.xml,21
 1	heat	heat	NOUN	n	_	0	root	_	_
@@ -26150,10 +26150,10 @@
 8	.	.	PUNCT	.	_	7	punct	_	_
 
 #eve06.xml,52
-1	what	what	X	X	_	3	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
-3	Fraser	Fraser	PROPN	n:prop	_	0	root	_	_
-4	?	?	PUNCT	?	_	3	punct	_	_
+1	what	what	X	X	_	3	root	_	_
+2	about	about	X	X	_	3	case	_	_
+3	Fraser	Fraser	PROPN	n:prop	_	1	nmod	_	_
+4	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve06.xml,53
 1	he	he	PRON	pro:sub	_	3	nsubj	_	_
@@ -29245,10 +29245,10 @@
 2	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve06.xml,496
-1	what	what	X	X	_	3	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
-3	Papa	Papa	PROPN	n:prop	_	0	root	_	_
-4	?	?	PUNCT	?	_	3	punct	_	_
+1	what	what	X	X	_	3	root	_	_
+2	about	about	X	X	_	3	case	_	_
+3	Papa	Papa	PROPN	n:prop	_	1	nmod	_	_
+4	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve06.xml,497
 1	hmm	hmm	INTJ	co	_	0	root	_	_
@@ -30860,10 +30860,10 @@
 8	.	.	PUNCT	.	_	7	punct	_	_
 
 #eve07.xml,183
-1	what	what	X	X	_	3	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
-3	Eve	Eve	PROPN	n:prop	_	0	root	_	_
-4	?	?	PUNCT	?	_	3	punct	_	_
+1	what	what	X	X	_	3	root	_	_
+2	about	about	X	X	_	3	case	_	_
+3	Eve	Eve	PROPN	n:prop	_	1	nmod	_	_
+4	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve07.xml,184
 1	you	you	PRON	pro	_	2	nsubj	_	_
@@ -42575,7 +42575,7 @@
 6	and	and	CONJ	coord	_	2	cc	_	_
 7	keep&PAST	keep&PAST	VERB	v	_	2	conj	_	_
 8	say-PRESP	say-PRESP	NOUN	n:gerund	_	7	dobj	_	_
-9	<quotation next line>	<quotation next line>	PUNCT	<quotation next line>	_	2	punct	_	_
+9	"	<quotation next line>	PUNCT	<quotation next line>	_	2	punct	_	_
 
 #eve08.xml,1069
 1	shoe	shoe	NOUN	n	_	0	root	_	_
@@ -43665,11 +43665,11 @@
 3	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve09.xml,117
-1	what	what	X	X	_	3	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
-3	ice	ice	NOUN	n	_	0	root	_	_
+1	what	what	X	X	_	3	root	_	_
+2	about	about	X	X	_	3	case	_	_
+3	ice	ice	NOUN	n	_	1	nmod	_	_
 4	cube-PL	cube-PL	NOUN	n	_	3	compound	_	_
-5	?	?	PUNCT	?	_	3	punct	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve09.xml,118
 1	no	no	INTJ	co	_	6	discourse	_	_
@@ -48272,10 +48272,10 @@
 9	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve10.xml,272
-1	how	how	X	X	_	3	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
-3	this	this	PRON	pro:dem	_	0	root	_	_
-4	?	?	PUNCT	?	_	3	punct	_	_
+1	how	how	X	X	_	3	root	_	_
+2	about	about	X	X	_	3	case	_	_
+3	this	this	PRON	pro:dem	_	1	nmod	_	_
+4	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve10.xml,273
 1	and	and	CONJ	coord	_	4	cc	_	_
@@ -49262,11 +49262,11 @@
 6	?	?	PUNCT	?	_	3	punct	_	_
 
 #eve10.xml,408
-1	what	what	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	what	what	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	the	the	DET	art	_	4	det	_	_
-4	noise	noise	NOUN	n	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+4	noise	noise	NOUN	n	_	1	nmod	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve10.xml,409
 1	what	what	PRON	pro:wh	_	3	root	_	_
@@ -52412,12 +52412,12 @@
 6	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve11.xml,339
-1	how	how	X	X	_	5	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	how	how	X	X	_	5	root	_	_
+2	about	about	X	X	_	5	case	_	_
 3	a	a	DET	art	_	5	det	_	_
 4	yellow	yellow	NOUN	n	_	5	compund	_	_
-5	one	one	NOUN	pro:indef	_	0	root	_	_
-6	?	?	PUNCT	?	_	5	punct	_	_
+5	one	one	NOUN	pro:indef	_	1	nmod	_	_
+6	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve11.xml,340
 1	very	very	ADV	adv	_	2	advmod	_	_
@@ -59532,10 +59532,10 @@
 
 #eve13.xml,124
 1	no	no	INTJ	co	_	4	discourse	_	_
-2	what	what	X	X	_	4	?	_	_
-3	about	about	X	X	_	2	mwe	_	_
-4	d	d	NOUN	n:let	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+2	what	what	X	X	_	4	root	_	_
+3	about	about	X	X	_	4	case	_	_
+4	d	d	NOUN	n:let	_	2	nmod	_	_
+5	?	?	PUNCT	?	_	2	punct	_	_
 
 #eve13.xml,125
 1	be&3S	be&3S	VERB	cop	_	3	cop	_	_
@@ -65667,11 +65667,11 @@
 3	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve14.xml,440
-1	what	what	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	what	what	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	a	a	DET	art	_	4	det	_	_
-4	door	door	NOUN	n	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+4	door	door	NOUN	n	_	1	nmod	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve14.xml,441
 1	and	and	CONJ	coord	_	3	cc	_	_
@@ -72191,11 +72191,11 @@
 10	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve15.xml,696
-1	how	how	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	how	how	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	some	some	DET	qn	_	4	det	_	_
-4	cheese	cheese	NOUN	n	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+4	cheese	cheese	NOUN	n	_	1	nmod	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve15.xml,697
 1	alright	alright	INTJ	co	_	0	root	_	_
@@ -72513,7 +72513,7 @@
 1	he	he	PRON	pro:sub	_	2	nsubj	_	_
 2	ask-PAST	ask-PAST	VERB	v	_	0	root	_	_
 3	you	you	PRON	pro	_	2	dobj	_	_
-4	<quotation next line>	<quotation next line>	PUNCT	<quotation next line>	_	2	punct	_	_
+4	"	<quotation next line>	PUNCT	<quotation next line>	_	2	punct	_	_
 
 #eve15.xml,741
 1	Eve	Eve	PROPN	n:prop	_	5	?	_	_
@@ -73036,10 +73036,10 @@
 8	.	.	PUNCT	.	_	5	punct	_	_
 
 #eve15.xml,820
-1	how	how	X	X	_	3	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
-3	that	that	PRON	pro:dem	_	0	root	_	_
-4	?	?	PUNCT	?	_	3	punct	_	_
+1	how	how	X	X	_	3	root	_	_
+2	about	about	X	X	_	3	case	_	_
+3	that	that	PRON	pro:dem	_	1	nmod	_	_
+4	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve15.xml,821
 1	what	what	PRON	pro:wh	_	4	dobj	_	_
@@ -84917,10 +84917,10 @@
 3	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve17.xml,619
-1	how	how	X	X	_	3	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
-3	that	that	PRON	pro:dem	_	0	root	_	_
-4	?	?	PUNCT	?	_	3	punct	_	_
+1	how	how	X	X	_	3	root	_	_
+2	about	about	X	X	_	3	case	_	_
+3	that	that	PRON	pro:dem	_	1	nmod	_	_
+4	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve17.xml,620
 1	yeah	yeah	INTJ	co	_	4	discourse	_	_
@@ -86482,10 +86482,10 @@
 10	.	.	PUNCT	.	_	5	punct	_	_
 
 #eve17.xml,820
-1	how	how	X	X	_	3	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
-3	that	that	PRON	pro:dem	_	0	root	_	_
-4	?	?	PUNCT	?	_	3	punct	_	_
+1	how	how	X	X	_	3	root	_	_
+2	about	about	X	X	_	3	case	_	_
+3	that	that	PRON	pro:dem	_	1	nmod	_	_
+4	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve17.xml,821
 1	now	now	ADV	adv	_	3	advmod	_	_
@@ -87898,12 +87898,12 @@
 6	.	.	PUNCT	.	_	5	punct	_	_
 
 #eve17.xml,1008
-1	what	what	X	X	_	3	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
-3	Little	Little	PROPN	n:prop	_	0	root	_	_
+1	what	what	X	X	_	3	root	_	_
+2	about	about	X	X	_	3	case	_	_
+3	Little	Little	PROPN	n:prop	_	1	nmod	_	_
 4	Boy	Boy	PROPN	n:prop	_	3	vocative	_	_
 5	Blue	Blue	PROPN	n:prop	_	4	vocative	_	_
-6	?	?	PUNCT	?	_	3	punct	_	_
+6	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve17.xml,1009
 1	do	do	AUX	mod	_	3	aux	_	_
@@ -93720,11 +93720,11 @@
 2	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve18.xml,592
-1	how	how	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	how	how	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	a	a	DET	art	_	4	det	_	_
-4	eggnog	eggnog	NOUN	n	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+4	eggnog	eggnog	NOUN	n	_	1	nmod	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve18.xml,593
 1	what	what	PRON	pro:wh	_	0	root	_	_
@@ -101339,10 +101339,10 @@
 #eve19.xml,588
 1	well	well	INTJ	co	_	3	discourse	_	_
 2	,	beg	PUNCT	beg	_	3	punct	_	_
-3	how	how	X	X	_	5	?	_	_
-4	about	about	X	X	_	3	mwe	_	_
-5	that	that	PRON	pro:dem	_	0	root	_	_
-6	.	.	PUNCT	.	_	5	punct	_	_
+3	how	how	X	X	_	5	root	_	_
+4	about	about	X	X	_	5	case	_	_
+5	that	that	PRON	pro:dem	_	3	nmod	_	_
+6	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve19.xml,589
 1	I	I	PRON	pro:sub	_	4	nsubj	_	_
@@ -102739,10 +102739,10 @@
 9	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve20.xml,80
-1	how	how	X	X	_	3	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
-3	that	that	PRON	pro:dem	_	0	root	_	_
-4	?	?	PUNCT	?	_	3	punct	_	_
+1	how	how	X	X	_	3	root	_	_
+2	about	about	X	X	_	3	case	_	_
+3	that	that	PRON	pro:dem	_	1	nmod	_	_
+4	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve20.xml,81
 1	what	what	PRON	pro:wh	_	3	nsubj	_	_
@@ -105509,10 +105509,10 @@
 4	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve20.xml,455
-1	how	how	X	X	_	3	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
-3	that	that	PRON	pro:dem	_	0	root	_	_
-4	?	?	PUNCT	?	_	3	punct	_	_
+1	how	how	X	X	_	3	root	_	_
+2	about	about	X	X	_	3	case	_	_
+3	that	that	PRON	pro:dem	_	1	nmod	_	_
+4	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve20.xml,456
 1	well	well	INTJ	co	_	5	discourse	_	_
@@ -106148,11 +106148,11 @@
 7	?	?	PUNCT	?	_	4	punct	_	_
 
 #eve20.xml,541
-1	how	how	X	X	_	4	?	_	_
-2	about	about	X	X	_	1	mwe	_	_
+1	how	how	X	X	_	4	root	_	_
+2	about	about	X	X	_	4	case	_	_
 3	cheese	cheese	NOUN	n	_	4	compund	_	_
-4	sandwich	sandwich	NOUN	n	_	0	root	_	_
-5	?	?	PUNCT	?	_	4	punct	_	_
+4	sandwich	sandwich	NOUN	n	_	1	nmod	_	_
+5	?	?	PUNCT	?	_	1	punct	_	_
 
 #eve20.xml,542
 1	eggnog	eggnog	NOUN	n	_	0	root	_	_
@@ -106577,12 +106577,12 @@
 #eve20.xml,604
 1	now	now	ADV	adv	_	7	advmod	_	_
 2	,	cm	PUNCT	cm	_	1	punct	_	_
-3	how	how	X	X	_	7	?	_	_
-4	about	about	X	X	_	3	mwe	_	_
+3	how	how	X	X	_	7	root	_	_
+4	about	about	X	X	_	7	case	_	_
 5	a	a	DET	art	_	7	det	_	_
 6	cheese	cheese	NOUN	n	_	7	compund	_	_
-7	sandwich	sandwich	NOUN	n	_	0	root	_	_
-8	?	?	PUNCT	?	_	7	punct	_	_
+7	sandwich	sandwich	NOUN	n	_	3	nmod	_	_
+8	?	?	PUNCT	?	_	3	punct	_	_
 
 #eve20.xml,605
 1	that	that	DET	det	_	2	det	_	_
