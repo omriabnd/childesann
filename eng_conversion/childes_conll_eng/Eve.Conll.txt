@@ -6,12 +6,12 @@
 5	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve01.xml,1
-1	how	how	X	X	_	4	LINK	_	_	
+1	how	how	X	X	_	5	LINK	_	_	
 2	about	about	X	X	_	1	mwe	_	_	
-3	another	another	qn	qn	_	4	QUANT	_	_	
-4	graham	graham	n	n	_	0	INCROOT	_	_	
-5	cracker	cracker	n	n	_	4	compound	_	_	
-6	?	?	?	?	_	4	PUNCT	_	_	
+3	another	another	qn	qn	_	5	QUANT	_	_	
+4	graham	graham	n	n	_	5	compound	_	_	
+5	cracker	cracker	n	n	_	0	INCROOT	_	_	
+6	?	?	?	?	_	5	PUNCT	_	_	
 
 #eve01.xml,2
 1	will&COND	will&COND	mod	mod	_	3	AUX	_	_	
@@ -1333,9 +1333,9 @@
 3	you	you	pro	pro	_	4	SUBJ	_	_	
 4	read&ZERO	read&ZERO	v	v	_	0	ROOT	_	_	
 5	about	about	prep	prep	_	4	JCT	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	choo	choo	n	n	_	5	POBJ	_	_	
-8	choo	choo	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	choo	choo	n	n	_	8	compound	_	_	
+8	choo	choo	n	n	_	5	POBJ	_	_	
 9	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve01.xml,182
@@ -1368,9 +1368,9 @@
 #eve01.xml,186
 1	oh	oh	co	co	_	7	COM	_	_	
 2	beg	beg	beg	beg	_	7	JCT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	choo	choo	n	n	_	7	SUBJ	_	_	
-5	choo	choo	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	choo	choo	n	n	_	5	compound	_	_	
+5	choo	choo	n	n	_	7	SUBJ	_	_	
 6	be&3S	be&3S	aux	aux	_	7	AUX	_	_	
 7	come-PRESP	come-PRESP	part	part	_	0	ROOT	_	_	
 8	?	?	?	?	_	7	PUNCT	_	_	
@@ -2115,15 +2115,15 @@
 #eve01.xml,296
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	a	a	art	art	_	4	MOD	_	_	
-4	tape	tape	n	n	_	2	PRED	_	_	
-5	record&dv-AGT	record&dv-AGT	n	n	_	4	compound	_	_	
+3	a	a	art	art	_	5	MOD	_	_	
+4	tape	tape	n	n	_	5	compound	_	_	
+5	record&dv-AGT	record&dv-AGT	n	n	_	2	PRED	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve01.xml,297
-1	tape	tape	n	n	_	0	INCROOT	_	_	
-2	record&dv-AGT	record&dv-AGT	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	tape	tape	n	n	_	2	compound	_	_	
+2	record&dv-AGT	record&dv-AGT	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve01.xml,298
 1	what	what	pro:wh	pro:wh	_	2	SUBJ	_	_	
@@ -2134,11 +2134,11 @@
 #eve01.xml,299
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	the	the	art	art	_	6	MOD	_	_	
-4	man	man	n	n	_	6	MOD	_	_	
+3	the	the	art	art	_	7	MOD	_	_	
+4	man	man	n	n	_	7	MOD	_	_	
 5	~s	~s	poss	poss	_	4	POSS	_	_	
-6	tape	tape	n	n	_	2	PRED	_	_	
-7	record&dv-AGT	record&dv-AGT	n	n	_	6	compound	_	_	
+6	tape	tape	n	n	_	7	compound	_	_	
+7	record&dv-AGT	record&dv-AGT	n	n	_	2	PRED	_	_	
 8	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve01.xml,300
@@ -2186,25 +2186,25 @@
 6	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve01.xml,308
-1	oh	oh	co	co	_	3	COM	_	_	
-2	beg	beg	beg	beg	_	3	MOD	_	_	
-3	tape	tape	n	n	_	0	INCROOT	_	_	
-4	record&dv-AGT	record&dv-AGT	n	n	_	3	compound	_	_	
-5	?	?	?	?	_	3	PUNCT	_	_	
+1	oh	oh	co	co	_	4	COM	_	_	
+2	beg	beg	beg	beg	_	4	MOD	_	_	
+3	tape	tape	n	n	_	4	compound	_	_	
+4	record&dv-AGT	record&dv-AGT	n	n	_	0	INCROOT	_	_	
+5	?	?	?	?	_	4	PUNCT	_	_	
 
 #eve01.xml,309
-1	tape	tape	n	n	_	0	INCROOT	_	_	
-2	record&dv-AGT	record&dv-AGT	n	n	_	1	compound	_	_	
-3	?	?	?	?	_	1	PUNCT	_	_	
+1	tape	tape	n	n	_	2	compound	_	_	
+2	record&dv-AGT	record&dv-AGT	n	n	_	0	INCROOT	_	_	
+3	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve01.xml,310
 1	yes	yes	co	co	_	0	INCROOT	_	_	
 2	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve01.xml,311
-1	tape	tape	n	n	_	0	INCROOT	_	_	
-2	record&dv-AGT	record&dv-AGT	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	tape	tape	n	n	_	2	compound	_	_	
+2	record&dv-AGT	record&dv-AGT	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve01.xml,312
 1	yes	yes	co	co	_	0	INCROOT	_	_	
@@ -2253,8 +2253,8 @@
 3	a	a	art	art	_	0	ROOT	_	_	
 4	bit	bit	n	n	_	3	OBJ	_	_	
 5	of	of	prep	prep	_	4	NJCT	_	_	
-6	peanut	peanut	n	n	_	5	POBJ	_	_	
-7	butter	butter	n	n	_	6	compound	_	_	
+6	peanut	peanut	n	n	_	7	compound	_	_	
+7	butter	butter	n	n	_	5	POBJ	_	_	
 8	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve01.xml,320
@@ -2830,21 +2830,21 @@
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 3	not	not	neg	neg	_	2	NEG	_	_	
-4	the	the	art	art	_	9	MOD	_	_	
-5	table	table	n	n	_	9	MOD	_	_	
-6	that	that	pro:dem	pro:dem	_	9	SUBJ	_	_	
-7	~be&3S	~be&3S	aux	aux	_	9	AUX	_	_	
-8	the	the	art	art	_	9	MOD	_	_	
-9	fire	fire	n	n	_	2	PRED	_	_	
-10	place	place	n	n	_	9	compound	_	_	
+4	the	the	art	art	_	10	MOD	_	_	
+5	table	table	n	n	_	10	MOD	_	_	
+6	that	that	pro:dem	pro:dem	_	10	SUBJ	_	_	
+7	~be&3S	~be&3S	aux	aux	_	10	AUX	_	_	
+8	the	the	art	art	_	10	MOD	_	_	
+9	fire	fire	n	n	_	10	compound	_	_	
+10	place	place	n	n	_	2	PRED	_	_	
 11	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve01.xml,400
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	fire	fire	n	n	_	2	PRED	_	_	
-5	place	place	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	fire	fire	n	n	_	5	compound	_	_	
+5	place	place	n	n	_	2	PRED	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve01.xml,401
@@ -5643,9 +5643,9 @@
 #eve01.xml,813
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	tape	tape	n	n	_	2	PRED	_	_	
-5	record&dv-AGT	record&dv-AGT	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	tape	tape	n	n	_	5	compound	_	_	
+5	record&dv-AGT	record&dv-AGT	n	n	_	2	PRED	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve01.xml,814
@@ -6254,17 +6254,17 @@
 #eve02.xml,47
 1	will&COND	will&COND	mod	mod	_	0	INCROOT	_	_	
 2	you	you	pro	pro	_	1	OBJ	_	_	
-3	like	like	conj	conj	_	5	LINK	_	_	
-4	a	a	art	art	_	5	MOD	_	_	
-5	graham	graham	n	n	_	1	CJCT	_	_	
-6	cracker	cracker	n	n	_	5	compound	_	_	
+3	like	like	conj	conj	_	6	LINK	_	_	
+4	a	a	art	art	_	6	MOD	_	_	
+5	graham	graham	n	n	_	6	compound	_	_	
+6	cracker	cracker	n	n	_	1	CJCT	_	_	
 7	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve02.xml,48
 1	put&ZERO	put&ZERO	v	v	_	0	ROOT	_	_	
-2	your	your	pro:poss:det	pro:poss:det	_	3	MOD	_	_	
-3	high	high	n	n	_	1	OBJ	_	_	
-4	chair	chair	n	n	_	3	compound	_	_	
+2	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
+3	high	high	n	n	_	4	compound	_	_	
+4	chair	chair	n	n	_	1	OBJ	_	_	
 5	back	back	adv	adv	_	1	JCT	_	_	
 6	.	.	.	.	_	1	PUNCT	_	_	
 
@@ -7157,9 +7157,9 @@
 2	only	only	qn	qn	_	3	QUANT	_	_	
 3	swim	swim	n	n	_	0	INCROOT	_	_	
 4	in	in	prep	prep	_	3	JCT	_	_	
-5	the	the	art	art	_	6	MOD	_	_	
-6	bath	bath	n	n	_	4	POBJ	_	_	
-7	tub	tub	n	n	_	6	compound	_	_	
+5	the	the	art	art	_	7	MOD	_	_	
+6	bath	bath	n	n	_	7	compound	_	_	
+7	tub	tub	n	n	_	4	POBJ	_	_	
 8	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve02.xml,181
@@ -7674,16 +7674,16 @@
 #eve02.xml,251
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	move	move	v	v	_	0	ROOT	_	_	
-3	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
-4	high	high	n	n	_	2	OBJ	_	_	
-5	chair	chair	n	n	_	4	compound	_	_	
+3	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
+4	high	high	n	n	_	5	compound	_	_	
+5	chair	chair	n	n	_	2	OBJ	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve02.xml,252
 1	move	move	v	v	_	0	ROOT	_	_	
-2	your	your	pro:poss:det	pro:poss:det	_	3	MOD	_	_	
-3	high	high	n	n	_	1	OBJ	_	_	
-4	chair	chair	n	n	_	3	compound	_	_	
+2	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
+3	high	high	n	n	_	4	compound	_	_	
+4	chair	chair	n	n	_	1	OBJ	_	_	
 5	and	and	coord	coord	_	1	CONJ	_	_	
 6	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
 7	bib	bib	n	n	_	5	COORD	_	_	
@@ -7979,9 +7979,9 @@
 4	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve02.xml,299
-1	tape	tape	n	n	_	0	INCROOT	_	_	
-2	record&dv-AGT	record&dv-AGT	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	tape	tape	n	n	_	2	compound	_	_	
+2	record&dv-AGT	record&dv-AGT	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve02.xml,300
 1	oh	oh	co	co	_	6	COM	_	_	
@@ -8365,17 +8365,17 @@
 #eve02.xml,354
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	mail	mail	n	n	_	2	PRED	_	_	
-5	man	man	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	mail	mail	n	n	_	5	compound	_	_	
+5	man	man	n	n	_	2	PRED	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve02.xml,355
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	mail	mail	n	n	_	2	PRED	_	_	
-5	man	man	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	mail	mail	n	n	_	5	compound	_	_	
+5	man	man	n	n	_	2	PRED	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve02.xml,356
@@ -8857,9 +8857,9 @@
 2	can	can	mod	mod	_	3	AUX	_	_	
 3	watch	watch	v	v	_	0	ROOT	_	_	
 4	the	the	art	art	_	3	OBJ	_	_	
-5	washing	washing	n	n	_	4	XMOD	_	_	
-6	machine	machine	n	n	_	5	compound	_	_	
-7	later	later	adv	adv	_	5	NJCT	_	_	
+5	washing	washing	n	n	_	6	compound	_	_	
+6	machine	machine	n	n	_	4	XMOD	_	_	
+7	later	later	adv	adv	_	6	NJCT	_	_	
 8	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve02.xml,423
@@ -8887,9 +8887,9 @@
 8	make	make	v	v	_	7	COORD	_	_	
 9	something	something	pro:indef	pro:indef	_	8	OBJ	_	_	
 10	with	with	prep	prep	_	8	JCT	_	_	
-11	your	your	pro:poss:det	pro:poss:det	_	12	MOD	_	_	
-12	tinker	tinker	n	n	_	10	POBJ	_	_	
-13	toy-PL	toy-PL	n	n	_	12	compound	_	_	
+11	your	your	pro:poss:det	pro:poss:det	_	13	MOD	_	_	
+12	tinker	tinker	n	n	_	13	compound	_	_	
+13	toy-PL	toy-PL	n	n	_	10	POBJ	_	_	
 14	?	?	?	?	_	5	PUNCT	_	_	
 
 #eve02.xml,426
@@ -8914,9 +8914,9 @@
 3	make	make	v	v	_	0	ROOT	_	_	
 4	something	something	pro:indef	pro:indef	_	3	OBJ	_	_	
 5	with	with	prep	prep	_	3	JCT	_	_	
-6	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
-7	tinker	tinker	n	n	_	5	POBJ	_	_	
-8	toy-PL	toy-PL	n	n	_	7	compound	_	_	
+6	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
+7	tinker	tinker	n	n	_	8	compound	_	_	
+8	toy-PL	toy-PL	n	n	_	5	POBJ	_	_	
 9	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve02.xml,429
@@ -8925,9 +8925,9 @@
 3	Eve	Eve	n:prop	n:prop	_	4	MOD	_	_	
 4	play	play	n	n	_	2	PRED	_	_	
 5	with	with	prep	prep	_	4	NJCT	_	_	
-6	her	her	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
-7	tinker	tinker	n	n	_	5	POBJ	_	_	
-8	toy-PL	toy-PL	n	n	_	7	compound	_	_	
+6	her	her	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
+7	tinker	tinker	n	n	_	8	compound	_	_	
+8	toy-PL	toy-PL	n	n	_	5	POBJ	_	_	
 9	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve02.xml,430
@@ -9411,25 +9411,25 @@
 2	you	you	pro	pro	_	3	SUBJ	_	_	
 3	see	see	v	v	_	1	COMP	_	_	
 4	the	the	art	art	_	3	OBJ	_	_	
-5	butter	butter	n	n	_	4	OBJ	_	_	
-6	fly	fly	n	n	_	5	compound	_	_	
+5	butter	butter	n	n	_	6	compound	_	_	
+6	fly	fly	n	n	_	4	OBJ	_	_	
 7	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve02.xml,496
 1	where	where	adv:wh	adv:wh	_	2	LINK	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	butter	butter	n	n	_	2	PRED	_	_	
-5	fly	fly	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	butter	butter	n	n	_	5	compound	_	_	
+5	fly	fly	n	n	_	2	PRED	_	_	
 6	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve02.xml,497
-1	show	show	n	n	_	4	MOD	_	_	
-2	Mommy	Mommy	n:prop	n:prop	_	4	MOD	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	butter	butter	n	n	_	0	INCROOT	_	_	
-5	fly	fly	n	n	_	4	compound	_	_	
-6	.	.	.	.	_	4	PUNCT	_	_	
+1	show	show	n	n	_	5	MOD	_	_	
+2	Mommy	Mommy	n:prop	n:prop	_	5	MOD	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	butter	butter	n	n	_	5	compound	_	_	
+5	fly	fly	n	n	_	0	INCROOT	_	_	
+6	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve02.xml,498
 1	no	no	co	co	_	4	COM	_	_	
@@ -9437,9 +9437,9 @@
 3	that	that	pro:dem	pro:dem	_	4	SUBJ	_	_	
 4	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 5	not	not	neg	neg	_	4	NEG	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	butter	butter	n	n	_	4	PRED	_	_	
-8	fly	fly	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	butter	butter	n	n	_	8	compound	_	_	
+8	fly	fly	n	n	_	4	PRED	_	_	
 9	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve02.xml,499
@@ -9452,9 +9452,9 @@
 #eve02.xml,500
 1	where	where	adv:wh	adv:wh	_	2	LINK	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	butter	butter	n	n	_	2	PRED	_	_	
-5	fly	fly	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	butter	butter	n	n	_	5	compound	_	_	
+5	fly	fly	n	n	_	2	PRED	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve02.xml,501
@@ -9464,9 +9464,9 @@
 #eve02.xml,502
 1	there	there	pro:exist	pro:exist	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	butter	butter	n	n	_	2	PRED	_	_	
-5	fly	fly	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	butter	butter	n	n	_	5	compound	_	_	
+5	fly	fly	n	n	_	2	PRED	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve02.xml,503
@@ -9522,9 +9522,9 @@
 6	?	?	?	?	_	5	PUNCT	_	_	
 
 #eve02.xml,512
-1	teddy	teddy	n	n	_	0	INCROOT	_	_	
-2	bear	bear	n	n	_	1	compound	_	_	
-3	end	end	end	end	_	1	INCROOT	_	_	
+1	teddy	teddy	n	n	_	2	compound	_	_	
+2	bear	bear	n	n	_	0	INCROOT	_	_	
+3	end	end	end	end	_	2	INCROOT	_	_	
 4	be&3S	be&3S	aux	aux	_	3	INCROOT	_	_	
 5	it	it	pro	pro	_	4	OBJ	_	_	
 6	?	?	?	?	_	4	PUNCT	_	_	
@@ -9533,9 +9533,9 @@
 1	it	it	pro	pro	_	3	SUBJ	_	_	
 2	~be&3S	~be&3S	aux	aux	_	3	AUX	_	_	
 3	call-PASTP	call-PASTP	part	part	_	0	ROOT	_	_	
-4	my	my	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
-5	teddy	teddy	n	n	_	3	OBJ	_	_	
-6	bear	bear	n	n	_	5	compound	_	_	
+4	my	my	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
+5	teddy	teddy	n	n	_	6	compound	_	_	
+6	bear	bear	n	n	_	3	OBJ	_	_	
 7	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve02.xml,514
@@ -10386,9 +10386,9 @@
 9	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve02.xml,633
-1	peanut	peanut	n	n	_	0	INCROOT	_	_	
-2	butter	butter	n	n	_	1	compound	_	_	
-3	?	?	?	?	_	1	PUNCT	_	_	
+1	peanut	peanut	n	n	_	2	compound	_	_	
+2	butter	butter	n	n	_	0	INCROOT	_	_	
+3	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve02.xml,634
 1	you	you	pro	pro	_	3	SUBJ	_	_	
@@ -10678,9 +10678,9 @@
 2	~be&3S	~be&3S	aux	aux	_	0	ROOT	_	_	
 3	not	not	neg	neg	_	2	NEG	_	_	
 4	at	at	prep	prep	_	2	JCT	_	_	
-5	a	a	art	art	_	6	MOD	_	_	
-6	high	high	n	n	_	4	POBJ	_	_	
-7	chair	chair	n	n	_	6	compound	_	_	
+5	a	a	art	art	_	7	MOD	_	_	
+6	high	high	n	n	_	7	compound	_	_	
+7	chair	chair	n	n	_	4	POBJ	_	_	
 8	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve02.xml,672
@@ -10978,9 +10978,9 @@
 5	~be&3S	~be&3S	aux	aux	_	4	INCROOT	_	_	
 6	not	not	neg	neg	_	5	NEG	_	_	
 7	in	in	prep	prep	_	5	JCT	_	_	
-8	the	the	art	art	_	9	MOD	_	_	
-9	high	high	n	n	_	7	POBJ	_	_	
-10	chair	chair	n	n	_	9	compound	_	_	
+8	the	the	art	art	_	10	MOD	_	_	
+9	high	high	n	n	_	10	compound	_	_	
+10	chair	chair	n	n	_	7	POBJ	_	_	
 11	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve02.xml,708
@@ -11508,18 +11508,18 @@
 2	that	that	pro:dem	pro:dem	_	1	OBJ	_	_	
 3	in	in	prep	prep	_	1	JCT	_	_	
 4	the	the	art	art	_	3	POBJ	_	_	
-5	waste	waste	n	n	_	4	OBJ	_	_	
-6	basket	basket	n	n	_	5	compound	_	_	
-7	end	end	end	end	_	5	XMOD	_	_	
+5	waste	waste	n	n	_	6	compound	_	_	
+6	basket	basket	n	n	_	4	OBJ	_	_	
+7	end	end	end	end	_	6	XMOD	_	_	
 8	please	please	co	co	_	7	COM	_	_	
 9	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve02.xml,779
 1	be&3S	be&3S	cop	cop	_	0	ROOT	_	_	
-2	that	that	rel	rel	_	4	LINK	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	waste	waste	n	n	_	1	PRED	_	_	
-5	basket	basket	n	n	_	4	compound	_	_	
+2	that	that	rel	rel	_	5	LINK	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	waste	waste	n	n	_	5	compound	_	_	
+5	basket	basket	n	n	_	1	PRED	_	_	
 6	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve02.xml,780
@@ -11606,9 +11606,9 @@
 3	and	and	coord	coord	_	1	CONJ	_	_	
 4	play	play	v	v	_	3	COORD	_	_	
 5	with	with	prep	prep	_	4	NJCT	_	_	
-6	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
-7	tinker	tinker	n	n	_	5	POBJ	_	_	
-8	toy-PL	toy-PL	n	n	_	7	compound	_	_	
+6	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
+7	tinker	tinker	n	n	_	8	compound	_	_	
+8	toy-PL	toy-PL	n	n	_	5	POBJ	_	_	
 9	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve02.xml,792
@@ -12566,10 +12566,10 @@
 9	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve03.xml,109
-1	a	a	art	art	_	2	MOD	_	_	
-2	graham	graham	n	n	_	0	INCROOT	_	_	
-3	cracker	cracker	n	n	_	2	compound	_	_	
-4	?	?	?	?	_	2	PUNCT	_	_	
+1	a	a	art	art	_	3	MOD	_	_	
+2	graham	graham	n	n	_	3	compound	_	_	
+3	cracker	cracker	n	n	_	0	INCROOT	_	_	
+4	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve03.xml,110
 1	do&PAST	do&PAST	v	v	_	0	ROOT	_	_	
@@ -14135,10 +14135,10 @@
 1	will&COND	will&COND	mod	mod	_	3	AUX	_	_	
 2	you	you	pro	pro	_	3	SUBJ	_	_	
 3	get	get	v	v	_	0	ROOT	_	_	
-4	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
-5	high	high	n	n	_	3	OBJ	_	_	
-6	chair	chair	n	n	_	5	compound	_	_	
-7	and	and	coord	coord	_	5	COORD	_	_	
+4	your	your	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
+5	high	high	n	n	_	6	compound	_	_	
+6	chair	chair	n	n	_	3	OBJ	_	_	
+7	and	and	coord	coord	_	6	COORD	_	_	
 8	we	we	pro:sub	pro:sub	_	10	SUBJ	_	_	
 9	~will	~will	mod	mod	_	10	AUX	_	_	
 10	have	have	v	v	_	7	CONJ	_	_	
@@ -14147,10 +14147,10 @@
 
 #eve03.xml,327
 1	get	get	v	v	_	0	ROOT	_	_	
-2	your	your	pro:poss:det	pro:poss:det	_	3	MOD	_	_	
-3	high	high	n	n	_	1	OBJ	_	_	
-4	chair	chair	n	n	_	3	compound	_	_	
-5	and	and	coord	coord	_	3	CONJ	_	_	
+2	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
+3	high	high	n	n	_	4	compound	_	_	
+4	chair	chair	n	n	_	1	OBJ	_	_	
+5	and	and	coord	coord	_	4	CONJ	_	_	
 6	bib	bib	n	n	_	5	COORD	_	_	
 7	.	.	.	.	_	1	PUNCT	_	_	
 
@@ -14380,14 +14380,14 @@
 
 #eve03.xml,364
 1	with	with	prep	prep	_	0	INCROOT	_	_	
-2	peanut	peanut	n	n	_	1	POBJ	_	_	
-3	butter	butter	n	n	_	2	compound	_	_	
+2	peanut	peanut	n	n	_	3	compound	_	_	
+3	butter	butter	n	n	_	1	POBJ	_	_	
 4	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve03.xml,365
 1	with	with	prep	prep	_	0	INCROOT	_	_	
-2	peanut	peanut	n	n	_	1	POBJ	_	_	
-3	butter	butter	n	n	_	2	compound	_	_	
+2	peanut	peanut	n	n	_	3	compound	_	_	
+3	butter	butter	n	n	_	1	POBJ	_	_	
 4	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve04.xml,1
@@ -14612,9 +14612,9 @@
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 3	part	part	n	n	_	2	PRED	_	_	
 4	of	of	prep	prep	_	3	NJCT	_	_	
-5	the	the	art	art	_	6	MOD	_	_	
-6	tape	tape	n	n	_	4	POBJ	_	_	
-7	record&dv-AGT	record&dv-AGT	n	n	_	6	compound	_	_	
+5	the	the	art	art	_	7	MOD	_	_	
+6	tape	tape	n	n	_	7	compound	_	_	
+7	record&dv-AGT	record&dv-AGT	n	n	_	4	POBJ	_	_	
 8	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve04.xml,31
@@ -14986,17 +14986,17 @@
 5	go-PRESP	go-PRESP	part	part	_	0	ROOT	_	_	
 6	to	to	inf	inf	_	7	INF	_	_	
 7	be	be	cop	cop	_	5	XCOMP	_	_	
-8	lunch	lunch	n	n	_	7	PRED	_	_	
-9	time	time	n	n	_	8	compound	_	_	
-10	before	before	prep	prep	_	8	NJCT	_	_	
+8	lunch	lunch	n	n	_	9	compound	_	_	
+9	time	time	n	n	_	7	PRED	_	_	
+10	before	before	prep	prep	_	9	NJCT	_	_	
 11	too	too	adv	adv	_	12	JCT	_	_	
 12	long	long	adj	adj	_	10	POBJ	_	_	
 13	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve04.xml,83
-1	no	no	qn	qn	_	2	QUANT	_	_	
-2	graham	graham	n	n	_	4	SUBJ	_	_	
-3	cracker-PL	cracker-PL	n	n	_	2	compound	_	_	
+1	no	no	qn	qn	_	3	QUANT	_	_	
+2	graham	graham	n	n	_	3	compound	_	_	
+3	cracker-PL	cracker-PL	n	n	_	4	SUBJ	_	_	
 4	today	today	adv:tem	adv:tem	_	0	ROOT	_	_	
 5	.	.	.	.	_	4	PUNCT	_	_	
 
@@ -15317,19 +15317,19 @@
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 3	what	what	pro:wh	pro:wh	_	8	LINK	_	_	
 4	the	the	art	art	_	8	JCT	_	_	
-5	tape	tape	n	n	_	8	SUBJ	_	_	
-6	record&dv-AGT	record&dv-AGT	n	n	_	5	compound	_	_	
+5	tape	tape	n	n	_	6	compound	_	_	
+6	record&dv-AGT	record&dv-AGT	n	n	_	8	SUBJ	_	_	
 7	be&3S	be&3S	aux	aux	_	8	AUX	_	_	
 8	do-PRESP	do-PRESP	part	part	_	2	PRED	_	_	
 9	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve04.xml,137
-1	and	and	coord	coord	_	4	LINK	_	_	
-2	a	a	art	art	_	4	MOD	_	_	
-3	round	round	adj	adj	_	4	MOD	_	_	
-4	tinker	tinker	n	n	_	0	INCROOT	_	_	
-5	toy	toy	n	n	_	4	compound	_	_	
-6	.	.	.	.	_	4	PUNCT	_	_	
+1	and	and	coord	coord	_	5	LINK	_	_	
+2	a	a	art	art	_	5	MOD	_	_	
+3	round	round	adj	adj	_	5	MOD	_	_	
+4	tinker	tinker	n	n	_	5	compound	_	_	
+5	toy	toy	n	n	_	0	INCROOT	_	_	
+6	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve04.xml,138
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
@@ -15340,13 +15340,13 @@
 #eve04.xml,139
 1	there	there	pro:exist	pro:exist	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	a	a	art	art	_	5	MOD	_	_	
-4	round	round	adj	adj	_	5	MOD	_	_	
-5	tinker	tinker	n	n	_	2	PRED	_	_	
-6	toy	toy	n	n	_	5	compound	_	_	
+3	a	a	art	art	_	6	MOD	_	_	
+4	round	round	adj	adj	_	6	MOD	_	_	
+5	tinker	tinker	n	n	_	6	compound	_	_	
+6	toy	toy	n	n	_	2	PRED	_	_	
 7	that	that	rel	rel	_	9	LINK	_	_	
 8	we	we	pro:sub	pro:sub	_	9	SUBJ	_	_	
-9	build	build	v	v	_	5	CMOD	_	_	
+9	build	build	v	v	_	6	CMOD	_	_	
 10	with	with	prep	prep	_	9	JCT	_	_	
 11	.	.	.	.	_	2	PUNCT	_	_	
 
@@ -15458,11 +15458,11 @@
 14	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve04.xml,153
-1	a	a	art	art	_	3	MOD	_	_	
-2	round	round	adj	adj	_	3	MOD	_	_	
-3	tinker	tinker	n	n	_	0	INCROOT	_	_	
-4	toy	toy	n	n	_	3	compound	_	_	
-5	.	.	.	.	_	3	PUNCT	_	_	
+1	a	a	art	art	_	4	MOD	_	_	
+2	round	round	adj	adj	_	4	MOD	_	_	
+3	tinker	tinker	n	n	_	4	compound	_	_	
+4	toy	toy	n	n	_	0	INCROOT	_	_	
+5	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve04.xml,154
 1	right	right	co	co	_	0	INCROOT	_	_	
@@ -15494,10 +15494,10 @@
 #eve04.xml,158
 1	there	there	pro:exist	pro:exist	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	the	the	art	art	_	5	MOD	_	_	
-4	round	round	adj	adj	_	5	MOD	_	_	
-5	tinker	tinker	n	n	_	2	PRED	_	_	
-6	toy	toy	n	n	_	5	compound	_	_	
+3	the	the	art	art	_	6	MOD	_	_	
+4	round	round	adj	adj	_	6	MOD	_	_	
+5	tinker	tinker	n	n	_	6	compound	_	_	
+6	toy	toy	n	n	_	2	PRED	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve04.xml,159
@@ -15546,10 +15546,10 @@
 10	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve04.xml,164
-1	how	how	adv:wh	adv:wh	_	3	LINK	_	_	
-2	many	many	qn	qn	_	3	QUANT	_	_	
-3	tinker	tinker	n	n	_	5	SUBJ	_	_	
-4	toy-PL	toy-PL	n	n	_	3	compound	_	_	
+1	how	how	adv:wh	adv:wh	_	4	LINK	_	_	
+2	many	many	qn	qn	_	4	QUANT	_	_	
+3	tinker	tinker	n	n	_	4	compound	_	_	
+4	toy-PL	toy-PL	n	n	_	5	SUBJ	_	_	
 5	do	do	v	v	_	7	LINK	_	_	
 6	you	you	pro	pro	_	7	SUBJ	_	_	
 7	have	have	v	v	_	0	ROOT	_	_	
@@ -15562,9 +15562,9 @@
 4	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve04.xml,167
-1	tape	tape	n	n	_	0	INCROOT	_	_	
-2	record&dv-AGT	record&dv-AGT	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	tape	tape	n	n	_	2	compound	_	_	
+2	record&dv-AGT	record&dv-AGT	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve04.xml,168
 1	right	right	co	co	_	0	INCROOT	_	_	
@@ -17199,17 +17199,17 @@
 #eve04.xml,405
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	get	get	v	v	_	0	ROOT	_	_	
-3	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
-4	high	high	n	n	_	2	OBJ	_	_	
-5	chair	chair	n	n	_	4	compound	_	_	
+3	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
+4	high	high	n	n	_	5	compound	_	_	
+5	chair	chair	n	n	_	2	OBJ	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve04.xml,406
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	move	move	v	v	_	0	ROOT	_	_	
-3	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
-4	high	high	n	n	_	2	OBJ	_	_	
-5	chair	chair	n	n	_	4	compound	_	_	
+3	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
+4	high	high	n	n	_	5	compound	_	_	
+5	chair	chair	n	n	_	2	OBJ	_	_	
 6	and	and	coord	coord	_	2	CONJ	_	_	
 7	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
 8	bib	bib	n	n	_	6	COORD	_	_	
@@ -17236,10 +17236,10 @@
 4	~to	~to	inf	inf	_	5	INF	_	_	
 5	sit	sit	v	v	_	3	XCOMP	_	_	
 6	on	on	prep	prep	_	5	JCT	_	_	
-7	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
-8	high	high	n	n	_	6	POBJ	_	_	
-9	chair	chair	n	n	_	8	compound	_	_	
-10	now	now	adv	adv	_	8	NJCT	_	_	
+7	your	your	pro:poss:det	pro:poss:det	_	9	MOD	_	_	
+8	high	high	n	n	_	9	compound	_	_	
+9	chair	chair	n	n	_	6	POBJ	_	_	
+10	now	now	adv	adv	_	9	NJCT	_	_	
 11	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve04.xml,409
@@ -17251,9 +17251,9 @@
 6	~to	~to	inf	inf	_	7	INF	_	_	
 7	sit	sit	v	v	_	5	XCOMP	_	_	
 8	on	on	prep	prep	_	7	JCT	_	_	
-9	your	your	pro:poss:det	pro:poss:det	_	10	MOD	_	_	
-10	high	high	n	n	_	8	POBJ	_	_	
-11	chair	chair	n	n	_	10	compound	_	_	
+9	your	your	pro:poss:det	pro:poss:det	_	11	MOD	_	_	
+10	high	high	n	n	_	11	compound	_	_	
+11	chair	chair	n	n	_	8	POBJ	_	_	
 12	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve04.xml,410
@@ -17278,9 +17278,9 @@
 #eve04.xml,413
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	move	move	v	v	_	0	ROOT	_	_	
-3	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
-4	high	high	n	n	_	2	OBJ	_	_	
-5	chair	chair	n	n	_	4	compound	_	_	
+3	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
+4	high	high	n	n	_	5	compound	_	_	
+5	chair	chair	n	n	_	2	OBJ	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve04.xml,414
@@ -17353,9 +17353,9 @@
 3	step	step	n	n	_	2	OBJ	_	_	
 4	on	on	prep	prep	_	2	JCT	_	_	
 5	the	the	art	art	_	4	POBJ	_	_	
-6	tinker	tinker	n	n	_	5	OBJ	_	_	
-7	toy	toy	n	n	_	6	compound	_	_	
-8	with	with	prep	prep	_	6	NJCT	_	_	
+6	tinker	tinker	n	n	_	7	compound	_	_	
+7	toy	toy	n	n	_	5	OBJ	_	_	
+8	with	with	prep	prep	_	7	NJCT	_	_	
 9	my	my	pro:poss:det	pro:poss:det	_	10	MOD	_	_	
 10	shoe	shoe	n	n	_	8	POBJ	_	_	
 11	end	end	end	end	_	10	CMOD	_	_	
@@ -17649,8 +17649,8 @@
 5	see	see	v	v	_	0	ROOT	_	_	
 6	if	if	conj	conj	_	5	OBJ	_	_	
 7	the	the	art	art	_	11	JCT	_	_	
-8	tinker	tinker	n	n	_	11	SUBJ	_	_	
-9	toy	toy	n	n	_	8	compound	_	_	
+8	tinker	tinker	n	n	_	9	compound	_	_	
+9	toy	toy	n	n	_	11	SUBJ	_	_	
 10	will&COND	will&COND	mod	mod	_	11	AUX	_	_	
 11	crack	crack	v	v	_	6	COMP	_	_	
 12	the	the	art	art	_	13	MOD	_	_	
@@ -17660,9 +17660,9 @@
 #eve04.xml,464
 1	go	go	v	v	_	2	SRL	_	_	
 2	use	use	v	v	_	0	ROOT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	tinker	tinker	n	n	_	2	OBJ	_	_	
-5	toy	toy	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	tinker	tinker	n	n	_	5	compound	_	_	
+5	toy	toy	n	n	_	2	OBJ	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve04.xml,465
@@ -17688,9 +17688,9 @@
 2	crack	crack	v	v	_	0	ROOT	_	_	
 3	it	it	pro	pro	_	2	OBJ	_	_	
 4	with	with	prep	prep	_	2	JCT	_	_	
-5	the	the	art	art	_	6	MOD	_	_	
-6	tinker	tinker	n	n	_	4	POBJ	_	_	
-7	toy	toy	n	n	_	6	compound	_	_	
+5	the	the	art	art	_	7	MOD	_	_	
+6	tinker	tinker	n	n	_	7	compound	_	_	
+7	toy	toy	n	n	_	4	POBJ	_	_	
 8	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve04.xml,469
@@ -17698,9 +17698,9 @@
 2	a	a	art	art	_	1	OBJ	_	_	
 3	hammer	hammer	n	n	_	2	OBJ	_	_	
 4	with	with	prep	prep	_	3	NJCT	_	_	
-5	your	your	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
-6	tinker	tinker	n	n	_	4	POBJ	_	_	
-7	toy	toy	n	n	_	6	compound	_	_	
+5	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
+6	tinker	tinker	n	n	_	7	compound	_	_	
+7	toy	toy	n	n	_	4	POBJ	_	_	
 8	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve04.xml,470
@@ -17756,16 +17756,16 @@
 3	~not	~not	neg	neg	_	2	NEG	_	_	
 4	you	you	pro	pro	_	5	SUBJ	_	_	
 5	use	use	v	v	_	0	ROOT	_	_	
-6	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
-7	tinker	tinker	n	n	_	5	OBJ	_	_	
-8	toy	toy	n	n	_	7	compound	_	_	
+6	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
+7	tinker	tinker	n	n	_	8	compound	_	_	
+8	toy	toy	n	n	_	5	OBJ	_	_	
 9	?	?	?	?	_	5	PUNCT	_	_	
 
 #eve04.xml,478
 1	use	use	v	v	_	0	ROOT	_	_	
-2	the	the	art	art	_	3	MOD	_	_	
-3	tinker	tinker	n	n	_	1	OBJ	_	_	
-4	toy	toy	n	n	_	3	compound	_	_	
+2	the	the	art	art	_	4	MOD	_	_	
+3	tinker	tinker	n	n	_	4	compound	_	_	
+4	toy	toy	n	n	_	1	OBJ	_	_	
 5	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve04.xml,479
@@ -17788,9 +17788,9 @@
 
 #eve04.xml,482
 1	use	use	v	v	_	0	ROOT	_	_	
-2	the	the	art	art	_	3	MOD	_	_	
-3	tinker	tinker	n	n	_	1	OBJ	_	_	
-4	toy	toy	n	n	_	3	compound	_	_	
+2	the	the	art	art	_	4	MOD	_	_	
+3	tinker	tinker	n	n	_	4	compound	_	_	
+4	toy	toy	n	n	_	1	OBJ	_	_	
 5	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve04.xml,484
@@ -18016,9 +18016,9 @@
 
 #eve04.xml,516
 1	in	in	prep	prep	_	0	INCROOT	_	_	
-2	the	the	art	art	_	3	MOD	_	_	
-3	living	living	n	n	_	1	POBJ	_	_	
-4	room	room	n	n	_	3	compound	_	_	
+2	the	the	art	art	_	4	MOD	_	_	
+3	living	living	n	n	_	4	compound	_	_	
+4	room	room	n	n	_	1	POBJ	_	_	
 5	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve04.xml,517
@@ -18233,20 +18233,20 @@
 2	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve04.xml,546
-1	the	the	art	art	_	4	MOD	_	_	
-2	baby	baby	n	n	_	4	MOD	_	_	
+1	the	the	art	art	_	5	MOD	_	_	
+2	baby	baby	n	n	_	5	MOD	_	_	
 3	~s	~s	poss	poss	_	2	POSS	_	_	
-4	high	high	n	n	_	0	INCROOT	_	_	
-5	chair	chair	n	n	_	4	compound	_	_	
-6	.	.	.	.	_	4	PUNCT	_	_	
+4	high	high	n	n	_	5	compound	_	_	
+5	chair	chair	n	n	_	0	INCROOT	_	_	
+6	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve04.xml,547
-1	the	the	art	art	_	4	MOD	_	_	
-2	baby	baby	n	n	_	4	MOD	_	_	
+1	the	the	art	art	_	5	MOD	_	_	
+2	baby	baby	n	n	_	5	MOD	_	_	
 3	~s	~s	poss	poss	_	2	POSS	_	_	
-4	high	high	n	n	_	0	INCROOT	_	_	
-5	chair	chair	n	n	_	4	compound	_	_	
-6	.	.	.	.	_	4	PUNCT	_	_	
+4	high	high	n	n	_	5	compound	_	_	
+5	chair	chair	n	n	_	0	INCROOT	_	_	
+6	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve04.xml,548
 1	can	can	mod	mod	_	3	AUX	_	_	
@@ -18741,9 +18741,9 @@
 3	the	the	art	art	_	2	OBJ	_	_	
 4	nut	nut	n	n	_	3	OBJ	_	_	
 5	with	with	prep	prep	_	4	NJCT	_	_	
-6	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
-7	tinker	tinker	n	n	_	5	POBJ	_	_	
-8	toy-PL	toy-PL	n	n	_	7	compound	_	_	
+6	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
+7	tinker	tinker	n	n	_	8	compound	_	_	
+8	toy-PL	toy-PL	n	n	_	5	POBJ	_	_	
 9	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve04.xml,617
@@ -18802,12 +18802,12 @@
 4	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve04.xml,626
-1	the	the	art	art	_	4	MOD	_	_	
-2	baby	baby	n	n	_	4	MOD	_	_	
+1	the	the	art	art	_	5	MOD	_	_	
+2	baby	baby	n	n	_	5	MOD	_	_	
 3	~s	~s	poss	poss	_	2	POSS	_	_	
-4	high	high	n	n	_	0	INCROOT	_	_	
-5	chair	chair	n	n	_	4	compound	_	_	
-6	?	?	?	?	_	4	PUNCT	_	_	
+4	high	high	n	n	_	5	compound	_	_	
+5	chair	chair	n	n	_	0	INCROOT	_	_	
+6	?	?	?	?	_	5	PUNCT	_	_	
 
 #eve04.xml,627
 1	Eve	Eve	n:prop	n:prop	_	3	MOD	_	_	
@@ -20475,19 +20475,19 @@
 #eve04.xml,861
 1	where	where	adv:wh	adv:wh	_	2	LINK	_	_	
 2	be&3S	be&3S	cop	cop	_	0	ROOT	_	_	
-3	the	the	art	art	_	5	MOD	_	_	
-4	big	big	adj	adj	_	5	MOD	_	_	
-5	tinker	tinker	n	n	_	2	PRED	_	_	
-6	toy	toy	n	n	_	5	compound	_	_	
+3	the	the	art	art	_	6	MOD	_	_	
+4	big	big	adj	adj	_	6	MOD	_	_	
+5	tinker	tinker	n	n	_	6	compound	_	_	
+6	toy	toy	n	n	_	2	PRED	_	_	
 7	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve04.xml,862
 1	where	where	adv:wh	adv:wh	_	2	LINK	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	the	the	art	art	_	5	MOD	_	_	
-4	little	little	adj	adj	_	5	MOD	_	_	
-5	tinker	tinker	n	n	_	2	PRED	_	_	
-6	toy	toy	n	n	_	5	compound	_	_	
+3	the	the	art	art	_	6	MOD	_	_	
+4	little	little	adj	adj	_	6	MOD	_	_	
+5	tinker	tinker	n	n	_	6	compound	_	_	
+6	toy	toy	n	n	_	2	PRED	_	_	
 7	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve04.xml,863
@@ -20773,9 +20773,9 @@
 4	you	you	pro	pro	_	5	SUBJ	_	_	
 5	jump	jump	v	v	_	0	ROOT	_	_	
 6	in	in	prep	prep	_	5	JCT	_	_	
-7	the	the	art	art	_	8	MOD	_	_	
-8	living	living	n	n	_	6	POBJ	_	_	
-9	room	room	n	n	_	8	compound	_	_	
+7	the	the	art	art	_	9	MOD	_	_	
+8	living	living	n	n	_	9	compound	_	_	
+9	room	room	n	n	_	6	POBJ	_	_	
 10	?	?	?	?	_	5	PUNCT	_	_	
 
 #eve05.xml,41
@@ -20783,9 +20783,9 @@
 2	and	and	coord	coord	_	1	CONJ	_	_	
 3	jump	jump	n	n	_	2	COORD	_	_	
 4	in	in	prep	prep	_	3	NJCT	_	_	
-5	the	the	art	art	_	6	MOD	_	_	
-6	living	living	n	n	_	4	POBJ	_	_	
-7	room	room	n	n	_	6	compound	_	_	
+5	the	the	art	art	_	7	MOD	_	_	
+6	living	living	n	n	_	7	compound	_	_	
+7	room	room	n	n	_	4	POBJ	_	_	
 8	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve05.xml,42
@@ -20794,9 +20794,9 @@
 3	you	you	pro	pro	_	4	SUBJ	_	_	
 4	jump	jump	v	v	_	0	ROOT	_	_	
 5	in	in	prep	prep	_	4	JCT	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	living	living	n	n	_	5	POBJ	_	_	
-8	room	room	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	living	living	n	n	_	8	compound	_	_	
+8	room	room	n	n	_	5	POBJ	_	_	
 9	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve05.xml,43
@@ -20826,9 +20826,9 @@
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	stay	stay	v	v	_	0	ROOT	_	_	
 3	in	in	prep	prep	_	2	JCT	_	_	
-4	the	the	art	art	_	5	MOD	_	_	
-5	living	living	n	n	_	3	POBJ	_	_	
-6	room	room	n	n	_	5	compound	_	_	
+4	the	the	art	art	_	6	MOD	_	_	
+5	living	living	n	n	_	6	compound	_	_	
+6	room	room	n	n	_	3	POBJ	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve05.xml,47
@@ -21048,9 +21048,9 @@
 1	what	what	pro:wh	pro:wh	_	2	SUBJ	_	_	
 2	be&3S	be&3S	cop	cop	_	0	ROOT	_	_	
 3	that	that	rel	rel	_	2	PRED	_	_	
-4	tinker	tinker	n	n	_	3	OBJ	_	_	
-5	toy	toy	n	n	_	4	compound	_	_	
-6	do-PRESP	do-PRESP	part	part	_	4	XMOD	_	_	
+4	tinker	tinker	n	n	_	5	compound	_	_	
+5	toy	toy	n	n	_	3	OBJ	_	_	
+6	do-PRESP	do-PRESP	part	part	_	5	XMOD	_	_	
 7	in	in	prep	prep	_	6	JCT	_	_	
 8	there	there	pro:dem	pro:dem	_	7	POBJ	_	_	
 9	?	?	?	?	_	2	PUNCT	_	_	
@@ -21089,8 +21089,8 @@
 2	belong-3S	belong-3S	v	v	_	0	ROOT	_	_	
 3	in	in	prep	prep	_	2	JCT	_	_	
 4	the	the	art	art	_	7	MOD	_	_	
-5	tinker	tinker	n	n	_	7	MOD	_	_	
-6	toy	toy	n	n	_	5	compound	_	_	
+5	tinker	tinker	n	n	_	6	compound	_	_	
+6	toy	toy	n	n	_	7	MOD	_	_	
 7	box	box	n	n	_	3	POBJ	_	_	
 8	.	.	.	.	_	2	PUNCT	_	_	
 
@@ -21103,26 +21103,26 @@
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 3	one	one	pro:indef	pro:indef	_	2	PRED	_	_	
 4	by	by	prep	prep	_	3	NJCT	_	_	
-5	the	the	art	art	_	6	MOD	_	_	
-6	rocking	rocking	n	n	_	4	POBJ	_	_	
-7	chair	chair	n	n	_	6	compound	_	_	
+5	the	the	art	art	_	7	MOD	_	_	
+6	rocking	rocking	n	n	_	7	compound	_	_	
+7	chair	chair	n	n	_	4	POBJ	_	_	
 8	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve05.xml,83
 1	by	by	prep	prep	_	0	INCROOT	_	_	
 2	the	the	art	art	_	1	POBJ	_	_	
-3	rocking	rocking	n	n	_	2	OBJ	_	_	
-4	chair	chair	n	n	_	3	compound	_	_	
+3	rocking	rocking	n	n	_	4	compound	_	_	
+4	chair	chair	n	n	_	2	OBJ	_	_	
 5	there	there	pro:exist	pro:exist	_	6	SUBJ	_	_	
-6	~be&3S	~be&3S	cop	cop	_	3	CMOD	_	_	
+6	~be&3S	~be&3S	cop	cop	_	4	CMOD	_	_	
 7	one	one	pro:indef	pro:indef	_	6	PRED	_	_	
 8	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve05.xml,84
-1	the	the	art	art	_	2	MOD	_	_	
-2	rocking	rocking	n	n	_	0	INCROOT	_	_	
-3	chair	chair	n	n	_	2	compound	_	_	
-4	.	.	.	.	_	2	PUNCT	_	_	
+1	the	the	art	art	_	3	MOD	_	_	
+2	rocking	rocking	n	n	_	3	compound	_	_	
+3	chair	chair	n	n	_	0	INCROOT	_	_	
+4	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve05.xml,85
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
@@ -21692,9 +21692,9 @@
 1	it	it	pro	pro	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 3	under	under	adv	adv	_	2	JCT	_	_	
-4	the	the	art	art	_	5	MOD	_	_	
-5	tape	tape	n	n	_	2	PRED	_	_	
-6	record&dv-AGT	record&dv-AGT	n	n	_	5	compound	_	_	
+4	the	the	art	art	_	6	MOD	_	_	
+5	tape	tape	n	n	_	6	compound	_	_	
+6	record&dv-AGT	record&dv-AGT	n	n	_	2	PRED	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve05.xml,166
@@ -21713,16 +21713,16 @@
 1	it	it	pro	pro	_	0	INCROOT	_	_	
 2	~be&3S	~be&3S	aux	aux	_	1	INCROOT	_	_	
 3	beside	beside	prep	prep	_	2	JCT	_	_	
-4	the	the	art	art	_	5	MOD	_	_	
-5	tape	tape	n	n	_	3	POBJ	_	_	
-6	record&dv-AGT	record&dv-AGT	n	n	_	5	compound	_	_	
+4	the	the	art	art	_	6	MOD	_	_	
+5	tape	tape	n	n	_	6	compound	_	_	
+6	record&dv-AGT	record&dv-AGT	n	n	_	3	POBJ	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve05.xml,169
 1	beside	beside	prep	prep	_	0	INCROOT	_	_	
-2	the	the	art	art	_	3	MOD	_	_	
-3	tape	tape	n	n	_	1	POBJ	_	_	
-4	record&dv-AGT	record&dv-AGT	n	n	_	3	compound	_	_	
+2	the	the	art	art	_	4	MOD	_	_	
+3	tape	tape	n	n	_	4	compound	_	_	
+4	record&dv-AGT	record&dv-AGT	n	n	_	1	POBJ	_	_	
 5	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve05.xml,170
@@ -21758,9 +21758,9 @@
 #eve05.xml,174
 1	right	right	adv	adv	_	0	INCROOT	_	_	
 2	by	by	prep	prep	_	1	JCT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	tape	tape	n	n	_	2	POBJ	_	_	
-5	record&dv-AGT	record&dv-AGT	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	tape	tape	n	n	_	5	compound	_	_	
+5	record&dv-AGT	record&dv-AGT	n	n	_	2	POBJ	_	_	
 6	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve05.xml,175
@@ -22739,16 +22739,16 @@
 
 #eve05.xml,308
 1	move	move	v	v	_	0	ROOT	_	_	
-2	your	your	pro:poss:det	pro:poss:det	_	3	MOD	_	_	
-3	high	high	n	n	_	1	OBJ	_	_	
-4	chair	chair	n	n	_	3	compound	_	_	
+2	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
+3	high	high	n	n	_	4	compound	_	_	
+4	chair	chair	n	n	_	1	OBJ	_	_	
 5	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve05.xml,309
 1	move	move	v	v	_	0	ROOT	_	_	
-2	the	the	art	art	_	3	MOD	_	_	
-3	high	high	n	n	_	1	OBJ	_	_	
-4	chair	chair	n	n	_	3	compound	_	_	
+2	the	the	art	art	_	4	MOD	_	_	
+3	high	high	n	n	_	4	compound	_	_	
+4	chair	chair	n	n	_	1	OBJ	_	_	
 5	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve05.xml,310
@@ -23086,15 +23086,15 @@
 2	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve05.xml,358
-1	there	there	adv	adv	_	5	SUBJ	_	_	
-2	be&PRES	be&PRES	aux	aux	_	5	AUX	_	_	
+1	there	there	adv	adv	_	6	SUBJ	_	_	
+2	be&PRES	be&PRES	aux	aux	_	6	AUX	_	_	
 3	~not	~not	neg	neg	_	2	NEG	_	_	
-4	any	any	qn	qn	_	5	QUANT	_	_	
-5	graham	graham	n	n	_	0	ROOT	_	_	
-6	cracker-PL	cracker-PL	n	n	_	5	compound	_	_	
-7	end	end	end	end	_	5	XMOD	_	_	
+4	any	any	qn	qn	_	6	QUANT	_	_	
+5	graham	graham	n	n	_	6	compound	_	_	
+6	cracker-PL	cracker-PL	n	n	_	0	ROOT	_	_	
+7	end	end	end	end	_	6	XMOD	_	_	
 8	sweetie	sweetie	co	co	_	7	COM	_	_	
-9	.	.	.	.	_	5	PUNCT	_	_	
+9	.	.	.	.	_	6	PUNCT	_	_	
 
 #eve05.xml,359
 1	do	do	mod	mod	_	3	AUX	_	_	
@@ -23730,9 +23730,9 @@
 4	~be&3S	~be&3S	aux	aux	_	5	AUX	_	_	
 5	play-PRESP	play-PRESP	part	part	_	0	ROOT	_	_	
 6	in	in	prep	prep	_	5	JCT	_	_	
-7	the	the	art	art	_	8	MOD	_	_	
-8	sand	sand	n	n	_	6	POBJ	_	_	
-9	box	box	n	n	_	8	compound	_	_	
+7	the	the	art	art	_	9	MOD	_	_	
+8	sand	sand	n	n	_	9	compound	_	_	
+9	box	box	n	n	_	6	POBJ	_	_	
 10	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve05.xml,449
@@ -23781,9 +23781,9 @@
 2	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve05.xml,456
-1	peanut	peanut	n	n	_	0	INCROOT	_	_	
-2	butter	butter	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	peanut	peanut	n	n	_	2	compound	_	_	
+2	butter	butter	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve05.xml,458
 1	where	where	adv:wh	adv:wh	_	4	LINK	_	_	
@@ -23808,9 +23808,9 @@
 1	yes	yes	co	co	_	2	COM	_	_	
 2	beg	beg	beg	beg	_	0	ROOT	_	_	
 3	in	in	prep	prep	_	2	JCT	_	_	
-4	the	the	art	art	_	5	MOD	_	_	
-5	sand	sand	n	n	_	3	POBJ	_	_	
-6	box	box	n	n	_	5	compound	_	_	
+4	the	the	art	art	_	6	MOD	_	_	
+5	sand	sand	n	n	_	6	compound	_	_	
+6	box	box	n	n	_	3	POBJ	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve05.xml,461
@@ -24168,9 +24168,9 @@
 7	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve05.xml,513
-1	snow	snow	n	n	_	0	INCROOT	_	_	
-2	ball-PL	ball-PL	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	snow	snow	n	n	_	2	compound	_	_	
+2	ball-PL	ball-PL	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve05.xml,514
 1	oh	oh	co	co	_	2	COM	_	_	
@@ -24266,8 +24266,8 @@
 1	they	they	pro:sub	pro:sub	_	3	SUBJ	_	_	
 2	all	all	post	post	_	1	PQ	_	_	
 3	go&PAST	go&PAST	v	v	_	0	ROOT	_	_	
-4	ice	ice	n	n	_	3	OBJ	_	_	
-5	skate-PRESP	skate-PRESP	n	n	_	4	compound	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	skate-PRESP	skate-PRESP	n	n	_	3	OBJ	_	_	
 6	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve05.xml,527
@@ -24376,9 +24376,9 @@
 2	beg	beg	beg	beg	_	4	JCT	_	_	
 3	he	he	pro:sub	pro:sub	_	4	SUBJ	_	_	
 4	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-5	the	the	art	art	_	6	MOD	_	_	
-6	police	police	n	n	_	4	PRED	_	_	
-7	man	man	n	n	_	6	compound	_	_	
+5	the	the	art	art	_	7	MOD	_	_	
+6	police	police	n	n	_	7	compound	_	_	
+7	man	man	n	n	_	4	PRED	_	_	
 8	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve05.xml,542
@@ -24978,8 +24978,8 @@
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve05.xml,641
-1	ice	ice	n	n	_	3	MOD	_	_	
-2	cube	cube	n	n	_	1	compound	_	_	
+1	ice	ice	n	n	_	2	compound	_	_	
+2	cube	cube	n	n	_	3	MOD	_	_	
 3	tray-PL	tray-PL	n	n	_	0	INCROOT	_	_	
 4	end	end	end	end	_	3	XMOD	_	_	
 5	uhhuh	uhhuh	co	co	_	4	COM	_	_	
@@ -25431,9 +25431,9 @@
 2	bet&ZERO	bet&ZERO	v	v	_	0	ROOT	_	_	
 3	that	that	pro:dem	pro:dem	_	4	SUBJ	_	_	
 4	~be&3S	~be&3S	cop	cop	_	2	COMP	_	_	
-5	a	a	art	art	_	6	MOD	_	_	
-6	police	police	n	n	_	4	PRED	_	_	
-7	man	man	n	n	_	6	compound	_	_	
+5	a	a	art	art	_	7	MOD	_	_	
+6	police	police	n	n	_	7	compound	_	_	
+7	man	man	n	n	_	4	PRED	_	_	
 8	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve05.xml,713
@@ -25489,11 +25489,11 @@
 2	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve05.xml,722
-1	a	a	art	art	_	3	MOD	_	_	
-2	big	big	adj	adj	_	3	MOD	_	_	
-3	sail	sail	n	n	_	0	INCROOT	_	_	
-4	boat	boat	n	n	_	3	compound	_	_	
-5	.	.	.	.	_	3	PUNCT	_	_	
+1	a	a	art	art	_	4	MOD	_	_	
+2	big	big	adj	adj	_	4	MOD	_	_	
+3	sail	sail	n	n	_	4	compound	_	_	
+4	boat	boat	n	n	_	0	INCROOT	_	_	
+5	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve05.xml,723
 1	what	what	pro:wh	pro:wh	_	3	LINK	_	_	
@@ -25721,8 +25721,8 @@
 1	he	he	pro:sub	pro:sub	_	3	SUBJ	_	_	
 2	~be&3S	~be&3S	aux	aux	_	3	AUX	_	_	
 3	make-PRESP	make-PRESP	part	part	_	0	ROOT	_	_	
-4	pop	pop	n	n	_	3	OBJ	_	_	
-5	corn	corn	n	n	_	4	compound	_	_	
+4	pop	pop	n	n	_	5	compound	_	_	
+5	corn	corn	n	n	_	3	OBJ	_	_	
 6	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve05.xml,756
@@ -25731,8 +25731,8 @@
 3	if	if	conj	conj	_	5	LINK	_	_	
 4	he	he	pro:sub	pro:sub	_	5	SUBJ	_	_	
 5	sell-3S	sell-3S	v	v	_	2	CJCT	_	_	
-6	pop	pop	n	n	_	5	OBJ	_	_	
-7	corn	corn	n	n	_	6	compound	_	_	
+6	pop	pop	n	n	_	7	compound	_	_	
+7	corn	corn	n	n	_	5	OBJ	_	_	
 8	what	what	pro:wh	pro:wh	_	11	SUBJ	_	_	
 9	will	will	mod	mod	_	11	AUX	_	_	
 10	we	we	pro:sub	pro:sub	_	11	SUBJ	_	_	
@@ -25799,8 +25799,8 @@
 6	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve05.xml,767
-1	ding	ding	n	n	_	3	MOD	_	_	
-2	dong	dong	n	n	_	1	compound	_	_	
+1	ding	ding	n	n	_	2	compound	_	_	
+2	dong	dong	n	n	_	3	MOD	_	_	
 3	bell	bell	n	n	_	0	INCROOT	_	_	
 4	.	.	.	.	_	3	PUNCT	_	_	
 
@@ -25808,8 +25808,8 @@
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 3	the	the	art	art	_	6	MOD	_	_	
-4	ice	ice	n	n	_	6	MOD	_	_	
-5	cream	cream	n	n	_	4	compound	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cream	cream	n	n	_	6	MOD	_	_	
 6	man	man	n	n	_	2	PRED	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
@@ -25817,16 +25817,16 @@
 1	he	he	pro:sub	pro:sub	_	3	SUBJ	_	_	
 2	~be&3S	~be&3S	aux	aux	_	3	AUX	_	_	
 3	sell-PRESP	sell-PRESP	part	part	_	0	ROOT	_	_	
-4	ice	ice	n	n	_	3	OBJ	_	_	
-5	cream	cream	n	n	_	4	compound	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cream	cream	n	n	_	3	OBJ	_	_	
 6	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve05.xml,770
 1	if	if	conj	conj	_	3	LINK	_	_	
 2	he	he	pro:sub	pro:sub	_	3	SUBJ	_	_	
 3	sell-3S	sell-3S	v	v	_	0	ROOT	_	_	
-4	ice	ice	n	n	_	3	OBJ	_	_	
-5	cream	cream	n	n	_	4	compound	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cream	cream	n	n	_	3	OBJ	_	_	
 6	what	what	pro:wh	pro:wh	_	9	SUBJ	_	_	
 7	will	will	mod	mod	_	9	AUX	_	_	
 8	we	we	pro:sub	pro:sub	_	9	SUBJ	_	_	
@@ -26208,9 +26208,9 @@
 2	sound-3S	sound-3S	v	v	_	0	ROOT	_	_	
 3	like	like	prep	prep	_	2	JCT	_	_	
 4	the	the	art	art	_	3	POBJ	_	_	
-5	television	television	n	n	_	4	OBJ	_	_	
-6	set	set	n	n	_	5	compound	_	_	
-7	in	in	prep	prep	_	5	NJCT	_	_	
+5	television	television	n	n	_	6	compound	_	_	
+6	set	set	n	n	_	4	OBJ	_	_	
+7	in	in	prep	prep	_	6	NJCT	_	_	
 8	the	the	art	art	_	9	MOD	_	_	
 9	basement	basement	n	n	_	7	POBJ	_	_	
 10	.	.	.	.	_	2	PUNCT	_	_	
@@ -27355,15 +27355,15 @@
 #eve06.xml,231
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	have	have	v	v	_	0	ROOT	_	_	
-3	a	a	art	art	_	4	MOD	_	_	
-4	high	high	n	n	_	2	OBJ	_	_	
-5	chair	chair	n	n	_	4	compound	_	_	
+3	a	a	art	art	_	5	MOD	_	_	
+4	high	high	n	n	_	5	compound	_	_	
+5	chair	chair	n	n	_	2	OBJ	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve06.xml,232
-1	high	high	n	n	_	0	INCROOT	_	_	
-2	chair	chair	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	high	high	n	n	_	2	compound	_	_	
+2	chair	chair	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve06.xml,233
 1	you	you	pro	pro	_	2	SUBJ	_	_	
@@ -27375,9 +27375,9 @@
 
 #eve06.xml,234
 1	move	move	v	v	_	0	ROOT	_	_	
-2	your	your	pro:poss:det	pro:poss:det	_	3	MOD	_	_	
-3	high	high	n	n	_	1	OBJ	_	_	
-4	chair	chair	n	n	_	3	compound	_	_	
+2	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
+3	high	high	n	n	_	4	compound	_	_	
+4	chair	chair	n	n	_	1	OBJ	_	_	
 5	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve06.xml,235
@@ -27408,9 +27408,9 @@
 
 #eve06.xml,239
 1	move	move	v	v	_	0	ROOT	_	_	
-2	your	your	pro:poss:det	pro:poss:det	_	3	MOD	_	_	
-3	high	high	n	n	_	1	OBJ	_	_	
-4	chair	chair	n	n	_	3	compound	_	_	
+2	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
+3	high	high	n	n	_	4	compound	_	_	
+4	chair	chair	n	n	_	1	OBJ	_	_	
 5	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve06.xml,240
@@ -27418,9 +27418,9 @@
 2	beg	beg	beg	beg	_	4	JCT	_	_	
 3	that	that	pro:dem	pro:dem	_	4	SUBJ	_	_	
 4	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-5	your	your	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
-6	high	high	n	n	_	4	PRED	_	_	
-7	chair	chair	n	n	_	6	compound	_	_	
+5	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
+6	high	high	n	n	_	7	compound	_	_	
+7	chair	chair	n	n	_	4	PRED	_	_	
 8	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve06.xml,241
@@ -27751,9 +27751,9 @@
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	sound	sound	v	v	_	0	ROOT	_	_	
 3	like	like	prep	prep	_	2	JCT	_	_	
-4	a	a	art	art	_	5	MOD	_	_	
-5	fire	fire	n	n	_	3	POBJ	_	_	
-6	truck	truck	n	n	_	5	compound	_	_	
+4	a	a	art	art	_	6	MOD	_	_	
+5	fire	fire	n	n	_	6	compound	_	_	
+6	truck	truck	n	n	_	3	POBJ	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve06.xml,290
@@ -27765,12 +27765,12 @@
 6	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve06.xml,291
-1	be&PRES	be&PRES	cop	cop	_	4	LINK	_	_	
-2	you	you	pro	pro	_	4	SUBJ	_	_	
-3	a	a	art	art	_	4	MOD	_	_	
-4	fire	fire	n	n	_	0	ROOT	_	_	
-5	truck	truck	n	n	_	4	compound	_	_	
-6	?	?	?	?	_	4	PUNCT	_	_	
+1	be&PRES	be&PRES	cop	cop	_	5	LINK	_	_	
+2	you	you	pro	pro	_	5	SUBJ	_	_	
+3	a	a	art	art	_	5	MOD	_	_	
+4	fire	fire	n	n	_	5	compound	_	_	
+5	truck	truck	n	n	_	0	ROOT	_	_	
+6	?	?	?	?	_	5	PUNCT	_	_	
 
 #eve06.xml,292
 1	where	where	adv:wh	adv:wh	_	2	LINK	_	_	
@@ -27798,9 +27798,9 @@
 8	the	the	art	art	_	6	OBJ	_	_	
 9	ashtray	ashtray	n	n	_	8	OBJ	_	_	
 10	from	from	prep	prep	_	9	NJCT	_	_	
-11	the	the	art	art	_	12	MOD	_	_	
-12	window	window	n	n	_	10	POBJ	_	_	
-13	sill	sill	n	n	_	12	compound	_	_	
+11	the	the	art	art	_	13	MOD	_	_	
+12	window	window	n	n	_	13	compound	_	_	
+13	sill	sill	n	n	_	10	POBJ	_	_	
 14	?	?	?	?	_	6	PUNCT	_	_	
 
 #eve06.xml,295
@@ -27920,18 +27920,18 @@
 2	you	you	pro	pro	_	3	SUBJ	_	_	
 3	jump	jump	v	v	_	0	ROOT	_	_	
 4	in	in	prep	prep	_	3	JCT	_	_	
-5	the	the	art	art	_	6	MOD	_	_	
-6	living	living	n	n	_	4	POBJ	_	_	
-7	room	room	n	n	_	6	compound	_	_	
+5	the	the	art	art	_	7	MOD	_	_	
+6	living	living	n	n	_	7	compound	_	_	
+7	room	room	n	n	_	4	POBJ	_	_	
 8	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve06.xml,312
 1	okay	okay	co	co	_	2	COM	_	_	
 2	jump	jump	n	n	_	0	INCROOT	_	_	
 3	in	in	prep	prep	_	2	JCT	_	_	
-4	the	the	art	art	_	5	MOD	_	_	
-5	living	living	n	n	_	3	POBJ	_	_	
-6	room	room	n	n	_	5	compound	_	_	
+4	the	the	art	art	_	6	MOD	_	_	
+5	living	living	n	n	_	6	compound	_	_	
+6	room	room	n	n	_	3	POBJ	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve06.xml,313
@@ -28271,9 +28271,9 @@
 2	beg	beg	beg	beg	_	0	ROOT	_	_	
 3	not	not	neg	neg	_	2	NEG	_	_	
 4	on	on	prep	prep	_	2	JCT	_	_	
-5	the	the	art	art	_	6	MOD	_	_	
-6	rocking	rocking	n	n	_	4	POBJ	_	_	
-7	chair	chair	n	n	_	6	compound	_	_	
+5	the	the	art	art	_	7	MOD	_	_	
+6	rocking	rocking	n	n	_	7	compound	_	_	
+7	chair	chair	n	n	_	4	POBJ	_	_	
 8	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve06.xml,362
@@ -28365,9 +28365,9 @@
 #eve06.xml,376
 1	swim-PRESP	swim-PRESP	part	part	_	0	INCROOT	_	_	
 2	in	in	prep	prep	_	1	JCT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	bath	bath	n	n	_	2	POBJ	_	_	
-5	tub	tub	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	bath	bath	n	n	_	5	compound	_	_	
+5	tub	tub	n	n	_	2	POBJ	_	_	
 6	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve06.xml,377
@@ -28393,9 +28393,9 @@
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	swim	swim	v	v	_	0	ROOT	_	_	
 3	in	in	prep	prep	_	2	JCT	_	_	
-4	the	the	art	art	_	5	MOD	_	_	
-5	bath	bath	n	n	_	3	POBJ	_	_	
-6	tub	tub	n	n	_	5	compound	_	_	
+4	the	the	art	art	_	6	MOD	_	_	
+5	bath	bath	n	n	_	6	compound	_	_	
+6	tub	tub	n	n	_	3	POBJ	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve06.xml,380
@@ -28475,9 +28475,9 @@
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 3	ash-PL	ash-PL	n	n	_	2	PRED	_	_	
 4	from	from	prep	prep	_	2	JCT	_	_	
-5	the	the	art	art	_	6	MOD	_	_	
-6	fire	fire	n	n	_	4	POBJ	_	_	
-7	place	place	n	n	_	6	compound	_	_	
+5	the	the	art	art	_	7	MOD	_	_	
+6	fire	fire	n	n	_	7	compound	_	_	
+7	place	place	n	n	_	4	POBJ	_	_	
 8	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve06.xml,390
@@ -29835,9 +29835,9 @@
 #eve07.xml,45
 1	look	look	v	v	_	0	ROOT	_	_	
 2	at	at	prep	prep	_	1	JCT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	rocking	rocking	n	n	_	2	POBJ	_	_	
-5	chair	chair	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	rocking	rocking	n	n	_	5	compound	_	_	
+5	chair	chair	n	n	_	2	POBJ	_	_	
 6	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve07.xml,46
@@ -29858,10 +29858,10 @@
 #eve07.xml,48
 1	what	what	pro:wh	pro:wh	_	2	OBJ	_	_	
 2	~be&3S	~be&3S	aux	aux	_	0	ROOT	_	_	
-3	that	that	det	det	_	4	DET	_	_	
-4	rocking	rocking	n	n	_	2	OBJ	_	_	
-5	chair	chair	n	n	_	4	compound	_	_	
-6	do-PRESP	do-PRESP	part	part	_	4	XMOD	_	_	
+3	that	that	det	det	_	5	DET	_	_	
+4	rocking	rocking	n	n	_	5	compound	_	_	
+5	chair	chair	n	n	_	2	OBJ	_	_	
+6	do-PRESP	do-PRESP	part	part	_	5	XMOD	_	_	
 7	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve07.xml,49
@@ -30359,9 +30359,9 @@
 3	stool	stool	n	n	_	2	OBJ	_	_	
 4	instead	instead	adv	adv	_	3	NJCT	_	_	
 5	of	of	prep	prep	_	4	JCT	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	rocking	rocking	n	n	_	5	POBJ	_	_	
-8	chair	chair	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	rocking	rocking	n	n	_	8	compound	_	_	
+8	chair	chair	n	n	_	5	POBJ	_	_	
 9	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve07.xml,116
@@ -30544,9 +30544,9 @@
 3	we	we	pro:sub	pro:sub	_	5	SUBJ	_	_	
 4	~will	~will	mod	mod	_	5	AUX	_	_	
 5	get	get	v	v	_	0	ROOT	_	_	
-6	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
-7	high	high	n	n	_	5	OBJ	_	_	
-8	chair	chair	n	n	_	7	compound	_	_	
+6	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
+7	high	high	n	n	_	8	compound	_	_	
+8	chair	chair	n	n	_	5	OBJ	_	_	
 9	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve07.xml,140
@@ -32568,9 +32568,9 @@
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	have	have	v	v	_	0	ROOT	_	_	
 3	a	a	art	art	_	2	OBJ	_	_	
-4	graham	graham	n	n	_	3	OBJ	_	_	
-5	cracker	cracker	n	n	_	4	compound	_	_	
-6	and	and	coord	coord	_	4	CONJ	_	_	
+4	graham	graham	n	n	_	5	compound	_	_	
+5	cracker	cracker	n	n	_	3	OBJ	_	_	
+6	and	and	coord	coord	_	5	CONJ	_	_	
 7	juice	juice	n	n	_	6	COORD	_	_	
 8	on	on	prep	prep	_	7	NJCT	_	_	
 9	the	the	art	art	_	10	MOD	_	_	
@@ -33666,8 +33666,8 @@
 
 #eve07.xml,574
 1	eat-PRESP	eat-PRESP	part	part	_	0	INCROOT	_	_	
-2	pop	pop	n	n	_	1	OBJ	_	_	
-3	corn	corn	n	n	_	2	compound	_	_	
+2	pop	pop	n	n	_	3	compound	_	_	
+3	corn	corn	n	n	_	1	OBJ	_	_	
 4	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve07.xml,575
@@ -34169,8 +34169,8 @@
 4	you	you	pro	pro	_	5	SUBJ	_	_	
 5	like	like	conj	conj	_	0	ROOT	_	_	
 6	a	a	art	art	_	5	OBJ	_	_	
-7	peanut	peanut	n	n	_	9	MOD	_	_	
-8	butter	butter	n	n	_	7	compound	_	_	
+7	peanut	peanut	n	n	_	8	compound	_	_	
+8	butter	butter	n	n	_	9	MOD	_	_	
 9	sandwich	sandwich	n	n	_	6	OBJ	_	_	
 10	for	for	prep	prep	_	9	NJCT	_	_	
 11	lunch	lunch	n	n	_	10	POBJ	_	_	
@@ -34192,9 +34192,9 @@
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	climb	climb	v	v	_	0	ROOT	_	_	
 3	in	in	prep	prep	_	2	JCT	_	_	
-4	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
-5	high	high	n	n	_	3	POBJ	_	_	
-6	chair	chair	n	n	_	5	compound	_	_	
+4	your	your	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
+5	high	high	n	n	_	6	compound	_	_	
+6	chair	chair	n	n	_	3	POBJ	_	_	
 7	and	and	coord	coord	_	10	LINK	_	_	
 8	I	I	pro:sub	pro:sub	_	10	SUBJ	_	_	
 9	~will	~will	mod	mod	_	10	AUX	_	_	
@@ -34222,9 +34222,9 @@
 4	~to	~to	inf	inf	_	5	INF	_	_	
 5	eat	eat	v	v	_	3	XCOMP	_	_	
 6	in	in	prep	prep	_	5	JCT	_	_	
-7	the	the	art	art	_	8	MOD	_	_	
-8	high	high	n	n	_	6	POBJ	_	_	
-9	chair	chair	n	n	_	8	compound	_	_	
+7	the	the	art	art	_	9	MOD	_	_	
+8	high	high	n	n	_	9	compound	_	_	
+9	chair	chair	n	n	_	6	POBJ	_	_	
 10	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve07.xml,651
@@ -34304,9 +34304,9 @@
 #eve07.xml,661
 1	climb	climb	v	v	_	0	ROOT	_	_	
 2	in	in	prep	prep	_	1	JCT	_	_	
-3	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
-4	high	high	n	n	_	2	POBJ	_	_	
-5	chair	chair	n	n	_	4	compound	_	_	
+3	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
+4	high	high	n	n	_	5	compound	_	_	
+5	chair	chair	n	n	_	2	POBJ	_	_	
 6	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve07.xml,662
@@ -34345,9 +34345,9 @@
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	sit	sit	v	v	_	0	ROOT	_	_	
 3	in	in	prep	prep	_	2	JCT	_	_	
-4	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
-5	high	high	n	n	_	3	POBJ	_	_	
-6	chair	chair	n	n	_	5	compound	_	_	
+4	your	your	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
+5	high	high	n	n	_	6	compound	_	_	
+6	chair	chair	n	n	_	3	POBJ	_	_	
 7	and	and	coord	coord	_	10	LINK	_	_	
 8	I	I	pro:sub	pro:sub	_	10	SUBJ	_	_	
 9	~will	~will	mod	mod	_	10	AUX	_	_	
@@ -34375,9 +34375,9 @@
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	climb	climb	v	v	_	0	ROOT	_	_	
 3	in	in	prep	prep	_	2	JCT	_	_	
-4	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
-5	high	high	n	n	_	3	POBJ	_	_	
-6	chair	chair	n	n	_	5	compound	_	_	
+4	your	your	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
+5	high	high	n	n	_	6	compound	_	_	
+6	chair	chair	n	n	_	3	POBJ	_	_	
 7	end	end	end	end	_	2	XJCT	_	_	
 8	please	please	co	co	_	7	COM	_	_	
 9	.	.	.	.	_	2	PUNCT	_	_	
@@ -34425,8 +34425,8 @@
 #eve07.xml,679
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	peanut	peanut	n	n	_	2	PRED	_	_	
-4	butter	butter	n	n	_	3	compound	_	_	
+3	peanut	peanut	n	n	_	4	compound	_	_	
+4	butter	butter	n	n	_	2	PRED	_	_	
 5	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve07.xml,680
@@ -34477,9 +34477,9 @@
 2	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve07.xml,687
-1	ice	ice	n	n	_	0	INCROOT	_	_	
-2	cream	cream	n	n	_	1	compound	_	_	
-3	?	?	?	?	_	1	PUNCT	_	_	
+1	ice	ice	n	n	_	2	compound	_	_	
+2	cream	cream	n	n	_	0	INCROOT	_	_	
+3	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve07.xml,688
 1	well	well	co	co	_	4	COM	_	_	
@@ -34488,8 +34488,8 @@
 4	need	need	v	v	_	0	ROOT	_	_	
 5	something	something	pro:indef	pro:indef	_	4	OBJ	_	_	
 6	besides	besides	prep	prep	_	4	JCT	_	_	
-7	ice	ice	n	n	_	6	POBJ	_	_	
-8	cream	cream	n	n	_	7	compound	_	_	
+7	ice	ice	n	n	_	8	compound	_	_	
+8	cream	cream	n	n	_	6	POBJ	_	_	
 9	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve07.xml,690
@@ -34569,9 +34569,9 @@
 4	until	until	conj	conj	_	6	LINK	_	_	
 5	I	I	pro:sub	pro:sub	_	6	SUBJ	_	_	
 6	fix	fix	v	v	_	3	CJCT	_	_	
-7	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
-8	ice	ice	n	n	_	6	OBJ	_	_	
-9	cream	cream	n	n	_	8	compound	_	_	
+7	your	your	pro:poss:det	pro:poss:det	_	9	MOD	_	_	
+8	ice	ice	n	n	_	9	compound	_	_	
+9	cream	cream	n	n	_	6	OBJ	_	_	
 10	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve07.xml,701
@@ -34763,16 +34763,16 @@
 #eve07.xml,733
 1	be&3S	be&3S	cop	cop	_	0	ROOT	_	_	
 2	that	that	pro:dem	pro:dem	_	1	PRED	_	_	
-3	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
-4	ice	ice	n	n	_	2	OBJ	_	_	
-5	cream	cream	n	n	_	4	compound	_	_	
-6	there	there	adv	adv	_	4	NJCT	_	_	
+3	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cream	cream	n	n	_	2	OBJ	_	_	
+6	there	there	adv	adv	_	5	NJCT	_	_	
 7	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve07.xml,734
-1	whose	whose	rel	rel	_	2	LINK	_	_	
-2	ice	ice	n	n	_	5	SUBJ	_	_	
-3	cream	cream	n	n	_	2	compound	_	_	
+1	whose	whose	rel	rel	_	3	LINK	_	_	
+2	ice	ice	n	n	_	3	compound	_	_	
+3	cream	cream	n	n	_	5	SUBJ	_	_	
 4	be&3S	be&3S	aux	aux	_	5	AUX	_	_	
 5	it	it	pro	pro	_	0	ROOT	_	_	
 6	?	?	?	?	_	5	PUNCT	_	_	
@@ -34780,15 +34780,15 @@
 #eve07.xml,735
 1	be&3S	be&3S	aux	aux	_	0	INCROOT	_	_	
 2	it	it	pro	pro	_	1	OBJ	_	_	
-3	my	my	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
-4	ice	ice	n	n	_	2	OBJ	_	_	
-5	cream	cream	n	n	_	4	compound	_	_	
+3	my	my	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cream	cream	n	n	_	2	OBJ	_	_	
 6	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve07.xml,736
 1	whose	whose	rel	rel	_	5	LINK	_	_	
-2	ice	ice	n	n	_	5	SUBJ	_	_	
-3	cream	cream	n	n	_	2	compound	_	_	
+2	ice	ice	n	n	_	3	compound	_	_	
+3	cream	cream	n	n	_	5	SUBJ	_	_	
 4	be&3S	be&3S	aux	aux	_	5	AUX	_	_	
 5	it	it	pro	pro	_	6	SUBJ	_	_	
 6	end	end	end	end	_	0	ROOT	_	_	
@@ -34796,19 +34796,19 @@
 8	?	?	?	?	_	6	PUNCT	_	_	
 
 #eve07.xml,737
-1	whose	whose	rel	rel	_	2	LINK	_	_	
-2	ice	ice	n	n	_	0	INCROOT	_	_	
-3	cream	cream	n	n	_	2	compound	_	_	
-4	?	?	?	?	_	2	PUNCT	_	_	
+1	whose	whose	rel	rel	_	3	LINK	_	_	
+2	ice	ice	n	n	_	3	compound	_	_	
+3	cream	cream	n	n	_	0	INCROOT	_	_	
+4	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve07.xml,738
 1	what	what	pro:wh	pro:wh	_	0	INCROOT	_	_	
 2	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve07.xml,739
-1	whose	whose	rel	rel	_	2	LINK	_	_	
-2	ice	ice	n	n	_	5	SUBJ	_	_	
-3	cream	cream	n	n	_	2	compound	_	_	
+1	whose	whose	rel	rel	_	3	LINK	_	_	
+2	ice	ice	n	n	_	3	compound	_	_	
+3	cream	cream	n	n	_	5	SUBJ	_	_	
 4	be&3S	be&3S	aux	aux	_	5	AUX	_	_	
 5	it	it	pro	pro	_	0	ROOT	_	_	
 6	?	?	?	?	_	5	PUNCT	_	_	
@@ -34816,9 +34816,9 @@
 #eve07.xml,740
 1	be&3S	be&3S	aux	aux	_	0	INCROOT	_	_	
 2	it	it	pro	pro	_	1	OBJ	_	_	
-3	my	my	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
-4	ice	ice	n	n	_	2	OBJ	_	_	
-5	cream	cream	n	n	_	4	compound	_	_	
+3	my	my	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cream	cream	n	n	_	2	OBJ	_	_	
 6	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve07.xml,741
@@ -34828,10 +34828,10 @@
 #eve07.xml,742
 1	be&3S	be&3S	aux	aux	_	0	INCROOT	_	_	
 2	it	it	pro	pro	_	1	OBJ	_	_	
-3	my	my	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
-4	ice	ice	n	n	_	2	OBJ	_	_	
-5	cream	cream	n	n	_	4	compound	_	_	
-6	end	end	end	end	_	4	CMOD	_	_	
+3	my	my	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cream	cream	n	n	_	2	OBJ	_	_	
+6	end	end	end	end	_	5	CMOD	_	_	
 7	Eve	Eve	n:prop	n:prop	_	6	APP	_	_	
 8	?	?	?	?	_	1	PUNCT	_	_	
 
@@ -34840,25 +34840,25 @@
 2	beg	beg	beg	beg	_	4	JCT	_	_	
 3	that	that	pro:dem	pro:dem	_	4	SUBJ	_	_	
 4	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-5	your	your	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
-6	ice	ice	n	n	_	4	PRED	_	_	
-7	cream	cream	n	n	_	6	compound	_	_	
+5	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
+6	ice	ice	n	n	_	7	compound	_	_	
+7	cream	cream	n	n	_	4	PRED	_	_	
 8	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve07.xml,744
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
-4	ice	ice	n	n	_	2	PRED	_	_	
-5	cream	cream	n	n	_	4	compound	_	_	
+3	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cream	cream	n	n	_	2	PRED	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve07.xml,745
-1	not	not	neg	neg	_	3	NEG	_	_	
-2	my	my	pro:poss:det	pro:poss:det	_	3	MOD	_	_	
-3	ice	ice	n	n	_	0	INCROOT	_	_	
-4	cream	cream	n	n	_	3	compound	_	_	
-5	.	.	.	.	_	3	PUNCT	_	_	
+1	not	not	neg	neg	_	4	NEG	_	_	
+2	my	my	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
+3	ice	ice	n	n	_	4	compound	_	_	
+4	cream	cream	n	n	_	0	INCROOT	_	_	
+5	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve07.xml,746
 1	no	no	co	co	_	6	COM	_	_	
@@ -36388,23 +36388,23 @@
 5	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve08.xml,201
-1	your	your	pro:poss:det	pro:poss:det	_	2	MOD	_	_	
-2	bath	bath	n	n	_	0	INCROOT	_	_	
-3	robe	robe	n	n	_	2	compound	_	_	
-4	?	?	?	?	_	2	PUNCT	_	_	
+1	your	your	pro:poss:det	pro:poss:det	_	3	MOD	_	_	
+2	bath	bath	n	n	_	3	compound	_	_	
+3	robe	robe	n	n	_	0	INCROOT	_	_	
+4	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve08.xml,202
 1	where	where	adv:wh	adv:wh	_	2	LINK	_	_	
 2	be&3S	be&3S	cop	cop	_	0	ROOT	_	_	
-3	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
-4	bath	bath	n	n	_	2	PRED	_	_	
-5	robe	robe	n	n	_	4	compound	_	_	
+3	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
+4	bath	bath	n	n	_	5	compound	_	_	
+5	robe	robe	n	n	_	2	PRED	_	_	
 6	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve08.xml,203
 1	in	in	prep	prep	_	0	INCROOT	_	_	
-2	washing	washing	n	n	_	1	POBJ	_	_	
-3	machine	machine	n	n	_	2	compound	_	_	
+2	washing	washing	n	n	_	3	compound	_	_	
+3	machine	machine	n	n	_	1	POBJ	_	_	
 4	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve08.xml,204
@@ -36414,24 +36414,24 @@
 4	put&ZERO	put&ZERO	v	v	_	0	ROOT	_	_	
 5	it	it	pro	pro	_	4	OBJ	_	_	
 6	in	in	prep	prep	_	4	JCT	_	_	
-7	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
-8	bed	bed	n	n	_	6	POBJ	_	_	
-9	room	room	n	n	_	8	compound	_	_	
+7	your	your	pro:poss:det	pro:poss:det	_	9	MOD	_	_	
+8	bed	bed	n	n	_	9	compound	_	_	
+9	room	room	n	n	_	6	POBJ	_	_	
 10	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve08.xml,205
 1	up	up	adv	adv	_	0	INCROOT	_	_	
 2	in	in	prep	prep	_	1	JCT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	bed	bed	n	n	_	2	POBJ	_	_	
-5	room	room	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	bed	bed	n	n	_	5	compound	_	_	
+5	room	room	n	n	_	2	POBJ	_	_	
 6	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve08.xml,206
 1	in	in	prep	prep	_	0	INCROOT	_	_	
-2	the	the	art	art	_	3	MOD	_	_	
-3	bed	bed	n	n	_	1	POBJ	_	_	
-4	room	room	n	n	_	3	compound	_	_	
+2	the	the	art	art	_	4	MOD	_	_	
+3	bed	bed	n	n	_	4	compound	_	_	
+4	room	room	n	n	_	1	POBJ	_	_	
 5	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve08.xml,207
@@ -36514,9 +36514,9 @@
 #eve08.xml,215
 1	ah	ah	co	co	_	7	COM	_	_	
 2	beg	beg	beg	beg	_	7	JCT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	tape	tape	n	n	_	7	SUBJ	_	_	
-5	record&dv-AGT	record&dv-AGT	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	tape	tape	n	n	_	5	compound	_	_	
+5	record&dv-AGT	record&dv-AGT	n	n	_	7	SUBJ	_	_	
 6	be&3S	be&3S	aux	aux	_	7	AUX	_	_	
 7	work-PRESP	work-PRESP	part	part	_	0	ROOT	_	_	
 8	end	end	end	end	_	7	OBJ	_	_	
@@ -37058,9 +37058,9 @@
 #eve08.xml,290
 1	to	to	inf	inf	_	2	INF	_	_	
 2	sweep	sweep	v	v	_	0	ROOT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	fire	fire	n	n	_	2	OBJ	_	_	
-5	place	place	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	fire	fire	n	n	_	5	compound	_	_	
+5	place	place	n	n	_	2	OBJ	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve08.xml,291
@@ -37470,9 +37470,9 @@
 3	put&ZERO	put&ZERO	v	v	_	0	ROOT	_	_	
 4	it	it	pro	pro	_	3	OBJ	_	_	
 5	in	in	prep	prep	_	3	JCT	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	waste	waste	n	n	_	5	POBJ	_	_	
-8	basket	basket	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	waste	waste	n	n	_	8	compound	_	_	
+8	basket	basket	n	n	_	5	POBJ	_	_	
 9	for	for	prep	prep	_	3	JCT	_	_	
 10	Mommy	Mommy	n:prop	n:prop	_	9	POBJ	_	_	
 11	end	end	end	end	_	10	INCROOT	_	_	
@@ -37526,19 +37526,19 @@
 4	the	the	art	art	_	3	OBJ	_	_	
 5	napkin	napkin	n	n	_	4	OBJ	_	_	
 6	in	in	prep	prep	_	5	NJCT	_	_	
-7	the	the	art	art	_	8	MOD	_	_	
-8	waste	waste	n	n	_	6	POBJ	_	_	
-9	basket	basket	n	n	_	8	compound	_	_	
+7	the	the	art	art	_	9	MOD	_	_	
+8	waste	waste	n	n	_	9	compound	_	_	
+9	basket	basket	n	n	_	6	POBJ	_	_	
 10	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve08.xml,356
 1	do&PAST	do&PAST	v	v	_	0	ROOT	_	_	
 2	you	you	pro	pro	_	3	SUBJ	_	_	
 3	put&ZERO	put&ZERO	v	v	_	1	COMP	_	_	
-4	the	the	art	art	_	6	MOD	_	_	
-5	napkin	napkin	n	n	_	6	MOD	_	_	
-6	waste	waste	n	n	_	3	OBJ	_	_	
-7	basket	basket	n	n	_	6	compound	_	_	
+4	the	the	art	art	_	7	MOD	_	_	
+5	napkin	napkin	n	n	_	7	MOD	_	_	
+6	waste	waste	n	n	_	7	compound	_	_	
+7	basket	basket	n	n	_	3	OBJ	_	_	
 8	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve08.xml,357
@@ -37553,9 +37553,9 @@
 2	put&ZERO	put&ZERO	v	v	_	0	ROOT	_	_	
 3	what	what	pro:wh	pro:wh	_	2	OBJ	_	_	
 4	in	in	adv	adv	_	2	JCT	_	_	
-5	the	the	art	art	_	6	MOD	_	_	
-6	waste	waste	n	n	_	2	OBJ	_	_	
-7	basket	basket	n	n	_	6	compound	_	_	
+5	the	the	art	art	_	7	MOD	_	_	
+6	waste	waste	n	n	_	7	compound	_	_	
+7	basket	basket	n	n	_	2	OBJ	_	_	
 8	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve08.xml,360
@@ -37582,9 +37582,9 @@
 3	the	the	art	art	_	2	OBJ	_	_	
 4	napkin	napkin	n	n	_	3	OBJ	_	_	
 5	in	in	prep	prep	_	4	NJCT	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	waste	waste	n	n	_	5	POBJ	_	_	
-8	basket	basket	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	waste	waste	n	n	_	8	compound	_	_	
+8	basket	basket	n	n	_	5	POBJ	_	_	
 9	end	end	end	end	_	4	XJCT	_	_	
 10	do&PAST	do&PAST	mod	mod	_	12	AUX	_	_	
 11	~not	~not	neg	neg	_	10	NEG	_	_	
@@ -37623,9 +37623,9 @@
 3	put&ZERO	put&ZERO	v	v	_	1	COMP	_	_	
 4	you	you	pro	pro	_	3	OBJ	_	_	
 5	in	in	prep	prep	_	3	JCT	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	waste	waste	n	n	_	5	POBJ	_	_	
-8	basket	basket	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	waste	waste	n	n	_	8	compound	_	_	
+8	basket	basket	n	n	_	5	POBJ	_	_	
 9	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve08.xml,369
@@ -37753,9 +37753,9 @@
 3	put&ZERO	put&ZERO	v	v	_	1	COMP	_	_	
 4	you	you	pro	pro	_	3	OBJ	_	_	
 5	in	in	prep	prep	_	3	JCT	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	waste	waste	n	n	_	5	POBJ	_	_	
-8	basket	basket	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	waste	waste	n	n	_	8	compound	_	_	
+8	basket	basket	n	n	_	5	POBJ	_	_	
 9	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve08.xml,387
@@ -37857,9 +37857,9 @@
 10	towel	towel	n	n	_	7	OBJ	_	_	
 11	in	in	prep	prep	_	7	JCT	_	_	
 12	the	the	art	art	_	11	POBJ	_	_	
-13	waste	waste	n	n	_	12	OBJ	_	_	
-14	basket	basket	n	n	_	13	compound	_	_	
-15	end	end	end	end	_	13	XMOD	_	_	
+13	waste	waste	n	n	_	14	compound	_	_	
+14	basket	basket	n	n	_	12	OBJ	_	_	
+15	end	end	end	end	_	14	XMOD	_	_	
 16	please	please	co	co	_	15	COM	_	_	
 17	.	.	.	.	_	1	PUNCT	_	_	
 
@@ -37930,9 +37930,9 @@
 5	paper	paper	n	n	_	6	MOD	_	_	
 6	towel	towel	n	n	_	4	OBJ	_	_	
 7	in	in	prep	prep	_	6	NJCT	_	_	
-8	the	the	art	art	_	9	MOD	_	_	
-9	waste	waste	n	n	_	7	POBJ	_	_	
-10	basket	basket	n	n	_	9	compound	_	_	
+8	the	the	art	art	_	10	MOD	_	_	
+9	waste	waste	n	n	_	10	compound	_	_	
+10	basket	basket	n	n	_	7	POBJ	_	_	
 11	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve08.xml,408
@@ -38465,10 +38465,10 @@
 #eve08.xml,485
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	doll-DIM	doll-DIM	n	n	_	5	MOD	_	_	
+3	doll-DIM	doll-DIM	n	n	_	6	MOD	_	_	
 4	~s	~s	poss	poss	_	3	POSS	_	_	
-5	pig	pig	n	n	_	2	PRED	_	_	
-6	tail	tail	n	n	_	5	compound	_	_	
+5	pig	pig	n	n	_	6	compound	_	_	
+6	tail	tail	n	n	_	2	PRED	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve08.xml,486
@@ -38670,9 +38670,9 @@
 3	you	you	pro	pro	_	4	SUBJ	_	_	
 4	do	do	v	v	_	0	ROOT	_	_	
 5	with	with	prep	prep	_	4	JCT	_	_	
-6	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
-7	tinker	tinker	n	n	_	5	POBJ	_	_	
-8	toy-PL	toy-PL	n	n	_	7	compound	_	_	
+6	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
+7	tinker	tinker	n	n	_	8	compound	_	_	
+8	toy-PL	toy-PL	n	n	_	5	POBJ	_	_	
 9	?	?	?	?	_	4	PUNCT	_	_	
 
 #eve08.xml,513
@@ -38746,9 +38746,9 @@
 5	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve08.xml,524
-1	tea	tea	n	n	_	0	INCROOT	_	_	
-2	pot	pot	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	tea	tea	n	n	_	2	compound	_	_	
+2	pot	pot	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve08.xml,525
 1	and	and	coord	coord	_	0	INCROOT	_	_	
@@ -38780,9 +38780,9 @@
 2	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve08.xml,531
-1	tea	tea	n	n	_	0	INCROOT	_	_	
-2	pot	pot	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	tea	tea	n	n	_	2	compound	_	_	
+2	pot	pot	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve08.xml,532
 1	what	what	pro:wh	pro:wh	_	2	SUBJ	_	_	
@@ -38833,8 +38833,8 @@
 5	do&3S	do&3S	mod	mod	_	7	AUX	_	_	
 6	~not	~not	neg	neg	_	5	NEG	_	_	
 7	go	go	v	v	_	0	ROOT	_	_	
-8	upside	upside	n	n	_	7	JCT	_	_	
-9	down	down	n	n	_	8	compound	_	_	
+8	upside	upside	n	n	_	9	compound	_	_	
+9	down	down	n	n	_	7	JCT	_	_	
 10	.	.	.	.	_	7	PUNCT	_	_	
 
 #eve08.xml,539
@@ -38882,8 +38882,8 @@
 #eve08.xml,545
 1	it	it	pro	pro	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	upside	upside	n	n	_	2	JCT	_	_	
-4	down	down	n	n	_	3	compound	_	_	
+3	upside	upside	n	n	_	4	compound	_	_	
+4	down	down	n	n	_	2	JCT	_	_	
 5	now	now	adv	adv	_	2	JCT	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
@@ -39051,11 +39051,11 @@
 4	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve08.xml,570
-1	now	now	adv	adv	_	3	JCT	_	_	
-2	the	the	art	art	_	3	MOD	_	_	
-3	tea	tea	n	n	_	0	INCROOT	_	_	
-4	pot	pot	n	n	_	3	compound	_	_	
-5	.	.	.	.	_	3	PUNCT	_	_	
+1	now	now	adv	adv	_	4	JCT	_	_	
+2	the	the	art	art	_	4	MOD	_	_	
+3	tea	tea	n	n	_	4	compound	_	_	
+4	pot	pot	n	n	_	0	INCROOT	_	_	
+5	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve08.xml,571
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
@@ -39071,11 +39071,11 @@
 4	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve08.xml,573
-1	now	now	adv	adv	_	3	JCT	_	_	
-2	the	the	art	art	_	3	MOD	_	_	
-3	tea	tea	n	n	_	0	INCROOT	_	_	
-4	pot	pot	n	n	_	3	compound	_	_	
-5	.	.	.	.	_	3	PUNCT	_	_	
+1	now	now	adv	adv	_	4	JCT	_	_	
+2	the	the	art	art	_	4	MOD	_	_	
+3	tea	tea	n	n	_	4	compound	_	_	
+4	pot	pot	n	n	_	0	INCROOT	_	_	
+5	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve08.xml,574
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
@@ -39175,9 +39175,9 @@
 #eve08.xml,588
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	do	do	v	v	_	0	ROOT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	tea	tea	n	n	_	2	OBJ	_	_	
-5	pot	pot	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	tea	tea	n	n	_	5	compound	_	_	
+5	pot	pot	n	n	_	2	OBJ	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve08.xml,589
@@ -39597,8 +39597,8 @@
 
 #eve08.xml,649
 1	a	a	art	art	_	4	MOD	_	_	
-2	teddy	teddy	n	n	_	4	MOD	_	_	
-3	bear	bear	n	n	_	2	compound	_	_	
+2	teddy	teddy	n	n	_	3	compound	_	_	
+3	bear	bear	n	n	_	4	MOD	_	_	
 4	bag	bag	n	n	_	0	INCROOT	_	_	
 5	for	for	prep	prep	_	4	JCT	_	_	
 6	baby	baby	n	n	_	5	POBJ	_	_	
@@ -39745,8 +39745,8 @@
 2	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve08.xml,673
-1	ice	ice	n	n	_	3	MOD	_	_	
-2	cream	cream	n	n	_	1	compound	_	_	
+1	ice	ice	n	n	_	2	compound	_	_	
+2	cream	cream	n	n	_	3	MOD	_	_	
 3	cone	cone	n	n	_	0	INCROOT	_	_	
 4	?	?	?	?	_	3	PUNCT	_	_	
 
@@ -39768,8 +39768,8 @@
 1	do&PAST	do&PAST	v	v	_	0	ROOT	_	_	
 2	you	you	pro	pro	_	3	SUBJ	_	_	
 3	say	say	v	v	_	1	COMP	_	_	
-4	ice	ice	n	n	_	6	MOD	_	_	
-5	cream	cream	n	n	_	4	compound	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cream	cream	n	n	_	6	MOD	_	_	
 6	cone	cone	n	n	_	3	OBJ	_	_	
 7	?	?	?	?	_	1	PUNCT	_	_	
 
@@ -39785,8 +39785,8 @@
 2	do	do	mod	mod	_	4	AUX	_	_	
 3	~not	~not	neg	neg	_	2	NEG	_	_	
 4	eat	eat	v	v	_	0	ROOT	_	_	
-5	ice	ice	n	n	_	7	MOD	_	_	
-6	cream	cream	n	n	_	5	compound	_	_	
+5	ice	ice	n	n	_	6	compound	_	_	
+6	cream	cream	n	n	_	7	MOD	_	_	
 7	cone-PL	cone-PL	n	n	_	4	OBJ	_	_	
 8	on	on	prep	prep	_	4	JCT	_	_	
 9	the	the	art	art	_	10	MOD	_	_	
@@ -39812,18 +39812,18 @@
 3	a	a	art	art	_	2	PRED	_	_	
 4	man	man	n	n	_	3	XMOD	_	_	
 5	for	for	prep	prep	_	4	NJCT	_	_	
-6	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
-7	fire	fire	n	n	_	5	POBJ	_	_	
-8	truck	truck	n	n	_	7	compound	_	_	
+6	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
+7	fire	fire	n	n	_	8	compound	_	_	
+8	truck	truck	n	n	_	5	POBJ	_	_	
 9	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve08.xml,682
 1	he	he	pro:sub	pro:sub	_	2	SUBJ	_	_	
 2	go-3S	go-3S	v	v	_	0	ROOT	_	_	
 3	on	on	prep	prep	_	2	JCT	_	_	
-4	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
-5	fire	fire	n	n	_	3	POBJ	_	_	
-6	truck	truck	n	n	_	5	compound	_	_	
+4	your	your	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
+5	fire	fire	n	n	_	6	compound	_	_	
+6	truck	truck	n	n	_	3	POBJ	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve08.xml,683
@@ -39928,10 +39928,10 @@
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve08.xml,696
-1	two	two	det:num	det:num	_	2	QUANT	_	_	
-2	pocket	pocket	n	n	_	0	INCROOT	_	_	
-3	book-PL	book-PL	n	n	_	2	compound	_	_	
-4	.	.	.	.	_	2	PUNCT	_	_	
+1	two	two	det:num	det:num	_	3	QUANT	_	_	
+2	pocket	pocket	n	n	_	3	compound	_	_	
+3	book-PL	book-PL	n	n	_	0	INCROOT	_	_	
+4	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve08.xml,697
 1	yes	yes	co	co	_	4	COM	_	_	
@@ -40141,9 +40141,9 @@
 
 #eve08.xml,725
 1	move	move	v	v	_	0	ROOT	_	_	
-2	your	your	pro:poss:det	pro:poss:det	_	3	MOD	_	_	
-3	high	high	n	n	_	1	OBJ	_	_	
-4	chair	chair	n	n	_	3	compound	_	_	
+2	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
+3	high	high	n	n	_	4	compound	_	_	
+4	chair	chair	n	n	_	1	OBJ	_	_	
 5	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve08.xml,727
@@ -40313,9 +40313,9 @@
 4	~to	~to	inf	inf	_	5	INF	_	_	
 5	have	have	v	v	_	3	XCOMP	_	_	
 6	chocolate	chocolate	n	n	_	5	OBJ	_	_	
-7	ice	ice	n	n	_	6	XMOD	_	_	
-8	cream	cream	n	n	_	7	compound	_	_	
-9	for	for	prep	prep	_	7	NJCT	_	_	
+7	ice	ice	n	n	_	8	compound	_	_	
+8	cream	cream	n	n	_	6	XMOD	_	_	
+9	for	for	prep	prep	_	8	NJCT	_	_	
 10	dessert	dessert	n	n	_	9	POBJ	_	_	
 11	.	.	.	.	_	3	PUNCT	_	_	
 
@@ -40349,10 +40349,10 @@
 5	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve08.xml,755
-1	chocolate	chocolate	n	n	_	2	MOD	_	_	
-2	ice	ice	n	n	_	0	INCROOT	_	_	
-3	cream	cream	n	n	_	2	compound	_	_	
-4	.	.	.	.	_	2	PUNCT	_	_	
+1	chocolate	chocolate	n	n	_	3	MOD	_	_	
+2	ice	ice	n	n	_	3	compound	_	_	
+3	cream	cream	n	n	_	0	INCROOT	_	_	
+4	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve08.xml,756
 1	uhhuh	uhhuh	co	co	_	0	INCROOT	_	_	
@@ -40447,9 +40447,9 @@
 #eve08.xml,770
 1	okay	okay	co	co	_	2	COM	_	_	
 2	beg	beg	beg	beg	_	0	ROOT	_	_	
-3	no	no	co	co	_	4	COM	_	_	
-4	ice	ice	n	n	_	2	PRED	_	_	
-5	cream	cream	n	n	_	4	compound	_	_	
+3	no	no	co	co	_	5	COM	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cream	cream	n	n	_	2	PRED	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve08.xml,771
@@ -40497,9 +40497,9 @@
 3	we	we	pro:sub	pro:sub	_	5	SUBJ	_	_	
 4	~will	~will	mod	mod	_	5	AUX	_	_	
 5	have	have	v	v	_	0	ROOT	_	_	
-6	chocolate	chocolate	n	n	_	7	MOD	_	_	
-7	ice	ice	n	n	_	5	OBJ	_	_	
-8	cream	cream	n	n	_	7	compound	_	_	
+6	chocolate	chocolate	n	n	_	8	MOD	_	_	
+7	ice	ice	n	n	_	8	compound	_	_	
+8	cream	cream	n	n	_	5	OBJ	_	_	
 9	as	as	X	X	_	13	LINK	_	_	
 10	soon	soon	X	X	_	9	mwe	_	_	
 11	as	as	X	X	_	9	mwe	_	_	
@@ -40553,16 +40553,16 @@
 1	what	what	pro:wh	pro:wh	_	0	INCROOT	_	_	
 2	kind	kind	n	n	_	1	OBJ	_	_	
 3	of	of	prep	prep	_	2	NJCT	_	_	
-4	ice	ice	n	n	_	3	POBJ	_	_	
-5	cream	cream	n	n	_	4	compound	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cream	cream	n	n	_	3	POBJ	_	_	
 6	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve08.xml,784
 1	what	what	pro:wh	pro:wh	_	0	INCROOT	_	_	
 2	kind	kind	n	n	_	1	OBJ	_	_	
 3	of	of	prep	prep	_	2	NJCT	_	_	
-4	ice	ice	n	n	_	8	SUBJ	_	_	
-5	cream	cream	n	n	_	4	compound	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cream	cream	n	n	_	8	SUBJ	_	_	
 6	be&PRES	be&PRES	aux	aux	_	8	AUX	_	_	
 7	you	you	pro	pro	_	8	SUBJ	_	_	
 8	go-PRESP	go-PRESP	part	part	_	3	POBJ	_	_	
@@ -41133,18 +41133,18 @@
 8	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve08.xml,872
-1	and	and	coord	coord	_	3	LINK	_	_	
-2	your	your	pro:poss:det	pro:poss:det	_	3	MOD	_	_	
-3	tinker	tinker	n	n	_	0	INCROOT	_	_	
-4	toy-PL	toy-PL	n	n	_	3	compound	_	_	
-5	?	?	?	?	_	3	PUNCT	_	_	
+1	and	and	coord	coord	_	4	LINK	_	_	
+2	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
+3	tinker	tinker	n	n	_	4	compound	_	_	
+4	toy-PL	toy-PL	n	n	_	0	INCROOT	_	_	
+5	?	?	?	?	_	4	PUNCT	_	_	
 
 #eve08.xml,873
 1	where	where	adv:wh	adv:wh	_	2	LINK	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 3	the	the	art	art	_	6	MOD	_	_	
-4	tinker	tinker	n	n	_	6	MOD	_	_	
-5	toy	toy	n	n	_	4	compound	_	_	
+4	tinker	tinker	n	n	_	5	compound	_	_	
+5	toy	toy	n	n	_	6	MOD	_	_	
 6	can	can	mod	mod	_	2	PRED	_	_	
 7	?	?	?	?	_	2	PUNCT	_	_	
 
@@ -41221,16 +41221,16 @@
 3	a	a	art	art	_	2	PRED	_	_	
 4	bead	bead	n	n	_	3	XMOD	_	_	
 5	under	under	prep	prep	_	4	NJCT	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	fire	fire	n	n	_	5	POBJ	_	_	
-8	place	place	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	fire	fire	n	n	_	8	compound	_	_	
+8	place	place	n	n	_	5	POBJ	_	_	
 9	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve08.xml,887
 1	under	under	prep	prep	_	6	LINK	_	_	
 2	the	the	art	art	_	6	SUBJ	_	_	
-3	fire	fire	n	n	_	6	JCT	_	_	
-4	place	place	n	n	_	3	compound	_	_	
+3	fire	fire	n	n	_	4	compound	_	_	
+4	place	place	n	n	_	6	JCT	_	_	
 5	there	there	pro:exist	pro:exist	_	6	SUBJ	_	_	
 6	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 7	a	a	art	art	_	8	MOD	_	_	
@@ -41252,8 +41252,8 @@
 3	not	not	neg	neg	_	2	NEG	_	_	
 4	in	in	prep	prep	_	2	JCT	_	_	
 5	the	the	art	art	_	8	MOD	_	_	
-6	tinker	tinker	n	n	_	8	MOD	_	_	
-7	toy	toy	n	n	_	6	compound	_	_	
+6	tinker	tinker	n	n	_	7	compound	_	_	
+7	toy	toy	n	n	_	8	MOD	_	_	
 8	can	can	mod	mod	_	4	POBJ	_	_	
 9	.	.	.	.	_	2	PUNCT	_	_	
 
@@ -41275,8 +41275,8 @@
 6	go	go	v	v	_	0	ROOT	_	_	
 7	in	in	prep	prep	_	6	JCT	_	_	
 8	the	the	art	art	_	11	MOD	_	_	
-9	tinker	tinker	n	n	_	11	MOD	_	_	
-10	toy	toy	n	n	_	9	compound	_	_	
+9	tinker	tinker	n	n	_	10	compound	_	_	
+10	toy	toy	n	n	_	11	MOD	_	_	
 11	can	can	mod	mod	_	7	POBJ	_	_	
 12	.	.	.	.	_	6	PUNCT	_	_	
 
@@ -43660,16 +43660,16 @@
 2	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve09.xml,116
-1	ice	ice	n	n	_	0	INCROOT	_	_	
-2	cube-PL	cube-PL	n	n	_	1	compound	_	_	
-3	?	?	?	?	_	1	PUNCT	_	_	
+1	ice	ice	n	n	_	2	compound	_	_	
+2	cube-PL	cube-PL	n	n	_	0	INCROOT	_	_	
+3	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve09.xml,117
-1	what	what	X	X	_	3	LINK	_	_	
+1	what	what	X	X	_	4	LINK	_	_	
 2	about	about	X	X	_	1	mwe	_	_	
-3	ice	ice	n	n	_	0	INCROOT	_	_	
-4	cube-PL	cube-PL	n	n	_	3	compound	_	_	
-5	?	?	?	?	_	3	PUNCT	_	_	
+3	ice	ice	n	n	_	4	compound	_	_	
+4	cube-PL	cube-PL	n	n	_	0	INCROOT	_	_	
+5	?	?	?	?	_	4	PUNCT	_	_	
 
 #eve09.xml,118
 1	no	no	co	co	_	6	COM	_	_	
@@ -43830,8 +43830,8 @@
 1	yes	yes	co	co	_	2	COM	_	_	
 2	beg	beg	beg	beg	_	0	ROOT	_	_	
 3	the	the	art	art	_	2	XMOD	_	_	
-4	ping	ping	n	n	_	6	MOD	_	_	
-5	pong	pong	n	n	_	4	compound	_	_	
+4	ping	ping	n	n	_	5	compound	_	_	
+5	pong	pong	n	n	_	6	MOD	_	_	
 6	broke	broke	adj	adj	_	3	PRED	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
@@ -43849,8 +43849,8 @@
 11	see	see	v	v	_	10	COORD	_	_	
 12	what	what	pro:wh	pro:wh	_	16	LINK	_	_	
 13	the	the	art	art	_	16	JCT	_	_	
-14	mail	mail	n	n	_	16	SUBJ	_	_	
-15	man	man	n	n	_	14	compound	_	_	
+14	mail	mail	n	n	_	15	compound	_	_	
+15	man	man	n	n	_	16	SUBJ	_	_	
 16	bring&PAST	bring&PAST	v	v	_	11	COMP	_	_	
 17	.	.	.	.	_	3	PUNCT	_	_	
 
@@ -44661,20 +44661,20 @@
 
 #eve09.xml,256
 1	eat-PRESP	eat-PRESP	part	part	_	0	INCROOT	_	_	
-2	chocolate	chocolate	n	n	_	3	MOD	_	_	
-3	ice	ice	n	n	_	1	OBJ	_	_	
-4	cream	cream	n	n	_	3	compound	_	_	
+2	chocolate	chocolate	n	n	_	4	MOD	_	_	
+3	ice	ice	n	n	_	4	compound	_	_	
+4	cream	cream	n	n	_	1	OBJ	_	_	
 5	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve09.xml,257
 1	we	we	pro:sub	pro:sub	_	2	SUBJ	_	_	
 2	~be&PRES	~be&PRES	cop	cop	_	0	ROOT	_	_	
 3	not	not	neg	neg	_	2	NEG	_	_	
-4	eat-PRESP	eat-PRESP	part	part	_	6	MOD	_	_	
-5	chocolate	chocolate	n	n	_	6	MOD	_	_	
-6	ice	ice	n	n	_	2	PRED	_	_	
-7	cream	cream	n	n	_	6	compound	_	_	
-8	now	now	adv	adv	_	6	NJCT	_	_	
+4	eat-PRESP	eat-PRESP	part	part	_	7	MOD	_	_	
+5	chocolate	chocolate	n	n	_	7	MOD	_	_	
+6	ice	ice	n	n	_	7	compound	_	_	
+7	cream	cream	n	n	_	2	PRED	_	_	
+8	now	now	adv	adv	_	7	NJCT	_	_	
 9	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve09.xml,258
@@ -44997,9 +44997,9 @@
 
 #eve09.xml,305
 1	in	in	prep	prep	_	0	INCROOT	_	_	
-2	your	your	pro:poss:det	pro:poss:det	_	3	MOD	_	_	
-3	bed	bed	n	n	_	1	POBJ	_	_	
-4	room	room	n	n	_	3	compound	_	_	
+2	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
+3	bed	bed	n	n	_	4	compound	_	_	
+4	room	room	n	n	_	1	POBJ	_	_	
 5	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve09.xml,306
@@ -45097,9 +45097,9 @@
 9	he	he	pro:sub	pro:sub	_	10	SUBJ	_	_	
 10	put-3S	put-3S	v	v	_	3	CJCT	_	_	
 11	the	the	art	art	_	10	OBJ	_	_	
-12	tape	tape	n	n	_	11	XMOD	_	_	
-13	record&dv-AGT	record&dv-AGT	n	n	_	12	compound	_	_	
-14	away	away	adv	adv	_	12	NJCT	_	_	
+12	tape	tape	n	n	_	13	compound	_	_	
+13	record&dv-AGT	record&dv-AGT	n	n	_	11	XMOD	_	_	
+14	away	away	adv	adv	_	13	NJCT	_	_	
 15	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve09.xml,320
@@ -45245,9 +45245,9 @@
 2	put&ZERO	put&ZERO	v	v	_	0	ROOT	_	_	
 3	it	it	pro	pro	_	2	OBJ	_	_	
 4	on	on	prep	prep	_	2	JCT	_	_	
-5	the	the	art	art	_	6	MOD	_	_	
-6	rocking	rocking	n	n	_	4	POBJ	_	_	
-7	chair	chair	n	n	_	6	compound	_	_	
+5	the	the	art	art	_	7	MOD	_	_	
+6	rocking	rocking	n	n	_	7	compound	_	_	
+7	chair	chair	n	n	_	4	POBJ	_	_	
 8	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve09.xml,342
@@ -45629,9 +45629,9 @@
 3	do	do	mod	mod	_	5	AUX	_	_	
 4	~not	~not	neg	neg	_	3	NEG	_	_	
 5	pick	pick	v	v	_	0	ROOT	_	_	
-6	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
-7	finger	finger	n	n	_	5	OBJ	_	_	
-8	nail	nail	n	n	_	7	compound	_	_	
+6	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
+7	finger	finger	n	n	_	8	compound	_	_	
+8	nail	nail	n	n	_	5	OBJ	_	_	
 9	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve09.xml,395
@@ -46029,9 +46029,9 @@
 1	let	let	v	v	_	0	ROOT	_	_	
 2	~us	~us	pro:obj	pro:obj	_	1	OBJ	_	_	
 3	move	move	v	v	_	1	COMP	_	_	
-4	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
-5	high	high	n	n	_	3	OBJ	_	_	
-6	chair	chair	n	n	_	5	compound	_	_	
+4	your	your	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
+5	high	high	n	n	_	6	compound	_	_	
+6	chair	chair	n	n	_	3	OBJ	_	_	
 7	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve09.xml,446
@@ -46213,9 +46213,9 @@
 3	~be&3S	~be&3S	aux	aux	_	4	AUX	_	_	
 4	sit-PRESP	sit-PRESP	part	part	_	0	ROOT	_	_	
 5	in	in	prep	prep	_	4	JCT	_	_	
-6	her	her	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
-7	high	high	n	n	_	5	POBJ	_	_	
-8	chair	chair	n	n	_	7	compound	_	_	
+6	her	her	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
+7	high	high	n	n	_	8	compound	_	_	
+8	chair	chair	n	n	_	5	POBJ	_	_	
 9	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve09.xml,477
@@ -46275,9 +46275,9 @@
 4	leave	leave	v	v	_	0	ROOT	_	_	
 5	her	her	pro:obj	pro:obj	_	4	OBJ	_	_	
 6	in	in	prep	prep	_	4	JCT	_	_	
-7	the	the	art	art	_	8	MOD	_	_	
-8	living	living	n	n	_	6	POBJ	_	_	
-9	room	room	n	n	_	8	compound	_	_	
+7	the	the	art	art	_	9	MOD	_	_	
+8	living	living	n	n	_	9	compound	_	_	
+9	room	room	n	n	_	6	POBJ	_	_	
 10	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve09.xml,485
@@ -46377,9 +46377,9 @@
 4	~will	~will	mod	mod	_	5	AUX	_	_	
 5	put&ZERO	put&ZERO	v	v	_	2	COMP	_	_	
 6	a	a	art	art	_	5	OBJ	_	_	
-7	ice	ice	n	n	_	6	OBJ	_	_	
-8	cube	cube	n	n	_	7	compound	_	_	
-9	in	in	prep	prep	_	7	NJCT	_	_	
+7	ice	ice	n	n	_	8	compound	_	_	
+8	cube	cube	n	n	_	6	OBJ	_	_	
+9	in	in	prep	prep	_	8	NJCT	_	_	
 10	it	it	pro	pro	_	9	POBJ	_	_	
 11	.	.	.	.	_	2	PUNCT	_	_	
 
@@ -46415,9 +46415,9 @@
 2	you	you	pro	pro	_	1	OBJ	_	_	
 3	like	like	conj	conj	_	2	INCROOT	_	_	
 4	a	a	art	art	_	3	INCROOT	_	_	
-5	graham	graham	n	n	_	4	INCROOT	_	_	
-6	cracker	cracker	n	n	_	5	compound	_	_	
-7	too	too	post	post	_	5	PQ	_	_	
+5	graham	graham	n	n	_	6	compound	_	_	
+6	cracker	cracker	n	n	_	4	INCROOT	_	_	
+7	too	too	post	post	_	6	PQ	_	_	
 8	Eve	Eve	n:prop	n:prop	_	7	INCROOT	_	_	
 9	?	?	?	?	_	8	PUNCT	_	_	
 
@@ -47231,8 +47231,8 @@
 2	what	what	pro:wh	pro:wh	_	1	COORD	_	_	
 3	else	else	post	post	_	2	PQ	_	_	
 4	besides	besides	prep	prep	_	2	JCT	_	_	
-5	ice	ice	n	n	_	4	POBJ	_	_	
-6	cream	cream	n	n	_	5	compound	_	_	
+5	ice	ice	n	n	_	6	compound	_	_	
+6	cream	cream	n	n	_	4	POBJ	_	_	
 7	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve10.xml,115
@@ -47584,9 +47584,9 @@
 2	you	you	pro	pro	_	3	SUBJ	_	_	
 3	put&ZERO	put&ZERO	v	v	_	1	COMP	_	_	
 4	the	the	art	art	_	3	OBJ	_	_	
-5	tinker	tinker	n	n	_	4	OBJ	_	_	
-6	toy	toy	n	n	_	5	compound	_	_	
-7	on	on	prep	prep	_	5	NJCT	_	_	
+5	tinker	tinker	n	n	_	6	compound	_	_	
+6	toy	toy	n	n	_	4	OBJ	_	_	
+7	on	on	prep	prep	_	6	NJCT	_	_	
 8	the	the	art	art	_	9	MOD	_	_	
 9	floor	floor	n	n	_	7	POBJ	_	_	
 10	?	?	?	?	_	1	PUNCT	_	_	
@@ -47644,9 +47644,9 @@
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 3	downstairs	downstairs	adv	adv	_	2	JCT	_	_	
 4	in	in	prep	prep	_	2	JCT	_	_	
-5	the	the	art	art	_	6	MOD	_	_	
-6	washing	washing	n	n	_	4	POBJ	_	_	
-7	machine	machine	n	n	_	6	compound	_	_	
+5	the	the	art	art	_	7	MOD	_	_	
+6	washing	washing	n	n	_	7	compound	_	_	
+7	machine	machine	n	n	_	4	POBJ	_	_	
 8	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve10.xml,178
@@ -48878,9 +48878,9 @@
 3	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve10.xml,357
-1	lunch	lunch	n	n	_	0	INCROOT	_	_	
-2	time	time	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	lunch	lunch	n	n	_	2	compound	_	_	
+2	time	time	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve10.xml,358
 1	almost	almost	adv	adv	_	0	INCROOT	_	_	
@@ -48980,9 +48980,9 @@
 3	~to	~to	inf	inf	_	4	INF	_	_	
 4	sit	sit	v	v	_	2	XCOMP	_	_	
 5	in	in	prep	prep	_	4	JCT	_	_	
-6	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
-7	high	high	n	n	_	5	POBJ	_	_	
-8	chair	chair	n	n	_	7	compound	_	_	
+6	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
+7	high	high	n	n	_	8	compound	_	_	
+8	chair	chair	n	n	_	5	POBJ	_	_	
 9	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve10.xml,372
@@ -49162,8 +49162,8 @@
 10	of	of	prep	prep	_	9	NJCT	_	_	
 11	bread	bread	n	n	_	10	POBJ	_	_	
 12	with	with	prep	prep	_	11	NJCT	_	_	
-13	peanut	peanut	n	n	_	12	POBJ	_	_	
-14	butter	butter	n	n	_	13	compound	_	_	
+13	peanut	peanut	n	n	_	14	compound	_	_	
+14	butter	butter	n	n	_	12	POBJ	_	_	
 15	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve10.xml,396
@@ -49175,9 +49175,9 @@
 6	it	it	pro	pro	_	5	POBJ	_	_	
 7	too	too	adv	adv	_	6	JCT	_	_	
 8	or	or	coord	coord	_	7	CONJ	_	_	
-9	just	just	adv	adv	_	10	JCT	_	_	
-10	peanut	peanut	n	n	_	8	COORD	_	_	
-11	butter	butter	n	n	_	10	compound	_	_	
+9	just	just	adv	adv	_	11	JCT	_	_	
+10	peanut	peanut	n	n	_	11	compound	_	_	
+11	butter	butter	n	n	_	8	COORD	_	_	
 12	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve10.xml,397
@@ -49601,8 +49601,8 @@
 
 #eve10.xml,461
 1	the	the	art	art	_	5	LINK	_	_	
-2	snow	snow	n	n	_	5	SUBJ	_	_	
-3	man	man	n	n	_	2	compound	_	_	
+2	snow	snow	n	n	_	3	compound	_	_	
+3	man	man	n	n	_	5	SUBJ	_	_	
 4	~be&3S	~be&3S	aux	aux	_	5	AUX	_	_	
 5	wear-PRESP	wear-PRESP	part	part	_	0	ROOT	_	_	
 6	glass-PL	glass-PL	n	n	_	5	OBJ	_	_	
@@ -49613,9 +49613,9 @@
 2	do	do	mod	mod	_	4	AUX	_	_	
 3	~not	~not	neg	neg	_	2	NEG	_	_	
 4	have	have	v	v	_	0	ROOT	_	_	
-5	a	a	art	art	_	6	MOD	_	_	
-6	snow	snow	n	n	_	4	OBJ	_	_	
-7	man	man	n	n	_	6	compound	_	_	
+5	a	a	art	art	_	7	MOD	_	_	
+6	snow	snow	n	n	_	7	compound	_	_	
+7	man	man	n	n	_	4	OBJ	_	_	
 8	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve10.xml,463
@@ -49816,9 +49816,9 @@
 3	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 4	not	not	neg	neg	_	3	NEG	_	_	
 5	in	in	prep	prep	_	3	JCT	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	living	living	n	n	_	5	POBJ	_	_	
-8	room	room	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	living	living	n	n	_	8	compound	_	_	
+8	room	room	n	n	_	5	POBJ	_	_	
 9	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve10.xml,489
@@ -49830,10 +49830,10 @@
 
 #eve10.xml,490
 1	in	in	prep	prep	_	0	INCROOT	_	_	
-2	Fraser	Fraser	n:prop	n:prop	_	4	MOD	_	_	
+2	Fraser	Fraser	n:prop	n:prop	_	5	MOD	_	_	
 3	~s	~s	poss	poss	_	2	POSS	_	_	
-4	living	living	n	n	_	1	POBJ	_	_	
-5	room	room	n	n	_	4	compound	_	_	
+4	living	living	n	n	_	5	compound	_	_	
+5	room	room	n	n	_	1	POBJ	_	_	
 6	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve10.xml,491
@@ -49849,10 +49849,10 @@
 3	it	it	pro	pro	_	4	SUBJ	_	_	
 4	do-PRESP	do-PRESP	part	part	_	0	ROOT	_	_	
 5	in	in	prep	prep	_	4	JCT	_	_	
-6	Cromer	Cromer	n:prop	n:prop	_	8	MOD	_	_	
+6	Cromer	Cromer	n:prop	n:prop	_	9	MOD	_	_	
 7	~s	~s	poss	poss	_	6	POSS	_	_	
-8	living	living	n	n	_	5	POBJ	_	_	
-9	room	room	n	n	_	8	compound	_	_	
+8	living	living	n	n	_	9	compound	_	_	
+9	room	room	n	n	_	5	POBJ	_	_	
 10	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve10.xml,493
@@ -49868,10 +49868,10 @@
 3	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
 4	blanket	blanket	n	n	_	2	OBJ	_	_	
 5	in	in	prep	prep	_	2	JCT	_	_	
-6	Fraser	Fraser	n:prop	n:prop	_	8	MOD	_	_	
+6	Fraser	Fraser	n:prop	n:prop	_	9	MOD	_	_	
 7	~s	~s	poss	poss	_	6	POSS	_	_	
-8	living	living	n	n	_	5	POBJ	_	_	
-9	room	room	n	n	_	8	compound	_	_	
+8	living	living	n	n	_	9	compound	_	_	
+9	room	room	n	n	_	5	POBJ	_	_	
 10	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve10.xml,496
@@ -50154,8 +50154,8 @@
 #eve11.xml,25
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	want	want	v	v	_	0	ROOT	_	_	
-3	peanut	peanut	n	n	_	2	OBJ	_	_	
-4	butter	butter	n	n	_	3	compound	_	_	
+3	peanut	peanut	n	n	_	4	compound	_	_	
+4	butter	butter	n	n	_	2	OBJ	_	_	
 5	on	on	prep	prep	_	2	JCT	_	_	
 6	the	the	art	art	_	7	MOD	_	_	
 7	paddle	paddle	n	n	_	5	POBJ	_	_	
@@ -50968,9 +50968,9 @@
 7	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve11.xml,138
-1	peanut	peanut	n	n	_	0	INCROOT	_	_	
-2	butter	butter	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	peanut	peanut	n	n	_	2	compound	_	_	
+2	butter	butter	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve11.xml,139
 1	there	there	adv	adv	_	0	INCROOT	_	_	
@@ -51045,13 +51045,13 @@
 
 #eve11.xml,150
 1	no	no	qn	qn	_	2	QUANT	_	_	
-2	more	more	qn	qn	_	3	QUANT	_	_	
-3	peanut	peanut	n	n	_	0	INCROOT	_	_	
-4	butter	butter	n	n	_	3	compound	_	_	
-5	on	on	prep	prep	_	3	NJCT	_	_	
+2	more	more	qn	qn	_	4	QUANT	_	_	
+3	peanut	peanut	n	n	_	4	compound	_	_	
+4	butter	butter	n	n	_	0	INCROOT	_	_	
+5	on	on	prep	prep	_	4	NJCT	_	_	
 6	the	the	art	art	_	7	MOD	_	_	
 7	paddle	paddle	n	n	_	5	POBJ	_	_	
-8	.	.	.	.	_	3	PUNCT	_	_	
+8	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve11.xml,151
 1	you	you	pro	pro	_	2	SUBJ	_	_	
@@ -52347,9 +52347,9 @@
 4	more	more	qn	qn	_	5	QUANT	_	_	
 5	water	water	n	n	_	3	OBJ	_	_	
 6	in	in	prep	prep	_	3	JCT	_	_	
-7	the	the	art	art	_	8	MOD	_	_	
-8	tea	tea	n	n	_	6	POBJ	_	_	
-9	kettle	kettle	n	n	_	8	compound	_	_	
+7	the	the	art	art	_	9	MOD	_	_	
+8	tea	tea	n	n	_	9	compound	_	_	
+9	kettle	kettle	n	n	_	6	POBJ	_	_	
 10	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve11.xml,329
@@ -53519,9 +53519,9 @@
 6	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 7	downstairs	downstairs	adv	adv	_	6	JCT	_	_	
 8	in	in	prep	prep	_	6	JCT	_	_	
-9	the	the	art	art	_	10	MOD	_	_	
-10	washing	washing	n	n	_	8	POBJ	_	_	
-11	machine	machine	n	n	_	10	compound	_	_	
+9	the	the	art	art	_	11	MOD	_	_	
+10	washing	washing	n	n	_	11	compound	_	_	
+11	machine	machine	n	n	_	8	POBJ	_	_	
 12	.	.	.	.	_	6	PUNCT	_	_	
 
 #eve11.xml,501
@@ -53671,9 +53671,9 @@
 5	put&ZERO	put&ZERO	v	v	_	3	XCOMP	_	_	
 6	it	it	pro	pro	_	5	OBJ	_	_	
 7	in	in	prep	prep	_	5	JCT	_	_	
-8	the	the	art	art	_	9	MOD	_	_	
-9	waste	waste	n	n	_	7	POBJ	_	_	
-10	basket	basket	n	n	_	9	compound	_	_	
+8	the	the	art	art	_	10	MOD	_	_	
+9	waste	waste	n	n	_	10	compound	_	_	
+10	basket	basket	n	n	_	7	POBJ	_	_	
 11	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve12.xml,17
@@ -53773,9 +53773,9 @@
 5	put&ZERO	put&ZERO	v	v	_	3	XCOMP	_	_	
 6	them	them	pro:obj	pro:obj	_	5	OBJ	_	_	
 7	in	in	prep	prep	_	5	JCT	_	_	
-8	the	the	art	art	_	9	MOD	_	_	
-9	mail	mail	n	n	_	7	POBJ	_	_	
-10	box	box	n	n	_	9	compound	_	_	
+8	the	the	art	art	_	10	MOD	_	_	
+9	mail	mail	n	n	_	10	compound	_	_	
+10	box	box	n	n	_	7	POBJ	_	_	
 11	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve12.xml,31
@@ -53859,8 +53859,8 @@
 #eve12.xml,42
 1	the	the	art	art	_	5	MOD	_	_	
 2	happy	happy	adj	adj	_	5	MOD	_	_	
-3	birth	birth	n	n	_	5	MOD	_	_	
-4	day	day	n	n	_	3	compound	_	_	
+3	birth	birth	n	n	_	4	compound	_	_	
+4	day	day	n	n	_	5	MOD	_	_	
 5	plate	plate	n	n	_	0	INCROOT	_	_	
 6	.	.	.	.	_	5	PUNCT	_	_	
 
@@ -54040,9 +54040,9 @@
 1	my	my	pro:poss:det	pro:poss:det	_	2	MOD	_	_	
 2	glass-PL	glass-PL	n	n	_	0	INCROOT	_	_	
 3	in	in	prep	prep	_	2	JCT	_	_	
-4	the	the	art	art	_	5	MOD	_	_	
-5	mail	mail	n	n	_	3	POBJ	_	_	
-6	box	box	n	n	_	5	compound	_	_	
+4	the	the	art	art	_	6	MOD	_	_	
+5	mail	mail	n	n	_	6	compound	_	_	
+6	box	box	n	n	_	3	POBJ	_	_	
 7	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve12.xml,71
@@ -54053,9 +54053,9 @@
 5	my	my	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
 6	glass-PL	glass-PL	n	n	_	4	OBJ	_	_	
 7	in	in	prep	prep	_	4	JCT	_	_	
-8	the	the	art	art	_	9	MOD	_	_	
-9	mail	mail	n	n	_	7	POBJ	_	_	
-10	box	box	n	n	_	9	compound	_	_	
+8	the	the	art	art	_	10	MOD	_	_	
+9	mail	mail	n	n	_	10	compound	_	_	
+10	box	box	n	n	_	7	POBJ	_	_	
 11	?	?	?	?	_	4	PUNCT	_	_	
 
 #eve12.xml,72
@@ -54080,9 +54080,9 @@
 7	put&ZERO	put&ZERO	v	v	_	5	XCOMP	_	_	
 8	them	them	pro:obj	pro:obj	_	7	OBJ	_	_	
 9	in	in	prep	prep	_	7	JCT	_	_	
-10	the	the	art	art	_	11	MOD	_	_	
-11	mail	mail	n	n	_	9	POBJ	_	_	
-12	box	box	n	n	_	11	compound	_	_	
+10	the	the	art	art	_	12	MOD	_	_	
+11	mail	mail	n	n	_	12	compound	_	_	
+12	box	box	n	n	_	9	POBJ	_	_	
 13	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve12.xml,75
@@ -54107,9 +54107,9 @@
 3	already	already	adv	adv	_	4	JCT	_	_	
 4	be&PASTP	be&PASTP	cop	cop	_	0	ROOT	_	_	
 5	in	in	prep	prep	_	4	JCT	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	mail	mail	n	n	_	5	POBJ	_	_	
-8	box	box	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	mail	mail	n	n	_	8	compound	_	_	
+8	box	box	n	n	_	5	POBJ	_	_	
 9	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve12.xml,78
@@ -54646,8 +54646,8 @@
 2	~be&PRES	~be&PRES	aux	aux	_	3	AUX	_	_	
 3	ride-PRESP	ride-PRESP	part	part	_	0	ROOT	_	_	
 4	a	a	art	art	_	7	MOD	_	_	
-5	birth	birth	n	n	_	7	MOD	_	_	
-6	day	day	n	n	_	5	compound	_	_	
+5	birth	birth	n	n	_	6	compound	_	_	
+6	day	day	n	n	_	7	MOD	_	_	
 7	card	card	n	n	_	3	OBJ	_	_	
 8	?	?	?	?	_	3	PUNCT	_	_	
 
@@ -54657,8 +54657,8 @@
 3	time	time	v	v	_	0	ROOT	_	_	
 4	to	to	inf	inf	_	5	INF	_	_	
 5	go	go	v	v	_	3	XCOMP	_	_	
-6	pee	pee	n	n	_	5	OBJ	_	_	
-7	pee	pee	n	n	_	6	compound	_	_	
+6	pee	pee	n	n	_	7	compound	_	_	
+7	pee	pee	n	n	_	5	OBJ	_	_	
 8	in	in	prep	prep	_	5	JCT	_	_	
 9	the	the	art	art	_	10	MOD	_	_	
 10	pot-DIM	pot-DIM	n	n	_	8	POBJ	_	_	
@@ -54673,9 +54673,9 @@
 2	~be&PRES	~be&PRES	aux	aux	_	0	ROOT	_	_	
 3	not	not	neg	neg	_	2	NEG	_	_	
 4	to	to	prep	prep	_	2	JCT	_	_	
-5	pee	pee	n	n	_	4	POBJ	_	_	
-6	pee	pee	n	n	_	5	compound	_	_	
-7	in	in	prep	prep	_	5	NJCT	_	_	
+5	pee	pee	n	n	_	6	compound	_	_	
+6	pee	pee	n	n	_	4	POBJ	_	_	
+7	in	in	prep	prep	_	6	NJCT	_	_	
 8	your	your	pro:poss:det	pro:poss:det	_	10	MOD	_	_	
 9	big	big	adj	adj	_	10	MOD	_	_	
 10	girl	girl	n	n	_	11	SUBJ	_	_	
@@ -54912,10 +54912,10 @@
 2	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve12.xml,183
-1	more	more	qn	qn	_	2	QUANT	_	_	
-2	peanut	peanut	n	n	_	0	INCROOT	_	_	
-3	butter	butter	n	n	_	2	compound	_	_	
-4	?	?	?	?	_	2	PUNCT	_	_	
+1	more	more	qn	qn	_	3	QUANT	_	_	
+2	peanut	peanut	n	n	_	3	compound	_	_	
+3	butter	butter	n	n	_	0	INCROOT	_	_	
+4	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve12.xml,184
 1	you	you	pro	pro	_	4	SUBJ	_	_	
@@ -54931,9 +54931,9 @@
 2	do	do	mod	mod	_	4	AUX	_	_	
 3	you	you	pro	pro	_	4	SUBJ	_	_	
 4	want	want	v	v	_	0	ROOT	_	_	
-5	peanut	peanut	n	n	_	4	OBJ	_	_	
-6	butter	butter	n	n	_	5	compound	_	_	
-7	or	or	coord	coord	_	5	CONJ	_	_	
+5	peanut	peanut	n	n	_	6	compound	_	_	
+6	butter	butter	n	n	_	4	OBJ	_	_	
+7	or	or	coord	coord	_	6	CONJ	_	_	
 8	cheese	cheese	n	n	_	7	COORD	_	_	
 9	?	?	?	?	_	4	PUNCT	_	_	
 
@@ -55566,9 +55566,9 @@
 4	a	a	art	art	_	3	OBJ	_	_	
 5	piece	piece	n	n	_	4	OBJ	_	_	
 6	of	of	prep	prep	_	5	NJCT	_	_	
-7	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
-8	birth	birth	n	n	_	10	MOD	_	_	
-9	day	day	n	n	_	8	compound	_	_	
+7	your	your	pro:poss:det	pro:poss:det	_	9	MOD	_	_	
+8	birth	birth	n	n	_	9	compound	_	_	
+9	day	day	n	n	_	10	MOD	_	_	
 10	cake	cake	n	n	_	6	POBJ	_	_	
 11	?	?	?	?	_	3	PUNCT	_	_	
 
@@ -55584,9 +55584,9 @@
 
 #eve12.xml,285
 1	eat	eat	v	v	_	0	ROOT	_	_	
-2	your	your	pro:poss:det	pro:poss:det	_	3	MOD	_	_	
-3	birth	birth	n	n	_	5	MOD	_	_	
-4	day	day	n	n	_	3	compound	_	_	
+2	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
+3	birth	birth	n	n	_	4	compound	_	_	
+4	day	day	n	n	_	5	MOD	_	_	
 5	sandwich	sandwich	n	n	_	1	OBJ	_	_	
 6	?	?	?	?	_	1	PUNCT	_	_	
 
@@ -55606,8 +55606,8 @@
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve12.xml,288
-1	birth	birth	n	n	_	3	MOD	_	_	
-2	day	day	n	n	_	1	compound	_	_	
+1	birth	birth	n	n	_	2	compound	_	_	
+2	day	day	n	n	_	3	MOD	_	_	
 3	cake	cake	n	n	_	0	INCROOT	_	_	
 4	.	.	.	.	_	3	PUNCT	_	_	
 
@@ -55918,9 +55918,9 @@
 8	like	like	v	v	_	4	CJCT	_	_	
 9	one	one	pro:indef	pro:indef	_	8	OBJ	_	_	
 10	of	of	prep	prep	_	9	NJCT	_	_	
-11	your	your	pro:poss:det	pro:poss:det	_	12	MOD	_	_	
-12	birth	birth	n	n	_	14	MOD	_	_	
-13	day	day	n	n	_	12	compound	_	_	
+11	your	your	pro:poss:det	pro:poss:det	_	13	MOD	_	_	
+12	birth	birth	n	n	_	13	compound	_	_	
+13	day	day	n	n	_	14	MOD	_	_	
 14	cookie-PL	cookie-PL	n	n	_	10	POBJ	_	_	
 15	?	?	?	?	_	4	PUNCT	_	_	
 
@@ -56649,9 +56649,9 @@
 1	they	they	pro:sub	pro:sub	_	2	SUBJ	_	_	
 2	~be&PRES	~be&PRES	cop	cop	_	0	ROOT	_	_	
 3	under	under	prep	prep	_	2	JCT	_	_	
-4	the	the	art	art	_	5	MOD	_	_	
-5	work	work	n	n	_	3	POBJ	_	_	
-6	bench	bench	n	n	_	5	compound	_	_	
+4	the	the	art	art	_	6	MOD	_	_	
+5	work	work	n	n	_	6	compound	_	_	
+6	bench	bench	n	n	_	3	POBJ	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve12.xml,428
@@ -56709,22 +56709,22 @@
 #eve12.xml,436
 1	there	there	pro:exist	pro:exist	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	drum	drum	n	n	_	2	PRED	_	_	
-5	stick	stick	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	drum	drum	n	n	_	5	compound	_	_	
+5	stick	stick	n	n	_	2	PRED	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve12.xml,437
-1	do	do	mod	mod	_	3	AUX	_	_	
+1	do	do	mod	mod	_	4	AUX	_	_	
 2	~not	~not	neg	neg	_	1	NEG	_	_	
-3	pee	pee	n	n	_	0	ROOT	_	_	
-4	pee	pee	n	n	_	3	compound	_	_	
-5	in	in	prep	prep	_	3	JCT	_	_	
+3	pee	pee	n	n	_	4	compound	_	_	
+4	pee	pee	n	n	_	0	ROOT	_	_	
+5	in	in	prep	prep	_	4	JCT	_	_	
 6	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
 7	big	big	adj	adj	_	8	MOD	_	_	
 8	girl	girl	n	n	_	9	SUBJ	_	_	
 9	pant-3S	pant-3S	v	v	_	5	POBJ	_	_	
-10	.	.	.	.	_	3	PUNCT	_	_	
+10	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve12.xml,438
 1	let	let	v	v	_	0	ROOT	_	_	
@@ -56735,35 +56735,35 @@
 6	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve12.xml,439
-1	Eve	Eve	n:prop	n:prop	_	5	SUBJ	_	_	
-2	do	do	mod	mod	_	5	AUX	_	_	
+1	Eve	Eve	n:prop	n:prop	_	6	SUBJ	_	_	
+2	do	do	mod	mod	_	6	AUX	_	_	
 3	~not	~not	neg	neg	_	2	NEG	_	_	
-4	you	you	pro	pro	_	5	SUBJ	_	_	
-5	pee	pee	n	n	_	0	ROOT	_	_	
-6	pee	pee	n	n	_	5	compound	_	_	
-7	in	in	prep	prep	_	5	JCT	_	_	
+4	you	you	pro	pro	_	6	SUBJ	_	_	
+5	pee	pee	n	n	_	6	compound	_	_	
+6	pee	pee	n	n	_	0	ROOT	_	_	
+7	in	in	prep	prep	_	6	JCT	_	_	
 8	those	those	det	det	_	10	DET	_	_	
 9	big	big	adj	adj	_	10	MOD	_	_	
 10	girl	girl	n	n	_	11	SUBJ	_	_	
 11	pant-3S	pant-3S	v	v	_	7	POBJ	_	_	
-12	.	.	.	.	_	5	PUNCT	_	_	
+12	.	.	.	.	_	6	PUNCT	_	_	
 
 #eve12.xml,440
 1	okay	okay	co	co	_	0	INCROOT	_	_	
 2	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve12.xml,441
-1	do	do	mod	mod	_	4	AUX	_	_	
+1	do	do	mod	mod	_	5	AUX	_	_	
 2	~not	~not	neg	neg	_	1	NEG	_	_	
-3	you	you	pro	pro	_	4	SUBJ	_	_	
-4	pee	pee	n	n	_	0	ROOT	_	_	
-5	pee	pee	n	n	_	4	compound	_	_	
-6	in	in	prep	prep	_	4	JCT	_	_	
+3	you	you	pro	pro	_	5	SUBJ	_	_	
+4	pee	pee	n	n	_	5	compound	_	_	
+5	pee	pee	n	n	_	0	ROOT	_	_	
+6	in	in	prep	prep	_	5	JCT	_	_	
 7	your	your	pro:poss:det	pro:poss:det	_	9	MOD	_	_	
 8	big	big	adj	adj	_	9	MOD	_	_	
 9	girl	girl	n	n	_	10	SUBJ	_	_	
 10	pant-3S	pant-3S	v	v	_	6	POBJ	_	_	
-11	.	.	.	.	_	4	PUNCT	_	_	
+11	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve12.xml,442
 1	no	no	co	co	_	2	COM	_	_	
@@ -57035,12 +57035,12 @@
 4	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve12.xml,480
-1	do	do	mod	mod	_	4	LINK	_	_	
+1	do	do	mod	mod	_	5	LINK	_	_	
 2	~not	~not	neg	neg	_	1	NEG	_	_	
-3	you	you	pro	pro	_	4	SUBJ	_	_	
-4	pee	pee	n	n	_	0	ROOT	_	_	
-5	pee	pee	n	n	_	4	compound	_	_	
-6	.	.	.	.	_	4	PUNCT	_	_	
+3	you	you	pro	pro	_	5	SUBJ	_	_	
+4	pee	pee	n	n	_	5	compound	_	_	
+5	pee	pee	n	n	_	0	ROOT	_	_	
+6	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve12.xml,481
 1	I	I	pro:sub	pro:sub	_	3	SUBJ	_	_	
@@ -57841,8 +57841,8 @@
 5	it	it	pro	pro	_	4	OBJ	_	_	
 6	~be&3S	~be&3S	aux	aux	_	7	AUX	_	_	
 7	go-PRESP	go-PRESP	part	part	_	4	COMP	_	_	
-8	flip	flip	n	n	_	7	OBJ	_	_	
-9	flop	flop	n	n	_	8	compound	_	_	
+8	flip	flip	n	n	_	9	compound	_	_	
+9	flop	flop	n	n	_	7	OBJ	_	_	
 10	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve12.xml,575
@@ -58067,9 +58067,9 @@
 2	~be&PRES	~be&PRES	aux	aux	_	10	SUBJ	_	_	
 3	up	up	adv	adv	_	2	JCT	_	_	
 4	in	in	prep	prep	_	2	JCT	_	_	
-5	your	your	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
-6	high	high	n	n	_	4	POBJ	_	_	
-7	chair	chair	n	n	_	6	compound	_	_	
+5	your	your	pro:poss:det	pro:poss:det	_	7	MOD	_	_	
+6	high	high	n	n	_	7	compound	_	_	
+7	chair	chair	n	n	_	4	POBJ	_	_	
 8	be&PRES	be&PRES	aux	aux	_	10	AUX	_	_	
 9	~not	~not	neg	neg	_	8	NEG	_	_	
 10	you	you	pro	pro	_	0	ROOT	_	_	
@@ -58230,10 +58230,10 @@
 2	it	it	pro	pro	_	3	SUBJ	_	_	
 3	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 4	not	not	neg	neg	_	3	NEG	_	_	
-5	go-PRESP	go-PRESP	part	part	_	6	MOD	_	_	
-6	flip	flip	n	n	_	3	PRED	_	_	
-7	flop	flop	n	n	_	6	compound	_	_	
-8	yet	yet	adv	adv	_	6	JCT	_	_	
+5	go-PRESP	go-PRESP	part	part	_	7	MOD	_	_	
+6	flip	flip	n	n	_	7	compound	_	_	
+7	flop	flop	n	n	_	3	PRED	_	_	
+8	yet	yet	adv	adv	_	7	JCT	_	_	
 9	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve12.xml,627
@@ -58242,8 +58242,8 @@
 3	make	make	v	v	_	0	ROOT	_	_	
 4	it	it	pro	pro	_	5	SUBJ	_	_	
 5	go	go	v	v	_	3	COMP	_	_	
-6	flip	flip	n	n	_	5	OBJ	_	_	
-7	flop	flop	n	n	_	6	compound	_	_	
+6	flip	flip	n	n	_	7	compound	_	_	
+7	flop	flop	n	n	_	5	OBJ	_	_	
 8	in	in	prep	prep	_	5	JCT	_	_	
 9	a	a	art	art	_	11	MOD	_	_	
 10	little	little	adj	adj	_	11	MOD	_	_	
@@ -58611,8 +58611,8 @@
 1	yes	yes	co	co	_	3	COM	_	_	
 2	we	we	pro:sub	pro:sub	_	3	SUBJ	_	_	
 3	have&PAST	have&PAST	v	v	_	0	ROOT	_	_	
-4	birth	birth	n	n	_	6	MOD	_	_	
-5	day	day	n	n	_	4	compound	_	_	
+4	birth	birth	n	n	_	5	compound	_	_	
+5	day	day	n	n	_	6	MOD	_	_	
 6	cake	cake	n	n	_	3	OBJ	_	_	
 7	on	on	prep	prep	_	3	JCT	_	_	
 8	the	the	art	art	_	9	MOD	_	_	
@@ -58869,11 +58869,11 @@
 2	belong-3S	belong-3S	v	v	_	0	ROOT	_	_	
 3	to	to	prep	prep	_	2	JCT	_	_	
 4	the	the	art	art	_	3	POBJ	_	_	
-5	fire	fire	n	n	_	4	OBJ	_	_	
-6	place	place	n	n	_	5	compound	_	_	
+5	fire	fire	n	n	_	6	compound	_	_	
+6	place	place	n	n	_	4	OBJ	_	_	
 7	and	and	coord	coord	_	9	LINK	_	_	
 8	you	you	pro	pro	_	9	SUBJ	_	_	
-9	~be&PRES	~be&PRES	cop	cop	_	5	CMOD	_	_	
+9	~be&PRES	~be&PRES	cop	cop	_	6	CMOD	_	_	
 10	not	not	neg	neg	_	9	NEG	_	_	
 11	to	to	prep	prep	_	9	JCT	_	_	
 12	play	play	n	n	_	11	POBJ	_	_	
@@ -60039,8 +60039,8 @@
 2	you	you	pro	pro	_	3	SUBJ	_	_	
 3	want	want	v	v	_	0	ROOT	_	_	
 4	a	a	art	art	_	7	MOD	_	_	
-5	peanut	peanut	n	n	_	7	MOD	_	_	
-6	butter	butter	n	n	_	5	compound	_	_	
+5	peanut	peanut	n	n	_	6	compound	_	_	
+6	butter	butter	n	n	_	7	MOD	_	_	
 7	sandwich	sandwich	n	n	_	3	OBJ	_	_	
 8	?	?	?	?	_	3	PUNCT	_	_	
 
@@ -60203,8 +60203,8 @@
 5	~to	~to	inf	inf	_	6	INF	_	_	
 6	have	have	v	v	_	3	XCOMP	_	_	
 7	a	a	art	art	_	10	MOD	_	_	
-8	peanut	peanut	n	n	_	10	MOD	_	_	
-9	butter	butter	n	n	_	8	compound	_	_	
+8	peanut	peanut	n	n	_	9	compound	_	_	
+9	butter	butter	n	n	_	10	MOD	_	_	
 10	sandwich	sandwich	n	n	_	6	OBJ	_	_	
 11	.	.	.	.	_	3	PUNCT	_	_	
 
@@ -60524,9 +60524,9 @@
 10	the	the	art	art	_	8	POBJ	_	_	
 11	cup	cup	n	n	_	10	OBJ	_	_	
 12	at	at	prep	prep	_	11	NJCT	_	_	
-13	supper	supper	n	n	_	16	MOD	_	_	
-14	time	time	n	n	_	13	compound	_	_	
-15	not	not	neg	neg	_	13	NEG	_	_	
+13	supper	supper	n	n	_	14	compound	_	_	
+14	time	time	n	n	_	16	MOD	_	_	
+15	not	not	neg	neg	_	14	NEG	_	_	
 16	now	now	adv	adv	_	12	POBJ	_	_	
 17	.	.	.	.	_	4	PUNCT	_	_	
 
@@ -61236,14 +61236,14 @@
 1	it	it	pro	pro	_	3	SUBJ	_	_	
 2	~will	~will	mod	mod	_	3	AUX	_	_	
 3	go	go	v	v	_	0	ROOT	_	_	
-4	flip	flip	n	n	_	3	OBJ	_	_	
-5	flop	flop	n	n	_	4	compound	_	_	
+4	flip	flip	n	n	_	5	compound	_	_	
+5	flop	flop	n	n	_	3	OBJ	_	_	
 6	and	and	coord	coord	_	9	LINK	_	_	
 7	it	it	pro	pro	_	9	SUBJ	_	_	
 8	~will	~will	mod	mod	_	9	AUX	_	_	
 9	go	go	v	v	_	3	COMP	_	_	
-10	flip	flip	n	n	_	9	OBJ	_	_	
-11	flop	flop	n	n	_	10	compound	_	_	
+10	flip	flip	n	n	_	11	compound	_	_	
+11	flop	flop	n	n	_	9	OBJ	_	_	
 12	for	for	prep	prep	_	9	JCT	_	_	
 13	you	you	pro	pro	_	12	POBJ	_	_	
 14	this	this	det	det	_	15	DET	_	_	
@@ -61824,9 +61824,9 @@
 5	go	go	v	v	_	3	XCOMP	_	_	
 6	up	up	adv	adv	_	5	JCT	_	_	
 7	and	and	coord	coord	_	5	CONJ	_	_	
-8	pee	pee	n	n	_	7	COORD	_	_	
-9	pee	pee	n	n	_	8	compound	_	_	
-10	Eve	Eve	n:prop	n:prop	_	8	APP	_	_	
+8	pee	pee	n	n	_	9	compound	_	_	
+9	pee	pee	n	n	_	7	COORD	_	_	
+10	Eve	Eve	n:prop	n:prop	_	9	APP	_	_	
 11	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve13.xml,422
@@ -62566,9 +62566,9 @@
 #eve14.xml,32
 1	with	with	prep	prep	_	0	INCROOT	_	_	
 2	a	a	art	art	_	1	POBJ	_	_	
-3	ice	ice	n	n	_	2	OBJ	_	_	
-4	cube	cube	n	n	_	3	compound	_	_	
-5	in	in	prep	prep	_	3	NJCT	_	_	
+3	ice	ice	n	n	_	4	compound	_	_	
+4	cube	cube	n	n	_	2	OBJ	_	_	
+5	in	in	prep	prep	_	4	NJCT	_	_	
 6	it	it	pro	pro	_	5	POBJ	_	_	
 7	?	?	?	?	_	1	PUNCT	_	_	
 
@@ -62630,9 +62630,9 @@
 4	do	do	mod	mod	_	6	AUX	_	_	
 5	~not	~not	neg	neg	_	4	NEG	_	_	
 6	need	need	v	v	_	2	COMP	_	_	
-7	a	a	art	art	_	8	MOD	_	_	
-8	ice	ice	n	n	_	6	OBJ	_	_	
-9	cube	cube	n	n	_	8	compound	_	_	
+7	a	a	art	art	_	9	MOD	_	_	
+8	ice	ice	n	n	_	9	compound	_	_	
+9	cube	cube	n	n	_	6	OBJ	_	_	
 10	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve14.xml,40
@@ -62649,8 +62649,8 @@
 1	this	this	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	be&3S	be&3S	cop	cop	_	0	ROOT	_	_	
 3	the	the	art	art	_	6	MOD	_	_	
-4	ice	ice	n	n	_	6	MOD	_	_	
-5	cube	cube	n	n	_	4	compound	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cube	cube	n	n	_	6	MOD	_	_	
 6	tray	tray	n	n	_	2	PRED	_	_	
 7	and	and	coord	coord	_	2	COORD	_	_	
 8	they	they	pro:sub	pro:sub	_	9	SUBJ	_	_	
@@ -62780,9 +62780,9 @@
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	get	get	v	v	_	0	ROOT	_	_	
 3	in	in	prep	prep	_	2	JCT	_	_	
-4	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
-5	high	high	n	n	_	3	POBJ	_	_	
-6	chair	chair	n	n	_	5	compound	_	_	
+4	your	your	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
+5	high	high	n	n	_	6	compound	_	_	
+6	chair	chair	n	n	_	3	POBJ	_	_	
 7	and	and	coord	coord	_	10	LINK	_	_	
 8	I	I	pro:sub	pro:sub	_	10	SUBJ	_	_	
 9	~will	~will	mod	mod	_	10	AUX	_	_	
@@ -62863,8 +62863,8 @@
 2	you	you	pro	pro	_	3	SUBJ	_	_	
 3	want	want	v	v	_	0	ROOT	_	_	
 4	a	a	art	art	_	7	MOD	_	_	
-5	peanut	peanut	n	n	_	7	MOD	_	_	
-6	butter	butter	n	n	_	5	compound	_	_	
+5	peanut	peanut	n	n	_	6	compound	_	_	
+6	butter	butter	n	n	_	7	MOD	_	_	
 7	sandwich	sandwich	n	n	_	3	OBJ	_	_	
 8	?	?	?	?	_	3	PUNCT	_	_	
 
@@ -63053,9 +63053,9 @@
 1	oh	oh	co	co	_	2	COM	_	_	
 2	beg	beg	beg	beg	_	0	ROOT	_	_	
 3	on	on	prep	prep	_	2	JCT	_	_	
-4	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
-5	high	high	n	n	_	3	POBJ	_	_	
-6	chair	chair	n	n	_	5	compound	_	_	
+4	your	your	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
+5	high	high	n	n	_	6	compound	_	_	
+6	chair	chair	n	n	_	3	POBJ	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve14.xml,90
@@ -63275,9 +63275,9 @@
 1	oh	oh	co	co	_	2	COM	_	_	
 2	beg	beg	beg	beg	_	0	ROOT	_	_	
 3	in	in	prep	prep	_	2	JCT	_	_	
-4	the	the	art	art	_	5	MOD	_	_	
-5	sand	sand	n	n	_	3	POBJ	_	_	
-6	box	box	n	n	_	5	compound	_	_	
+4	the	the	art	art	_	6	MOD	_	_	
+5	sand	sand	n	n	_	6	compound	_	_	
+6	box	box	n	n	_	3	POBJ	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve14.xml,126
@@ -63295,8 +63295,8 @@
 5	name	name	n	n	_	10	MOD	_	_	
 6	~s	~s	poss	poss	_	5	POSS	_	_	
 7	not	not	neg	neg	_	10	NEG	_	_	
-8	birth	birth	n	n	_	10	MOD	_	_	
-9	day	day	n	n	_	8	compound	_	_	
+8	birth	birth	n	n	_	9	compound	_	_	
+9	day	day	n	n	_	10	MOD	_	_	
 10	cake	cake	n	n	_	0	INCROOT	_	_	
 11	.	.	.	.	_	10	PUNCT	_	_	
 
@@ -63307,8 +63307,8 @@
 4	different	different	adj	adj	_	3	PRED	_	_	
 5	from	from	prep	prep	_	3	JCT	_	_	
 6	a	a	art	art	_	9	MOD	_	_	
-7	birth	birth	n	n	_	9	MOD	_	_	
-8	day	day	n	n	_	7	compound	_	_	
+7	birth	birth	n	n	_	8	compound	_	_	
+8	day	day	n	n	_	9	MOD	_	_	
 9	cake	cake	n	n	_	5	POBJ	_	_	
 10	.	.	.	.	_	3	PUNCT	_	_	
 
@@ -63346,9 +63346,9 @@
 
 #eve14.xml,134
 1	in	in	prep	prep	_	0	INCROOT	_	_	
-2	your	your	pro:poss:det	pro:poss:det	_	3	MOD	_	_	
-3	peanut	peanut	n	n	_	5	MOD	_	_	
-4	butter	butter	n	n	_	3	compound	_	_	
+2	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
+3	peanut	peanut	n	n	_	4	compound	_	_	
+4	butter	butter	n	n	_	5	MOD	_	_	
 5	sandwich	sandwich	n	n	_	1	POBJ	_	_	
 6	?	?	?	?	_	1	PUNCT	_	_	
 
@@ -63743,9 +63743,9 @@
 4	~to	~to	inf	inf	_	5	INF	_	_	
 5	stay	stay	v	v	_	3	XCOMP	_	_	
 6	in	in	prep	prep	_	5	JCT	_	_	
-7	our	our	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
-8	living	living	n	n	_	6	POBJ	_	_	
-9	room	room	n	n	_	8	compound	_	_	
+7	our	our	pro:poss:det	pro:poss:det	_	9	MOD	_	_	
+8	living	living	n	n	_	9	compound	_	_	
+9	room	room	n	n	_	6	POBJ	_	_	
 10	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve14.xml,190
@@ -64538,9 +64538,9 @@
 3	wash-PRESP	wash-PRESP	part	part	_	0	ROOT	_	_	
 4	it	it	pro	pro	_	3	OBJ	_	_	
 5	in	in	prep	prep	_	3	JCT	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	washing	washing	n	n	_	5	POBJ	_	_	
-8	machine	machine	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	washing	washing	n	n	_	8	compound	_	_	
+8	machine	machine	n	n	_	5	POBJ	_	_	
 9	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve14.xml,289
@@ -64795,11 +64795,11 @@
 9	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve14.xml,323
-1	tick	tick	n	n	_	0	INCROOT	_	_	
-2	tock	tock	n	n	_	1	compound	_	_	
-3	end	end	end	end	_	1	XMOD	_	_	
+1	tick	tick	n	n	_	2	compound	_	_	
+2	tock	tock	n	n	_	0	INCROOT	_	_	
+3	end	end	end	end	_	2	XMOD	_	_	
 4	no	no	co	co	_	3	COM	_	_	
-5	.	.	.	.	_	1	PUNCT	_	_	
+5	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve14.xml,324
 1	I	I	pro:sub	pro:sub	_	4	SUBJ	_	_	
@@ -65145,9 +65145,9 @@
 3	put&ZERO	put&ZERO	v	v	_	0	ROOT	_	_	
 4	it	it	pro	pro	_	3	OBJ	_	_	
 5	in	in	prep	prep	_	3	JCT	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	waste	waste	n	n	_	5	POBJ	_	_	
-8	basket	basket	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	waste	waste	n	n	_	8	compound	_	_	
+8	basket	basket	n	n	_	5	POBJ	_	_	
 9	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve14.xml,367
@@ -65208,9 +65208,9 @@
 4	another	another	qn	qn	_	5	QUANT	_	_	
 5	piece	piece	n	n	_	3	OBJ	_	_	
 6	in	in	prep	prep	_	3	JCT	_	_	
-7	the	the	art	art	_	8	MOD	_	_	
-8	waste	waste	n	n	_	6	POBJ	_	_	
-9	basket	basket	n	n	_	8	compound	_	_	
+7	the	the	art	art	_	9	MOD	_	_	
+8	waste	waste	n	n	_	9	compound	_	_	
+9	basket	basket	n	n	_	6	POBJ	_	_	
 10	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve14.xml,373
@@ -65248,9 +65248,9 @@
 2	do	do	mod	mod	_	4	AUX	_	_	
 3	~not	~not	neg	neg	_	2	NEG	_	_	
 4	need	need	v	v	_	0	ROOT	_	_	
-5	a	a	art	art	_	6	MOD	_	_	
-6	graham	graham	n	n	_	4	OBJ	_	_	
-7	cracker	cracker	n	n	_	6	compound	_	_	
+5	a	a	art	art	_	7	MOD	_	_	
+6	graham	graham	n	n	_	7	compound	_	_	
+7	cracker	cracker	n	n	_	4	OBJ	_	_	
 8	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve14.xml,379
@@ -65840,9 +65840,9 @@
 1	we	we	pro:sub	pro:sub	_	3	SUBJ	_	_	
 2	could	could	mod	mod	_	3	AUX	_	_	
 3	put&ZERO	put&ZERO	v	v	_	0	ROOT	_	_	
-4	a	a	art	art	_	5	MOD	_	_	
-5	door	door	n	n	_	3	OBJ	_	_	
-6	way	way	n	n	_	5	compound	_	_	
+4	a	a	art	art	_	6	MOD	_	_	
+5	door	door	n	n	_	6	compound	_	_	
+6	way	way	n	n	_	3	OBJ	_	_	
 7	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve14.xml,461
@@ -65850,9 +65850,9 @@
 2	I	I	pro:sub	pro:sub	_	3	SUBJ	_	_	
 3	put&ZERO	put&ZERO	v	v	_	0	ROOT	_	_	
 4	a	a	art	art	_	3	OBJ	_	_	
-5	door	door	n	n	_	4	OBJ	_	_	
-6	way	way	n	n	_	5	compound	_	_	
-7	on	on	prep	prep	_	5	NJCT	_	_	
+5	door	door	n	n	_	6	compound	_	_	
+6	way	way	n	n	_	4	OBJ	_	_	
+7	on	on	prep	prep	_	6	NJCT	_	_	
 8	it	it	pro	pro	_	7	POBJ	_	_	
 9	?	?	?	?	_	3	PUNCT	_	_	
 
@@ -66326,25 +66326,25 @@
 4	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve14.xml,533
-1	do	do	mod	mod	_	4	LINK	_	_	
+1	do	do	mod	mod	_	5	LINK	_	_	
 2	~not	~not	neg	neg	_	1	NEG	_	_	
-3	you	you	pro	pro	_	4	SUBJ	_	_	
-4	pee	pee	n	n	_	0	ROOT	_	_	
-5	pee	pee	n	n	_	4	compound	_	_	
-6	in	in	prep	prep	_	4	JCT	_	_	
+3	you	you	pro	pro	_	5	SUBJ	_	_	
+4	pee	pee	n	n	_	5	compound	_	_	
+5	pee	pee	n	n	_	0	ROOT	_	_	
+6	in	in	prep	prep	_	5	JCT	_	_	
 7	those	those	det	det	_	8	DET	_	_	
 8	panties	panties	n:pt	n:pt	_	6	POBJ	_	_	
-9	.	.	.	.	_	4	PUNCT	_	_	
+9	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve14.xml,534
 1	I	I	pro:sub	pro:sub	_	2	SUBJ	_	_	
 2	think	think	v	v	_	0	ROOT	_	_	
 3	let	let	v	v	_	2	OBJ	_	_	
 4	~us	~us	pro:obj	pro:obj	_	3	OBJ	_	_	
-5	pee	pee	n	n	_	3	COMP	_	_	
-6	pee	pee	n	n	_	5	compound	_	_	
-7	first	first	adv	adv	_	5	JCT	_	_	
-8	and	and	coord	coord	_	5	CONJ	_	_	
+5	pee	pee	n	n	_	6	compound	_	_	
+6	pee	pee	n	n	_	3	COMP	_	_	
+7	first	first	adv	adv	_	6	JCT	_	_	
+8	and	and	coord	coord	_	6	CONJ	_	_	
 9	then	then	adv:tem	adv:tem	_	12	JCT	_	_	
 10	they	they	pro:sub	pro:sub	_	12	SUBJ	_	_	
 11	can	can	mod	mod	_	12	AUX	_	_	
@@ -66364,15 +66364,15 @@
 7	.	.	.	.	_	6	PUNCT	_	_	
 
 #eve14.xml,537
-1	do	do	mod	mod	_	4	LINK	_	_	
+1	do	do	mod	mod	_	5	LINK	_	_	
 2	~not	~not	neg	neg	_	1	NEG	_	_	
-3	you	you	pro	pro	_	4	SUBJ	_	_	
-4	pee	pee	n	n	_	0	ROOT	_	_	
-5	pee	pee	n	n	_	4	compound	_	_	
-6	in	in	prep	prep	_	4	JCT	_	_	
+3	you	you	pro	pro	_	5	SUBJ	_	_	
+4	pee	pee	n	n	_	5	compound	_	_	
+5	pee	pee	n	n	_	0	ROOT	_	_	
+6	in	in	prep	prep	_	5	JCT	_	_	
 7	those	those	det	det	_	8	DET	_	_	
 8	panties	panties	n:pt	n:pt	_	6	POBJ	_	_	
-9	.	.	.	.	_	4	PUNCT	_	_	
+9	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve14.xml,538
 1	I	I	pro:sub	pro:sub	_	3	SUBJ	_	_	
@@ -66385,20 +66385,20 @@
 8	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve14.xml,539
-1	do	do	mod	mod	_	4	LINK	_	_	
+1	do	do	mod	mod	_	5	LINK	_	_	
 2	~not	~not	neg	neg	_	1	NEG	_	_	
-3	you	you	pro	pro	_	4	SUBJ	_	_	
-4	pee	pee	n	n	_	0	ROOT	_	_	
-5	pee	pee	n	n	_	4	compound	_	_	
-6	.	.	.	.	_	4	PUNCT	_	_	
+3	you	you	pro	pro	_	5	SUBJ	_	_	
+4	pee	pee	n	n	_	5	compound	_	_	
+5	pee	pee	n	n	_	0	ROOT	_	_	
+6	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve14.xml,540
-1	do	do	mod	mod	_	4	LINK	_	_	
+1	do	do	mod	mod	_	5	LINK	_	_	
 2	~not	~not	neg	neg	_	1	NEG	_	_	
-3	you	you	pro	pro	_	4	SUBJ	_	_	
-4	pee	pee	n	n	_	0	ROOT	_	_	
-5	pee	pee	n	n	_	4	compound	_	_	
-6	.	.	.	.	_	4	PUNCT	_	_	
+3	you	you	pro	pro	_	5	SUBJ	_	_	
+4	pee	pee	n	n	_	5	compound	_	_	
+5	pee	pee	n	n	_	0	ROOT	_	_	
+6	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve14.xml,541
 1	yes	yes	co	co	_	2	COM	_	_	
@@ -66468,12 +66468,12 @@
 2	~will	~will	mod	mod	_	3	AUX	_	_	
 3	move	move	v	v	_	0	ROOT	_	_	
 4	the	the	art	art	_	3	OBJ	_	_	
-5	high	high	n	n	_	4	OBJ	_	_	
-6	chair	chair	n	n	_	5	compound	_	_	
+5	high	high	n	n	_	6	compound	_	_	
+6	chair	chair	n	n	_	4	OBJ	_	_	
 7	so	so	conj	conj	_	10	LINK	_	_	
 8	you	you	pro	pro	_	10	SUBJ	_	_	
 9	can	can	mod	mod	_	10	AUX	_	_	
-10	see	see	v	v	_	5	CJCT	_	_	
+10	see	see	v	v	_	6	CJCT	_	_	
 11	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve14.xml,549
@@ -68952,9 +68952,9 @@
 3	you	you	pro	pro	_	4	SUBJ	_	_	
 4	make	make	v	v	_	0	ROOT	_	_	
 5	in	in	prep	prep	_	4	JCT	_	_	
-6	the	the	art	art	_	7	MOD	_	_	
-7	sand	sand	n	n	_	5	POBJ	_	_	
-8	box	box	n	n	_	7	compound	_	_	
+6	the	the	art	art	_	8	MOD	_	_	
+7	sand	sand	n	n	_	8	compound	_	_	
+8	box	box	n	n	_	5	POBJ	_	_	
 9	?	?	?	?	_	4	PUNCT	_	_	
 
 #eve15.xml,264
@@ -68986,8 +68986,8 @@
 6	do	do	v	v	_	0	ROOT	_	_	
 7	with	with	prep	prep	_	6	JCT	_	_	
 8	the	the	art	art	_	11	MOD	_	_	
-9	birth	birth	n	n	_	11	MOD	_	_	
-10	day	day	n	n	_	9	compound	_	_	
+9	birth	birth	n	n	_	10	compound	_	_	
+10	day	day	n	n	_	11	MOD	_	_	
 11	cake	cake	n	n	_	7	POBJ	_	_	
 12	?	?	?	?	_	6	PUNCT	_	_	
 
@@ -69016,8 +69016,8 @@
 3	you	you	pro	pro	_	4	SUBJ	_	_	
 4	make	make	v	v	_	0	ROOT	_	_	
 5	the	the	art	art	_	8	MOD	_	_	
-6	birth	birth	n	n	_	8	MOD	_	_	
-7	day	day	n	n	_	6	compound	_	_	
+6	birth	birth	n	n	_	7	compound	_	_	
+7	day	day	n	n	_	8	MOD	_	_	
 8	cake	cake	n	n	_	4	OBJ	_	_	
 9	?	?	?	?	_	4	PUNCT	_	_	
 
@@ -69036,8 +69036,8 @@
 5	water	water	n	n	_	10	MOD	_	_	
 6	then	then	adv:tem	adv:tem	_	10	JCT	_	_	
 7	the	the	art	art	_	10	MOD	_	_	
-8	birth	birth	n	n	_	10	MOD	_	_	
-9	day	day	n	n	_	8	compound	_	_	
+8	birth	birth	n	n	_	9	compound	_	_	
+9	day	day	n	n	_	10	MOD	_	_	
 10	cake	cake	n	n	_	4	POBJ	_	_	
 11	?	?	?	?	_	1	PUNCT	_	_	
 
@@ -69064,8 +69064,8 @@
 #eve15.xml,275
 1	then	then	adv:tem	adv:tem	_	5	JCT	_	_	
 2	the	the	art	art	_	5	MOD	_	_	
-3	birth	birth	n	n	_	5	MOD	_	_	
-4	day	day	n	n	_	3	compound	_	_	
+3	birth	birth	n	n	_	4	compound	_	_	
+4	day	day	n	n	_	5	MOD	_	_	
 5	cake	cake	n	n	_	0	INCROOT	_	_	
 6	.	.	.	.	_	5	PUNCT	_	_	
 
@@ -69988,9 +69988,9 @@
 7	have	have	v	v	_	5	XCOMP	_	_	
 8	his	his	pro:poss:det	pro:poss:det	_	7	OBJ	_	_	
 9	in	in	prep	prep	_	8	JCT	_	_	
-10	the	the	art	art	_	11	MOD	_	_	
-11	living	living	n	n	_	9	POBJ	_	_	
-12	room	room	n	n	_	11	compound	_	_	
+10	the	the	art	art	_	12	MOD	_	_	
+11	living	living	n	n	_	12	compound	_	_	
+12	room	room	n	n	_	9	POBJ	_	_	
 13	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve15.xml,405
@@ -70018,9 +70018,9 @@
 #eve15.xml,408
 1	put&ZERO	put&ZERO	v	v	_	0	ROOT	_	_	
 2	a	a	art	art	_	1	OBJ	_	_	
-3	ice	ice	n	n	_	2	OBJ	_	_	
-4	cube	cube	n	n	_	3	compound	_	_	
-5	in	in	prep	prep	_	3	NJCT	_	_	
+3	ice	ice	n	n	_	4	compound	_	_	
+4	cube	cube	n	n	_	2	OBJ	_	_	
+5	in	in	prep	prep	_	4	NJCT	_	_	
 6	it	it	pro	pro	_	5	POBJ	_	_	
 7	?	?	?	?	_	1	PUNCT	_	_	
 
@@ -70052,9 +70052,9 @@
 2	do&3S	do&3S	mod	mod	_	4	AUX	_	_	
 3	~not	~not	neg	neg	_	2	NEG	_	_	
 4	need	need	v	v	_	0	ROOT	_	_	
-5	a	a	art	art	_	6	MOD	_	_	
-6	ice	ice	n	n	_	4	OBJ	_	_	
-7	cube	cube	n	n	_	6	compound	_	_	
+5	a	a	art	art	_	7	MOD	_	_	
+6	ice	ice	n	n	_	7	compound	_	_	
+7	cube	cube	n	n	_	4	OBJ	_	_	
 8	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve15.xml,412
@@ -70582,9 +70582,9 @@
 
 #eve15.xml,474
 1	want	want	v	v	_	0	ROOT	_	_	
-2	a	a	art	art	_	3	MOD	_	_	
-3	ice	ice	n	n	_	1	OBJ	_	_	
-4	cube	cube	n	n	_	3	compound	_	_	
+2	a	a	art	art	_	4	MOD	_	_	
+3	ice	ice	n	n	_	4	compound	_	_	
+4	cube	cube	n	n	_	1	OBJ	_	_	
 5	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve15.xml,475
@@ -70984,9 +70984,9 @@
 
 #eve15.xml,529
 1	on	on	prep	prep	_	0	INCROOT	_	_	
-2	the	the	art	art	_	3	MOD	_	_	
-3	chaise	chaise	n	n	_	1	POBJ	_	_	
-4	lounge	lounge	n	n	_	3	compound	_	_	
+2	the	the	art	art	_	4	MOD	_	_	
+3	chaise	chaise	n	n	_	4	compound	_	_	
+4	lounge	lounge	n	n	_	1	POBJ	_	_	
 5	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve15.xml,530
@@ -71170,10 +71170,10 @@
 #eve15.xml,554
 1	they	they	pro:sub	pro:sub	_	2	SUBJ	_	_	
 2	be&PRES	be&PRES	cop	cop	_	0	ROOT	_	_	
-3	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
-4	yellow	yellow	n	n	_	5	MOD	_	_	
-5	pedal	pedal	n	n	_	2	PRED	_	_	
-6	pushers	pushers	n	n	_	5	compound	_	_	
+3	your	your	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
+4	yellow	yellow	n	n	_	6	MOD	_	_	
+5	pedal	pedal	n	n	_	6	compound	_	_	
+6	pushers	pushers	n	n	_	2	PRED	_	_	
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve15.xml,556
@@ -71371,8 +71371,8 @@
 4	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve15.xml,581
-1	pedal	pedal	n	n	_	6	SUBJ	_	_	
-2	pushers	pushers	n	n	_	1	compound	_	_	
+1	pedal	pedal	n	n	_	2	compound	_	_	
+2	pushers	pushers	n	n	_	6	SUBJ	_	_	
 3	be&PRES	be&PRES	aux	aux	_	6	AUX	_	_	
 4	Mommy	Mommy	n:prop	n:prop	_	6	SUBJ	_	_	
 5	~s	~s	poss	poss	_	4	POSS	_	_	
@@ -71703,9 +71703,9 @@
 1	she	she	pro:sub	pro:sub	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 3	in	in	prep	prep	_	2	JCT	_	_	
-4	the	the	art	art	_	5	MOD	_	_	
-5	car	car	n	n	_	3	POBJ	_	_	
-6	bed	bed	n	n	_	5	compound	_	_	
+4	the	the	art	art	_	6	MOD	_	_	
+5	car	car	n	n	_	6	compound	_	_	
+6	bed	bed	n	n	_	3	POBJ	_	_	
 7	in	in	prep	prep	_	2	JCT	_	_	
 8	Mom	Mom	n:prop	n:prop	_	10	MOD	_	_	
 9	~s	~s	poss	poss	_	8	POSS	_	_	
@@ -72288,9 +72288,9 @@
 3	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve15.xml,712
-1	peanut	peanut	n	n	_	0	INCROOT	_	_	
-2	butter	butter	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	peanut	peanut	n	n	_	2	compound	_	_	
+2	butter	butter	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve15.xml,713
 1	alright	alright	co	co	_	5	COM	_	_	
@@ -72938,9 +72938,9 @@
 5	me	me	pro:obj	pro:obj	_	4	OBJ	_	_	
 6	to	to	inf	inf	_	7	INF	_	_	
 7	bang	bang	v	v	_	4	XCOMP	_	_	
-8	your	your	pro:poss:det	pro:poss:det	_	9	MOD	_	_	
-9	high	high	n	n	_	7	OBJ	_	_	
-10	chair	chair	n	n	_	9	compound	_	_	
+8	your	your	pro:poss:det	pro:poss:det	_	10	MOD	_	_	
+9	high	high	n	n	_	10	compound	_	_	
+10	chair	chair	n	n	_	7	OBJ	_	_	
 11	?	?	?	?	_	4	PUNCT	_	_	
 
 #eve15.xml,801
@@ -74450,9 +74450,9 @@
 2	beg	beg	beg	beg	_	4	JCT	_	_	
 3	he	he	pro:sub	pro:sub	_	4	SUBJ	_	_	
 4	need-3S	need-3S	v	v	_	0	ROOT	_	_	
-5	a	a	art	art	_	6	MOD	_	_	
-6	hair	hair	n	n	_	4	OBJ	_	_	
-7	cut	cut	n	n	_	6	compound	_	_	
+5	a	a	art	art	_	7	MOD	_	_	
+6	hair	hair	n	n	_	7	compound	_	_	
+7	cut	cut	n	n	_	4	OBJ	_	_	
 8	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve16.xml,90
@@ -74625,8 +74625,8 @@
 1	where	where	adv:wh	adv:wh	_	2	LINK	_	_	
 2	be&3S	be&3S	cop	cop	_	0	ROOT	_	_	
 3	the	the	art	art	_	6	MOD	_	_	
-4	birth	birth	n	n	_	6	MOD	_	_	
-5	day	day	n	n	_	4	compound	_	_	
+4	birth	birth	n	n	_	5	compound	_	_	
+5	day	day	n	n	_	6	MOD	_	_	
 6	cake	cake	n	n	_	2	PRED	_	_	
 7	?	?	?	?	_	2	PUNCT	_	_	
 
@@ -75298,9 +75298,9 @@
 #eve16.xml,197
 1	climb	climb	v	v	_	0	ROOT	_	_	
 2	in	in	prep	prep	_	1	JCT	_	_	
-3	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
-4	high	high	n	n	_	2	POBJ	_	_	
-5	chair	chair	n	n	_	4	compound	_	_	
+3	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
+4	high	high	n	n	_	5	compound	_	_	
+5	chair	chair	n	n	_	2	POBJ	_	_	
 6	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve16.xml,198
@@ -77040,10 +77040,10 @@
 #eve16.xml,436
 1	Mom	Mom	n:prop	n:prop	_	0	INCROOT	_	_	
 2	and	and	coord	coord	_	1	CONJ	_	_	
-3	Fraser	Fraser	n:prop	n:prop	_	5	SUBJ	_	_	
-4	be&PRES	be&PRES	aux	aux	_	5	AUX	_	_	
-5	grown	grown	n	n	_	2	COORD	_	_	
-6	up-PL	up-PL	n	n	_	5	compound	_	_	
+3	Fraser	Fraser	n:prop	n:prop	_	6	SUBJ	_	_	
+4	be&PRES	be&PRES	aux	aux	_	6	AUX	_	_	
+5	grown	grown	n	n	_	6	compound	_	_	
+6	up-PL	up-PL	n	n	_	2	COORD	_	_	
 7	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve16.xml,437
@@ -80179,9 +80179,9 @@
 5	not	not	neg	neg	_	4	NEG	_	_	
 6	room	room	n	n	_	4	PRED	_	_	
 7	in	in	prep	prep	_	6	NJCT	_	_	
-8	the	the	art	art	_	9	MOD	_	_	
-9	high	high	n	n	_	7	POBJ	_	_	
-10	chair	chair	n	n	_	9	compound	_	_	
+8	the	the	art	art	_	10	MOD	_	_	
+9	high	high	n	n	_	10	compound	_	_	
+10	chair	chair	n	n	_	7	POBJ	_	_	
 11	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve16.xml,855
@@ -80930,9 +80930,9 @@
 #eve17.xml,91
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	your	your	pro:poss:det	pro:poss:det	_	4	MOD	_	_	
-4	ginger	ginger	n	n	_	6	MOD	_	_	
-5	bread	bread	n	n	_	4	compound	_	_	
+3	your	your	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
+4	ginger	ginger	n	n	_	5	compound	_	_	
+5	bread	bread	n	n	_	6	MOD	_	_	
 6	man	man	n	n	_	2	INCROOT	_	_	
 7	end	end	end	end	_	6	INCROOT	_	_	
 8	be&3S	be&3S	aux	aux	_	7	INCROOT	_	_	
@@ -80944,8 +80944,8 @@
 2	you	you	pro	pro	_	1	OBJ	_	_	
 3	like	like	conj	conj	_	7	LINK	_	_	
 4	the	the	art	art	_	7	MOD	_	_	
-5	ginger	ginger	n	n	_	7	MOD	_	_	
-6	bread	bread	n	n	_	5	compound	_	_	
+5	ginger	ginger	n	n	_	6	compound	_	_	
+6	bread	bread	n	n	_	7	MOD	_	_	
 7	man	man	n	n	_	1	CJCT	_	_	
 8	?	?	?	?	_	1	PUNCT	_	_	
 
@@ -80992,8 +80992,8 @@
 21	~not	~not	neg	neg	_	20	NEG	_	_	
 22	see	see	v	v	_	17	CJCT	_	_	
 23	the	the	art	art	_	26	MOD	_	_	
-24	ginger	ginger	n	n	_	26	MOD	_	_	
-25	bread	bread	n	n	_	24	compound	_	_	
+24	ginger	ginger	n	n	_	25	compound	_	_	
+25	bread	bread	n	n	_	26	MOD	_	_	
 26	man	man	n	n	_	22	OBJ	_	_	
 27	.	.	.	.	_	3	PUNCT	_	_	
 
@@ -81147,8 +81147,8 @@
 1	where	where	adv:wh	adv:wh	_	2	LINK	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 3	the	the	art	art	_	6	MOD	_	_	
-4	ginger	ginger	n	n	_	6	MOD	_	_	
-5	bread	bread	n	n	_	4	compound	_	_	
+4	ginger	ginger	n	n	_	5	compound	_	_	
+5	bread	bread	n	n	_	6	MOD	_	_	
 6	man	man	n	n	_	2	PRED	_	_	
 7	?	?	?	?	_	2	PUNCT	_	_	
 
@@ -81228,8 +81228,8 @@
 5	end	end	n	n	_	4	XMOD	_	_	
 6	of	of	prep	prep	_	5	NJCT	_	_	
 7	the	the	art	art	_	10	MOD	_	_	
-8	ginger	ginger	n	n	_	10	MOD	_	_	
-9	bread	bread	n	n	_	8	compound	_	_	
+8	ginger	ginger	n	n	_	9	compound	_	_	
+9	bread	bread	n	n	_	10	MOD	_	_	
 10	man	man	n	n	_	6	POBJ	_	_	
 11	.	.	.	.	_	3	PUNCT	_	_	
 
@@ -82475,8 +82475,8 @@
 1	oh	oh	co	co	_	6	COM	_	_	
 2	beg	beg	beg	beg	_	6	MOD	_	_	
 3	a	a	art	art	_	6	MOD	_	_	
-4	ding	ding	n	n	_	6	MOD	_	_	
-5	dong	dong	n	n	_	4	compound	_	_	
+4	ding	ding	n	n	_	5	compound	_	_	
+5	dong	dong	n	n	_	6	MOD	_	_	
 6	dell	dell	n	n	_	0	INCROOT	_	_	
 7	.	.	.	.	_	6	PUNCT	_	_	
 
@@ -83319,8 +83319,8 @@
 7	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve17.xml,399
-1	ding	ding	n	n	_	3	MOD	_	_	
-2	dong	dong	n	n	_	1	compound	_	_	
+1	ding	ding	n	n	_	2	compound	_	_	
+2	dong	dong	n	n	_	3	MOD	_	_	
 3	bell	bell	n	n	_	0	INCROOT	_	_	
 4	.	.	.	.	_	3	PUNCT	_	_	
 
@@ -86329,8 +86329,8 @@
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	have	have	v	v	_	0	ROOT	_	_	
 3	a	a	art	art	_	2	OBJ	_	_	
-4	finger	finger	n	n	_	3	OBJ	_	_	
-5	nail	nail	n	n	_	4	compound	_	_	
+4	finger	finger	n	n	_	5	compound	_	_	
+5	nail	nail	n	n	_	3	OBJ	_	_	
 6	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve17.xml,801
@@ -87488,9 +87488,9 @@
 2	look-3S	look-3S	v	v	_	0	ROOT	_	_	
 3	like	like	prep	prep	_	2	JCT	_	_	
 4	a	a	art	art	_	3	POBJ	_	_	
-5	sailing	sailing	n	n	_	4	OBJ	_	_	
-6	boat	boat	n	n	_	5	compound	_	_	
-7	too	too	post	post	_	5	PQ	_	_	
+5	sailing	sailing	n	n	_	6	compound	_	_	
+6	boat	boat	n	n	_	4	OBJ	_	_	
+7	too	too	post	post	_	6	PQ	_	_	
 8	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve17.xml,951
@@ -88273,9 +88273,9 @@
 4	~be&1S	~be&1S	aux	aux	_	5	AUX	_	_	
 5	rinse-PRESP	rinse-PRESP	part	part	_	0	ROOT	_	_	
 6	out	out	prep	prep	_	5	JCT	_	_	
-7	the	the	art	art	_	8	MOD	_	_	
-8	coffee	coffee	n	n	_	6	POBJ	_	_	
-9	pot	pot	n	n	_	8	compound	_	_	
+7	the	the	art	art	_	9	MOD	_	_	
+8	coffee	coffee	n	n	_	9	compound	_	_	
+9	pot	pot	n	n	_	6	POBJ	_	_	
 10	so	so	conj	conj	_	13	LINK	_	_	
 11	I	I	pro:sub	pro:sub	_	13	SUBJ	_	_	
 12	can	can	mod	mod	_	13	AUX	_	_	
@@ -88297,9 +88297,9 @@
 #eve17.xml,1054
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	want	want	v	v	_	0	ROOT	_	_	
-3	~to	~to	inf	inf	_	4	INF	_	_	
-4	pee	pee	n	n	_	2	XCOMP	_	_	
-5	pee	pee	n	n	_	4	compound	_	_	
+3	~to	~to	inf	inf	_	5	INF	_	_	
+4	pee	pee	n	n	_	5	compound	_	_	
+5	pee	pee	n	n	_	2	XCOMP	_	_	
 6	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve17.xml,1055
@@ -88352,8 +88352,8 @@
 2	it	it	pro	pro	_	1	OBJ	_	_	
 3	up	up	adv	adv	_	1	JCT	_	_	
 4	with	with	prep	prep	_	1	JCT	_	_	
-5	bubble	bubble	n	n	_	4	POBJ	_	_	
-6	gum	gum	n	n	_	5	compound	_	_	
+5	bubble	bubble	n	n	_	6	compound	_	_	
+6	gum	gum	n	n	_	4	POBJ	_	_	
 7	and	and	coord	coord	_	1	CONJ	_	_	
 8	send	send	v	v	_	7	COORD	_	_	
 9	it	it	pro	pro	_	8	OBJ	_	_	
@@ -89568,8 +89568,8 @@
 3	do	do	mod	mod	_	5	AUX	_	_	
 4	~not	~not	neg	neg	_	3	NEG	_	_	
 5	make	make	v	v	_	0	ROOT	_	_	
-6	graham	graham	n	n	_	5	OBJ	_	_	
-7	cracker-PL	cracker-PL	n	n	_	6	compound	_	_	
+6	graham	graham	n	n	_	7	compound	_	_	
+7	cracker-PL	cracker-PL	n	n	_	5	OBJ	_	_	
 8	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve17.xml,1243
@@ -89628,9 +89628,9 @@
 7	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve17.xml,1250
-1	nap	nap	n	n	_	0	INCROOT	_	_	
-2	time	time	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	nap	nap	n	n	_	2	compound	_	_	
+2	time	time	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve17.xml,1251
 1	alright	alright	co	co	_	0	INCROOT	_	_	
@@ -90256,17 +90256,17 @@
 4	to	to	inf	inf	_	5	INF	_	_	
 5	have	have	v	v	_	3	XCOMP	_	_	
 6	a	a	art	art	_	9	MOD	_	_	
-7	peanut	peanut	n	n	_	9	MOD	_	_	
-8	butter	butter	n	n	_	7	compound	_	_	
+7	peanut	peanut	n	n	_	8	compound	_	_	
+8	butter	butter	n	n	_	9	MOD	_	_	
 9	sandwich	sandwich	n	n	_	5	OBJ	_	_	
 10	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve18.xml,83
 1	where	where	adv:wh	adv:wh	_	2	LINK	_	_	
 2	be&3S	be&3S	cop	cop	_	0	ROOT	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	peanut	peanut	n	n	_	2	PRED	_	_	
-5	butter	butter	n	n	_	4	compound	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	peanut	peanut	n	n	_	5	compound	_	_	
+5	butter	butter	n	n	_	2	PRED	_	_	
 6	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve18.xml,84
@@ -91158,8 +91158,8 @@
 1	and	and	coord	coord	_	3	LINK	_	_	
 2	it	it	pro	pro	_	3	SUBJ	_	_	
 3	go-3S	go-3S	v	v	_	0	ROOT	_	_	
-4	choo	choo	n	n	_	3	OBJ	_	_	
-5	choo	choo	n	n	_	4	compound	_	_	
+4	choo	choo	n	n	_	5	compound	_	_	
+5	choo	choo	n	n	_	3	OBJ	_	_	
 6	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve18.xml,220
@@ -94205,8 +94205,8 @@
 
 #eve18.xml,660
 1	a	a	art	art	_	4	MOD	_	_	
-2	peanut	peanut	n	n	_	4	MOD	_	_	
-3	butter	butter	n	n	_	2	compound	_	_	
+2	peanut	peanut	n	n	_	3	compound	_	_	
+3	butter	butter	n	n	_	4	MOD	_	_	
 4	sandwich	sandwich	n	n	_	0	INCROOT	_	_	
 5	?	?	?	?	_	4	PUNCT	_	_	
 
@@ -94585,9 +94585,9 @@
 3	say&PAST	say&PAST	v	v	_	0	ROOT	_	_	
 4	you	you	pro	pro	_	3	OBJ	_	_	
 5	have&PAST	have&PAST	v	v	_	3	COMP	_	_	
-6	to	to	inf	inf	_	7	INF	_	_	
-7	pee	pee	n	n	_	5	XCOMP	_	_	
-8	pee	pee	n	n	_	7	compound	_	_	
+6	to	to	inf	inf	_	8	INF	_	_	
+7	pee	pee	n	n	_	8	compound	_	_	
+8	pee	pee	n	n	_	5	XCOMP	_	_	
 9	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve18.xml,710
@@ -94618,19 +94618,19 @@
 5	go	go	v	v	_	0	ROOT	_	_	
 6	upstairs	upstairs	adv	adv	_	5	JCT	_	_	
 7	and	and	coord	coord	_	5	CONJ	_	_	
-8	pee	pee	n	n	_	7	COORD	_	_	
-9	pee	pee	n	n	_	8	compound	_	_	
-10	first	first	adv	adv	_	8	JCT	_	_	
-11	and	and	coord	coord	_	8	CONJ	_	_	
+8	pee	pee	n	n	_	9	compound	_	_	
+9	pee	pee	n	n	_	7	COORD	_	_	
+10	first	first	adv	adv	_	9	JCT	_	_	
+11	and	and	coord	coord	_	9	CONJ	_	_	
 12	then	then	adv:tem	adv:tem	_	15	JCT	_	_	
 13	we	we	pro:sub	pro:sub	_	15	SUBJ	_	_	
 14	~will	~will	mod	mod	_	15	AUX	_	_	
 15	go	go	v	v	_	11	COORD	_	_	
 16	back	back	adv	adv	_	15	JCT	_	_	
 17	in	in	prep	prep	_	15	JCT	_	_	
-18	the	the	art	art	_	19	MOD	_	_	
-19	high	high	n	n	_	17	POBJ	_	_	
-20	chair	chair	n	n	_	19	compound	_	_	
+18	the	the	art	art	_	20	MOD	_	_	
+19	high	high	n	n	_	20	compound	_	_	
+20	chair	chair	n	n	_	17	POBJ	_	_	
 21	.	.	.	.	_	5	PUNCT	_	_	
 
 #eve18.xml,713
@@ -95031,9 +95031,9 @@
 1	put&ZERO	put&ZERO	v	v	_	0	ROOT	_	_	
 2	it	it	pro	pro	_	1	OBJ	_	_	
 3	in	in	prep	prep	_	1	JCT	_	_	
-4	the	the	art	art	_	5	MOD	_	_	
-5	waste	waste	n	n	_	3	POBJ	_	_	
-6	basket	basket	n	n	_	5	compound	_	_	
+4	the	the	art	art	_	6	MOD	_	_	
+5	waste	waste	n	n	_	6	compound	_	_	
+6	basket	basket	n	n	_	3	POBJ	_	_	
 7	.	.	.	.	_	1	PUNCT	_	_	
 
 #eve18.xml,770
@@ -95423,9 +95423,9 @@
 4	to	to	prep	prep	_	2	JCT	_	_	
 5	play	play	n	n	_	4	POBJ	_	_	
 6	with	with	prep	prep	_	5	NJCT	_	_	
-7	the	the	art	art	_	8	MOD	_	_	
-8	fly	fly	n	n	_	6	POBJ	_	_	
-9	swatter	swatter	n	n	_	8	compound	_	_	
+7	the	the	art	art	_	9	MOD	_	_	
+8	fly	fly	n	n	_	9	compound	_	_	
+9	swatter	swatter	n	n	_	6	POBJ	_	_	
 10	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve18.xml,820
@@ -96510,9 +96510,9 @@
 6	to	to	inf	inf	_	7	INF	_	_	
 7	trip	trip	v	v	_	4	XCOMP	_	_	
 8	on	on	prep	prep	_	7	JCT	_	_	
-9	your	your	pro:poss:det	pro:poss:det	_	10	MOD	_	_	
-10	shoe	shoe	n	n	_	8	POBJ	_	_	
-11	lace	lace	n	n	_	10	compound	_	_	
+9	your	your	pro:poss:det	pro:poss:det	_	11	MOD	_	_	
+10	shoe	shoe	n	n	_	11	compound	_	_	
+11	lace	lace	n	n	_	8	POBJ	_	_	
 12	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve19.xml,3
@@ -98476,8 +98476,8 @@
 1	be&PRES	be&PRES	cop	cop	_	6	LINK	_	_	
 2	you	you	pro	pro	_	6	SUBJ	_	_	
 3	a	a	art	art	_	6	MOD	_	_	
-4	peanut	peanut	n	n	_	6	MOD	_	_	
-5	butter	butter	n	n	_	4	compound	_	_	
+4	peanut	peanut	n	n	_	5	compound	_	_	
+5	butter	butter	n	n	_	6	MOD	_	_	
 6	eat&dv-AGT	eat&dv-AGT	n	n	_	0	ROOT	_	_	
 7	end	end	end	end	_	6	CMOD	_	_	
 8	Colin	Colin	n:prop	n:prop	_	7	APP	_	_	
@@ -99297,11 +99297,11 @@
 3	to	to	inf	inf	_	4	INF	_	_	
 4	have	have	v	v	_	2	XCOMP	_	_	
 5	a	a	art	art	_	4	OBJ	_	_	
-6	pee	pee	n	n	_	5	OBJ	_	_	
-7	pee	pee	n	n	_	6	compound	_	_	
+6	pee	pee	n	n	_	7	compound	_	_	
+7	pee	pee	n	n	_	5	OBJ	_	_	
 8	just	just	adv	adv	_	10	JCT	_	_	
 9	to	to	inf	inf	_	10	INF	_	_	
-10	pass	pass	v	v	_	6	XMOD	_	_	
+10	pass	pass	v	v	_	7	XMOD	_	_	
 11	the	the	art	art	_	10	JCT	_	_	
 12	time	time	n	n	_	11	POBJ	_	_	
 13	away	away	adv	adv	_	12	NJCT	_	_	
@@ -99330,15 +99330,15 @@
 7	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve19.xml,342
-1	Eve	Eve	n:prop	n:prop	_	7	LINK	_	_	
-2	beg	beg	beg	beg	_	7	SUBJ	_	_	
-3	do	do	mod	mod	_	7	AUX	_	_	
-4	you	you	pro	pro	_	7	SUBJ	_	_	
-5	have	have	X	X	_	7	AUX	_	_	
+1	Eve	Eve	n:prop	n:prop	_	8	LINK	_	_	
+2	beg	beg	beg	beg	_	8	SUBJ	_	_	
+3	do	do	mod	mod	_	8	AUX	_	_	
+4	you	you	pro	pro	_	8	SUBJ	_	_	
+5	have	have	X	X	_	8	AUX	_	_	
 6	to	to	X	X	_	5	mwe	_	_	
-7	pee	pee	n	n	_	0	ROOT	_	_	
-8	pee	pee	n	n	_	7	compound	_	_	
-9	?	?	?	?	_	7	PUNCT	_	_	
+7	pee	pee	n	n	_	8	compound	_	_	
+8	pee	pee	n	n	_	0	ROOT	_	_	
+9	?	?	?	?	_	8	PUNCT	_	_	
 
 #eve19.xml,343
 1	be&PRES	be&PRES	cop	cop	_	4	LINK	_	_	
@@ -99378,9 +99378,9 @@
 1	you	you	pro	pro	_	3	SUBJ	_	_	
 2	may	may	mod	mod	_	3	AUX	_	_	
 3	have	have	v	v	_	0	ROOT	_	_	
-4	a	a	art	art	_	5	MOD	_	_	
-5	cool	cool	n	n	_	3	OBJ	_	_	
-6	pop	pop	n	n	_	5	compound	_	_	
+4	a	a	art	art	_	6	MOD	_	_	
+5	cool	cool	n	n	_	6	compound	_	_	
+6	pop	pop	n	n	_	3	OBJ	_	_	
 7	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve19.xml,348
@@ -99426,9 +99426,9 @@
 2	be&PRES	be&PRES	aux	aux	_	3	AUX	_	_	
 3	have-PRESP	have-PRESP	part	part	_	0	ROOT	_	_	
 4	a	a	art	art	_	3	OBJ	_	_	
-5	cool	cool	n	n	_	4	OBJ	_	_	
-6	pop	pop	n	n	_	5	compound	_	_	
-7	end	end	end	end	_	5	XMOD	_	_	
+5	cool	cool	n	n	_	6	compound	_	_	
+6	pop	pop	n	n	_	4	OBJ	_	_	
+7	end	end	end	end	_	6	XMOD	_	_	
 8	yes	yes	co	co	_	7	COM	_	_	
 9	.	.	.	.	_	3	PUNCT	_	_	
 
@@ -99453,10 +99453,10 @@
 
 #eve19.xml,355
 1	be&3S	be&3S	cop	cop	_	0	ROOT	_	_	
-2	that	that	rel	rel	_	4	LINK	_	_	
-3	the	the	art	art	_	4	MOD	_	_	
-4	mail	mail	n	n	_	1	PRED	_	_	
-5	man	man	n	n	_	4	compound	_	_	
+2	that	that	rel	rel	_	5	LINK	_	_	
+3	the	the	art	art	_	5	MOD	_	_	
+4	mail	mail	n	n	_	5	compound	_	_	
+5	man	man	n	n	_	1	PRED	_	_	
 6	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve19.xml,356
@@ -99740,9 +99740,9 @@
 3	can	can	mod	mod	_	5	AUX	_	_	
 4	you	you	pro	pro	_	5	SUBJ	_	_	
 5	write	write	v	v	_	0	ROOT	_	_	
-6	a	a	art	art	_	7	MOD	_	_	
-7	snow	snow	n	n	_	5	OBJ	_	_	
-8	man	man	n	n	_	7	compound	_	_	
+6	a	a	art	art	_	8	MOD	_	_	
+7	snow	snow	n	n	_	8	compound	_	_	
+8	man	man	n	n	_	5	OBJ	_	_	
 9	?	?	?	?	_	5	PUNCT	_	_	
 
 #eve19.xml,390
@@ -99786,9 +99786,9 @@
 8	.	.	.	.	_	6	PUNCT	_	_	
 
 #eve19.xml,395
-1	two	two	det:num	det:num	_	2	QUANT	_	_	
-2	snow	snow	n	n	_	4	MOD	_	_	
-3	man&PL	man&PL	n	n	_	2	compound	_	_	
+1	two	two	det:num	det:num	_	3	QUANT	_	_	
+2	snow	snow	n	n	_	3	compound	_	_	
+3	man&PL	man&PL	n	n	_	4	MOD	_	_	
 4	end	end	end	end	_	0	ROOT	_	_	
 5	well	well	co	co	_	4	COM	_	_	
 6	.	.	.	.	_	4	PUNCT	_	_	
@@ -99835,9 +99835,9 @@
 5	write	write	v	v	_	0	ROOT	_	_	
 6	you	you	pro	pro	_	5	OBJ	_	_	
 7	a	a	art	art	_	5	JCT	_	_	
-8	snow	snow	n	n	_	7	OBJ	_	_	
-9	man	man	n	n	_	8	compound	_	_	
-10	with	with	prep	prep	_	8	NJCT	_	_	
+8	snow	snow	n	n	_	9	compound	_	_	
+9	man	man	n	n	_	7	OBJ	_	_	
+10	with	with	prep	prep	_	9	NJCT	_	_	
 11	your	your	pro:poss:det	pro:poss:det	_	12	MOD	_	_	
 12	crayon-PL	crayon-PL	n	n	_	10	POBJ	_	_	
 13	.	.	.	.	_	5	PUNCT	_	_	
@@ -99939,9 +99939,9 @@
 4	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve19.xml,415
-1	snow	snow	n	n	_	0	INCROOT	_	_	
-2	man	man	n	n	_	1	compound	_	_	
-3	?	?	?	?	_	1	PUNCT	_	_	
+1	snow	snow	n	n	_	2	compound	_	_	
+2	man	man	n	n	_	0	INCROOT	_	_	
+3	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve19.xml,416
 1	okay	okay	co	co	_	0	INCROOT	_	_	
@@ -100441,18 +100441,18 @@
 3	go-PRESP	go-PRESP	part	part	_	0	ROOT	_	_	
 4	to	to	inf	inf	_	5	INF	_	_	
 5	take	take	v	v	_	3	XCOMP	_	_	
-6	some	some	qn	qn	_	7	QUANT	_	_	
-7	ice	ice	n	n	_	5	OBJ	_	_	
-8	cube-PL	cube-PL	n	n	_	7	compound	_	_	
+6	some	some	qn	qn	_	8	QUANT	_	_	
+7	ice	ice	n	n	_	8	compound	_	_	
+8	cube-PL	cube-PL	n	n	_	5	OBJ	_	_	
 9	out	out	adv	adv	_	5	JCT	_	_	
 10	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve19.xml,480
 1	good&CP	good&CP	adv	adv	_	2	JCT	_	_	
 2	get	get	v	v	_	0	ROOT	_	_	
-3	some	some	qn	qn	_	4	QUANT	_	_	
-4	ice	ice	n	n	_	2	OBJ	_	_	
-5	cube-PL	cube-PL	n	n	_	4	compound	_	_	
+3	some	some	qn	qn	_	5	QUANT	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cube-PL	cube-PL	n	n	_	2	OBJ	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve19.xml,481
@@ -100731,9 +100731,9 @@
 12	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve19.xml,512
-1	ice	ice	n	n	_	0	INCROOT	_	_	
-2	cube-PL	cube-PL	n	n	_	1	compound	_	_	
-3	?	?	?	?	_	1	PUNCT	_	_	
+1	ice	ice	n	n	_	2	compound	_	_	
+2	cube-PL	cube-PL	n	n	_	0	INCROOT	_	_	
+3	?	?	?	?	_	2	PUNCT	_	_	
 
 #eve19.xml,513
 1	cook-PRESP	cook-PRESP	part	part	_	0	INCROOT	_	_	
@@ -100744,16 +100744,16 @@
 2	do	do	mod	mod	_	4	AUX	_	_	
 3	~not	~not	neg	neg	_	2	NEG	_	_	
 4	think	think	v	v	_	0	ROOT	_	_	
-5	ice	ice	n	n	_	7	MOD	_	_	
-6	cube-PL	cube-PL	n	n	_	5	compound	_	_	
+5	ice	ice	n	n	_	6	compound	_	_	
+6	cube-PL	cube-PL	n	n	_	7	MOD	_	_	
 7	cook	cook	n	n	_	4	OBJ	_	_	
 8	end	end	end	end	_	7	NJCT	_	_	
 9	Eve	Eve	n:prop	n:prop	_	8	APP	_	_	
 10	.	.	.	.	_	4	PUNCT	_	_	
 
 #eve19.xml,515
-1	ice	ice	n	n	_	3	MOD	_	_	
-2	cube-PL	cube-PL	n	n	_	1	compound	_	_	
+1	ice	ice	n	n	_	2	compound	_	_	
+2	cube-PL	cube-PL	n	n	_	3	MOD	_	_	
 3	freeze	freeze	n	n	_	0	INCROOT	_	_	
 4	.	.	.	.	_	3	PUNCT	_	_	
 
@@ -101978,9 +101978,9 @@
 4	play-PRESP	play-PRESP	part	part	_	0	ROOT	_	_	
 5	in	in	prep	prep	_	4	JCT	_	_	
 6	the	the	art	art	_	5	POBJ	_	_	
-7	sand	sand	n	n	_	6	OBJ	_	_	
-8	box	box	n	n	_	7	compound	_	_	
-9	or	or	coord	coord	_	7	CONJ	_	_	
+7	sand	sand	n	n	_	8	compound	_	_	
+8	box	box	n	n	_	6	OBJ	_	_	
+9	or	or	coord	coord	_	8	CONJ	_	_	
 10	something	something	pro:indef	pro:indef	_	9	COORD	_	_	
 11	?	?	?	?	_	4	PUNCT	_	_	
 
@@ -102075,10 +102075,10 @@
 4	I	I	pro:sub	pro:sub	_	6	SUBJ	_	_	
 5	~will	~will	mod	mod	_	6	AUX	_	_	
 6	write	write	v	v	_	0	ROOT	_	_	
-7	you	you	pro	pro	_	9	SUBJ	_	_	
-8	a	a	art	art	_	9	MOD	_	_	
-9	snow	snow	n	n	_	6	OBJ	_	_	
-10	man	man	n	n	_	9	compound	_	_	
+7	you	you	pro	pro	_	10	SUBJ	_	_	
+8	a	a	art	art	_	10	MOD	_	_	
+9	snow	snow	n	n	_	10	compound	_	_	
+10	man	man	n	n	_	6	OBJ	_	_	
 11	later	later	adv	adv	_	6	JCT	_	_	
 12	.	.	.	.	_	6	PUNCT	_	_	
 
@@ -102382,16 +102382,16 @@
 3	?	?	?	?	_	1	PUNCT	_	_	
 
 #eve20.xml,26
-1	ice	ice	n	n	_	0	INCROOT	_	_	
-2	cube-PL	cube-PL	n	n	_	1	compound	_	_	
-3	.	.	.	.	_	1	PUNCT	_	_	
+1	ice	ice	n	n	_	2	compound	_	_	
+2	cube-PL	cube-PL	n	n	_	0	INCROOT	_	_	
+3	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve20.xml,27
 1	do	do	mod	mod	_	3	AUX	_	_	
 2	you	you	pro	pro	_	3	SUBJ	_	_	
 3	like	like	v	v	_	0	ROOT	_	_	
-4	ice	ice	n	n	_	3	OBJ	_	_	
-5	cube-PL	cube-PL	n	n	_	4	compound	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cube-PL	cube-PL	n	n	_	3	OBJ	_	_	
 6	?	?	?	?	_	3	PUNCT	_	_	
 
 #eve20.xml,28
@@ -103507,17 +103507,17 @@
 2	here	here	pro:exist	pro:exist	_	3	SUBJ	_	_	
 3	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
 4	a	a	art	art	_	9	JCT	_	_	
-5	eye	eye	n	n	_	9	SUBJ	_	_	
-6	brow	brow	n	n	_	5	compound	_	_	
+5	eye	eye	n	n	_	6	compound	_	_	
+6	brow	brow	n	n	_	9	SUBJ	_	_	
 7	and	and	coord	coord	_	9	LINK	_	_	
 8	here	here	pro:exist	pro:exist	_	9	SUBJ	_	_	
 9	~be&3S	~be&3S	cop	cop	_	3	PRED	_	_	
-10	another	another	qn	qn	_	11	QUANT	_	_	
-11	eye	eye	n	n	_	9	PRED	_	_	
-12	brow	brow	n	n	_	11	compound	_	_	
+10	another	another	qn	qn	_	12	QUANT	_	_	
+11	eye	eye	n	n	_	12	compound	_	_	
+12	brow	brow	n	n	_	9	PRED	_	_	
 13	and	and	coord	coord	_	15	LINK	_	_	
 14	here	here	pro:exist	pro:exist	_	15	SUBJ	_	_	
-15	~be&3S	~be&3S	cop	cop	_	11	CMOD	_	_	
+15	~be&3S	~be&3S	cop	cop	_	12	CMOD	_	_	
 16	a	a	art	art	_	17	MOD	_	_	
 17	eye	eye	n	n	_	15	PRED	_	_	
 18	.	.	.	.	_	3	PUNCT	_	_	
@@ -103726,24 +103726,24 @@
 3	~us	~us	pro:obj	pro:obj	_	2	OBJ	_	_	
 4	put&ZERO	put&ZERO	v	v	_	2	COMP	_	_	
 5	a	a	art	art	_	4	OBJ	_	_	
-6	ice	ice	n	n	_	5	XMOD	_	_	
-7	cube	cube	n	n	_	6	compound	_	_	
-8	in	in	adv	adv	_	6	NJCT	_	_	
+6	ice	ice	n	n	_	7	compound	_	_	
+7	cube	cube	n	n	_	5	XMOD	_	_	
+8	in	in	adv	adv	_	7	NJCT	_	_	
 9	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve20.xml,214
 1	that	that	pro:dem	pro:dem	_	2	SUBJ	_	_	
 2	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-3	a	a	art	art	_	4	MOD	_	_	
-4	ice	ice	n	n	_	2	PRED	_	_	
-5	cube	cube	n	n	_	4	compound	_	_	
+3	a	a	art	art	_	5	MOD	_	_	
+4	ice	ice	n	n	_	5	compound	_	_	
+5	cube	cube	n	n	_	2	PRED	_	_	
 6	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve20.xml,215
-1	how	how	adv:wh	adv:wh	_	3	LINK	_	_	
-2	many	many	qn	qn	_	3	QUANT	_	_	
-3	ice	ice	n	n	_	5	SUBJ	_	_	
-4	cube-PL	cube-PL	n	n	_	3	compound	_	_	
+1	how	how	adv:wh	adv:wh	_	4	LINK	_	_	
+2	many	many	qn	qn	_	4	QUANT	_	_	
+3	ice	ice	n	n	_	4	compound	_	_	
+4	cube-PL	cube-PL	n	n	_	5	SUBJ	_	_	
 5	do	do	v	v	_	0	ROOT	_	_	
 6	we	we	pro:sub	pro:sub	_	7	SUBJ	_	_	
 7	have	have	v	v	_	5	COMP	_	_	
@@ -103765,15 +103765,15 @@
 4	back	back	adv	adv	_	2	JCT	_	_	
 5	in	in	prep	prep	_	2	JCT	_	_	
 6	the	the	art	art	_	5	POBJ	_	_	
-7	living	living	n	n	_	6	OBJ	_	_	
-8	room	room	n	n	_	7	compound	_	_	
+7	living	living	n	n	_	8	compound	_	_	
+8	room	room	n	n	_	6	OBJ	_	_	
 9	then	then	adv:tem	adv:tem	_	15	JCT	_	_	
 10	but	but	conj	conj	_	13	LINK	_	_	
 11	do	do	mod	mod	_	13	AUX	_	_	
 12	~not	~not	neg	neg	_	11	NEG	_	_	
 13	be	be	cop	cop	_	15	AUX	_	_	
 14	so	so	adv	adv	_	15	JCT	_	_	
-15	sass&dn-Y	sass&dn-Y	adj	adj	_	7	XMOD	_	_	
+15	sass&dn-Y	sass&dn-Y	adj	adj	_	8	XMOD	_	_	
 16	about	about	prep	prep	_	15	JCT	_	_	
 17	it	it	pro	pro	_	16	POBJ	_	_	
 18	.	.	.	.	_	2	PUNCT	_	_	
@@ -104211,9 +104211,9 @@
 1	and	and	coord	coord	_	3	LINK	_	_	
 2	here	here	pro:exist	pro:exist	_	3	SUBJ	_	_	
 3	~be&3S	~be&3S	cop	cop	_	0	ROOT	_	_	
-4	her	her	pro:poss:det	pro:poss:det	_	5	MOD	_	_	
-5	eye	eye	n	n	_	3	PRED	_	_	
-6	brow-PL	brow-PL	n	n	_	5	compound	_	_	
+4	her	her	pro:poss:det	pro:poss:det	_	6	MOD	_	_	
+5	eye	eye	n	n	_	6	compound	_	_	
+6	brow-PL	brow-PL	n	n	_	3	PRED	_	_	
 7	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve20.xml,279
@@ -104221,9 +104221,9 @@
 2	I	I	pro:sub	pro:sub	_	3	SUBJ	_	_	
 3	make&PAST	make&PAST	v	v	_	0	ROOT	_	_	
 4	the	the	art	art	_	3	OBJ	_	_	
-5	eye	eye	n	n	_	4	OBJ	_	_	
-6	brow-PL	brow-PL	n	n	_	5	compound	_	_	
-7	on	on	prep	prep	_	5	NJCT	_	_	
+5	eye	eye	n	n	_	6	compound	_	_	
+6	brow-PL	brow-PL	n	n	_	4	OBJ	_	_	
+7	on	on	prep	prep	_	6	NJCT	_	_	
 8	that	that	det	det	_	9	DET	_	_	
 9	one	one	pro:indef	pro:indef	_	7	POBJ	_	_	
 10	.	.	.	.	_	3	PUNCT	_	_	
@@ -104236,9 +104236,9 @@
 5	to	to	inf	inf	_	6	INF	_	_	
 6	make	make	v	v	_	3	XCOMP	_	_	
 7	the	the	art	art	_	6	OBJ	_	_	
-8	eye	eye	n	n	_	7	OBJ	_	_	
-9	brow-PL	brow-PL	n	n	_	8	compound	_	_	
-10	on	on	prep	prep	_	8	NJCT	_	_	
+8	eye	eye	n	n	_	9	compound	_	_	
+9	brow-PL	brow-PL	n	n	_	7	OBJ	_	_	
+10	on	on	prep	prep	_	9	NJCT	_	_	
 11	the	the	art	art	_	13	MOD	_	_	
 12	new	new	adj	adj	_	13	MOD	_	_	
 13	one	one	pro:indef	pro:indef	_	10	POBJ	_	_	
@@ -104248,9 +104248,9 @@
 1	here	here	adv	adv	_	3	JCT	_	_	
 2	you	you	pro	pro	_	3	SUBJ	_	_	
 3	make	make	v	v	_	0	ROOT	_	_	
-4	the	the	art	art	_	5	MOD	_	_	
-5	eye	eye	n	n	_	3	OBJ	_	_	
-6	brow-PL	brow-PL	n	n	_	5	compound	_	_	
+4	the	the	art	art	_	6	MOD	_	_	
+5	eye	eye	n	n	_	6	compound	_	_	
+6	brow-PL	brow-PL	n	n	_	3	OBJ	_	_	
 7	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve20.xml,282
@@ -104267,22 +104267,22 @@
 1	now	now	adv	adv	_	3	JCT	_	_	
 2	you	you	pro	pro	_	3	SUBJ	_	_	
 3	make	make	v	v	_	0	ROOT	_	_	
-4	the	the	art	art	_	5	MOD	_	_	
-5	eye	eye	n	n	_	3	OBJ	_	_	
-6	brow-PL	brow-PL	n	n	_	5	compound	_	_	
+4	the	the	art	art	_	6	MOD	_	_	
+5	eye	eye	n	n	_	6	compound	_	_	
+6	brow-PL	brow-PL	n	n	_	3	OBJ	_	_	
 7	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve20.xml,284
-1	nice	nice	adj	adj	_	2	MOD	_	_	
-2	eye	eye	n	n	_	0	INCROOT	_	_	
-3	brow-PL	brow-PL	n	n	_	2	compound	_	_	
-4	.	.	.	.	_	2	PUNCT	_	_	
+1	nice	nice	adj	adj	_	3	MOD	_	_	
+2	eye	eye	n	n	_	3	compound	_	_	
+3	brow-PL	brow-PL	n	n	_	0	INCROOT	_	_	
+4	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve20.xml,285
-1	beautiful	beautiful	adj	adj	_	2	MOD	_	_	
-2	eye	eye	n	n	_	0	INCROOT	_	_	
-3	brow-PL	brow-PL	n	n	_	2	compound	_	_	
-4	.	.	.	.	_	2	PUNCT	_	_	
+1	beautiful	beautiful	adj	adj	_	3	MOD	_	_	
+2	eye	eye	n	n	_	3	compound	_	_	
+3	brow-PL	brow-PL	n	n	_	0	INCROOT	_	_	
+4	.	.	.	.	_	3	PUNCT	_	_	
 
 #eve20.xml,286
 1	Eve	Eve	n:prop	n:prop	_	0	INCROOT	_	_	
@@ -106191,11 +106191,11 @@
 #eve20.xml,547
 1	I	I	pro:sub	pro:sub	_	2	SUBJ	_	_	
 2	think	think	v	v	_	0	ROOT	_	_	
-3	you	you	pro	pro	_	5	SUBJ	_	_	
-4	good&CP	good&CP	adj	adj	_	5	MOD	_	_	
-5	pee	pee	n	n	_	2	OBJ	_	_	
-6	pee	pee	n	n	_	5	compound	_	_	
-7	first	first	adv	adv	_	5	NJCT	_	_	
+3	you	you	pro	pro	_	6	SUBJ	_	_	
+4	good&CP	good&CP	adj	adj	_	6	MOD	_	_	
+5	pee	pee	n	n	_	6	compound	_	_	
+6	pee	pee	n	n	_	2	OBJ	_	_	
+7	first	first	adv	adv	_	6	NJCT	_	_	
 8	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve20.xml,549
@@ -106315,9 +106315,9 @@
 4	get	get	v	v	_	2	XCOMP	_	_	
 5	up	up	adv	adv	_	4	JCT	_	_	
 6	in	in	prep	prep	_	4	JCT	_	_	
-7	your	your	pro:poss:det	pro:poss:det	_	8	MOD	_	_	
-8	high	high	n	n	_	6	POBJ	_	_	
-9	chair	chair	n	n	_	8	compound	_	_	
+7	your	your	pro:poss:det	pro:poss:det	_	9	MOD	_	_	
+8	high	high	n	n	_	9	compound	_	_	
+9	chair	chair	n	n	_	6	POBJ	_	_	
 10	big	big	adj	adj	_	11	MOD	_	_	
 11	girl	girl	n	n	_	4	OBJ	_	_	
 12	?	?	?	?	_	2	PUNCT	_	_	
@@ -106940,10 +106940,10 @@
 1	you	you	pro	pro	_	2	SUBJ	_	_	
 2	have	have	v	v	_	0	ROOT	_	_	
 3	a	a	art	art	_	2	OBJ	_	_	
-4	finger	finger	n	n	_	3	OBJ	_	_	
-5	nail	nail	n	n	_	4	compound	_	_	
-6	cm	cm	cm	cm	_	4	LP	_	_	
-7	yes	yes	co	co	_	4	COM	_	_	
+4	finger	finger	n	n	_	5	compound	_	_	
+5	nail	nail	n	n	_	3	OBJ	_	_	
+6	cm	cm	cm	cm	_	5	LP	_	_	
+7	yes	yes	co	co	_	5	COM	_	_	
 8	.	.	.	.	_	2	PUNCT	_	_	
 
 #eve20.xml,661
@@ -107289,8 +107289,8 @@
 3	you	you	pro	pro	_	4	SUBJ	_	_	
 4	say	say	v	v	_	0	ROOT	_	_	
 5	cm	cm	cm	cm	_	4	LP	_	_	
-6	sweet	sweet	n	n	_	4	OBJ	_	_	
-7	heart	heart	n	n	_	6	compound	_	_	
+6	sweet	sweet	n	n	_	7	compound	_	_	
+7	heart	heart	n	n	_	4	OBJ	_	_	
 8	?	?	?	?	_	4	PUNCT	_	_	
 
 #eve20.xml,709
