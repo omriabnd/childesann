@@ -149,7 +149,7 @@
 6	in	in	ADP	prep	_	8	case	_	_
 7	the	the	DET	art	_	8	det	_	_
 8	room	room	NOUN	n	_	5	nmod	_	_
-9	and	and	CONJ	coord	_	5	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	kill	kill	VERB	v	_	5	conj	_	_
 11	a	a	DET	art	_	12	det	_	_
 12	fly	fly	NOUN	n	_	10	dobj	_	_
@@ -161,7 +161,7 @@
 3	in	in	ADP	prep	_	5	case	_	_
 4	the	the	DET	art	_	5	det	_	_
 5	room	room	NOUN	n	_	2	nmod	_	_
-6	and	and	CONJ	coord	_	2	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	kill	kill	VERB	v	_	2	conj	_	_
 8	a	a	DET	art	_	9	det	_	_
 9	fly	fly	NOUN	n	_	7	dobj	_	_
@@ -195,7 +195,7 @@
 1	well	well	INTJ	co	_	3	discourse	_	_
 2	,	beg	PUNCT	beg	_	3	punct	_	_
 3	go	go	VERB	v	_	0	root	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	get	get	VERB	v	_	3	conj	_	_
 6	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	telephone	telephone	NOUN	n	_	5	dobj	_	_
@@ -390,7 +390,7 @@
 5	on	on	ADP	prep	_	7	case	_	_
 6	the	the	DET	art	_	7	det	_	_
 7	stool	stool	NOUN	n	_	4	nmod	_	_
-8	and	and	CONJ	coord	_	4	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	read&ZERO	read&ZERO	VERB	v	_	4	conj	_	_
 10	the	the	DET	art	_	11	det	_	_
 11	book	book	NOUN	n	_	9	dobj	_	_
@@ -950,7 +950,7 @@
 1	that	that	PRON	pro:dem	_	3	nsubj	_	_
 2	~be&3S	~be&3S	VERB	cop	_	3	cop	_	_
 3	Jack	Jack	PROPN	n:prop	_	2	root	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	Jill	Jill	PROPN	n:prop	_	2	conj	_	_
 6	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -1060,7 +1060,7 @@
 4	~to	~to	PART	inf	_	5	mark	_	_
 5	come	come	VERB	v	_	3	xcomp	_	_
 6	up	up	ADV	adv	_	5	advmod	_	_
-7	and	and	CONJ	coord	_	5	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	sit	sit	VERB	v	_	5	conj	_	_
 9	on	on	ADP	prep	_	11	case	_	_
 10	my	my	PRON	pro:poss:det	_	11	nmod:poss	_	_
@@ -1215,7 +1215,7 @@
 3	in	in	ADP	prep	_	4	case	_	_
 4	the	the	DET	art	_	2	nmod	_	_
 5	corner	corner	NOUN	n	_	4	dobj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	read&ZERO	read&ZERO	VERB	v	_	5	conj	_	_
 8	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -1762,7 +1762,7 @@
 
 #eve01.xml,246
 1	farm&dv-AGT	farm&dv-AGT	NOUN	n	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	what	what	PRON	pro:wh	_	1	conj	_	_
 4	else	else	ADV	post	_	3	advmod	_	_
 5	?	?	PUNCT	?	_	1	punct	_	_
@@ -1876,7 +1876,7 @@
 5	~not	~not	PART	neg	_	7	neg	_	_
 6	you	you	PRON	pro	_	7	nsubj	_	_
 7	go	go	VERB	v	_	2	advcl	_	_
-8	and	and	CONJ	coord	_	7	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	lay	lay	VERB	v	_	7	conj	_	_
 10	down	down	ADV	adv	_	9	advmod	_	_
 11	on	on	ADP	prep	_	13	case	_	_
@@ -2002,7 +2002,7 @@
 3	your	your	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	chair	chair	NOUN	n	_	2	dobj	_	_
 5	around	around	ADV	adv	_	4	advmod	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	have	have	VERB	v	_	4	conj	_	_
 8	lunch	lunch	NOUN	n	_	7	dobj	_	_
 9	.	.	PUNCT	.	_	2	punct	_	_
@@ -2304,7 +2304,7 @@
 2	may	may	AUX	mod	_	3	aux	_	_
 3	get	get	VERB	v	_	0	root	_	_
 4	down	down	ADV	adv	_	3	dobj	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	eat	eat	VERB	v	_	3	conj	_	_
 7	the	the	DET	art	_	6	dobj	_	_
 8	celery	celery	NOUN	n	_	7	dobj	_	_
@@ -2664,7 +2664,7 @@
 #eve01.xml,376
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	go	go	VERB	v	_	0	root	_	_
-3	and	and	CONJ	coord	_	2	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	get	get	VERB	v	_	2	conj	_	_
 5	the	the	DET	art	_	6	det	_	_
 6	napkin	napkin	NOUN	n	_	4	dobj	_	_
@@ -3316,12 +3316,12 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	stay	stay	VERB	v	_	0	root	_	_
 3	here	here	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	talk	talk	NOUN	n	_	2	conj	_	_
 6	to	to	ADP	prep	_	7	case	_	_
 7	Mr	Mr	PROPN	n:prop	_	5	nmod	_	_
 8	Fraser	Fraser	PROPN	n:prop	_	7	vocative	_	_
-9	and	and	CONJ	coord	_	7	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	Mr	Mr	PROPN	n:prop	_	7	conj	_	_
 11	Cromer	Cromer	PROPN	n:prop	_	10	vocative	_	_
 12	.	.	PUNCT	.	_	2	punct	_	_
@@ -3334,7 +3334,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	stay	stay	VERB	v	_	0	root	_	_
 3	here	here	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	8	cc	_	_
 5	your	your	PRON	pro:poss:det	_	8	nmod:poss	_	_
 6	Mommy	Mommy	PROPN	n:prop	_	8	nsubj	_	_
 7	~will	~will	AUX	mod	_	8	aux	_	_
@@ -4671,7 +4671,7 @@
 4	you	you	PRON	pro	_	5	nsubj	_	_
 5	come	come	VERB	v	_	0	root	_	_
 6	in	in	ADV	adv	_	5	advmod	_	_
-7	and	and	CONJ	coord	_	5	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	sit	sit	VERB	v	_	5	conj	_	_
 9	in	in	ADP	prep	_	11	case	_	_
 10	your	your	PRON	pro:poss:det	_	11	nmod:poss	_	_
@@ -4880,7 +4880,7 @@
 1	come	come	VERB	v	_	0	root	_	_
 2	out	out	ADV	adv	_	1	advmod	_	_
 3	here	here	ADV	adv	_	1	advmod	_	_
-4	and	and	CONJ	coord	_	1	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	play	play	NOUN	n	_	1	conj	_	_
 6	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -5178,7 +5178,7 @@
 4	it	it	PRON	pro	_	3	dobj	_	_
 5	once	once	ADV	adv	_	3	advmod	_	_
 6	more	more	ADV	adv	_	3	advmod	_	_
-7	and	and	CONJ	coord	_	3	cc	_	_
+7	and	and	CONJ	coord	_	10	cc	_	_
 8	that	that	PRON	pro:dem	_	10	nsubj	_	_
 9	~be&3S	~be&3S	VERB	cop	_	10	cop	_	_
 10	all	all	NOUN	pro:indef	_	3	conj	_	_
@@ -6122,7 +6122,7 @@
 5	come	come	VERB	v	_	3	xcomp	_	_
 6	over	over	ADV	adv	_	5	advmod	_	_
 7	here	here	ADV	adv	_	5	advmod	_	_
-8	and	and	CONJ	coord	_	5	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	read&ZERO	read&ZERO	VERB	v	_	5	conj	_	_
 10	the	the	DET	art	_	9	dobj	_	_
 11	book	book	NOUN	n	_	10	dobj	_	_
@@ -6136,7 +6136,7 @@
 3	hold	hold	VERB	v	_	0	root	_	_
 4	the	the	DET	art	_	3	dobj	_	_
 5	book	book	NOUN	n	_	4	dobj	_	_
-6	or	or	CONJ	coord	_	5	cc	_	_
+6	or	or	CONJ	coord	_	9	cc	_	_
 7	will	will	AUX	mod	_	9	aux	_	_
 8	you	you	PRON	pro	_	9	nsubj	_	_
 9	hold	hold	VERB	v	_	5	conj	_	_
@@ -7041,7 +7041,7 @@
 5	on	on	ADP	prep	_	7	case	_	_
 6	the	the	DET	art	_	7	det	_	_
 7	floor	floor	NOUN	n	_	3	nmod	_	_
-8	and	and	CONJ	coord	_	3	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	let&ZERO	let&ZERO	VERB	v	_	3	conj	_	_
 10	mommy	mommy	NOUN	n	_	13	compund	_	_
 11	change	change	NOUN	n	_	13	compund	_	_
@@ -7343,7 +7343,7 @@
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	sit	sit	VERB	v	_	0	root	_	_
 4	there	there	ADV	adv	_	3	advmod	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	look	look	VERB	v	_	3	conj	_	_
 7	at	at	ADP	prep	_	8	case	_	_
 8	Racketyboom	Racketyboom	PROPN	n:prop	_	6	nmod	_	_
@@ -7399,7 +7399,7 @@
 3	hold	hold	VERB	v	_	0	root	_	_
 4	the	the	DET	art	_	5	det	_	_
 5	book	book	NOUN	n	_	3	dobj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	turn	turn	VERB	v	_	5	conj	_	_
 8	the	the	DET	art	_	9	det	_	_
 9	page-PL	page-PL	NOUN	n	_	7	dobj	_	_
@@ -7472,11 +7472,11 @@
 #eve02.xml,221
 1	stand	stand	NOUN	n	_	0	root	_	_
 2	up	up	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	fold	fold	VERB	v	_	1	conj	_	_
 5	your	your	PRON	pro:poss:det	_	6	nmod:poss	_	_
 6	pants	pants	NOUN	n:pt	_	4	dobj	_	_
-7	and	and	CONJ	coord	_	6	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	leotard-PL	leotard-PL	NOUN	n	_	6	conj	_	_
 9	and	and	CONJ	coord	_	12	cc	_	_
 10	I	I	PRON	pro:sub	_	12	nsubj	_	_
@@ -7684,7 +7684,7 @@
 2	your	your	PRON	pro:poss:det	_	4	nmod:poss	_	_
 3	high	high	NOUN	n	_	4	compound	_	_
 4	chair	chair	NOUN	n	_	1	dobj	_	_
-5	and	and	CONJ	coord	_	1	cc	_	_
+5	and	and	CONJ	coord	_	7	cc	_	_
 6	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	bib	bib	NOUN	n	_	1	conj	_	_
 8	.	.	PUNCT	.	_	1	punct	_	_
@@ -8553,7 +8553,7 @@
 1	Fraser	Fraser	PROPN	n:prop	_	3	nsubj	_	_
 2	~s	~s	PART	poss	_	1	case	_	_
 3	coffee	coffee	NOUN	n	_	0	root	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	7	cc	_	_
 5	Eve	Eve	PROPN	n:prop	_	7	nmod	_	_
 6	~s	~s	PART	poss	_	5	case	_	_
 7	juice	juice	NOUN	n	_	3	conj	_	_
@@ -8883,7 +8883,7 @@
 4	you	you	PRON	pro	_	5	nsubj	_	_
 5	go	go	VERB	v	_	0	root	_	_
 6	in	in	ADV	adv	_	5	advmod	_	_
-7	and	and	CONJ	coord	_	5	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	make	make	VERB	v	_	5	conj	_	_
 9	something	something	NOUN	pro:indef	_	8	dobj	_	_
 10	with	with	ADP	prep	_	13	case	_	_
@@ -9223,7 +9223,7 @@
 9	on	on	ADP	prep	_	11	case	_	_
 10	the	the	DET	art	_	11	det	_	_
 11	pillow	pillow	NOUN	n	_	5	nmod	_	_
-12	and	and	CONJ	coord	_	5	cc	_	_
+12	and	and	CONJ	coord	_	13	cc	_	_
 13	take	take	VERB	v	_	5	conj	_	_
 14	a	a	DET	art	_	15	det	_	_
 15	nap	nap	NOUN	n	_	13	dobj	_	_
@@ -9233,7 +9233,7 @@
 1	on	on	ADP	prep	_	0	root	_	_
 2	the	the	DET	art	_	3	det	_	_
 3	pillow	pillow	NOUN	n	_	1	case	_	_
-4	and	and	CONJ	coord	_	1	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	take	take	VERB	v	_	1	conj	_	_
 6	a	a	DET	art	_	7	det	_	_
 7	nap	nap	NOUN	n	_	5	dobj	_	_
@@ -9331,7 +9331,7 @@
 3	like	like	VERB	v	_	0	root	_	_
 4	to	to	PART	inf	_	5	mark	_	_
 5	come	come	VERB	v	_	3	xcomp	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	look	look	VERB	v	_	5	conj	_	_
 8	at	at	ADP	prep	_	10	case	_	_
 9	a	a	DET	art	_	10	det	_	_
@@ -9662,7 +9662,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	go	go	VERB	v	_	0	root	_	_
 3	in	in	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	read&ZERO	read&ZERO	VERB	v	_	2	conj	_	_
 6	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	book	book	NOUN	n	_	5	dobj	_	_
@@ -9691,7 +9691,7 @@
 4	in	in	ADP	prep	_	6	case	_	_
 5	my	my	PRON	pro:poss:det	_	6	nmod:poss	_	_
 6	tea	tea	NOUN	n	_	2	nmod	_	_
-7	and	and	CONJ	coord	_	2	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	in	in	ADP	prep	_	2	conj	_	_
 9	my	my	PRON	pro:poss:det	_	10	nmod:poss	_	_
 10	coffee	coffee	NOUN	n	_	8	case	_	_
@@ -9995,7 +9995,7 @@
 3	to	to	X	X	_	4	mwe	_	_
 4	go	go	VERB	v	_	0	root	_	_
 5	upstairs	upstairs	ADV	adv	_	4	advmod	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	get	get	VERB	v	_	4	conj	_	_
 8	a	a	DET	art	_	9	det	_	_
 9	diaper	diaper	NOUN	n	_	7	dobj	_	_
@@ -10843,7 +10843,7 @@
 4	take	take	VERB	v	_	0	root	_	_
 5	a	a	DET	art	_	4	dobj	_	_
 6	drink	drink	NOUN	n	_	5	dobj	_	_
-7	and	and	CONJ	coord	_	6	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	see	see	VERB	v	_	6	conj	_	_
 9	if	if	SCONJ	conj	_	11	mark	_	_
 10	you	you	PRON	pro	_	11	nsubj	_	_
@@ -10926,7 +10926,7 @@
 3	in	in	ADP	prep	_	5	case	_	_
 4	the	the	DET	art	_	5	det	_	_
 5	cup	cup	NOUN	n	_	2	nmod	_	_
-6	and	and	CONJ	coord	_	2	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	in	in	ADP	prep	_	2	conj	_	_
 8	Eve	Eve	PROPN	n:prop	_	10	nmod	_	_
 9	~s	~s	PART	poss	_	8	case	_	_
@@ -11355,9 +11355,9 @@
 1	somebody	somebody	NOUN	pro:indef	_	3	nsubj	_	_
 2	do&3S	do&3S	AUX	mod	_	3	aux	_	_
 3	this	this	PRON	pro:dem	_	0	root	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	that	that	PRON	pro:dem	_	3	conj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	the	the	DET	art	_	5	conj	_	_
 8	other	other	ADJ	qn	_	9	amod	_	_
 9	thing	thing	NOUN	n	_	7	dobj	_	_
@@ -11603,7 +11603,7 @@
 #eve02.xml,791
 1	come	come	VERB	v	_	0	root	_	_
 2	down	down	ADV	adv	_	1	dobj	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	play	play	VERB	v	_	1	conj	_	_
 5	with	with	ADP	prep	_	8	case	_	_
 6	your	your	PRON	pro:poss:det	_	8	nmod:poss	_	_
@@ -12772,7 +12772,7 @@
 2	on	on	ADP	prep	_	3	case	_	_
 3	the	the	DET	art	_	1	nmod	_	_
 4	table	table	NOUN	n	_	3	dobj	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	read&ZERO	read&ZERO	VERB	v	_	4	conj	_	_
 7	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -12800,7 +12800,7 @@
 #eve03.xml,142
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	go	go	VERB	v	_	0	root	_	_
-3	and	and	CONJ	coord	_	2	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	read&ZERO	read&ZERO	VERB	v	_	2	conj	_	_
 5	Lassie	Lassie	PROPN	n:prop	_	4	dobj	_	_
 6	and	and	CONJ	coord	_	9	cc	_	_
@@ -12822,7 +12822,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	go	go	VERB	v	_	0	root	_	_
 3	in	in	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	read&ZERO	read&ZERO	VERB	v	_	2	conj	_	_
 6	Lassie	Lassie	PROPN	n:prop	_	5	dobj	_	_
 7	to	to	ADP	prep	_	8	case	_	_
@@ -12841,7 +12841,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	go	go	VERB	v	_	0	root	_	_
 3	in	in	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	read&ZERO	read&ZERO	VERB	v	_	2	conj	_	_
 6	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -12893,7 +12893,7 @@
 3	thing-PL	thing-PL	NOUN	n	_	2	dobj	_	_
 4	to	to	PART	inf	_	5	mark	_	_
 5	do	do	VERB	v	_	3	xcomp	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	10	cc	_	_
 7	then	then	ADV	adv:tem	_	10	advmod	_	_
 8	we	we	PRON	pro:sub	_	10	nsubj	_	_
 9	~will	~will	AUX	mod	_	10	aux	_	_
@@ -12979,11 +12979,11 @@
 2	,	beg	PUNCT	beg	_	4	punct	_	_
 3	you	you	PRON	pro	_	4	nsubj	_	_
 4	sit	sit	VERB	v	_	0	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	read&ZERO	read&ZERO	VERB	v	_	4	conj	_	_
 7	to	to	ADP	prep	_	8	case	_	_
 8	Rangy	Rangy	PROPN	n:prop	_	6	nmod	_	_
-9	and	and	CONJ	coord	_	8	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	Fraser	Fraser	PROPN	n:prop	_	8	conj	_	_
 11	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -13830,7 +13830,7 @@
 #eve03.xml,281
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	go	go	VERB	v	_	0	root	_	_
-3	and	and	CONJ	coord	_	2	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	read&ZERO	read&ZERO	VERB	v	_	2	conj	_	_
 5	Fraser	Fraser	PROPN	n:prop	_	4	dobj	_	_
 6	the	the	DET	art	_	5	root	_	_
@@ -13877,7 +13877,7 @@
 2	~will	~will	AUX	mod	_	3	aux	_	_
 3	read&ZERO	read&ZERO	VERB	v	_	0	root	_	_
 4	Humm	Humm	PROPN	n:prop	_	3	dobj	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	8	cc	_	_
 6	that	that	PRON	pro:dem	_	8	nsubj	_	_
 7	~be&3S	~be&3S	VERB	cop	_	8	cop	_	_
 8	all	all	NOUN	pro:indef	_	3	conj	_	_
@@ -14002,7 +14002,7 @@
 4	Mommy	Mommy	PROPN	n:prop	_	3	dobj	_	_
 5	the	the	DET	art	_	6	det	_	_
 6	napkin	napkin	NOUN	n	_	4	dobj	_	_
-7	and	and	CONJ	coord	_	6	cc	_	_
+7	and	and	CONJ	coord	_	9	cc	_	_
 8	the	the	DET	art	_	9	det	_	_
 9	spoon	spoon	NOUN	n	_	6	conj	_	_
 10	?	?	PUNCT	?	_	3	punct	_	_
@@ -14150,7 +14150,7 @@
 2	your	your	PRON	pro:poss:det	_	4	nmod:poss	_	_
 3	high	high	NOUN	n	_	4	compound	_	_
 4	chair	chair	NOUN	n	_	1	dobj	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	bib	bib	NOUN	n	_	4	conj	_	_
 7	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -14574,7 +14574,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	go	go	VERB	v	_	0	root	_	_
 3	in	in	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	build	build	VERB	v	_	2	conj	_	_
 6	a	a	DET	art	_	5	dobj	_	_
 7	tower	tower	NOUN	n	_	6	dobj	_	_
@@ -14762,7 +14762,7 @@
 3	want	want	VERB	v	_	0	root	_	_
 4	a	a	DET	art	_	3	dobj	_	_
 5	paper	paper	NOUN	n	_	4	dobj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	pencil	pencil	NOUN	n	_	5	conj	_	_
 8	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -15299,7 +15299,7 @@
 1	it	it	PRON	pro	_	2	nsubj	_	_
 2	go-3S	go-3S	VERB	v	_	0	root	_	_
 3	around	around	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	around	around	ADV	adv	_	2	conj	_	_
 6	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -15448,7 +15448,7 @@
 4	get	get	VERB	v	_	0	root	_	_
 5	a	a	DET	art	_	4	dobj	_	_
 6	block	block	NOUN	n	_	5	dobj	_	_
-7	and	and	CONJ	coord	_	6	cc	_	_
+7	and	and	CONJ	coord	_	9	cc	_	_
 8	lie	lie	NOUN	n	_	9	compund	_	_
 9	down	down	ADV	adv	_	6	conj	_	_
 10	there	there	ADV	adv	_	9	advmod	_	_
@@ -16231,7 +16231,7 @@
 3	get&PASTP	get&PASTP	VERB	part	_	0	root	_	_
 4	one	one	NOUN	pro:indef	_	3	dobj	_	_
 5	there	there	ADV	adv	_	4	advmod	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	one	one	NOUN	pro:indef	_	5	conj	_	_
 8	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -16699,7 +16699,7 @@
 3	take	take	VERB	v	_	0	root	_	_
 4	the	the	DET	art	_	3	dobj	_	_
 5	paper	paper	NOUN	n	_	4	dobj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	go	go	VERB	v	_	5	conj	_	_
 8	in	in	ADP	prep	_	10	case	_	_
 9	the	the	DET	art	_	10	det	_	_
@@ -16711,7 +16711,7 @@
 2	up	up	ADP	prep	_	3	case	_	_
 3	the	the	DET	art	_	1	nmod	_	_
 4	paper	paper	NOUN	n	_	3	conj	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	move	move	NOUN	n	_	4	conj	_	_
 7	in	in	ADP	prep	_	9	case	_	_
 8	the	the	DET	art	_	9	det	_	_
@@ -16743,7 +16743,7 @@
 2	,	beg	PUNCT	beg	_	4	punct	_	_
 3	you	you	PRON	pro	_	4	nsubj	_	_
 4	come	come	VERB	v	_	0	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	show	show	VERB	v	_	4	conj	_	_
 7	it	it	PRON	pro	_	6	dobj	_	_
 8	to	to	ADP	prep	_	9	case	_	_
@@ -16942,7 +16942,7 @@
 1	take	take	VERB	v	_	0	root	_	_
 2	it	it	PRON	pro	_	1	dobj	_	_
 3	out	out	ADV	adv	_	1	advmod	_	_
-4	and	and	CONJ	coord	_	1	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	put&ZERO	put&ZERO	VERB	v	_	1	conj	_	_
 6	it	it	PRON	pro	_	5	dobj	_	_
 7	on	on	ADP	prep	_	9	case	_	_
@@ -16964,7 +16964,7 @@
 2	the	the	DET	art	_	1	dobj	_	_
 3	spoon	spoon	NOUN	n	_	2	dobj	_	_
 4	out	out	ADV	adv	_	3	advmod	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	put&ZERO	put&ZERO	VERB	v	_	3	conj	_	_
 7	it	it	PRON	pro	_	6	dobj	_	_
 8	on	on	ADP	prep	_	10	case	_	_
@@ -16994,7 +16994,7 @@
 2	the	the	DET	art	_	1	dobj	_	_
 3	spoon	spoon	NOUN	n	_	2	dobj	_	_
 4	out	out	ADV	adv	_	3	advmod	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	put&ZERO	put&ZERO	VERB	v	_	3	conj	_	_
 7	it	it	PRON	pro	_	6	dobj	_	_
 8	on	on	ADP	prep	_	10	case	_	_
@@ -17210,7 +17210,7 @@
 3	your	your	PRON	pro:poss:det	_	5	nmod:poss	_	_
 4	high	high	NOUN	n	_	5	compound	_	_
 5	chair	chair	NOUN	n	_	2	dobj	_	_
-6	and	and	CONJ	coord	_	2	cc	_	_
+6	and	and	CONJ	coord	_	8	cc	_	_
 7	your	your	PRON	pro:poss:det	_	8	nmod:poss	_	_
 8	bib	bib	NOUN	n	_	2	conj	_	_
 9	.	.	PUNCT	.	_	2	punct	_	_
@@ -17294,7 +17294,7 @@
 4	have	have	VERB	v	_	0	root	_	_
 5	some	some	DET	qn	_	6	det	_	_
 6	cheese	cheese	NOUN	n	_	4	dobj	_	_
-7	and	and	CONJ	coord	_	4	cc	_	_
+7	and	and	CONJ	coord	_	10	cc	_	_
 8	some	some	DET	qn	_	9	det	_	_
 9	noodle	noodle	NOUN	n	_	10	compund	_	_
 10	soup	soup	NOUN	n	_	4	conj	_	_
@@ -17377,7 +17377,7 @@
 1	I	I	PRON	pro:sub	_	3	nsubj	_	_
 2	~will	~will	AUX	mod	_	3	aux	_	_
 3	look	look	VERB	v	_	0	root	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	see	see	VERB	v	_	3	conj	_	_
 6	if	if	SCONJ	conj	_	8	case	_	_
 7	can	can	AUX	mod	_	8	aux	_	_
@@ -17494,7 +17494,7 @@
 2	~be&3S	~be&3S	VERB	cop	_	4	cop	_	_
 3	just	just	ADJ	adj	_	4	root	_	_
 4	paper	paper	NOUN	n	_	2	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	thing-PL	thing-PL	NOUN	n	_	4	conj	_	_
 7	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -17987,7 +17987,7 @@
 4	on	on	ADP	prep	_	6	case	_	_
 5	the	the	DET	art	_	6	det	_	_
 6	couch	couch	NOUN	n	_	3	nmod	_	_
-7	and	and	CONJ	coord	_	3	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	crack	crack	VERB	v	_	3	conj	_	_
 9	the	the	DET	art	_	10	det	_	_
 10	nut	nut	NOUN	n	_	8	dobj	_	_
@@ -18576,7 +18576,7 @@
 1	want	want	VERB	v	_	0	root	_	_
 2	come	come	VERB	v	_	1	dobj	_	_
 3	up	up	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	sit	sit	VERB	v	_	2	conj	_	_
 6	by	by	ADP	prep	_	7	case	_	_
 7	me	me	PRON	pro:obj	_	5	nmod	_	_
@@ -18909,7 +18909,7 @@
 9	be&3S	be&3S	VERB	cop	_	10	cop	_	_
 10	all	all	X	X	_	4	ccomp	_	_
 11	gone	gone	X	X	_	10	mwe	_	_
-12	and	and	CONJ	coord	_	9	cc	_	_
+12	and	and	CONJ	coord	_	15	cc	_	_
 13	Cromer	Cromer	PROPN	n:prop	_	15	nmod	_	_
 14	~s	~s	PART	poss	_	13	case	_	_
 15	coffee	coffee	NOUN	n	_	9	conj	_	_
@@ -18918,7 +18918,7 @@
 #eve04.xml,642
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	go	go	VERB	v	_	0	root	_	_
-3	and	and	CONJ	coord	_	2	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	look	look	VERB	v	_	2	conj	_	_
 5	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -19228,7 +19228,7 @@
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	get	get	VERB	v	_	0	root	_	_
 4	it	it	PRON	pro	_	3	dobj	_	_
-5	or	or	CONJ	coord	_	3	cc	_	_
+5	or	or	CONJ	coord	_	8	cc	_	_
 6	shall	shall	AUX	mod	_	8	aux	_	_
 7	I	I	PRON	pro:sub	_	8	nsubj	_	_
 8	get	get	VERB	v	_	3	conj	_	_
@@ -20780,7 +20780,7 @@
 
 #eve05.xml,41
 1	go	go	VERB	v	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	jump	jump	NOUN	n	_	1	conj	_	_
 4	in	in	ADP	prep	_	7	case	_	_
 5	the	the	DET	art	_	7	det	_	_
@@ -21425,7 +21425,7 @@
 2	,	beg	PUNCT	beg	_	4	punct	_	_
 3	you	you	PRON	pro	_	4	nsubj	_	_
 4	go	go	VERB	v	_	0	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	find	find	VERB	v	_	4	conj	_	_
 7	it	it	PRON	pro	_	6	dobj	_	_
 8	.	.	PUNCT	.	_	4	punct	_	_
@@ -22048,7 +22048,7 @@
 2	be&3S	be&3S	VERB	cop	_	4	cop	_	_
 3	my	my	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	stool	stool	NOUN	n	_	2	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	7	cc	_	_
 6	that	that	SCONJ	rel	_	7	mark	_	_
 7	belong-3S	belong-3S	VERB	v	_	4	conj	_	_
 8	to	to	ADP	prep	_	9	case	_	_
@@ -22344,7 +22344,7 @@
 2	be	be	VERB	cop	_	3	cop	_	_
 3	a	a	DET	art	_	2	root	_	_
 4	horse-DIM	horse-DIM	NOUN	n	_	3	dobj	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	run	run	VERB	v	_	4	conj	_	_
 7	fast	fast	ADV	adv	_	6	advmod	_	_
 8	.	.	PUNCT	.	_	3	punct	_	_
@@ -23254,7 +23254,7 @@
 6	you	you	PRON	pro	_	7	nsubj	_	_
 7	go	go	VERB	v	_	0	root	_	_
 8	in	in	ADV	adv	_	7	advmod	_	_
-9	and	and	CONJ	coord	_	7	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	get	get	VERB	v	_	7	conj	_	_
 11	them	them	PRON	pro:obj	_	10	dobj	_	_
 12	.	.	PUNCT	.	_	7	punct	_	_
@@ -23262,7 +23262,7 @@
 #eve05.xml,380
 1	go	go	VERB	v	_	0	root	_	_
 2	in	in	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	get	get	VERB	v	_	1	conj	_	_
 5	them	them	PRON	pro:obj	_	4	dobj	_	_
 6	.	.	PUNCT	.	_	1	punct	_	_
@@ -23270,7 +23270,7 @@
 #eve05.xml,381
 1	go	go	VERB	v	_	0	root	_	_
 2	in	in	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	get	get	VERB	v	_	1	conj	_	_
 5	them	them	PRON	pro:obj	_	4	dobj	_	_
 6	.	.	PUNCT	.	_	1	punct	_	_
@@ -24712,7 +24712,7 @@
 1	this	this	DET	det	_	2	det	_	_
 2	sway-PL	sway-PL	NOUN	n	_	0	root	_	_
 3	backward	backward	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	forward	forward	ADV	adv	_	2	conj	_	_
 6	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -24849,7 +24849,7 @@
 6	the	the	DET	art	_	7	det	_	_
 7	cupboard	cupboard	NOUN	n	_	2	nmod	_	_
 8	please	please	INTJ	co	_	2	discourse	_	_
-9	and	and	CONJ	coord	_	2	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	shut&ZERO	shut&ZERO	VERB	v	_	2	conj	_	_
 11	the	the	DET	art	_	12	det	_	_
 12	door	door	NOUN	n	_	10	dobj	_	_
@@ -24900,7 +24900,7 @@
 3	put&ZERO	put&ZERO	VERB	v	_	0	root	_	_
 4	it	it	PRON	pro	_	3	dobj	_	_
 5	back	back	ADV	adv	_	3	advmod	_	_
-6	and	and	CONJ	coord	_	3	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	shut&ZERO	shut&ZERO	VERB	v	_	3	conj	_	_
 8	the	the	DET	art	_	9	det	_	_
 9	door	door	NOUN	n	_	7	dobj	_	_
@@ -25458,7 +25458,7 @@
 
 #eve05.xml,716
 1	ball-PL	ball-PL	NOUN	n	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	drum-PL	drum-PL	NOUN	n	_	1	conj	_	_
 4	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -26677,7 +26677,7 @@
 5	come	come	VERB	v	_	0	root	_	_
 6	down	down	ADV	adv	_	5	advmod	_	_
 7	here	here	ADV	adv	_	5	advmod	_	_
-8	and	and	CONJ	coord	_	5	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	see	see	VERB	v	_	5	conj	_	_
 10	Fraser	Fraser	PROPN	n:prop	_	9	dobj	_	_
 11	?	?	PUNCT	?	_	5	punct	_	_
@@ -26709,7 +26709,7 @@
 
 #eve06.xml,143
 1	come	come	VERB	v	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	4	cc	_	_
 3	move	move	NOUN	n	_	4	compund	_	_
 4	horse-DIM	horse-DIM	NOUN	n	_	1	conj	_	_
 5	.	.	PUNCT	.	_	1	punct	_	_
@@ -26772,7 +26772,7 @@
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	come	come	VERB	v	_	0	root	_	_
 4	here	here	ADV	adv	_	3	advmod	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	show	show	NOUN	n	_	3	conj	_	_
 7	Fraser	Fraser	PROPN	n:prop	_	6	dobj	_	_
 8	your	your	PRON	pro:poss:det	_	9	nmod:poss	_	_
@@ -26784,7 +26784,7 @@
 2	him	him	PRON	pro:obj	_	1	dobj	_	_
 3	your	your	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	lion	lion	NOUN	n	_	1	dobj	_	_
-5	and	and	CONJ	coord	_	1	cc	_	_
+5	and	and	CONJ	coord	_	7	cc	_	_
 6	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	turtle	turtle	NOUN	n	_	1	conj	_	_
 8	,	end	PUNCT	end	_	7	punct	_	_
@@ -27037,7 +27037,7 @@
 #eve06.xml,188
 1	come	come	VERB	v	_	0	root	_	_
 2	here	here	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	jump	jump	NOUN	n	_	1	conj	_	_
 5	off	off	ADP	prep	_	7	case	_	_
 6	the	the	DET	art	_	7	det	_	_
@@ -27112,7 +27112,7 @@
 3	Papa	Papa	PROPN	n:prop	_	4	nsubj	_	_
 4	sit	sit	VERB	v	_	0	root	_	_
 5	there	there	ADV	adv	_	4	advmod	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	hold	hold	VERB	v	_	4	conj	_	_
 8	on	on	ADV	adv	_	7	advmod	_	_
 9	to	to	ADP	prep	_	11	case	_	_
@@ -27303,7 +27303,7 @@
 7	your	your	PRON	pro:poss:det	_	8	nmod:poss	_	_
 8	finger-PL	finger-PL	NOUN	n	_	6	dobj	_	_
 9	first	first	ADV	adv	_	8	advmod	_	_
-10	and	and	CONJ	coord	_	8	cc	_	_
+10	and	and	CONJ	coord	_	14	cc	_	_
 11	then	then	ADV	adv:tem	_	14	advmod	_	_
 12	Mommy	Mommy	PROPN	n:prop	_	14	nsubj	_	_
 13	~will	~will	AUX	mod	_	14	aux	_	_
@@ -27946,7 +27946,7 @@
 2	ask	ask	VERB	v	_	0	root	_	_
 3	Papa	Papa	PROPN	n:prop	_	2	vocative	_	_
 4	please	please	INTJ	co	_	2	discourse	_	_
-5	and	and	CONJ	coord	_	2	cc	_	_
+5	and	and	CONJ	coord	_	11	cc	_	_
 6	he	he	PRON	pro:sub	_	11	nsubj	_	_
 7	~will	~will	AUX	mod	_	11	aux	_	_
 8	get	get	AUX	aux	_	11	aux	_	_
@@ -29115,7 +29115,7 @@
 14	the	the	DET	art	_	12	nmod	_	_
 15	other	other	ADJ	qn	_	16	amod	_	_
 16	stool	stool	NOUN	n	_	14	dobj	_	_
-17	and	and	CONJ	coord	_	16	cc	_	_
+17	and	and	CONJ	coord	_	21	cc	_	_
 18	then	then	ADV	adv:tem	_	21	advmod	_	_
 19	you	you	PRON	pro	_	21	nsubj	_	_
 20	can	can	AUX	mod	_	21	aux	_	_
@@ -29343,7 +29343,7 @@
 1	chew	chew	VERB	v	_	0	root	_	_
 2	it	it	PRON	pro	_	1	dobj	_	_
 3	up	up	ADV	adv	_	1	advmod	_	_
-4	and	and	CONJ	coord	_	1	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	tell	tell	VERB	v	_	1	conj	_	_
 6	me	me	PRON	pro:obj	_	5	dobj	_	_
 7	again	again	ADV	adv	_	5	advmod	_	_
@@ -29637,7 +29637,7 @@
 #eve07.xml,15
 1	animal	animal	NOUN	n	_	2	compund	_	_
 2	cracker-PL	cracker-PL	NOUN	n	_	0	root	_	_
-3	and	and	CONJ	coord	_	2	cc	_	_
+3	and	and	CONJ	coord	_	5	cc	_	_
 4	grape	grape	NOUN	n	_	5	compund	_	_
 5	juice	juice	NOUN	n	_	2	conj	_	_
 6	.	.	PUNCT	.	_	2	punct	_	_
@@ -31400,7 +31400,7 @@
 #eve07.xml,252
 1	noodle	noodle	NOUN	n	_	2	compund	_	_
 2	soup	soup	NOUN	n	_	0	root	_	_
-3	and	and	CONJ	coord	_	2	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	tapioca	tapioca	NOUN	n	_	2	conj	_	_
 5	?	?	PUNCT	?	_	2	punct	_	_
 
@@ -32570,7 +32570,7 @@
 3	a	a	DET	art	_	2	dobj	_	_
 4	graham	graham	NOUN	n	_	5	compound	_	_
 5	cracker	cracker	NOUN	n	_	3	dobj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	juice	juice	NOUN	n	_	5	conj	_	_
 8	on	on	ADP	prep	_	10	case	_	_
 9	the	the	DET	art	_	10	det	_	_
@@ -33096,7 +33096,7 @@
 5	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
 6	grape	grape	NOUN	n	_	7	compund	_	_
 7	juice	juice	NOUN	n	_	4	dobj	_	_
-8	and	and	CONJ	coord	_	4	cc	_	_
+8	and	and	CONJ	coord	_	12	cc	_	_
 9	then	then	ADV	adv:tem	_	12	advmod	_	_
 10	I	I	PRON	pro:sub	_	12	nsubj	_	_
 11	~will	~will	AUX	mod	_	12	aux	_	_
@@ -33357,7 +33357,7 @@
 5	in	in	ADP	prep	_	7	case	_	_
 6	the	the	DET	art	_	7	det	_	_
 7	corner	corner	NOUN	n	_	3	nmod	_	_
-8	and	and	CONJ	coord	_	3	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	leave	leave	VERB	v	_	3	conj	_	_
 10	it	it	PRON	pro	_	9	dobj	_	_
 11	alone	alone	ADV	adv	_	9	advmod	_	_
@@ -33367,7 +33367,7 @@
 1	in	in	ADP	prep	_	0	root	_	_
 2	that	that	DET	det	_	3	det	_	_
 3	corner	corner	NOUN	n	_	1	case	_	_
-4	and	and	CONJ	coord	_	1	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	take	take	VERB	v	_	1	conj	_	_
 6	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	finger	finger	NOUN	n	_	5	dobj	_	_
@@ -34284,7 +34284,7 @@
 8	~will	~will	AUX	mod	_	9	aux	_	_
 9	come	come	VERB	v	_	3	ccomp	_	_
 10	over	over	ADV	adv	_	9	advmod	_	_
-11	and	and	CONJ	coord	_	9	cc	_	_
+11	and	and	CONJ	coord	_	12	cc	_	_
 12	eat	eat	VERB	v	_	9	conj	_	_
 13	mine	mine	PRON	pro:poss	_	12	dobj	_	_
 14	.	.	PUNCT	.	_	3	punct	_	_
@@ -34494,7 +34494,7 @@
 
 #eve07.xml,690
 1	bread	bread	NOUN	n	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	butter	butter	NOUN	n	_	1	conj	_	_
 4	?	?	PUNCT	?	_	1	punct	_	_
 
@@ -35270,7 +35270,7 @@
 6	to	to	ADP	prep	_	8	case	_	_
 7	the	the	DET	art	_	8	det	_	_
 8	kitchen	kitchen	NOUN	n	_	5	nmod	_	_
-9	and	and	CONJ	coord	_	5	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	make	make	VERB	v	_	5	conj	_	_
 11	some	some	DET	qn	_	12	det	_	_
 12	tapioca	tapioca	NOUN	n	_	10	dobj	_	_
@@ -35289,7 +35289,7 @@
 6	to	to	ADP	prep	_	8	case	_	_
 7	the	the	DET	art	_	8	det	_	_
 8	kitchen	kitchen	NOUN	n	_	5	nmod	_	_
-9	and	and	CONJ	coord	_	5	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	help	help	VERB	v	_	5	conj	_	_
 11	me	me	PRON	pro:obj	_	10	dobj	_	_
 12	make	make	VERB	v	_	10	ccomp	_	_
@@ -35437,7 +35437,7 @@
 3	she	she	PRON	pro:sub	_	5	nsubj	_	_
 4	~be&3S	~be&3S	VERB	cop	_	5	cop	_	_
 5	thirst&dn-Y	thirst&dn-Y	ADJ	adj	_	4	root	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	10	cc	_	_
 7	hungry	hungry	ADJ	adj	_	10	amod	_	_
 8	just	just	ADJ	adj	_	9	amod	_	_
 9	like	like	INTJ	co	_	7	discourse	_	_
@@ -35716,7 +35716,7 @@
 2	I	I	PRON	pro:sub	_	3	nsubj	_	_
 3	read&ZERO	read&ZERO	VERB	v	_	0	root	_	_
 4	it	it	PRON	pro	_	3	dobj	_	_
-5	or	or	CONJ	coord	_	3	cc	_	_
+5	or	or	CONJ	coord	_	8	cc	_	_
 6	will	will	AUX	mod	_	8	aux	_	_
 7	you	you	PRON	pro	_	8	nsubj	_	_
 8	read&ZERO	read&ZERO	VERB	v	_	3	conj	_	_
@@ -36078,7 +36078,7 @@
 6	let&ZERO	let&ZERO	VERB	v	_	8	advmod	_	_
 7	me	me	PRON	pro:obj	_	8	nsubj	_	_
 8	go	go	VERB	v	_	3	advcl	_	_
-9	and	and	CONJ	coord	_	8	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	stir	stir	VERB	v	_	8	conj	_	_
 11	it	it	PRON	pro	_	10	dobj	_	_
 12	again	again	ADV	adv	_	10	advmod	_	_
@@ -36101,7 +36101,7 @@
 7	piece	piece	NOUN	n	_	5	dobj	_	_
 8	of	of	ADP	prep	_	9	case	_	_
 9	cheese	cheese	NOUN	n	_	7	nmod	_	_
-10	and	and	CONJ	coord	_	5	cc	_	_
+10	and	and	CONJ	coord	_	14	cc	_	_
 11	then	then	ADV	adv:tem	_	14	advmod	_	_
 12	we	we	PRON	pro:sub	_	14	nsubj	_	_
 13	~will	~will	AUX	mod	_	14	aux	_	_
@@ -36437,7 +36437,7 @@
 #eve08.xml,207
 1	cmon	cmon	INTJ	co	_	2	discourse	_	_
 2	,	beg	PUNCT	beg	_	0	punct	_	_
-3	and	and	CONJ	coord	_	2	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	let	let	VERB	v	_	2	conj	_	_
 5	~us	~us	PRON	pro:obj	_	4	dobj	_	_
 6	eat	eat	VERB	v	_	4	ccomp	_	_
@@ -36498,7 +36498,7 @@
 3	let	let	VERB	v	_	0	root	_	_
 4	~us	~us	PRON	pro:obj	_	3	dobj	_	_
 5	go	go	VERB	v	_	4	?	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	eat	eat	VERB	v	_	5	conj	_	_
 8	your	your	PRON	pro:poss:det	_	9	nmod:poss	_	_
 9	tapioca	tapioca	NOUN	n	_	7	dobj	_	_
@@ -36535,7 +36535,7 @@
 3	it	it	PRON	pro	_	4	nsubj	_	_
 4	go	go	VERB	v	_	0	root	_	_
 5	round	round	ADV	adv	_	4	advmod	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	round	round	ADV	adv	_	4	conj	_	_
 8	?	?	PUNCT	?	_	4	punct	_	_
 
@@ -36899,7 +36899,7 @@
 
 #eve08.xml,270
 1	Fraser	Fraser	PROPN	n:prop	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	I	I	PRON	pro:sub	_	1	conj	_	_
 4	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -37281,7 +37281,7 @@
 8	go	go	VERB	v	_	9	aux	_	_
 9	see	see	VERB	v	_	6	root	_	_
 10	Jack	Jack	PROPN	n:prop	_	9	dobj	_	_
-11	and	and	CONJ	coord	_	9	cc	_	_
+11	and	and	CONJ	coord	_	12	cc	_	_
 12	Jerry	Jerry	PROPN	n:prop	_	9	conj	_	_
 13	.	.	PUNCT	.	_	9	punct	_	_
 
@@ -37850,7 +37850,7 @@
 3	rest	rest	NOUN	n	_	2	dobj	_	_
 4	of	of	ADP	prep	_	5	case	_	_
 5	it	it	PRON	pro	_	3	nmod	_	_
-6	and	and	CONJ	coord	_	3	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	put&ZERO	put&ZERO	VERB	v	_	3	conj	_	_
 8	the	the	DET	art	_	10	det	_	_
 9	paper	paper	NOUN	n	_	10	compund	_	_
@@ -39849,7 +39849,7 @@
 2	to	to	PART	inf	_	3	mark	_	_
 3	see	see	VERB	v	_	1	xcomp	_	_
 4	Jack	Jack	PROPN	n:prop	_	3	dobj	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	8	cc	_	_
 6	Jerry	Jerry	PROPN	n:prop	_	8	nsubj	_	_
 7	be&3S	be&3S	VERB	cop	_	8	cop	_	_
 8	he	he	PRON	pro:sub	_	3	conj	_	_
@@ -39883,7 +39883,7 @@
 9	to	to	PART	inf	_	10	mark	_	_
 10	see	see	VERB	v	_	8	xcomp	_	_
 11	Jack	Jack	PROPN	n:prop	_	10	dobj	_	_
-12	and	and	CONJ	coord	_	10	cc	_	_
+12	and	and	CONJ	coord	_	13	cc	_	_
 13	Jerry	Jerry	PROPN	n:prop	_	10	conj	_	_
 14	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -40384,7 +40384,7 @@
 4	on	on	ADP	prep	_	6	case	_	_
 5	your	your	PRON	pro:poss:det	_	6	nmod:poss	_	_
 6	bottom	bottom	NOUN	n	_	2	nmod	_	_
-7	or	or	CONJ	coord	_	2	cc	_	_
+7	or	or	CONJ	coord	_	8	cc	_	_
 8	sit	sit	VERB	v	_	2	conj	_	_
 9	on	on	ADP	prep	_	11	case	_	_
 10	your	your	PRON	pro:poss:det	_	11	nmod:poss	_	_
@@ -41172,7 +41172,7 @@
 
 #eve08.xml,878
 1	Mom	Mom	PROPN	n:prop	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	Eve	Eve	PROPN	n:prop	_	1	conj	_	_
 4	,	end	PUNCT	end	_	3	punct	_	_
 5	yep	yep	INTJ	co	_	4	discourse	_	_
@@ -41466,7 +41466,7 @@
 4	to	to	PART	inf	_	5	mark	_	_
 5	see	see	VERB	v	_	3	xcomp	_	_
 6	Jack	Jack	PROPN	n:prop	_	5	dobj	_	_
-7	and	and	CONJ	coord	_	5	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	Jerry	Jerry	PROPN	n:prop	_	5	conj	_	_
 9	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -41929,7 +41929,7 @@
 4	up	up	ADP	prep	_	6	case	_	_
 5	the	the	DET	art	_	6	det	_	_
 6	briefcase	briefcase	NOUN	n	_	3	nmod	_	_
-7	and	and	CONJ	coord	_	3	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	put&ZERO	put&ZERO	VERB	v	_	3	conj	_	_
 9	it	it	PRON	pro	_	8	dobj	_	_
 10	in	in	ADV	adv	_	8	advmod	_	_
@@ -41948,7 +41948,7 @@
 9	of	of	X	X	_	8	mwe	_	_
 10	the	the	DET	art	_	7	nmod	_	_
 11	briefcase	briefcase	NOUN	n	_	10	dobj	_	_
-12	and	and	CONJ	coord	_	11	cc	_	_
+12	and	and	CONJ	coord	_	13	cc	_	_
 13	put&ZERO	put&ZERO	VERB	v	_	11	conj	_	_
 14	them	them	PRON	pro:obj	_	13	dobj	_	_
 15	back	back	ADV	adv	_	13	advmod	_	_
@@ -42572,7 +42572,7 @@
 3	at	at	ADP	prep	_	5	case	_	_
 4	this	this	DET	det	_	5	det	_	_
 5	yesterday	yesterday	ADV	adv:tem	_	2	nmod	_	_
-6	and	and	CONJ	coord	_	2	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	keep&PAST	keep&PAST	VERB	v	_	2	conj	_	_
 8	say-PRESP	say-PRESP	NOUN	n:gerund	_	7	dobj	_	_
 9	<quotation next line>	<quotation next line>	PUNCT	<quotation next line>	_	2	punct	_	_
@@ -42877,16 +42877,16 @@
 3	bring	bring	VERB	v	_	0	root	_	_
 4	the	the	DET	art	_	3	dobj	_	_
 5	momma	momma	NOUN	n	_	4	dobj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	the	the	DET	art	_	5	conj	_	_
 8	papa	papa	NOUN	n	_	7	dobj	_	_
-9	and	and	CONJ	coord	_	8	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	the	the	DET	art	_	8	conj	_	_
 11	boy	boy	NOUN	n	_	10	dobj	_	_
-12	and	and	CONJ	coord	_	11	cc	_	_
+12	and	and	CONJ	coord	_	13	cc	_	_
 13	the	the	DET	art	_	11	conj	_	_
 14	girl	girl	NOUN	n	_	13	dobj	_	_
-15	and	and	CONJ	coord	_	14	cc	_	_
+15	and	and	CONJ	coord	_	16	cc	_	_
 16	Cromer	Cromer	PROPN	n:prop	_	14	conj	_	_
 17	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -43101,7 +43101,7 @@
 3	do	do	VERB	v	_	5	nsubj	_	_
 4	be&3S	be&3S	VERB	cop	_	5	aux	_	_
 5	go	go	VERB	v	_	0	root	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	look	look	VERB	v	_	5	conj	_	_
 8	at	at	ADP	prep	_	9	case	_	_
 9	it	it	PRON	pro	_	7	nmod	_	_
@@ -43839,13 +43839,13 @@
 1	let	let	VERB	v	_	3	?	_	_
 2	~us	~us	PRON	pro:obj	_	3	nsubj	_	_
 3	go	go	VERB	v	_	0	root	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	get	get	VERB	v	_	3	conj	_	_
 6	the	the	DET	art	_	5	dobj	_	_
 7	card-PL	card-PL	NOUN	n	_	6	dobj	_	_
-8	and	and	CONJ	coord	_	7	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	letter-PL	letter-PL	NOUN	n	_	7	conj	_	_
-10	and	and	CONJ	coord	_	9	cc	_	_
+10	and	and	CONJ	coord	_	11	cc	_	_
 11	see	see	VERB	v	_	9	conj	_	_
 12	what	what	PRON	pro:wh	_	16	dobj	_	_
 13	the	the	DET	art	_	16	advmod	_	_
@@ -47018,7 +47018,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	have	have	VERB	v	_	0	root	_	_
 3	those	those	DET	det	_	4	det	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	7	cc	_	_
 5	I	I	PRON	pro:sub	_	7	nsubj	_	_
 6	~will	~will	AUX	mod	_	7	aux	_	_
 7	have	have	VERB	v	_	2	conj	_	_
@@ -47737,7 +47737,7 @@
 6	he	he	PRON	pro:sub	_	7	nsubj	_	_
 7	come-3S	come-3S	VERB	v	_	4	advcl	_	_
 8	home	home	NOUN	n	_	7	advmod	_	_
-9	and	and	CONJ	coord	_	7	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	ask	ask	VERB	v	_	7	conj	_	_
 11	him	him	PRON	pro:obj	_	10	dobj	_	_
 12	.	.	PUNCT	.	_	2	punct	_	_
@@ -47790,7 +47790,7 @@
 #eve10.xml,197
 1	oh	oh	INTJ	co	_	2	discourse	_	_
 2	Granpa	Granpa	PROPN	n:prop	_	0	root	_	_
-3	and	and	CONJ	coord	_	2	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	Granny	Granny	PROPN	n:prop	_	2	conj	_	_
 5	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -48429,7 +48429,7 @@
 2	~be&3S	~be&3S	AUX	aux	_	3	aux	_	_
 3	bob-PRESP	bob-PRESP	VERB	part	_	0	root	_	_
 4	up	up	ADV	adv	_	3	advmod	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	down	down	ADV	adv	_	3	conj	_	_
 7	be&3S	be&3S	VERB	cop	_	9	cop	_	_
 8	~not	~not	PART	neg	_	6	neg	_	_
@@ -48438,14 +48438,14 @@
 
 #eve10.xml,296
 1	up	up	ADV	adv	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	down	down	ADV	adv	_	1	conj	_	_
 4	.	.	PUNCT	.	_	1	punct	_	_
 
 #eve10.xml,297
 1	bob-PRESP	bob-PRESP	VERB	part	_	0	root	_	_
 2	up	up	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	down	down	ADV	adv	_	1	conj	_	_
 5	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -48454,7 +48454,7 @@
 2	~be&3S	~be&3S	AUX	aux	_	3	aux	_	_
 3	bob-PRESP	bob-PRESP	VERB	part	_	0	root	_	_
 4	up	up	ADV	adv	_	3	advmod	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	down	down	ADV	adv	_	3	conj	_	_
 7	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -48462,14 +48462,14 @@
 1	he	he	PRON	pro:sub	_	2	nsubj	_	_
 2	go-3S	go-3S	VERB	v	_	0	root	_	_
 3	up	up	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	down	down	ADV	adv	_	2	conj	_	_
 6	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve10.xml,300
 1	bob-PRESP	bob-PRESP	VERB	part	_	0	root	_	_
 2	up	up	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	down	down	ADV	adv	_	1	conj	_	_
 5	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -48484,7 +48484,7 @@
 3	be&PAST&13S	be&PAST&13S	AUX	aux	_	4	aux	_	_
 4	bob-PRESP	bob-PRESP	VERB	part	_	0	root	_	_
 5	up	up	ADV	adv	_	4	advmod	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	down	down	ADV	adv	_	4	conj	_	_
 8	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -48499,7 +48499,7 @@
 2	be&PAST&13S	be&PAST&13S	AUX	aux	_	3	aux	_	_
 3	bob-PRESP	bob-PRESP	VERB	part	_	0	root	_	_
 4	up	up	ADV	adv	_	3	advmod	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	down	down	ADV	adv	_	3	conj	_	_
 7	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -48510,7 +48510,7 @@
 4	him	him	PRON	pro:obj	_	3	dobj	_	_
 5	bob-PRESP	bob-PRESP	VERB	part	_	3	dobj	_	_
 6	up	up	ADV	adv	_	5	advmod	_	_
-7	and	and	CONJ	coord	_	5	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	down	down	ADV	adv	_	5	conj	_	_
 9	again	again	ADV	adv	_	8	advmod	_	_
 10	?	?	PUNCT	?	_	3	punct	_	_
@@ -48757,7 +48757,7 @@
 3	~be&3S	~be&3S	VERB	cop	_	4	cop	_	_
 4	the	the	DET	art	_	3	root	_	_
 5	Papa	Papa	PROPN	n:prop	_	4	?	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	the	the	DET	art	_	5	conj	_	_
 8	Mommy	Mommy	PROPN	n:prop	_	7	vocative	_	_
 9	.	.	PUNCT	.	_	4	punct	_	_
@@ -49096,14 +49096,14 @@
 2	he	he	PRON	pro:sub	_	3	nsubj	_	_
 3	bob-PRESP	bob-PRESP	VERB	part	_	0	root	_	_
 4	up	up	ADV	adv	_	3	advmod	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	down	down	ADV	adv	_	3	conj	_	_
 7	.	.	PUNCT	.	_	3	punct	_	_
 
 #eve10.xml,387
 1	bob-PRESP	bob-PRESP	VERB	part	_	0	root	_	_
 2	up	up	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	down	down	ADV	adv	_	1	conj	_	_
 5	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -49111,7 +49111,7 @@
 1	he	he	PRON	pro:sub	_	2	nsubj	_	_
 2	bob-3S	bob-3S	VERB	v	_	0	root	_	_
 3	up	up	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	down	down	ADV	adv	_	2	conj	_	_
 6	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -49156,7 +49156,7 @@
 4	like	like	SCONJ	conj	_	3	dobj	_	_
 5	a	a	DET	art	_	4	dobj	_	_
 6	cracker	cracker	NOUN	n	_	5	dobj	_	_
-7	or	or	CONJ	coord	_	6	cc	_	_
+7	or	or	CONJ	coord	_	8	cc	_	_
 8	a	a	DET	art	_	6	conj	_	_
 9	piece	piece	NOUN	n	_	8	dobj	_	_
 10	of	of	ADP	prep	_	11	case	_	_
@@ -49174,7 +49174,7 @@
 5	on	on	ADP	prep	_	6	case	_	_
 6	it	it	PRON	pro	_	3	nmod	_	_
 7	too	too	ADV	adv	_	6	advmod	_	_
-8	or	or	CONJ	coord	_	7	cc	_	_
+8	or	or	CONJ	coord	_	11	cc	_	_
 9	just	just	ADV	adv	_	11	advmod	_	_
 10	peanut	peanut	NOUN	n	_	11	compound	_	_
 11	butter	butter	NOUN	n	_	7	conj	_	_
@@ -49316,7 +49316,7 @@
 #eve10.xml,419
 1	bob-PRESP	bob-PRESP	VERB	part	_	0	root	_	_
 2	up	up	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	down	down	ADV	adv	_	1	conj	_	_
 5	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -49339,7 +49339,7 @@
 2	~be&3S	~be&3S	AUX	aux	_	3	aux	_	_
 3	bob-PRESP	bob-PRESP	VERB	part	_	0	root	_	_
 4	up	up	ADV	adv	_	3	advmod	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	down	down	ADV	adv	_	3	conj	_	_
 7	?	?	PUNCT	?	_	3	punct	_	_
 
@@ -49658,7 +49658,7 @@
 3	under	under	ADP	prep	_	5	case	_	_
 4	his	his	PRON	pro:poss:det	_	5	nmod:poss	_	_
 5	shirt	shirt	NOUN	n	_	2	nmod	_	_
-6	and	and	CONJ	coord	_	2	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	under	under	ADP	prep	_	2	conj	_	_
 8	his	his	PRON	pro:poss:det	_	9	nmod:poss	_	_
 9	jacket	jacket	NOUN	n	_	7	case	_	_
@@ -49735,7 +49735,7 @@
 #eve10.xml,479
 1	turn	turn	VERB	v	_	0	root	_	_
 2	around	around	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	finish	finish	VERB	v	_	1	conj	_	_
 5	your	your	PRON	pro:poss:det	_	6	nmod:poss	_	_
 6	lunch	lunch	NOUN	n	_	4	dobj	_	_
@@ -49750,7 +49750,7 @@
 6	finish	finish	VERB	v	_	2	ccomp	_	_
 7	your	your	PRON	pro:poss:det	_	8	nmod:poss	_	_
 8	lunch	lunch	NOUN	n	_	6	dobj	_	_
-9	and	and	CONJ	coord	_	6	cc	_	_
+9	and	and	CONJ	coord	_	13	cc	_	_
 10	then	then	ADV	adv:tem	_	13	advmod	_	_
 11	we	we	PRON	pro:sub	_	13	nsubj	_	_
 12	~will	~will	AUX	mod	_	13	aux	_	_
@@ -50496,7 +50496,7 @@
 1	you	you	PRON	pro	_	3	nsubj	_	_
 2	can	can	AUX	mod	_	3	aux	_	_
 3	come	come	VERB	v	_	0	root	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	write	write	VERB	v	_	3	conj	_	_
 6	on	on	ADP	prep	_	8	case	_	_
 7	my	my	PRON	pro:poss:det	_	8	nmod:poss	_	_
@@ -50667,7 +50667,7 @@
 1	I	I	PRON	pro:sub	_	3	nsubj	_	_
 2	~will	~will	AUX	mod	_	3	aux	_	_
 3	go	go	VERB	v	_	0	root	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	have	have	VERB	v	_	3	conj	_	_
 6	my	my	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	lunch	lunch	NOUN	n	_	5	dobj	_	_
@@ -51627,7 +51627,7 @@
 2	we	we	PRON	pro:sub	_	4	nsubj	_	_
 3	~will	~will	AUX	mod	_	4	aux	_	_
 4	go	go	VERB	v	_	0	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	take	take	VERB	v	_	4	conj	_	_
 7	a	a	DET	art	_	8	det	_	_
 8	nap	nap	NOUN	n	_	6	dobj	_	_
@@ -52021,7 +52021,7 @@
 1	well	well	INTJ	co	_	2	discourse	_	_
 2	run	run	NOUN	n	_	0	root	_	_
 3	along	along	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	play	play	NOUN	n	_	2	conj	_	_
 6	with	with	ADP	prep	_	7	case	_	_
 7	him	him	PRON	pro:obj	_	5	nmod	_	_
@@ -52581,7 +52581,7 @@
 2	open	open	VERB	v	_	0	root	_	_
 3	the	the	DET	art	_	4	det	_	_
 4	door	door	NOUN	n	_	2	dobj	_	_
-5	and	and	CONJ	coord	_	2	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	let&ZERO	let&ZERO	VERB	v	_	2	conj	_	_
 7	him	him	PRON	pro:obj	_	6	dobj	_	_
 8	in	in	ADV	adv	_	6	advmod	_	_
@@ -52736,7 +52736,7 @@
 2	Eve	Eve	PROPN	n:prop	_	4	advmod	_	_
 3	you	you	PRON	pro	_	4	nsubj	_	_
 4	wait	wait	VERB	v	_	0	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	let&ZERO	let&ZERO	VERB	v	_	4	conj	_	_
 7	Rick	Rick	PROPN	n:prop	_	8	nsubj	_	_
 8	open	open	VERB	v	_	6	ccomp	_	_
@@ -52868,7 +52868,7 @@
 6	two	two	NUM	det:num	_	5	dobj	_	_
 7	of	of	ADP	prep	_	8	case	_	_
 8	them	them	PRON	pro:obj	_	6	nmod	_	_
-9	and	and	CONJ	coord	_	5	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	put&ZERO	put&ZERO	VERB	v	_	5	conj	_	_
 11	them	them	PRON	pro:obj	_	10	dobj	_	_
 12	on	on	ADP	prep	_	14	case	_	_
@@ -52911,7 +52911,7 @@
 4	the	the	DET	art	_	3	dobj	_	_
 5	Mama	Mama	PROPN	n:prop	_	6	nmod	_	_
 6	doll	doll	NOUN	n	_	4	dobj	_	_
-7	and	and	CONJ	coord	_	6	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	the	the	DET	art	_	6	conj	_	_
 9	Papa	Papa	PROPN	n:prop	_	10	nmod	_	_
 10	doll	doll	NOUN	n	_	8	dobj	_	_
@@ -52944,7 +52944,7 @@
 4	the	the	DET	art	_	3	dobj	_	_
 5	Mama	Mama	PROPN	n:prop	_	6	nmod	_	_
 6	doll	doll	NOUN	n	_	4	?	_	_
-7	and	and	CONJ	coord	_	6	cc	_	_
+7	and	and	CONJ	coord	_	10	cc	_	_
 8	the	the	DET	art	_	10	det	_	_
 9	baby	baby	NOUN	n	_	10	compund	_	_
 10	doll	doll	NOUN	n	_	6	conj	_	_
@@ -52967,7 +52967,7 @@
 5	for	for	ADP	prep	_	7	case	_	_
 6	just	just	ADV	adv	_	7	advmod	_	_
 7	now	now	ADV	adv	_	3	nmod	_	_
-8	and	and	CONJ	coord	_	3	cc	_	_
+8	and	and	CONJ	coord	_	12	cc	_	_
 9	then	then	ADV	adv:tem	_	12	advmod	_	_
 10	we	we	PRON	pro:sub	_	12	nsubj	_	_
 11	~will	~will	AUX	mod	_	12	aux	_	_
@@ -53373,7 +53373,7 @@
 3	be&PAST&13S	be&PAST&13S	AUX	aux	_	4	aux	_	_
 4	bob-PRESP	bob-PRESP	VERB	part	_	0	root	_	_
 5	up	up	ADV	adv	_	4	advmod	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	down	down	ADV	adv	_	4	conj	_	_
 8	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -54933,7 +54933,7 @@
 4	want	want	VERB	v	_	0	root	_	_
 5	peanut	peanut	NOUN	n	_	6	compound	_	_
 6	butter	butter	NOUN	n	_	4	dobj	_	_
-7	or	or	CONJ	coord	_	6	cc	_	_
+7	or	or	CONJ	coord	_	8	cc	_	_
 8	cheese	cheese	NOUN	n	_	6	conj	_	_
 9	?	?	PUNCT	?	_	4	punct	_	_
 
@@ -54998,7 +54998,7 @@
 #eve12.xml,195
 1	Frosty	Frosty	PROPN	n:prop	_	2	nsubj	_	_
 2	melt-PAST	melt-PAST	VERB	v	_	0	root	_	_
-3	and	and	CONJ	coord	_	2	cc	_	_
+3	and	and	CONJ	coord	_	5	cc	_	_
 4	your	your	PRON	pro:poss:det	_	5	nmod:poss	_	_
 5	tunnel	tunnel	NOUN	n	_	2	conj	_	_
 6	.	.	PUNCT	.	_	2	punct	_	_
@@ -55744,7 +55744,7 @@
 4	put&ZERO	put&ZERO	VERB	v	_	2	ccomp	_	_
 5	your	your	PRON	pro:poss:det	_	6	nmod:poss	_	_
 6	brush	brush	NOUN	n	_	4	dobj	_	_
-7	and	and	CONJ	coord	_	4	cc	_	_
+7	and	and	CONJ	coord	_	9	cc	_	_
 8	your	your	PRON	pro:poss:det	_	9	nmod:poss	_	_
 9	dustpan	dustpan	NOUN	n	_	4	conj	_	_
 10	away	away	ADV	adv	_	9	advmod	_	_
@@ -55797,7 +55797,7 @@
 5	put&ZERO	put&ZERO	VERB	v	_	1	root	_	_
 6	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	dustpan	dustpan	NOUN	n	_	5	dobj	_	_
-8	and	and	CONJ	coord	_	5	cc	_	_
+8	and	and	CONJ	coord	_	10	cc	_	_
 9	your	your	PRON	pro:poss:det	_	10	nmod:poss	_	_
 10	brush	brush	NOUN	n	_	5	conj	_	_
 11	away	away	ADV	adv	_	10	advmod	_	_
@@ -57125,7 +57125,7 @@
 5	on	on	ADP	prep	_	6	case	_	_
 6	the	the	DET	art	_	4	nmod	_	_
 7	board	board	NOUN	n	_	6	dobj	_	_
-8	and	and	CONJ	coord	_	7	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	make	make	VERB	v	_	7	conj	_	_
 10	word-PL	word-PL	NOUN	n	_	9	dobj	_	_
 11	.	.	PUNCT	.	_	4	punct	_	_
@@ -57332,7 +57332,7 @@
 3	dig&PAST	dig&PAST	VERB	v	_	0	root	_	_
 4	the	the	DET	art	_	3	dobj	_	_
 5	hole	hole	NOUN	n	_	4	dobj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	10	cc	_	_
 7	now	now	ADV	adv	_	10	advmod	_	_
 8	they	they	PRON	pro:sub	_	10	nsubj	_	_
 9	~be&PRES	~be&PRES	AUX	aux	_	10	aux	_	_
@@ -57575,7 +57575,7 @@
 5	just	just	ADJ	adj	_	6	advmod	_	_
 6	go-PRESP	go-PRESP	VERB	part	_	2	advmod	_	_
 7	round	round	ADV	adv	_	6	advmod	_	_
-8	and	and	CONJ	coord	_	6	cc	_	_
+8	and	and	CONJ	coord	_	10	cc	_	_
 9	round	round	ADV	adv	_	10	advmod	_	_
 10	right	right	ADV	adv	_	6	conj	_	_
 11	now	now	ADV	adv	_	10	advmod	_	_
@@ -57950,7 +57950,7 @@
 1	be&PRES	be&PRES	VERB	cop	_	3	cop	_	_
 2	these	these	DET	det	_	3	det	_	_
 3	doll-PL	doll-PL	NOUN	n	_	1	root	_	_
-4	or	or	CONJ	coord	_	3	cc	_	_
+4	or	or	CONJ	coord	_	5	cc	_	_
 5	doll	doll	NOUN	n	_	3	conj	_	_
 6	Eve	Eve	PROPN	n:prop	_	5	vocative	_	_
 7	?	?	PUNCT	?	_	3	punct	_	_
@@ -57959,7 +57959,7 @@
 1	be&PRES	be&PRES	VERB	cop	_	2	cop	_	_
 2	they	they	PRON	pro:sub	_	1	root	_	_
 3	doll-PL	doll-PL	NOUN	n	_	2	dobj	_	_
-4	or	or	CONJ	coord	_	3	cc	_	_
+4	or	or	CONJ	coord	_	7	cc	_	_
 5	be&PRES	be&PRES	VERB	cop	_	7	cop	_	_
 6	they	they	PRON	pro:sub	_	7	nsubj	_	_
 7	doll	doll	NOUN	n	_	3	conj	_	_
@@ -58413,7 +58413,7 @@
 4	until	until	SCONJ	conj	_	6	mark	_	_
 5	they	they	PRON	pro:sub	_	6	nsubj	_	_
 6	go	go	VERB	v	_	3	advcl	_	_
-7	and	and	CONJ	coord	_	6	cc	_	_
+7	and	and	CONJ	coord	_	11	cc	_	_
 8	then	then	ADV	adv:tem	_	11	advmod	_	_
 9	I	I	PRON	pro:sub	_	11	nsubj	_	_
 10	~will	~will	AUX	mod	_	11	aux	_	_
@@ -58601,7 +58601,7 @@
 1	be&PRES	be&PRES	VERB	cop	_	2	cop	_	_
 2	they	they	PRON	pro:sub	_	1	root	_	_
 3	napkin-PL	napkin-PL	NOUN	n	_	2	dobj	_	_
-4	or	or	CONJ	coord	_	3	cc	_	_
+4	or	or	CONJ	coord	_	7	cc	_	_
 5	be&PRES	be&PRES	VERB	cop	_	7	cop	_	_
 6	they	they	PRON	pro:sub	_	7	nsubj	_	_
 7	napkin	napkin	NOUN	n	_	3	conj	_	_
@@ -58726,7 +58726,7 @@
 #eve12.xml,689
 1	for	for	ADP	prep	_	0	root	_	_
 2	Jack	Jack	PROPN	n:prop	_	1	case	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	Jerry	Jerry	PROPN	n:prop	_	1	conj	_	_
 5	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -58764,7 +58764,7 @@
 6	you	you	PRON	pro	_	8	nsubj	_	_
 7	~be&PRES	~be&PRES	AUX	aux	_	8	aux	_	_
 8	write-PRESP	write-PRESP	VERB	part	_	4	ccomp	_	_
-9	or	or	CONJ	coord	_	8	cc	_	_
+9	or	or	CONJ	coord	_	10	cc	_	_
 10	a	a	NOUN	n:let	_	8	conj	_	_
 11	b	b	NOUN	n:let	_	12	MOD	_	_
 12	c	c	NOUN	n:let	_	10	dobj	_	_
@@ -59657,7 +59657,7 @@
 4	these	these	DET	det	_	5	det	_	_
 5	away	away	ADV	adv	_	3	advmod	_	_
 6	first	first	ADV	adv	_	3	advmod	_	_
-7	and	and	CONJ	coord	_	3	cc	_	_
+7	and	and	CONJ	coord	_	11	cc	_	_
 8	then	then	ADV	adv:tem	_	11	advmod	_	_
 9	we	we	PRON	pro:sub	_	11	nsubj	_	_
 10	~will	~will	AUX	mod	_	11	aux	_	_
@@ -60341,7 +60341,7 @@
 6	a	a	DET	art	_	8	det	_	_
 7	little	little	ADJ	adj	_	8	amod	_	_
 8	while	while	NOUN	n	_	3	nmod	_	_
-9	and	and	CONJ	coord	_	3	cc	_	_
+9	and	and	CONJ	coord	_	14	cc	_	_
 10	then	then	ADV	adv:tem	_	13	advmod	_	_
 11	I	I	PRON	pro:sub	_	14	nsubj	_	_
 12	~will	~will	AUX	mod	_	14	aux	_	_
@@ -60355,10 +60355,10 @@
 
 #eve13.xml,236
 1	pea-PL	pea-PL	NOUN	n	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	4	cc	_	_
 3	sweet	sweet	NOUN	n	_	4	compund	_	_
 4	potato-PL	potato-PL	NOUN	n	_	1	conj	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	dessert	dessert	NOUN	n	_	4	conj	_	_
 7	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -60382,7 +60382,7 @@
 2	potato-PL	potato-PL	NOUN	n	_	4	nsubj	_	_
 3	be&PRES	be&PRES	VERB	cop	_	4	cop	_	_
 4	orange	orange	NOUN	n	_	3	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	8	cc	_	_
 6	carrot-PL	carrot-PL	NOUN	n	_	8	nsubj	_	_
 7	be&PRES	be&PRES	VERB	cop	_	8	cop	_	_
 8	orange	orange	NOUN	n	_	4	conj	_	_
@@ -60677,7 +60677,7 @@
 3	~not	~not	PART	neg	_	4	neg	_	_
 4	hit&ZERO	hit&ZERO	VERB	v	_	0	root	_	_
 5	Sarah	Sarah	PROPN	n:prop	_	4	dobj	_	_
-6	or	or	CONJ	coord	_	4	cc	_	_
+6	or	or	CONJ	coord	_	7	cc	_	_
 7	me	me	PRON	pro:obj	_	4	conj	_	_
 8	with	with	ADP	prep	_	11	case	_	_
 9	your	your	PRON	pro:poss:det	_	10	nmod:poss	_	_
@@ -60710,10 +60710,10 @@
 #eve13.xml,276
 1	not	not	PART	neg	_	2	neg	_	_
 2	Sarah	Sarah	PROPN	n:prop	_	0	root	_	_
-3	and	and	CONJ	coord	_	2	cc	_	_
+3	and	and	CONJ	coord	_	5	cc	_	_
 4	not	not	PART	neg	_	3	neg	_	_
 5	Papa	Papa	PROPN	n:prop	_	2	conj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	8	cc	_	_
 7	not	not	PART	neg	_	6	neg	_	_
 8	Fraser	Fraser	PROPN	n:prop	_	5	conj	_	_
 9	either	either	ADV	adv	_	8	advmod	_	_
@@ -61037,7 +61037,7 @@
 
 #eve13.xml,319
 1	run	run	VERB	v	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	give	give	VERB	v	_	1	conj	_	_
 4	Papa	Papa	PROPN	n:prop	_	6	nmod	_	_
 5	a	a	DET	art	_	6	det	_	_
@@ -61191,7 +61191,7 @@
 2	~will	~will	AUX	mod	_	3	aux	_	_
 3	come	come	VERB	v	_	0	root	_	_
 4	back	back	NOUN	n	_	3	dobj	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	see	see	VERB	v	_	3	conj	_	_
 7	you	you	PRON	pro	_	6	dobj	_	_
 8	this	this	DET	det	_	9	det	_	_
@@ -61219,7 +61219,7 @@
 3	~will	~will	AUX	mod	_	4	aux	_	_
 4	come	come	VERB	v	_	0	root	_	_
 5	back	back	NOUN	n	_	4	dobj	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	see	see	VERB	v	_	4	conj	_	_
 8	you	you	PRON	pro	_	7	dobj	_	_
 9	then	then	ADV	adv:tem	_	7	root	_	_
@@ -61278,7 +61278,7 @@
 3	go-PRESP	go-PRESP	VERB	part	_	0	root	_	_
 4	to	to	PART	inf	_	5	mark	_	_
 5	go	go	VERB	v	_	3	xcomp	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	have	have	VERB	v	_	5	conj	_	_
 8	his	his	PRON	pro:poss:det	_	9	nmod:poss	_	_
 9	lunch	lunch	NOUN	n	_	7	dobj	_	_
@@ -61290,7 +61290,7 @@
 15	have	have	VERB	v	_	13	xcomp	_	_
 16	a	a	DET	art	_	15	dobj	_	_
 17	nap	nap	NOUN	n	_	16	dobj	_	_
-18	and	and	CONJ	coord	_	17	cc	_	_
+18	and	and	CONJ	coord	_	22	cc	_	_
 19	then	then	ADV	adv:tem	_	22	advmod	_	_
 20	he	he	PRON	pro:sub	_	22	nsubj	_	_
 21	~be&3S	~be&3S	AUX	aux	_	22	aux	_	_
@@ -61823,7 +61823,7 @@
 4	~to	~to	PART	inf	_	5	mark	_	_
 5	go	go	VERB	v	_	3	xcomp	_	_
 6	up	up	ADV	adv	_	5	advmod	_	_
-7	and	and	CONJ	coord	_	5	cc	_	_
+7	and	and	CONJ	coord	_	9	cc	_	_
 8	pee	pee	NOUN	n	_	9	compound	_	_
 9	pee	pee	NOUN	n	_	5	conj	_	_
 10	Eve	Eve	PROPN	n:prop	_	9	vocative	_	_
@@ -62683,7 +62683,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	go	go	VERB	v	_	0	root	_	_
 3	in	in	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	talk	talk	NOUN	n	_	2	conj	_	_
 6	to	to	ADP	prep	_	7	case	_	_
 7	Fraser	Fraser	PROPN	n:prop	_	5	nmod	_	_
@@ -63501,7 +63501,7 @@
 3	have	have	X	X	_	5	aux	_	_
 4	to	to	X	X	_	5	mwe	_	_
 5	look	look	VERB	v	_	0	root	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	see	see	VERB	v	_	5	conj	_	_
 8	if	if	SCONJ	conj	_	11	mark	_	_
 9	we	we	PRON	pro:sub	_	11	nsubj	_	_
@@ -63635,7 +63635,7 @@
 2	they	they	PRON	pro:sub	_	4	MOD	_	_
 3	little	little	ADJ	adj	_	4	amod	_	_
 4	tooth&PL	tooth&PL	NOUN	n	_	1	root	_	_
-5	or	or	CONJ	coord	_	4	cc	_	_
+5	or	or	CONJ	coord	_	9	cc	_	_
 6	be&PRES	be&PRES	VERB	cop	_	9	MOD	_	_
 7	they	they	PRON	pro:sub	_	9	MOD	_	_
 8	big	big	ADJ	adj	_	9	amod	_	_
@@ -63761,7 +63761,7 @@
 6	a	a	DET	art	_	8	det	_	_
 7	little	little	ADJ	adj	_	8	amod	_	_
 8	while	while	NOUN	n	_	3	nmod	_	_
-9	and	and	CONJ	coord	_	8	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	play	play	NOUN	n	_	8	conj	_	_
 11	with	with	ADP	prep	_	12	case	_	_
 12	him	him	PRON	pro:obj	_	10	nmod	_	_
@@ -63785,7 +63785,7 @@
 8	a	a	DET	art	_	10	det	_	_
 9	little	little	ADJ	adj	_	10	amod	_	_
 10	while	while	NOUN	n	_	5	nmod	_	_
-11	and	and	CONJ	coord	_	10	cc	_	_
+11	and	and	CONJ	coord	_	12	cc	_	_
 12	play	play	NOUN	n	_	10	conj	_	_
 13	with	with	ADP	prep	_	14	case	_	_
 14	him	him	PRON	pro:obj	_	12	nmod	_	_
@@ -63873,7 +63873,7 @@
 
 #eve14.xml,204
 1	wait	wait	VERB	v	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	do	do	VERB	v	_	1	conj	_	_
 4	your	your	PRON	pro:poss:det	_	5	nmod:poss	_	_
 5	own	own	ADJ	adj	_	3	dobj	_	_
@@ -64121,7 +64121,7 @@
 2	~be&PRES	~be&PRES	AUX	aux	_	3	aux	_	_
 3	go-PRESP	go-PRESP	VERB	part	_	0	root	_	_
 4	down	down	ADV	adv	_	3	dobj	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	see	see	VERB	v	_	3	conj	_	_
 7	Fraser	Fraser	PROPN	n:prop	_	6	dobj	_	_
 8	.	.	PUNCT	.	_	3	punct	_	_
@@ -64152,7 +64152,7 @@
 7	may	may	AUX	mod	_	8	aux	_	_
 8	go	go	VERB	v	_	3	ccomp	_	_
 9	outside	outside	ADV	adv	_	8	advmod	_	_
-10	and	and	CONJ	coord	_	8	cc	_	_
+10	and	and	CONJ	coord	_	11	cc	_	_
 11	play	play	NOUN	n	_	8	conj	_	_
 12	with	with	ADP	prep	_	13	case	_	_
 13	Becky	Becky	PROPN	n:prop	_	11	nmod	_	_
@@ -64281,7 +64281,7 @@
 5	with	with	ADP	prep	_	7	case	_	_
 6	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	Papa	Papa	PROPN	n:prop	_	3	nmod	_	_
-8	and	and	CONJ	coord	_	3	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	with	with	ADP	prep	_	3	conj	_	_
 10	me	me	PRON	pro:obj	_	9	case	_	_
 11	.	.	PUNCT	.	_	3	punct	_	_
@@ -64343,7 +64343,7 @@
 3	we	we	PRON	pro:sub	_	5	nsubj	_	_
 4	~will	~will	AUX	mod	_	5	aux	_	_
 5	go	go	VERB	v	_	0	root	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	see	see	VERB	v	_	5	conj	_	_
 8	them	them	PRON	pro:obj	_	7	dobj	_	_
 9	after	after	ADV	adv:tem	_	7	dobj	_	_
@@ -64355,7 +64355,7 @@
 3	you	you	PRON	pro	_	4	nsubj	_	_
 4	stay	stay	VERB	v	_	0	root	_	_
 5	here	here	ADV	adv	_	4	advmod	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	talk	talk	NOUN	n	_	4	conj	_	_
 8	to	to	ADP	prep	_	9	case	_	_
 9	Fraser	Fraser	PROPN	n:prop	_	7	nmod	_	_
@@ -64411,7 +64411,7 @@
 4	go	go	VERB	v	_	2	xcomp	_	_
 5	to	to	ADP	prep	_	6	case	_	_
 6	bed	bed	NOUN	n	_	4	nmod	_	_
-7	and	and	CONJ	coord	_	4	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	take	take	VERB	v	_	4	conj	_	_
 9	a	a	DET	art	_	11	det	_	_
 10	little	little	ADJ	adj	_	11	amod	_	_
@@ -65038,7 +65038,7 @@
 5	go-PRESP	go-PRESP	VERB	part	_	0	root	_	_
 6	to	to	PART	inf	_	7	mark	_	_
 7	go	go	VERB	v	_	5	xcomp	_	_
-8	and	and	CONJ	coord	_	7	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	put&ZERO	put&ZERO	VERB	v	_	7	conj	_	_
 10	a	a	DET	art	_	9	dobj	_	_
 11	cover	cover	NOUN	n	_	10	dobj	_	_
@@ -65063,7 +65063,7 @@
 4	at	at	ADP	prep	_	5	case	_	_
 5	the	the	DET	art	_	2	nmod	_	_
 6	door	door	NOUN	n	_	5	dobj	_	_
-7	and	and	CONJ	coord	_	6	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	watch	watch	NOUN	n	_	6	conj	_	_
 9	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -65092,7 +65092,7 @@
 4	~will	~will	AUX	mod	_	5	aux	_	_
 5	stay	stay	VERB	v	_	0	root	_	_
 6	here	here	ADV	adv	_	5	advmod	_	_
-7	and	and	CONJ	coord	_	5	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	watch	watch	NOUN	n	_	5	conj	_	_
 9	.	.	PUNCT	.	_	5	punct	_	_
 
@@ -65167,11 +65167,11 @@
 #eve14.xml,369
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	go	go	VERB	v	_	0	root	_	_
-3	and	and	CONJ	coord	_	2	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	talk	talk	NOUN	n	_	2	conj	_	_
 5	to	to	ADP	prep	_	6	case	_	_
 6	Fraser	Fraser	PROPN	n:prop	_	4	nmod	_	_
-7	and	and	CONJ	coord	_	6	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	Cromer	Cromer	PROPN	n:prop	_	6	conj	_	_
 9	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -66344,7 +66344,7 @@
 5	pee	pee	NOUN	n	_	6	compound	_	_
 6	pee	pee	NOUN	n	_	3	ccomp	_	_
 7	first	first	ADV	adv	_	6	advmod	_	_
-8	and	and	CONJ	coord	_	6	cc	_	_
+8	and	and	CONJ	coord	_	12	cc	_	_
 9	then	then	ADV	adv:tem	_	12	advmod	_	_
 10	they	they	PRON	pro:sub	_	12	nsubj	_	_
 11	can	can	AUX	mod	_	12	aux	_	_
@@ -66793,7 +66793,7 @@
 2	it	it	PRON	pro	_	1	dobj	_	_
 3	Eve	Eve	PROPN	n:prop	_	4	nmod	_	_
 4	chin	chin	NOUN	n	_	2	?	_	_
-5	or	or	CONJ	coord	_	4	cc	_	_
+5	or	or	CONJ	coord	_	8	cc	_	_
 6	Eve	Eve	PROPN	n:prop	_	8	nmod	_	_
 7	~s	~s	PART	poss	_	6	case	_	_
 8	chin	chin	NOUN	n	_	4	conj	_	_
@@ -66850,7 +66850,7 @@
 2	do&PAST	do&PAST	AUX	mod	_	4	aux	_	_
 3	you	you	PRON	pro	_	4	nsubj	_	_
 4	go	go	VERB	v	_	0	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	have	have	VERB	v	_	4	conj	_	_
 7	them	them	PRON	pro:obj	_	8	nsubj	_	_
 8	fix	fix	VERB	v	_	6	ccomp	_	_
@@ -67464,7 +67464,7 @@
 5	in	in	ADP	prep	_	7	case	_	_
 6	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	mouth	mouth	NOUN	n	_	3	nmod	_	_
-8	and	and	CONJ	coord	_	3	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	blow	blow	NOUN	n	_	3	conj	_	_
 10	but	but	SCONJ	conj	_	14	cc	_	_
 11	I	I	PRON	pro:sub	_	14	nsubj	_	_
@@ -67677,7 +67677,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	tell	tell	VERB	v	_	0	root	_	_
 3	me	me	PRON	pro:obj	_	2	dobj	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	help	help	VERB	v	_	2	conj	_	_
 6	you	you	PRON	pro	_	5	dobj	_	_
 7	.	.	PUNCT	.	_	2	punct	_	_
@@ -67740,7 +67740,7 @@
 3	please	please	INTJ	co	_	4	discourse	_	_
 4	come	come	VERB	v	_	0	root	_	_
 5	here	here	ADV	adv	_	4	advmod	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	let&ZERO	let&ZERO	VERB	v	_	4	conj	_	_
 8	me	me	PRON	pro:obj	_	7	dobj	_	_
 9	wipe	wipe	VERB	v	_	7	ccomp	_	_
@@ -67771,7 +67771,7 @@
 #eve15.xml,105
 1	come	come	VERB	v	_	0	root	_	_
 2	here	here	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	let&ZERO	let&ZERO	VERB	v	_	1	conj	_	_
 5	me	me	PRON	pro:obj	_	4	dobj	_	_
 6	wipe	wipe	VERB	v	_	4	ccomp	_	_
@@ -67871,7 +67871,7 @@
 2	do&PAST	do&PAST	AUX	mod	_	4	aux	_	_
 3	he	he	PRON	pro:sub	_	4	nsubj	_	_
 4	forget	forget	VERB	v	_	0	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	where	where	ADV	adv:wh	_	4	conj	_	_
 7	be&3S	be&3S	AUX	aux	_	6	root	_	_
 8	it	it	PRON	pro	_	7	dobj	_	_
@@ -68316,13 +68316,13 @@
 3	take	take	VERB	v	_	0	root	_	_
 4	our	our	PRON	pro:poss:det	_	5	nmod:poss	_	_
 5	sheet-PL	sheet-PL	NOUN	n	_	3	dobj	_	_
-6	and	and	CONJ	coord	_	3	cc	_	_
+6	and	and	CONJ	coord	_	8	cc	_	_
 7	our	our	PRON	pro:poss:det	_	8	nmod:poss	_	_
 8	blanket-PL	blanket-PL	NOUN	n	_	3	conj	_	_
-9	and	and	CONJ	coord	_	8	cc	_	_
+9	and	and	CONJ	coord	_	11	cc	_	_
 10	our	our	PRON	pro:poss:det	_	11	nmod:poss	_	_
 11	chair-PL	chair-PL	NOUN	n	_	8	conj	_	_
-12	and	and	CONJ	coord	_	11	cc	_	_
+12	and	and	CONJ	coord	_	15	cc	_	_
 13	Eve	Eve	PROPN	n:prop	_	15	nmod	_	_
 14	~s	~s	PART	poss	_	13	case	_	_
 15	bed	bed	NOUN	n	_	11	conj	_	_
@@ -68620,7 +68620,7 @@
 3	get	get	VERB	v	_	1	ccomp	_	_
 4	it	it	PRON	pro	_	5	nsubj	_	_
 5	make&PAST	make&PAST	VERB	v	_	3	ccomp	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	10	cc	_	_
 7	then	then	ADV	adv:tem	_	10	advmod	_	_
 8	you	you	PRON	pro	_	10	nsubj	_	_
 9	can	can	AUX	mod	_	10	aux	_	_
@@ -69382,7 +69382,7 @@
 4	apart	apart	ADV	adv	_	3	advmod	_	_
 5	right	right	ADV	adv	_	3	advmod	_	_
 6	there	there	ADV	adv	_	3	advmod	_	_
-7	and	and	CONJ	coord	_	3	cc	_	_
+7	and	and	CONJ	coord	_	9	cc	_	_
 8	right	right	ADV	adv	_	9	advmod	_	_
 9	there	there	ADV	adv	_	3	conj	_	_
 10	.	.	PUNCT	.	_	3	punct	_	_
@@ -69643,7 +69643,7 @@
 3	~not	~not	PART	neg	_	5	neg	_	_
 4	you	you	PRON	pro	_	5	nsubj	_	_
 5	go	go	VERB	v	_	0	root	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	have	have	VERB	v	_	5	conj	_	_
 8	Papa	Papa	PROPN	n:prop	_	7	dobj	_	_
 9	wipe	wipe	NOUN	n	_	8	dobj	_	_
@@ -70248,7 +70248,7 @@
 2	in	in	ADP	prep	_	3	case	_	_
 3	the	the	DET	art	_	1	nmod	_	_
 4	bottom	bottom	NOUN	n	_	3	dobj	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	8	cc	_	_
 6	that	that	PRON	pro:dem	_	8	nsubj	_	_
 7	~be&3S	~be&3S	VERB	cop	_	8	cop	_	_
 8	all	all	NOUN	pro:indef	_	4	conj	_	_
@@ -70383,7 +70383,7 @@
 4	a	a	DET	art	_	3	dobj	_	_
 5	orange	orange	NOUN	n	_	6	compund	_	_
 6	one	one	NOUN	pro:indef	_	4	dobj	_	_
-7	or	or	CONJ	coord	_	6	cc	_	_
+7	or	or	CONJ	coord	_	10	cc	_	_
 8	a	a	DET	art	_	10	det	_	_
 9	grape	grape	NOUN	n	_	10	compund	_	_
 10	one	one	NOUN	pro:indef	_	6	conj	_	_
@@ -71099,7 +71099,7 @@
 3	down	down	ADP	prep	_	5	case	_	_
 4	the	the	DET	art	_	5	det	_	_
 5	street	street	NOUN	n	_	2	nmod	_	_
-6	and	and	CONJ	coord	_	2	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	in	in	ADP	prep	_	2	conj	_	_
 8	the	the	DET	art	_	9	det	_	_
 9	gate	gate	NOUN	n	_	7	case	_	_
@@ -71790,7 +71790,7 @@
 7	you	you	PRON	pro	_	8	nsubj	_	_
 8	run	run	VERB	v	_	5	ccomp	_	_
 9	up	up	ADV	adv	_	8	advmod	_	_
-10	and	and	CONJ	coord	_	8	cc	_	_
+10	and	and	CONJ	coord	_	11	cc	_	_
 11	look	look	VERB	v	_	8	conj	_	_
 12	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -72315,7 +72315,7 @@
 4	in	in	ADP	prep	_	5	case	_	_
 5	the	the	DET	art	_	3	nmod	_	_
 6	chair	chair	NOUN	n	_	5	dobj	_	_
-7	or	or	CONJ	coord	_	6	cc	_	_
+7	or	or	CONJ	coord	_	11	cc	_	_
 8	be&1S	be&1S	VERB	cop	_	11	aux	_	_
 9	I	I	PRON	pro:sub	_	11	MOD	_	_
 10	sit-PRESP	sit-PRESP	VERB	part	_	11	MOD	_	_
@@ -72335,7 +72335,7 @@
 6	in	in	ADP	prep	_	8	case	_	_
 7	my	my	PRON	pro:poss:det	_	8	nmod:poss	_	_
 8	hand	hand	NOUN	n	_	5	nmod	_	_
-9	or	or	CONJ	coord	_	5	cc	_	_
+9	or	or	CONJ	coord	_	12	cc	_	_
 10	do	do	AUX	mod	_	12	aux	_	_
 11	I	I	PRON	pro:sub	_	12	nsubj	_	_
 12	have	have	VERB	v	_	5	conj	_	_
@@ -72406,7 +72406,7 @@
 4	that	that	SCONJ	rel	_	6	mark	_	_
 5	he	he	PRON	pro:sub	_	6	nsubj	_	_
 6	pencil	pencil	NOUN	n	_	3	root	_	_
-7	or	or	CONJ	coord	_	6	cc	_	_
+7	or	or	CONJ	coord	_	8	cc	_	_
 8	be&3S	be&3S	VERB	cop	_	6	conj	_	_
 9	that	that	SCONJ	rel	_	11	mark	_	_
 10	his	his	PRON	pro:poss:det	_	11	nmod:poss	_	_
@@ -72601,7 +72601,7 @@
 2	me	me	PRON	pro:obj	_	1	dobj	_	_
 3	go	go	VERB	v	_	1	ccomp	_	_
 4	up	up	ADV	adv	_	3	advmod	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	see	see	VERB	v	_	3	conj	_	_
 7	what	what	PRON	pro:wh	_	10	dobj	_	_
 8	Sarah	Sarah	PROPN	n:prop	_	10	nsubj	_	_
@@ -72632,7 +72632,7 @@
 3	want	want	VERB	v	_	0	root	_	_
 4	~to	~to	PART	inf	_	5	mark	_	_
 5	go	go	VERB	v	_	3	xcomp	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	see	see	VERB	v	_	5	conj	_	_
 8	for	for	ADP	prep	_	9	case	_	_
 9	myself	myself	PRON	pro:refl	_	7	nmod	_	_
@@ -72819,7 +72819,7 @@
 4	that	that	SCONJ	rel	_	3	root	_	_
 5	Mama	Mama	PROPN	n:prop	_	4	dobj	_	_
 6	stool	stool	NOUN	n	_	5	dobj	_	_
-7	or	or	CONJ	coord	_	6	cc	_	_
+7	or	or	CONJ	coord	_	9	cc	_	_
 8	be&3S	be&3S	VERB	cop	_	9	cop	_	_
 9	that	that	PRON	pro:dem	_	6	conj	_	_
 10	Mama	Mama	PROPN	n:prop	_	12	nmod	_	_
@@ -73283,7 +73283,7 @@
 2	take&PAST	take&PAST	VERB	v	_	0	root	_	_
 3	it	it	PRON	pro	_	2	dobj	_	_
 4	out	out	ADV	adv	_	2	advmod	_	_
-5	and	and	CONJ	coord	_	2	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	put&ZERO	put&ZERO	VERB	v	_	2	conj	_	_
 7	it	it	PRON	pro	_	6	dobj	_	_
 8	on	on	ADP	prep	_	10	case	_	_
@@ -73298,7 +73298,7 @@
 4	chew	chew	VERB	v	_	0	root	_	_
 5	them	them	PRON	pro:obj	_	4	dobj	_	_
 6	up	up	ADV	adv	_	4	advmod	_	_
-7	and	and	CONJ	coord	_	4	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	put&ZERO	put&ZERO	VERB	v	_	4	conj	_	_
 9	them	them	PRON	pro:obj	_	8	dobj	_	_
 10	in	in	ADP	prep	_	12	case	_	_
@@ -73774,7 +73774,7 @@
 5	do&PAST	do&PAST	VERB	v	_	0	root	_	_
 6	that	that	DET	det	_	7	det	_	_
 7	one	one	NOUN	pro:indef	_	5	dobj	_	_
-8	and	and	CONJ	coord	_	5	cc	_	_
+8	and	and	CONJ	coord	_	11	cc	_	_
 9	the	the	DET	art	_	11	det	_	_
 10	second	second	NOUN	n	_	11	compund	_	_
 11	one	one	NOUN	pro:indef	_	5	conj	_	_
@@ -74157,7 +74157,7 @@
 1	yes	yes	INTJ	co	_	2	discourse	_	_
 2	,	beg	PUNCT	beg	_	0	punct	_	_
 3	yours	yours	PRON	pro:poss	_	2	dobj	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	Sarah	Sarah	PROPN	n:prop	_	3	conj	_	_
 6	~s	~s	PART	poss	_	5	case	_	_
 7	.	.	PUNCT	.	_	2	punct	_	_
@@ -74181,7 +74181,7 @@
 9	to	to	ADP	prep	_	11	case	_	_
 10	a	a	DET	art	_	11	det	_	_
 11	doctor	doctor	NOUN	n	_	8	nmod	_	_
-12	and	and	CONJ	coord	_	8	cc	_	_
+12	and	and	CONJ	coord	_	13	cc	_	_
 13	put&ZERO	put&ZERO	VERB	v	_	8	conj	_	_
 14	a	a	DET	art	_	13	dobj	_	_
 15	bandaid	bandaid	NOUN	n	_	14	dobj	_	_
@@ -74391,7 +74391,7 @@
 
 #eve16.xml,82
 1	Nancy	Nancy	PROPN	n:prop	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	Becky	Becky	PROPN	n:prop	_	1	conj	_	_
 4	?	?	PUNCT	?	_	1	punct	_	_
 
@@ -74401,7 +74401,7 @@
 3	~not	~not	PART	neg	_	4	neg	_	_
 4	see	see	VERB	v	_	0	root	_	_
 5	Nancy	Nancy	PROPN	n:prop	_	4	dobj	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	Becky	Becky	PROPN	n:prop	_	4	conj	_	_
 8	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -74938,7 +74938,7 @@
 10	Leeny	Leeny	X	X	_	9	dobj	_	_
 11	levey	levey	X	X	_	10	mwe	_	_
 12	heeny	heeny	X	X	_	10	mwe	_	_
-13	or	or	CONJ	coord	_	9	cc	_	_
+13	or	or	CONJ	coord	_	17	cc	_	_
 14	whatever	whatever	PRON	pro:wh	_	17	dobj	_	_
 15	you	you	PRON	pro	_	17	nsubj	_	_
 16	~be&PRES	~be&PRES	AUX	aux	_	17	aux	_	_
@@ -74951,7 +74951,7 @@
 3	you	you	PRON	pro	_	4	nsubj	_	_
 4	go	go	VERB	v	_	0	root	_	_
 5	ahead	ahead	ADV	adv	_	4	advmod	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	sing	sing	VERB	v	_	4	conj	_	_
 8	it	it	PRON	pro	_	7	dobj	_	_
 9	.	.	PUNCT	.	_	4	punct	_	_
@@ -75738,7 +75738,7 @@
 3	~will	~will	AUX	mod	_	4	aux	_	_
 4	get	get	VERB	v	_	0	root	_	_
 5	seed-PL	seed-PL	NOUN	n	_	4	dobj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	cracker	cracker	NOUN	n	_	5	conj	_	_
 8	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -75817,7 +75817,7 @@
 3	to	to	ADP	prep	_	4	case	_	_
 4	Cathy	Cathy	PROPN	n:prop	_	2	nmod	_	_
 5	~s	~s	PART	poss	_	4	case	_	_
-6	and	and	CONJ	coord	_	2	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	get&PAST	get&PAST	VERB	v	_	2	conj	_	_
 8	your	your	PRON	pro:poss:det	_	9	nmod:poss	_	_
 9	airplane	airplane	NOUN	n	_	7	dobj	_	_
@@ -76282,7 +76282,7 @@
 3	~not	~not	PART	neg	_	4	neg	_	_
 4	squeeze	squeeze	VERB	v	_	0	root	_	_
 5	it	it	PRON	pro	_	4	dobj	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	make	make	VERB	v	_	4	conj	_	_
 8	a	a	DET	art	_	9	det	_	_
 9	man	man	NOUN	n	_	7	dobj	_	_
@@ -76415,7 +76415,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	squeeze	squeeze	VERB	v	_	0	root	_	_
 3	clay	clay	NOUN	n	_	2	dobj	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	make	make	VERB	v	_	2	conj	_	_
 6	thing-PL	thing-PL	NOUN	n	_	5	dobj	_	_
 7	.	.	PUNCT	.	_	2	punct	_	_
@@ -76619,7 +76619,7 @@
 5	one	one	NOUN	pro:indef	_	4	dobj	_	_
 6	after	after	ADP	prep	_	7	case	_	_
 7	that	that	PRON	pro:dem	_	5	nmod	_	_
-8	and	and	CONJ	coord	_	7	cc	_	_
+8	and	and	CONJ	coord	_	10	cc	_	_
 9	that	that	SCONJ	rel	_	10	mark	_	_
 10	make-3S	make-3S	VERB	v	_	7	conj	_	_
 11	a	a	DET	art	_	12	det	_	_
@@ -77039,7 +77039,7 @@
 
 #eve16.xml,436
 1	Mom	Mom	PROPN	n:prop	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	6	cc	_	_
 3	Fraser	Fraser	PROPN	n:prop	_	6	nsubj	_	_
 4	be&PRES	be&PRES	VERB	aux	_	6	aux	_	_
 5	grown	grown	NOUN	n	_	6	compound	_	_
@@ -77056,7 +77056,7 @@
 
 #eve16.xml,438
 1	you	you	PRON	pro	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	Sarah	Sarah	PROPN	n:prop	_	1	conj	_	_
 4	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -77101,7 +77101,7 @@
 
 #eve16.xml,446
 1	you	you	PRON	pro	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	5	cc	_	_
 3	Sarah	Sarah	PROPN	n:prop	_	5	nsubj	_	_
 4	be&PRES	be&PRES	VERB	aux	_	5	aux	_	_
 5	daughter-PL	daughter-PL	NOUN	n	_	1	conj	_	_
@@ -77118,7 +77118,7 @@
 2	~be&PRES	~be&PRES	AUX	aux	_	4	aux	_	_
 3	a	a	DET	art	_	4	det	_	_
 4	daughter	daughter	NOUN	n	_	0	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	9	cc	_	_
 6	Sarah	Sarah	PROPN	n:prop	_	9	nsubj	_	_
 7	~be&3S	~be&3S	AUX	aux	_	9	aux	_	_
 8	a	a	DET	art	_	9	det	_	_
@@ -77173,13 +77173,13 @@
 2	,	beg	PUNCT	beg	_	0	punct	_	_
 3	not	not	PART	neg	_	2	neg	_	_
 4	me	me	PRON	pro:obj	_	2	neg	_	_
-5	and	and	CONJ	coord	_	2	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	Cromer	Cromer	PROPN	n:prop	_	2	conj	_	_
 7	.	.	PUNCT	.	_	2	punct	_	_
 
 #eve16.xml,456
 1	me	me	PRON	pro:obj	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	Papa	Papa	PROPN	n:prop	_	1	conj	_	_
 4	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -77237,7 +77237,7 @@
 #eve16.xml,467
 1	hurry	hurry	NOUN	n	_	0	root	_	_
 2	up	up	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	eat	eat	VERB	v	_	1	conj	_	_
 5	your	your	PRON	pro:poss:det	_	6	nmod:poss	_	_
 6	lunch	lunch	NOUN	n	_	4	dobj	_	_
@@ -77266,7 +77266,7 @@
 4	~s	~s	AUX	poss	_	5	case	_	_
 5	go-PRESP	go-PRESP	VERB	part	_	0	root	_	_
 6	home	home	NOUN	n	_	5	advmod	_	_
-7	and	and	CONJ	coord	_	5	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	have	have	VERB	v	_	5	conj	_	_
 9	his	his	PRON	pro:poss:det	_	10	nmod:poss	_	_
 10	lunch	lunch	NOUN	n	_	8	dobj	_	_
@@ -77446,7 +77446,7 @@
 2	have	have	X	X	_	4	aux	_	_
 3	to	to	X	X	_	4	mwe	_	_
 4	wait	wait	VERB	v	_	0	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	see	see	VERB	v	_	4	conj	_	_
 7	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -77733,7 +77733,7 @@
 5	to	to	PART	inf	_	6	mark	_	_
 6	turn	turn	VERB	v	_	4	xcomp	_	_
 7	it	it	PRON	pro	_	6	dobj	_	_
-8	and	and	CONJ	coord	_	4	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	let&ZERO	let&ZERO	VERB	v	_	4	conj	_	_
 10	you	you	PRON	pro	_	11	nsubj	_	_
 11	see	see	VERB	v	_	9	ccomp	_	_
@@ -78033,7 +78033,7 @@
 5	in	in	ADP	prep	_	7	case	_	_
 6	the	the	DET	art	_	7	det	_	_
 7	kitchen	kitchen	NOUN	n	_	3	nmod	_	_
-8	and	and	CONJ	coord	_	3	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	put&ZERO	put&ZERO	VERB	v	_	3	conj	_	_
 10	it	it	PRON	pro	_	9	dobj	_	_
 11	on	on	ADP	prep	_	13	case	_	_
@@ -78074,7 +78074,7 @@
 6	in	in	ADP	prep	_	8	case	_	_
 7	the	the	DET	art	_	8	det	_	_
 8	chair	chair	NOUN	n	_	5	nmod	_	_
-9	and	and	CONJ	coord	_	5	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	watch	watch	VERB	v	_	5	conj	_	_
 11	me	me	PRON	pro:obj	_	10	dobj	_	_
 12	.	.	PUNCT	.	_	3	punct	_	_
@@ -78607,7 +78607,7 @@
 3	in	in	ADP	prep	_	5	case	_	_
 4	the	the	DET	art	_	5	det	_	_
 5	front	front	NOUN	n	_	1	nmod	_	_
-6	and	and	CONJ	coord	_	1	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	get	get	VERB	v	_	1	conj	_	_
 8	in	in	ADV	adv	_	7	advmod	_	_
 9	if	if	SCONJ	conj	_	11	mark	_	_
@@ -78620,7 +78620,7 @@
 1	not	not	PART	neg	_	3	neg	_	_
 2	that	that	DET	det	_	3	det	_	_
 3	side	side	NOUN	n	_	0	root	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	6	cc	_	_
 5	not	not	PART	neg	_	6	neg	_	_
 6	the	the	DET	art	_	3	conj	_	_
 7	other	other	ADJ	qn	_	8	amod	_	_
@@ -80055,7 +80055,7 @@
 5	talk-PRESP	talk-PRESP	NOUN	n:gerund	_	4	dobj	_	_
 6	after	after	ADV	adv:tem	_	5	dobj	_	_
 7	Eve	Eve	PROPN	n:prop	_	6	vocative	_	_
-8	and	and	CONJ	coord	_	6	cc	_	_
+8	and	and	CONJ	coord	_	10	cc	_	_
 9	Mother	Mother	PROPN	n:prop	_	10	nmod	_	_
 10	return	return	NOUN	n	_	6	conj	_	_
 11	.	.	PUNCT	.	_	1	punct	_	_
@@ -80736,7 +80736,7 @@
 5	have	have	VERB	v	_	0	root	_	_
 6	a	a	DET	art	_	5	dobj	_	_
 7	sister	sister	NOUN	n	_	6	dobj	_	_
-8	or	or	CONJ	coord	_	7	cc	_	_
+8	or	or	CONJ	coord	_	10	cc	_	_
 9	a	a	DET	art	_	10	det	_	_
 10	brother	brother	NOUN	n	_	7	conj	_	_
 11	?	?	PUNCT	?	_	5	punct	_	_
@@ -80977,13 +80977,13 @@
 6	with	with	ADP	prep	_	7	case	_	_
 7	a	a	DET	art	_	5	nmod	_	_
 8	lady	lady	NOUN	n	_	7	dobj	_	_
-9	and	and	CONJ	coord	_	8	cc	_	_
+9	and	and	CONJ	coord	_	10	cc	_	_
 10	a	a	DET	art	_	8	conj	_	_
 11	farm&dv-AGT	farm&dv-AGT	NOUN	n	_	10	dobj	_	_
-12	and	and	CONJ	coord	_	11	cc	_	_
+12	and	and	CONJ	coord	_	13	cc	_	_
 13	a	a	DET	art	_	11	conj	_	_
 14	barn	barn	NOUN	n	_	13	dobj	_	_
-15	and	and	CONJ	coord	_	14	cc	_	_
+15	and	and	CONJ	coord	_	17	cc	_	_
 16	a	a	DET	art	_	17	det	_	_
 17	cow	cow	NOUN	n	_	14	conj	_	_
 18	but	but	SCONJ	conj	_	22	cc	_	_
@@ -81923,7 +81923,7 @@
 
 #eve17.xml,222
 1	girl-PL	girl-PL	NOUN	n	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	boy-PL	boy-PL	NOUN	n	_	1	conj	_	_
 4	?	?	PUNCT	?	_	1	punct	_	_
 
@@ -81946,7 +81946,7 @@
 2	be&PRES	be&PRES	AUX	aux	_	3	aux	_	_
 3	the	the	DET	art	_	0	root	_	_
 4	girl-PL	girl-PL	NOUN	n	_	3	dobj	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	7	cc	_	_
 6	boy-PL	boy-PL	INTJ	co	_	7	discourse	_	_
 7	do-PRESP	do-PRESP	VERB	part	_	4	conj	_	_
 8	?	?	PUNCT	?	_	3	punct	_	_
@@ -82031,11 +82031,11 @@
 1	we	we	PRON	pro:sub	_	2	nsubj	_	_
 2	have	have	VERB	v	_	0	root	_	_
 3	bacon	bacon	NOUN	n	_	2	dobj	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	banana	banana	NOUN	n	_	2	conj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	parsley	parsley	NOUN	n	_	5	conj	_	_
-8	and	and	CONJ	coord	_	7	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	bread	bread	NOUN	n	_	7	conj	_	_
 10	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -82248,7 +82248,7 @@
 1	must	must	AUX	mod	_	2	aux	_	_
 2	be	be	VERB	cop	_	3	cop	_	_
 3	lot-PL	lot-PL	NOUN	n	_	2	root	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	7	cc	_	_
 5	lots	lots	X	X	_	7	nummod	_	_
 6	of	of	X	X	_	5	mwe	_	_
 7	soldier-PL	soldier-PL	NOUN	n	_	3	conj	_	_
@@ -83578,7 +83578,7 @@
 2	we	we	PRON	pro:sub	_	4	nsubj	_	_
 3	must	must	AUX	mod	_	4	aux	_	_
 4	go	go	VERB	v	_	0	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	do	do	VERB	v	_	4	conj	_	_
 7	it	it	PRON	pro	_	6	dobj	_	_
 8	.	.	PUNCT	.	_	4	punct	_	_
@@ -83672,9 +83672,9 @@
 
 #eve17.xml,449
 1	cracker	cracker	NOUN	n	_	0	root	_	_
-2	or	or	CONJ	coord	_	1	cc	_	_
+2	or	or	CONJ	coord	_	3	cc	_	_
 3	bread	bread	NOUN	n	_	1	conj	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	butter	butter	NOUN	n	_	3	conj	_	_
 6	?	?	PUNCT	?	_	1	punct	_	_
 
@@ -84073,7 +84073,7 @@
 #eve17.xml,515
 1	green	green	NOUN	n	_	2	compund	_	_
 2	bean-PL	bean-PL	NOUN	n	_	0	root	_	_
-3	and	and	CONJ	coord	_	2	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	carrot-PL	carrot-PL	NOUN	n	_	2	conj	_	_
 5	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -84154,7 +84154,7 @@
 3	go-PRESP	go-PRESP	VERB	part	_	0	root	_	_
 4	to	to	PART	inf	_	5	mark	_	_
 5	go	go	VERB	v	_	3	xcomp	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	have	have	VERB	v	_	5	conj	_	_
 8	her	her	PRON	pro:poss:det	_	9	nmod:poss	_	_
 9	lunch	lunch	NOUN	n	_	7	dobj	_	_
@@ -84183,7 +84183,7 @@
 5	another	another	DET	qn	_	6	det	_	_
 6	time	time	NOUN	n	_	3	root	_	_
 7	Eve	Eve	PROPN	n:prop	_	6	vocative	_	_
-8	and	and	CONJ	coord	_	6	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	visit	visit	NOUN	n	_	6	conj	_	_
 10	with	with	ADP	prep	_	11	case	_	_
 11	you	you	PRON	pro	_	9	nmod	_	_
@@ -84372,11 +84372,11 @@
 4	~to	~to	PART	inf	_	5	mark	_	_
 5	go	go	VERB	v	_	3	xcomp	_	_
 6	home	home	NOUN	n	_	5	advmod	_	_
-7	and	and	CONJ	coord	_	5	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	have	have	VERB	v	_	5	conj	_	_
 9	her	her	PRON	pro:poss:det	_	10	nmod:poss	_	_
 10	lunch	lunch	NOUN	n	_	8	dobj	_	_
-11	and	and	CONJ	coord	_	8	cc	_	_
+11	and	and	CONJ	coord	_	15	cc	_	_
 12	then	then	ADV	adv:tem	_	15	advmod	_	_
 13	she	she	PRON	pro:sub	_	15	nsubj	_	_
 14	~be&3S	~be&3S	AUX	aux	_	15	aux	_	_
@@ -84526,7 +84526,7 @@
 3	where	where	SCONJ	rel	_	5	advmod	_	_
 4	we	we	PRON	pro:sub	_	5	nsubj	_	_
 5	go&PAST	go&PAST	VERB	v	_	1	ccomp	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	9	cc	_	_
 7	what	what	PRON	pro:wh	_	9	dobj	_	_
 8	we	we	PRON	pro:sub	_	9	nsubj	_	_
 9	do&PAST	do&PAST	VERB	v	_	5	conj	_	_
@@ -84858,7 +84858,7 @@
 2	~will	~will	AUX	mod	_	3	aux	_	_
 3	come	come	VERB	v	_	0	root	_	_
 4	back	back	NOUN	n	_	3	dobj	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	see	see	VERB	v	_	3	conj	_	_
 7	you	you	PRON	pro	_	6	dobj	_	_
 8	again	again	ADV	adv	_	6	advmod	_	_
@@ -85559,7 +85559,7 @@
 3	please	please	INTJ	co	_	4	discourse	_	_
 4	come	come	VERB	v	_	0	root	_	_
 5	in	in	ADV	adv	_	4	advmod	_	_
-6	and	and	CONJ	coord	_	4	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	shut&ZERO	shut&ZERO	VERB	v	_	4	conj	_	_
 8	the	the	DET	art	_	7	dobj	_	_
 9	door	door	NOUN	n	_	8	dobj	_	_
@@ -85585,7 +85585,7 @@
 2	can	can	AUX	mod	_	3	aux	_	_
 3	see	see	VERB	v	_	0	root	_	_
 4	Helga	Helga	PROPN	n:prop	_	3	dobj	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	play	play	NOUN	n	_	3	conj	_	_
 7	with	with	ADP	prep	_	8	case	_	_
 8	them	them	PRON	pro:obj	_	6	nmod	_	_
@@ -85614,7 +85614,7 @@
 2	have	have	X	X	_	4	aux	_	_
 3	to	to	X	X	_	4	mwe	_	_
 4	go	go	VERB	v	_	0	root	_	_
-5	and	and	CONJ	coord	_	4	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	take	take	VERB	v	_	4	conj	_	_
 7	a	a	DET	art	_	6	dobj	_	_
 8	nap	nap	NOUN	n	_	7	dobj	_	_
@@ -85628,7 +85628,7 @@
 #eve17.xml,704
 1	go	go	VERB	v	_	0	root	_	_
 2	up	up	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	sleep	sleep	VERB	v	_	1	conj	_	_
 5	in	in	ADP	prep	_	7	case	_	_
 6	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
@@ -86026,7 +86026,7 @@
 8	on	on	ADP	prep	_	10	case	_	_
 9	the	the	DET	art	_	10	det	_	_
 10	peg	peg	NOUN	n	_	7	nmod	_	_
-11	and	and	CONJ	coord	_	7	cc	_	_
+11	and	and	CONJ	coord	_	13	cc	_	_
 12	then	then	ADV	adv:tem	_	13	advmod	_	_
 13	try	try	VERB	v	_	7	conj	_	_
 14	to	to	PART	inf	_	15	mark	_	_
@@ -86070,7 +86070,7 @@
 1	only	only	ADV	adv	_	2	advmod	_	_
 2	one	one	NUM	det:num	_	3	nummod	_	_
 3	Colin	Colin	PROPN	n:prop	_	0	root	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	6	cc	_	_
 5	one	one	NUM	det:num	_	6	nummod	_	_
 6	Eve	Eve	PROPN	n:prop	_	3	conj	_	_
 7	both	both	DET	qn	_	8	det	_	_
@@ -86297,14 +86297,14 @@
 1	well	well	INTJ	co	_	3	discourse	_	_
 2	good&SP	good&SP	ADV	adv	_	3	advmod	_	_
 3	go	go	VERB	v	_	0	root	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	get	get	VERB	v	_	3	conj	_	_
 6	Papa	Papa	PROPN	n:prop	_	5	dobj	_	_
 7	to	to	PART	inf	_	8	mark	_	_
 8	get	get	VERB	v	_	6	xcomp	_	_
 9	the	the	DET	art	_	8	dobj	_	_
 10	tool	tool	NOUN	n	_	9	dobj	_	_
-11	and	and	CONJ	coord	_	10	cc	_	_
+11	and	and	CONJ	coord	_	12	cc	_	_
 12	fix	fix	VERB	v	_	10	conj	_	_
 13	it	it	PRON	pro	_	12	dobj	_	_
 14	for	for	ADP	prep	_	15	case	_	_
@@ -86840,7 +86840,7 @@
 3	get&PASTP	get&PASTP	VERB	part	_	0	root	_	_
 4	one	one	NOUN	pro:indef	_	3	dobj	_	_
 5	house	house	NOUN	n	_	4	dobj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	8	cc	_	_
 7	another	another	DET	qn	_	8	det	_	_
 8	house	house	NOUN	n	_	5	conj	_	_
 9	.	.	PUNCT	.	_	3	punct	_	_
@@ -87177,7 +87177,7 @@
 6	write	write	VERB	v	_	3	xcomp	_	_
 7	another	another	DET	qn	_	8	det	_	_
 8	house	house	NOUN	n	_	6	dobj	_	_
-9	or	or	CONJ	coord	_	8	cc	_	_
+9	or	or	CONJ	coord	_	10	cc	_	_
 10	draw	draw	VERB	v	_	8	conj	_	_
 11	another	another	DET	qn	_	12	det	_	_
 12	house	house	NOUN	n	_	10	dobj	_	_
@@ -87321,7 +87321,7 @@
 5	on	on	ADP	prep	_	7	case	_	_
 6	the	the	DET	art	_	7	det	_	_
 7	bus	bus	NOUN	n	_	4	nmod	_	_
-8	and	and	CONJ	coord	_	4	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	on	on	ADP	prep	_	4	conj	_	_
 10	the	the	DET	art	_	9	case	_	_
 11	sub#way	sub#way	NOUN	n	_	10	?	_	_
@@ -87975,7 +87975,7 @@
 4	their	their	PRON	pro:poss:det	_	5	nmod:poss	_	_
 5	fat	fat	NOUN	n	_	6	compund	_	_
 6	pig	pig	NOUN	n	_	3	dobj	_	_
-7	and	and	CONJ	coord	_	3	cc	_	_
+7	and	and	CONJ	coord	_	11	cc	_	_
 8	now	now	ADV	adv	_	11	advmod	_	_
 9	they	they	PRON	pro:sub	_	11	nsubj	_	_
 10	must	must	AUX	mod	_	7	aux	_	_
@@ -88338,7 +88338,7 @@
 7	noodle	noodle	NOUN	n	_	8	compund	_	_
 8	soup	soup	NOUN	n	_	4	nmod	_	_
 9	first	first	ADV	adv	_	3	advmod	_	_
-10	and	and	CONJ	coord	_	3	cc	_	_
+10	and	and	CONJ	coord	_	14	cc	_	_
 11	then	then	ADV	adv:tem	_	14	advmod	_	_
 12	you	you	PRON	pro	_	14	nsubj	_	_
 13	can	can	AUX	mod	_	14	aux	_	_
@@ -88354,7 +88354,7 @@
 4	with	with	ADP	prep	_	6	case	_	_
 5	bubble	bubble	NOUN	n	_	6	compound	_	_
 6	gum	gum	NOUN	n	_	1	nmod	_	_
-7	and	and	CONJ	coord	_	1	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	send	send	VERB	v	_	1	conj	_	_
 9	it	it	PRON	pro	_	8	dobj	_	_
 10	to	to	ADP	prep	_	12	case	_	_
@@ -88538,7 +88538,7 @@
 
 #eve17.xml,1086
 1	mayonnaise	mayonnaise	NOUN	n	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	lobster	lobster	NOUN	n	_	1	conj	_	_
 4	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -88914,7 +88914,7 @@
 1	that	that	PRON	pro:dem	_	3	nsubj	_	_
 2	be&3S	be&3S	VERB	cop	_	3	cop	_	_
 3	lobster	lobster	NOUN	n	_	2	root	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	7	cc	_	_
 5	it	it	PRON	pro	_	7	nsubj	_	_
 6	be&3S	be&3S	VERB	cop	_	7	cop	_	_
 7	good	good	ADJ	adj	_	2	conj	_	_
@@ -89251,7 +89251,7 @@
 2	in	in	ADP	prep	_	4	case	_	_
 3	your	your	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	mouth	mouth	NOUN	n	_	1	nmod	_	_
-5	and	and	CONJ	coord	_	1	cc	_	_
+5	and	and	CONJ	coord	_	6	cc	_	_
 6	lick	lick	VERB	v	_	1	conj	_	_
 7	it	it	PRON	pro	_	6	dobj	_	_
 8	off	off	ADV	adv	_	6	advmod	_	_
@@ -89264,7 +89264,7 @@
 4	your	your	PRON	pro:poss:det	_	5	nmod:poss	_	_
 5	mouth	mouth	NOUN	n	_	1	nmod	_	_
 6	Eve	Eve	PROPN	n:prop	_	1	ccomp	_	_
-7	and	and	CONJ	coord	_	6	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	clean	clean	VERB	v	_	6	conj	_	_
 9	it	it	PRON	pro	_	8	dobj	_	_
 10	off	off	ADV	adv	_	8	advmod	_	_
@@ -89290,7 +89290,7 @@
 2	you	you	PRON	pro	_	4	nsubj	_	_
 3	just	just	ADV	adv	_	4	advmod	_	_
 4	play-PRESP	play-PRESP	VERB	part	_	0	root	_	_
-5	or	or	CONJ	coord	_	4	cc	_	_
+5	or	or	CONJ	coord	_	6	cc	_	_
 6	be&PRES	be&PRES	VERB	cop	_	4	conj	_	_
 7	you	you	PRON	pro	_	6	dobj	_	_
 8	go-PRESP	go-PRESP	VERB	part	_	7	?	_	_
@@ -89373,7 +89373,7 @@
 1	Colin	Colin	PROPN	n:prop	_	2	nsubj	_	_
 2	come-3S	come-3S	VERB	v	_	0	root	_	_
 3	first	first	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	6	cc	_	_
 5	then	then	ADV	adv:tem	_	6	advmod	_	_
 6	Fraser	Fraser	PROPN	n:prop	_	2	conj	_	_
 7	.	.	PUNCT	.	_	2	punct	_	_
@@ -89681,7 +89681,7 @@
 5	get	get	VERB	v	_	0	root	_	_
 6	in	in	ADV	adv	_	5	advmod	_	_
 7	there	there	ADV	adv	_	5	advmod	_	_
-8	and	and	CONJ	coord	_	5	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	ask	ask	VERB	v	_	5	conj	_	_
 10	him	him	PRON	pro:obj	_	9	dobj	_	_
 11	?	?	PUNCT	?	_	5	punct	_	_
@@ -89747,7 +89747,7 @@
 1	now	now	ADV	adv	_	3	advmod	_	_
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	go	go	VERB	v	_	0	root	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	ask	ask	VERB	v	_	3	conj	_	_
 6	Fraser	Fraser	PROPN	n:prop	_	5	dobj	_	_
 7	,	end	PUNCT	end	_	6	punct	_	_
@@ -89790,7 +89790,7 @@
 
 #eve18.xml,17
 1	go	go	VERB	v	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	talk	talk	NOUN	n	_	1	conj	_	_
 4	to	to	ADP	prep	_	5	case	_	_
 5	Fraser	Fraser	PROPN	n:prop	_	3	nmod	_	_
@@ -89958,7 +89958,7 @@
 7	piece	piece	NOUN	n	_	6	dobj	_	_
 8	of	of	ADP	prep	_	9	case	_	_
 9	celery	celery	NOUN	n	_	7	nmod	_	_
-10	or	or	CONJ	coord	_	9	cc	_	_
+10	or	or	CONJ	coord	_	12	cc	_	_
 11	a	a	DET	art	_	12	det	_	_
 12	carrot	carrot	NOUN	n	_	9	conj	_	_
 13	?	?	PUNCT	?	_	3	punct	_	_
@@ -90697,10 +90697,10 @@
 2	that	that	SCONJ	rel	_	4	mark	_	_
 3	a	a	DET	art	_	4	det	_	_
 4	tiger	tiger	NOUN	n	_	1	?	_	_
-5	or	or	CONJ	coord	_	4	cc	_	_
+5	or	or	CONJ	coord	_	7	cc	_	_
 6	a	a	DET	art	_	7	det	_	_
 7	bear	bear	NOUN	n	_	4	conj	_	_
-8	or	or	CONJ	coord	_	7	cc	_	_
+8	or	or	CONJ	coord	_	9	cc	_	_
 9	what	what	PRON	pro:wh	_	7	conj	_	_
 10	?	?	PUNCT	?	_	1	punct	_	_
 
@@ -91053,7 +91053,7 @@
 3	be	be	VERB	cop	_	5	cop	_	_
 4	so	so	ADV	adv	_	5	advmod	_	_
 5	silly	silly	ADJ	adj	_	3	root	_	_
-6	and	and	CONJ	coord	_	3	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	tell	tell	VERB	v	_	3	conj	_	_
 8	him	him	PRON	pro:obj	_	7	dobj	_	_
 9	again	again	ADV	adv	_	7	advmod	_	_
@@ -92170,7 +92170,7 @@
 9	the	the	DET	art	_	11	det	_	_
 10	dog	dog	NOUN	n	_	11	compund	_	_
 11	sweet&dadj-DIM	sweet&dadj-DIM	NOUN	n	_	5	nmod	_	_
-12	and	and	CONJ	coord	_	5	cc	_	_
+12	and	and	CONJ	coord	_	16	cc	_	_
 13	maybe	maybe	ADV	adv	_	16	advmod	_	_
 14	she	she	PRON	pro:sub	_	16	nsubj	_	_
 15	~will	~will	AUX	mod	_	16	aux	_	_
@@ -92187,7 +92187,7 @@
 5	by	by	ADP	prep	_	6	case	_	_
 6	the	the	DET	art	_	1	nmod	_	_
 7	dog	dog	NOUN	n	_	6	dobj	_	_
-8	and	and	CONJ	coord	_	7	cc	_	_
+8	and	and	CONJ	coord	_	11	cc	_	_
 9	she	she	PRON	pro:sub	_	11	nsubj	_	_
 10	~will	~will	AUX	mod	_	11	aux	_	_
 11	get	get	AUX	aux	_	7	conj	_	_
@@ -92390,7 +92390,7 @@
 
 #eve18.xml,411
 1	come	come	VERB	v	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	get	get	VERB	v	_	1	conj	_	_
 4	it	it	PRON	pro	_	3	dobj	_	_
 5	.	.	PUNCT	.	_	1	punct	_	_
@@ -93057,7 +93057,7 @@
 4	throw	throw	VERB	v	_	0	root	_	_
 5	it	it	PRON	pro	_	4	dobj	_	_
 6	again	again	ADV	adv	_	4	advmod	_	_
-7	and	and	CONJ	coord	_	4	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	see	see	VERB	v	_	4	conj	_	_
 9	what	what	PRON	pro:wh	_	10	nsubj	_	_
 10	happen-3S	happen-3S	VERB	v	_	8	ccomp	_	_
@@ -94488,7 +94488,7 @@
 1	I	I	PRON	pro:sub	_	3	nsubj	_	_
 2	~will	~will	AUX	mod	_	3	aux	_	_
 3	come	come	VERB	v	_	0	root	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	find	find	VERB	v	_	3	conj	_	_
 6	it	it	PRON	pro	_	5	dobj	_	_
 7	.	.	PUNCT	.	_	3	punct	_	_
@@ -94551,7 +94551,7 @@
 1	just	just	ADV	adv	_	2	advmod	_	_
 2	sit	sit	VERB	v	_	0	root	_	_
 3	still	still	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	eat	eat	VERB	v	_	2	conj	_	_
 6	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	lunch	lunch	NOUN	n	_	5	dobj	_	_
@@ -94592,7 +94592,7 @@
 
 #eve18.xml,710
 1	go	go	VERB	v	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	do	do	VERB	v	_	1	conj	_	_
 4	it	it	PRON	pro	_	3	dobj	_	_
 5	and	and	CONJ	coord	_	3	conj	_	_
@@ -94617,11 +94617,11 @@
 4	must	must	AUX	mod	_	5	aux	_	_
 5	go	go	VERB	v	_	0	root	_	_
 6	upstairs	upstairs	ADV	adv	_	5	advmod	_	_
-7	and	and	CONJ	coord	_	5	cc	_	_
+7	and	and	CONJ	coord	_	9	cc	_	_
 8	pee	pee	NOUN	n	_	9	compound	_	_
 9	pee	pee	NOUN	n	_	5	conj	_	_
 10	first	first	ADV	adv	_	9	advmod	_	_
-11	and	and	CONJ	coord	_	9	cc	_	_
+11	and	and	CONJ	coord	_	15	cc	_	_
 12	then	then	ADV	adv:tem	_	15	advmod	_	_
 13	we	we	PRON	pro:sub	_	15	nsubj	_	_
 14	~will	~will	AUX	mod	_	15	aux	_	_
@@ -94752,7 +94752,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	taste	taste	VERB	v	_	0	root	_	_
 3	it	it	PRON	pro	_	2	dobj	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	see	see	VERB	v	_	2	conj	_	_
 6	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -95078,7 +95078,7 @@
 4	sit	sit	VERB	v	_	0	root	_	_
 5	over	over	ADV	adv	_	4	advmod	_	_
 6	here	here	ADV	adv	_	4	advmod	_	_
-7	and	and	CONJ	coord	_	4	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	get	get	VERB	v	_	4	conj	_	_
 9	your	your	PRON	pro:poss:det	_	10	nmod:poss	_	_
 10	picture	picture	NOUN	n	_	8	dobj	_	_
@@ -96371,7 +96371,7 @@
 4	in	in	ADP	prep	_	6	case	_	_
 5	the	the	DET	art	_	6	det	_	_
 6	kitchen	kitchen	NOUN	n	_	2	nmod	_	_
-7	and	and	CONJ	coord	_	2	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	put&ZERO	put&ZERO	VERB	v	_	2	conj	_	_
 9	it	it	PRON	pro	_	8	dobj	_	_
 10	on	on	ADP	prep	_	12	case	_	_
@@ -96410,7 +96410,7 @@
 
 #eve18.xml,959
 1	go	go	VERB	v	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	give	give	VERB	v	_	1	conj	_	_
 4	Papa	Papa	PROPN	n:prop	_	6	nmod	_	_
 5	a	a	DET	art	_	6	det	_	_
@@ -96453,7 +96453,7 @@
 
 #eve18.xml,963
 1	go	go	VERB	v	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	give	give	VERB	v	_	1	conj	_	_
 4	Papa	Papa	PROPN	n:prop	_	6	nmod	_	_
 5	a	a	DET	art	_	6	det	_	_
@@ -97415,7 +97415,7 @@
 4	Fraser	Fraser	PROPN	n:prop	_	6	nmod	_	_
 5	~s	~s	PART	poss	_	4	case	_	_
 6	lady	lady	NOUN	n	_	2	nmod	_	_
-7	and	and	CONJ	coord	_	2	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	see	see	VERB	v	_	2	conj	_	_
 9	if	if	SCONJ	conj	_	12	mark	_	_
 10	you	you	PRON	pro	_	12	nsubj	_	_
@@ -97651,7 +97651,7 @@
 6	be	be	VERB	cop	_	8	cop	_	_
 7	either	either	ADV	adv	_	6	advmod	_	_
 8	Fraser	Fraser	PROPN	n:prop	_	6	root	_	_
-9	or	or	CONJ	coord	_	8	cc	_	_
+9	or	or	CONJ	coord	_	10	cc	_	_
 10	Gloria	Gloria	PROPN	n:prop	_	8	conj	_	_
 11	.	.	PUNCT	.	_	8	punct	_	_
 
@@ -97717,7 +97717,7 @@
 4	~be&3S	~be&3S	VERB	cop	_	6	cop	_	_
 5	either	either	ADV	adv	_	4	advmod	_	_
 6	Gloria	Gloria	PROPN	n:prop	_	4	root	_	_
-7	or	or	CONJ	coord	_	6	cc	_	_
+7	or	or	CONJ	coord	_	9	cc	_	_
 8	the	the	DET	art	_	9	det	_	_
 9	move&dv-AGT	move&dv-AGT	NOUN	n	_	6	conj	_	_
 10	.	.	PUNCT	.	_	6	punct	_	_
@@ -97773,7 +97773,7 @@
 1	you	you	PRON	pro	_	2	nsubj	_	_
 2	stay	stay	VERB	v	_	0	root	_	_
 3	here	here	ADV	adv	_	2	advmod	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	talk	talk	NOUN	n	_	2	conj	_	_
 6	to	to	ADP	prep	_	7	case	_	_
 7	Fraser	Fraser	PROPN	n:prop	_	5	nmod	_	_
@@ -97785,7 +97785,7 @@
 13	go	go	VERB	v	_	11	xcomp	_	_
 14	in	in	ADP	prep	_	15	case	_	_
 15	here	here	ADV	adv	_	13	nmod	_	_
-16	and	and	CONJ	coord	_	15	cc	_	_
+16	and	and	CONJ	coord	_	17	cc	_	_
 17	talk	talk	NOUN	n	_	15	conj	_	_
 18	to	to	ADP	prep	_	21	case	_	_
 19	the	the	DET	art	_	21	det	_	_
@@ -97842,7 +97842,7 @@
 #eve19.xml,162
 1	come	come	VERB	v	_	0	root	_	_
 2	on	on	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	sit	sit	VERB	v	_	1	conj	_	_
 5	over	over	ADP	prep	_	6	case	_	_
 6	here	here	PRON	pro:dem	_	4	nmod	_	_
@@ -97956,7 +97956,7 @@
 
 #eve19.xml,177
 1	nice	nice	ADJ	adj	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	quiet	quiet	ADJ	adj	_	1	conj	_	_
 4	now	now	ADV	adv	_	3	advmod	_	_
 5	,	end	PUNCT	end	_	8	punct	_	_
@@ -97974,7 +97974,7 @@
 2	that	that	SCONJ	rel	_	4	mark	_	_
 3	Papa	Papa	PROPN	n:prop	_	4	nmod	_	_
 4	guitar	guitar	NOUN	n	_	1	root	_	_
-5	or	or	CONJ	coord	_	4	cc	_	_
+5	or	or	CONJ	coord	_	8	cc	_	_
 6	Papa	Papa	PROPN	n:prop	_	8	nmod	_	_
 7	~s	~s	PART	poss	_	6	case	_	_
 8	guitar	guitar	NOUN	n	_	4	conj	_	_
@@ -98035,7 +98035,7 @@
 1	it	it	PRON	pro	_	3	nsubj	_	_
 2	be&PAST&13S	be&PAST&13S	VERB	cop	_	3	cop	_	_
 3	something	something	NOUN	pro:indef	_	2	root	_	_
-4	and	and	CONJ	coord	_	2	cc	_	_
+4	and	and	CONJ	coord	_	8	cc	_	_
 5	Danny	Danny	PROPN	n:prop	_	8	nsubj	_	_
 6	be&3S	be&3S	VERB	cop	_	8	cop	_	_
 7	that	that	SCONJ	rel	_	8	MOD	_	_
@@ -98175,7 +98175,7 @@
 15	up	up	ADV	adv	_	14	advmod	_	_
 16	through	through	ADP	prep	_	17	case	_	_
 17	Maine	Maine	PROPN	n:prop	_	14	nmod	_	_
-18	and	and	CONJ	coord	_	14	cc	_	_
+18	and	and	CONJ	coord	_	19	cc	_	_
 19	go	go	VERB	v	_	14	conj	_	_
 20	in	in	ADP	prep	_	23	case	_	_
 21	our	our	PRON	pro:poss:det	_	23	nmod:poss	_	_
@@ -98230,7 +98230,7 @@
 3	that	that	PRON	pro:dem	_	5	nsubj	_	_
 4	~be&3S	~be&3S	VERB	cop	_	5	cop	_	_
 5	Grandpa	Grandpa	PROPN	n:prop	_	4	root	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	Granny	Granny	PROPN	n:prop	_	5	conj	_	_
 8	.	.	PUNCT	.	_	5	punct	_	_
 
@@ -98461,7 +98461,7 @@
 4	eat-3S	eat-3S	VERB	v	_	1	advcl	_	_
 5	a	a	DET	art	_	4	dobj	_	_
 6	bread	bread	NOUN	n	_	5	dobj	_	_
-7	and	and	CONJ	coord	_	6	cc	_	_
+7	and	and	CONJ	coord	_	9	cc	_	_
 8	butter	butter	NOUN	n	_	9	compund	_	_
 9	sandwich	sandwich	NOUN	n	_	6	conj	_	_
 10	.	.	PUNCT	.	_	1	punct	_	_
@@ -99219,7 +99219,7 @@
 2	he	he	PRON	pro:sub	_	3	nsubj	_	_
 3	grow&PAST	grow&PAST	VERB	v	_	0	root	_	_
 4	up	up	ADV	adv	_	3	advmod	_	_
-5	and	and	CONJ	coord	_	3	cc	_	_
+5	and	and	CONJ	coord	_	10	cc	_	_
 6	now	now	ADV	adv	_	10	advmod	_	_
 7	he	he	PRON	pro:sub	_	10	nsubj	_	_
 8	~be&3S	~be&3S	AUX	aux	_	10	aux	_	_
@@ -99553,7 +99553,7 @@
 2	for	for	ADP	prep	_	4	case	_	_
 3	our	our	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	bed	bed	NOUN	n	_	1	nmod	_	_
-5	and	and	CONJ	coord	_	1	cc	_	_
+5	and	and	CONJ	coord	_	7	cc	_	_
 6	a	a	DET	art	_	7	det	_	_
 7	card	card	NOUN	n	_	1	conj	_	_
 8	.	.	PUNCT	.	_	1	punct	_	_
@@ -99662,7 +99662,7 @@
 #eve19.xml,381
 1	big	big	ADJ	adj	_	2	amod	_	_
 2	one	one	NOUN	pro:indef	_	0	root	_	_
-3	and	and	CONJ	coord	_	2	cc	_	_
+3	and	and	CONJ	coord	_	6	cc	_	_
 4	a	a	DET	art	_	6	det	_	_
 5	little	little	ADJ	adj	_	6	amod	_	_
 6	one	one	NOUN	pro:indef	_	2	conj	_	_
@@ -99904,7 +99904,7 @@
 3	use-PRESP	use-PRESP	VERB	part	_	0	root	_	_
 4	the	the	DET	art	_	5	det	_	_
 5	crayon	crayon	NOUN	n	_	3	dobj	_	_
-6	and	and	CONJ	coord	_	3	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	the	the	DET	art	_	3	conj	_	_
 8	pencil	pencil	NOUN	n	_	7	dobj	_	_
 9	,	end	PUNCT	end	_	8	punct	_	_
@@ -100094,7 +100094,7 @@
 5	probable&dadj-LY	probable&dadj-LY	ADV	adv	_	6	advmod	_	_
 6	stay	stay	NOUN	n	_	0	root	_	_
 7	here	here	ADV	adv	_	6	advmod	_	_
-8	and	and	CONJ	coord	_	6	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	watch	watch	VERB	v	_	6	conj	_	_
 10	you	you	PRON	pro	_	11	nsubj	_	_
 11	have	have	VERB	v	_	9	ccomp	_	_
@@ -100225,7 +100225,7 @@
 
 #eve19.xml,451
 1	pastina	pastina	NOUN	n	_	0	root	_	_
-2	and	and	CONJ	coord	_	1	cc	_	_
+2	and	and	CONJ	coord	_	3	cc	_	_
 3	what	what	PRON	pro:wh	_	1	conj	_	_
 4	else	else	ADV	post	_	3	advmod	_	_
 5	?	?	PUNCT	?	_	1	punct	_	_
@@ -100508,7 +100508,7 @@
 3	have	have	VERB	v	_	0	root	_	_
 4	some	some	DET	qn	_	5	det	_	_
 5	bread	bread	NOUN	n	_	3	dobj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	butter	butter	NOUN	n	_	5	conj	_	_
 8	while	while	SCONJ	conj	_	11	mark	_	_
 9	I	I	PRON	pro:sub	_	11	nsubj	_	_
@@ -100632,7 +100632,7 @@
 3	Papa	Papa	PROPN	n:prop	_	2	dobj	_	_
 4	some	some	DET	qn	_	5	det	_	_
 5	bread	bread	NOUN	n	_	3	dobj	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	butter	butter	NOUN	n	_	5	conj	_	_
 8	,	end	PUNCT	end	_	7	punct	_	_
 9	Eve	Eve	PROPN	n:prop	_	8	vocative	_	_
@@ -101044,7 +101044,7 @@
 2	you	you	PRON	pro	_	3	nsubj	_	_
 3	want	want	VERB	v	_	0	root	_	_
 4	carrot-PL	carrot-PL	NOUN	n	_	3	dobj	_	_
-5	or	or	CONJ	coord	_	4	cc	_	_
+5	or	or	CONJ	coord	_	6	cc	_	_
 6	a	a	DET	art	_	4	conj	_	_
 7	piece	piece	NOUN	n	_	6	dobj	_	_
 8	of	of	ADP	prep	_	9	case	_	_
@@ -101150,7 +101150,7 @@
 7	while	while	SCONJ	conj	_	9	mark	_	_
 8	I	I	PRON	pro:sub	_	9	nsubj	_	_
 9	go	go	VERB	v	_	4	advcl	_	_
-10	and	and	CONJ	coord	_	9	cc	_	_
+10	and	and	CONJ	coord	_	11	cc	_	_
 11	feed	feed	NOUN	n	_	9	conj	_	_
 12	Sarah	Sarah	PROPN	n:prop	_	11	vocative	_	_
 13	?	?	PUNCT	?	_	2	punct	_	_
@@ -101748,7 +101748,7 @@
 5	take	take	VERB	v	_	0	root	_	_
 6	your	your	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	shoe-PL	shoe-PL	NOUN	n	_	5	dobj	_	_
-8	and	and	CONJ	coord	_	5	cc	_	_
+8	and	and	CONJ	coord	_	9	cc	_	_
 9	sock-PL	sock-PL	NOUN	n	_	5	conj	_	_
 10	off	off	ADV	adv	_	9	advmod	_	_
 11	so	so	ADV	adv	_	12	advmod	_	_
@@ -101980,7 +101980,7 @@
 6	the	the	DET	art	_	4	nmod	_	_
 7	sand	sand	NOUN	n	_	8	compound	_	_
 8	box	box	NOUN	n	_	6	dobj	_	_
-9	or	or	CONJ	coord	_	8	cc	_	_
+9	or	or	CONJ	coord	_	10	cc	_	_
 10	something	something	NOUN	pro:indef	_	8	conj	_	_
 11	?	?	PUNCT	?	_	4	punct	_	_
 
@@ -102464,7 +102464,7 @@
 3	a	a	DET	art	_	5	det	_	_
 4	big	big	ADJ	adj	_	5	amod	_	_
 5	truck	truck	NOUN	n	_	0	root	_	_
-6	or	or	CONJ	coord	_	5	cc	_	_
+6	or	or	CONJ	coord	_	9	cc	_	_
 7	a	a	DET	art	_	9	det	_	_
 8	little	little	ADJ	adj	_	9	amod	_	_
 9	truck	truck	NOUN	n	_	5	conj	_	_
@@ -102940,7 +102940,7 @@
 3	a	a	DET	art	_	5	det	_	_
 4	green	green	NOUN	n	_	5	compund	_	_
 5	baby	baby	NOUN	n	_	1	?	_	_
-6	or	or	CONJ	coord	_	5	cc	_	_
+6	or	or	CONJ	coord	_	9	cc	_	_
 7	a	a	DET	art	_	9	det	_	_
 8	red	red	ADJ	adj	_	9	amod	_	_
 9	baby	baby	NOUN	n	_	5	conj	_	_
@@ -103049,7 +103049,7 @@
 3	a	a	DET	art	_	5	det	_	_
 4	smile-PRESP	smile-PRESP	VERB	part	_	5	MOD	_	_
 5	baby	baby	NOUN	n	_	1	?	_	_
-6	or	or	CONJ	coord	_	5	cc	_	_
+6	or	or	CONJ	coord	_	9	cc	_	_
 7	a	a	DET	art	_	9	det	_	_
 8	cry-PRESP	cry-PRESP	VERB	part	_	9	MOD	_	_
 9	baby	baby	NOUN	n	_	5	conj	_	_
@@ -103106,7 +103106,7 @@
 4	mine	mine	NOUN	n	_	3	dobj	_	_
 5	on	on	ADP	prep	_	6	case	_	_
 6	yours	yours	PRON	pro:poss	_	3	nmod	_	_
-7	and	and	CONJ	coord	_	3	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	put&ZERO	put&ZERO	VERB	v	_	3	conj	_	_
 9	yours	yours	PRON	pro:poss	_	8	dobj	_	_
 10	on	on	ADP	prep	_	11	case	_	_
@@ -103478,7 +103478,7 @@
 1	draw	draw	VERB	v	_	0	root	_	_
 2	her	her	PRON	pro:poss:det	_	3	nmod:poss	_	_
 3	head	head	NOUN	n	_	1	dobj	_	_
-4	and	and	CONJ	coord	_	1	cc	_	_
+4	and	and	CONJ	coord	_	9	cc	_	_
 5	then	then	ADV	adv:tem	_	8	advmod	_	_
 6	it	it	PRON	pro	_	9	nsubj	_	_
 7	~will	~will	AUX	mod	_	9	aux	_	_
@@ -103715,7 +103715,7 @@
 #eve20.xml,212
 1	grape	grape	NOUN	n	_	0	root	_	_
 2	Fizzie	Fizzie	PROPN	n:prop	_	1	vocative	_	_
-3	or	or	CONJ	coord	_	2	cc	_	_
+3	or	or	CONJ	coord	_	4	cc	_	_
 4	orange	orange	NOUN	n	_	2	conj	_	_
 5	Fizzie	Fizzie	PROPN	n:prop	_	4	vocative	_	_
 6	?	?	PUNCT	?	_	1	punct	_	_
@@ -104292,7 +104292,7 @@
 1	bring	bring	VERB	v	_	0	root	_	_
 2	the	the	DET	art	_	1	dobj	_	_
 3	pencil	pencil	NOUN	n	_	2	dobj	_	_
-4	and	and	CONJ	coord	_	3	cc	_	_
+4	and	and	CONJ	coord	_	5	cc	_	_
 5	the	the	DET	art	_	3	conj	_	_
 6	pad	pad	NOUN	n	_	5	dobj	_	_
 7	on	on	ADP	prep	_	8	case	_	_
@@ -104635,7 +104635,7 @@
 4	in	in	ADP	prep	_	6	case	_	_
 5	one	one	NUM	det:num	_	6	nummod	_	_
 6	window	window	NOUN	n	_	3	nmod	_	_
-7	and	and	CONJ	coord	_	3	cc	_	_
+7	and	and	CONJ	coord	_	8	cc	_	_
 8	Sarah	Sarah	PROPN	n:prop	_	3	conj	_	_
 9	in	in	ADP	prep	_	10	case	_	_
 10	another	another	DET	qn	_	8	nmod	_	_
@@ -104845,7 +104845,7 @@
 3	has	has	X	X	_	5	aux	_	_
 4	to	to	X	X	_	5	mwe	_	_
 5	rest	rest	VERB	v	_	0	root	_	_
-6	and	and	CONJ	coord	_	5	cc	_	_
+6	and	and	CONJ	coord	_	7	cc	_	_
 7	eat	eat	VERB	v	_	5	conj	_	_
 8	his	his	PRON	pro:poss:det	_	9	nmod:poss	_	_
 9	supper	supper	NOUN	n	_	7	dobj	_	_
@@ -104987,7 +104987,7 @@
 #eve20.xml,385
 1	get	get	VERB	v	_	0	root	_	_
 2	on	on	ADV	adv	_	1	advmod	_	_
-3	and	and	CONJ	coord	_	1	cc	_	_
+3	and	and	CONJ	coord	_	4	cc	_	_
 4	get	get	VERB	v	_	1	conj	_	_
 5	off	off	ADP	prep	_	7	case	_	_
 6	the	the	DET	art	_	7	det	_	_
@@ -105175,7 +105175,7 @@
 2	that	that	SCONJ	rel	_	4	mark	_	_
 3	your	your	PRON	pro:poss:det	_	4	nmod:poss	_	_
 4	baby	baby	NOUN	n	_	1	?	_	_
-5	or	or	CONJ	coord	_	4	cc	_	_
+5	or	or	CONJ	coord	_	7	cc	_	_
 6	her	her	PRON	pro:poss:det	_	7	nmod:poss	_	_
 7	baby	baby	NOUN	n	_	4	conj	_	_
 8	?	?	PUNCT	?	_	1	punct	_	_
@@ -105207,7 +105207,7 @@
 7	the	the	DET	art	_	9	det	_	_
 8	coffee	coffee	NOUN	n	_	9	compund	_	_
 9	cup	cup	NOUN	n	_	5	nmod	_	_
-10	and	and	CONJ	coord	_	9	cc	_	_
+10	and	and	CONJ	coord	_	12	cc	_	_
 11	the	the	DET	art	_	12	det	_	_
 12	sugar	sugar	NOUN	n	_	9	conj	_	_
 13	.	.	PUNCT	.	_	1	punct	_	_
