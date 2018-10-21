@@ -15,11 +15,9 @@ def fix_coordination(sent):
         if w.get_field('upos') == 'conj':
             conjuncts = sent.get_deps(w.get_field('index'),['COORD']) + [w]
             conjuncts = sorted(conjuncts,key=lambda x:x.get_field('index'))
-            
             # assign the first as the head
             sent.set_field(conjuncts[0].get_field('index'),'head_index',w.get_field('head_index'))
             sent.set_field(conjuncts[0].get_field('index'),'deprel',w.get_field('deprel'))
-            
             # assign the others as its dependents
             for c in conjuncts[1:]:
                 sent.set_field(c.get_field('index'),'head_index',conjuncts[0].get_field('index'))
@@ -46,23 +44,23 @@ def fix_flat_structure(sent,label,first_or_last,new_label_head,new_label_others)
             struct_words = reversed(struct_words)
         
         struct_words = list(struct_words)
-        # assign the first as the head
-        sent.set_field(struct_words[0].get_field('index'),'head_index', head_word.get_field('head_index'))
-        sent.set_field(struct_words[0].get_field('index'),'deprel',head_word.get_field('deprel'))
+        # assign the first as the head if it is not already the head
+        if struct_words[0].get_field('index') != 0:
+            sent.set_field(struct_words[0].get_field('index'),'head_index', head_word.get_field('head_index'))
+            sent.set_field(struct_words[0].get_field('index'),'deprel',head_word.get_field('deprel'))
         
-        # assign the others as its dependents
-        for c in struct_words[1:]:
-            sent.set_field(c.get_field('index'),'head_index',struct_words[0].get_field('index'))
-            if c.get_field('index') == head_word.get_field('index'):
-                sent.set_field(c.get_field('index'),'deprel',new_label_head)
-            else:
-                sent.set_field(c.get_field('index'),'deprel',new_label_others)
+            # assign the others as its dependents
+            for c in struct_words[1:]:
+                sent.set_field(c.get_field('index'),'head_index',struct_words[0].get_field('index'))
+                if c.get_field('index') == head_word.get_field('index'):
+                    sent.set_field(c.get_field('index'),'deprel',new_label_head)
+                else:
+                    sent.set_field(c.get_field('index'),'deprel',new_label_others)
 
     return sent
 
 
     
-
 
 if __name__ == '__main__':
     pattern = re.compile('_')
@@ -72,7 +70,7 @@ if __name__ == '__main__':
     infile = open(sys.argv[1])
     config_file = open(sys.argv[2])
     temp_file = open(TEMP_FILE,'w')
-
+    
     # fix coordination structures
     for return_type, sent in utils.read_sents_from_file(infile):
         if return_type == 'SENT':

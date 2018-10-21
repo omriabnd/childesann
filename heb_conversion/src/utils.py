@@ -59,8 +59,12 @@ class Sentence:
     def __init__(self, sent_str):
         self._words = []
         for word_str in sent_str:
-            w = DepWord(word_str)
-            self._words.append(w)
+            try:
+                w = DepWord(word_str)
+            except ValueError:
+                w = None
+            if w:
+                self._words.append(w)
     
     def bfs(self):
         """
@@ -116,6 +120,7 @@ class Sentence:
     def set_field(self,ind,name,val):
         "ind starts at 1"
         self._words[ind-1].set_field(name,val)
+
 
     def __str__(self):
         s = [w.full_str() for w in self._words]

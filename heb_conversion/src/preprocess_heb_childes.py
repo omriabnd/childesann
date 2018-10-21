@@ -4,15 +4,11 @@ import pdb
 from collections import Counter
 from depedit import run_depedit
 
-"""
-Morphdep format:
-x[0]: word
-x[1]: POS
-x[2]: token index
-x[3]: head index
-x[4]: dep label
 
-CoNLL format: (from http://universaldependencies.org/format.html)
+FIELD_NAMES = ['ID', 'FORM', 'LEMMA', 'UPOSTAG', 'XPOSTAG', 'FEATS', 'HEAD', 'DEPREL', 'DEPS', 'MISC']
+
+"""
+CoNLL format: (from http://universaldependencies.org/format.html) 
 '#' for comments
 ID: Word index, integer starting at 1 for each new sentence; may be a range for tokens
 with multiple words.
@@ -30,10 +26,19 @@ DEPS: List of secondary dependencies (head-deprel pairs).
 MISC: Any other annotation.
 """
 
+stringify = lambda L: [(str(x) if ind in [0,6] else x) for ind,x in enumerate(L)]
 
-def to_conll(morphdep,debug=False):
+def check_inds(parsed_sent):
     """
-    Receives a sentence in morphdep format, return CoNLL style.
+    Checks that the parsed sentence has all the indices
+    """
+    indices = [int(x[0]) for x in parsed_sent]
+    return set(indices) == set(range(1,max(indices)+1))
+    
+
+def retokenize(conll_sent,debug=False):
+    """
+    Receives a sentence in conll format, return CoNLL style.
     """
     def fix_offsets(output,added_indices):
         """
@@ -52,26 +57,32 @@ def to_conll(morphdep,debug=False):
                 elif output[ind][6] == added[0]:
                     output[ind][6] += added[2]
         return output
-    
+
+    if conll_sent.strip() == '':
+        return None
     output = []
     offset = 1
     added_indices = []
-    for index,word in enumerate(morphdep):
-        if None in word:
-            return None
-        pos = word[1]
+    for index,word in enumerate(conll_sent.split('\n')):
+        fields = dict(zip(FIELD_NAMES,word.split('\t')))
+        if 'ID' in fields:
+            if '-' in fields['ID']:
+                continue
+        pos = fields['XPOSTAG']
+        fields['HEAD'] = int(fields['HEAD'])
+        
         if pos in ['+...', '+/.']:
             return None
         elif pos in ['prep:pro', 'acc:pro', 'acc:det']:
-            word1 = word[0].split('&')[0]
-            word2 = '&'.join(word[0].split('&')[1:])
+            word1 = fields['FORM'].split('&')[0]
+            word2 = '&'.join(fields['FORM'].split('&')[1:])
             if word2 == "":
                 word2 = "empty_pronoun"
             if pos == 'acc:pro':
                 pos1 = 'acc'
                 pos2 = 'pro'
                 dep1 = 'APREP'
-            elif 'prep:pro':
+            elif pos == 'prep:pro':
                 pos1 = 'prep'
                 pos2 = 'pro'
                 dep1 = 'APREP'
@@ -79,63 +90,61 @@ def to_conll(morphdep,debug=False):
                 pos1 = 'acc'
                 pos2 = 'det'
                 dep1 = 'APREP'
-            output.append([index+offset,word1,word1,pos1,pos1,'_',word[3],word[4],'_','_'])
-            output.append([index+offset+1,word2,word2,pos2,pos2,'_',index+offset,dep1,'_','_'])
+            output.append([index+offset,word1,word1,pos1,pos1,'_',fields['HEAD'],fields['DEPREL'],'_','_'])
+            output.append([index+offset+1,word2,word2,pos2,pos2,'_',index+offset,fields['DEPREL'],'_','_'])
             added_indices.append((index+offset,1,0))  # (original token number after which the addition occured, how many tokens were added, which of them is the head (0,1,2 etc.))
             offset += 1
         elif pos == 'n:det':  # a compound with a determiner
-            sub_words = word[0].split('+')
+            sub_words = fields['FORM'].split('+')
             if len(sub_words) != 3 or sub_words[1] != 'ha':
                 sys.stderr.write('Unencountered compound case\n')
-                pdb.set_trace()
+                sys.exit(-1)
             else:
-                output.append([index+offset,sub_words[0],sub_words[0],'n','n','_',word[3],word[4],'_','_'])
-                output.append([index+offset+1,sub_words[1],sub_words[1],'det','det','_',index+offset+2,'det','_','_'])
-                output.append([index+offset+2,sub_words[2],sub_words[2],'n','n','_',index+offset,'nmod','_','_'])
+                output.append([index+offset,sub_words[0],sub_words[0],'n','n','_',fields['HEAD'],fields['DEPREL'],'_','_'])
+                output.append([index+offset+1,sub_words[1],sub_words[1],\
+                               'det','det','_',index+offset+2,'det','_','_'])
+                output.append([index+offset+2,sub_words[2],sub_words[2],\
+                               'n','n','_',index+offset,'nmod','_','_'])
                 added_indices.append((index+offset,2,0))
                 offset += 2
-        elif '+' in word[0]:  # noun compound
-            sub_words = word[0].split('+')
-            output.append([index+offset,sub_words[0],sub_words[0],'n','n','_',\
-                           word[3],word[4],'_','_'])
+        elif '+' in fields['FORM']:  # noun compound
+            sub_words = fields['FORM'].split('+')
+            output.append([index+offset,sub_words[0],sub_words[0],'n','n','_',fields['HEAD'],fields['DEPREL'],'_','_'])
             for c,w in enumerate(sub_words[1:]):
                 output.append([index+offset+c+1,w,w,'n','n','_',index+offset,'nmod','_','_'])
             added_indices.append((index+offset,len(sub_words)-1,0))
             offset += len(sub_words) - 1
-        elif '_' in word[0]: # MWE
-            sub_words = word[0].split('_')
-            output.append([index+offset,sub_words[0],sub_words[0],'X','X','_',word[3],word[4],'_','_'])
+        elif '_' in fields['FORM']: # MWE
+            sub_words = fields['FORM'].split('_')
+            output.append([index+offset,sub_words[0],sub_words[0],'X','X','_',fields['HEAD'],fields['DEPREL'],'_','_'])
             for c,w in enumerate(sub_words[1:]):
                 output.append([index+offset+c+1,w,w,'X','X','_',index+offset,'mwe','_','_'])
             added_indices.append((index+offset,len(sub_words)-1,0))
             offset += len(sub_words) - 1
         else:
-            output.append([index+offset,word[0],word[0],pos,pos,'_',word[3],word[4],'_','_'])
+            output.append([index+offset,fields['FORM'],fields['LEMMA'],pos,pos,'_',fields['HEAD'],fields['DEPREL'],'_','_'])
 
     output = fix_offsets(output,added_indices)
-    return output
+    if not check_inds(output):
+        return conll_sent
+    else:
+        return '\n'.join(['\t'.join(stringify(x)) for x in output])
 
 
 def process_dir(dir,output_file):
     """
     Processes all the xmls in dir and its sub-directories.
     """
-    he = CHILDESCorpusReader(dir,'.*-gold.xml')
+    he = CHILDESCorpusReader(dir,'.*.xml')
     f = open(output_file,'w')
     for fileid in he.fileids():
-        for ind,morph_dep in enumerate(he.morph_deps(fileid,speakers='is_adult')):
-            conll_lines = to_conll(morph_dep)
-            if conll_lines:
-                f.write('#'+fileid+','+str(ind)+'\n')
-                for line in conll_lines:
-                    for field in line:
-                        if isinstance(field,unicode):
-                            f.write(field.encode("utf-8"))
-                        else:
-                            f.write(str(field))
-                        f.write('\t')
-                    f.write('\n')
-                f.write('\n')
+        conllu_parse = []
+        for ind,parse_line in enumerate(he.conllu_parses(fileid,speakers='is_adult',skip_unanalyzed_tokens=True)):
+            f.write('#'+fileid+','+str(ind)+'\n')
+            parse_line = retokenize(parse_line)
+            if parse_line:
+                f.write(parse_line.encode("utf-8"))
+                f.write('\n\n')
     f.close()
 
 ###############
@@ -150,6 +159,6 @@ if __name__ == "__main__":
 
     #default directory: '/cs/++/staff/oabend/nltk_data/corpora/childes/data-xml/'
     process_dir(sys.argv[1],sys.argv[2])
-    
+
 
 
